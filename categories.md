@@ -53,7 +53,7 @@ One black vertical line = 1 entry.
      - geographical practices: "The Italians soften by hatching with a large flattened paintbrush"
 - There is a section which appears in the continuation on fol. 57r that may provide further evidence that the author-practitioner's main focus, or perhaps his main area of expertise, is casting. Even in an entry about various painting techniques and materials, he draws immediate connection back to casting (bold has been added for emphasis and does not appear in the original):
      - "...Lake takes long to dry in oil and for that reason one must **grind some glass** with it. But one needs to choose cristallin because it is cleaner. And because it would be too difficult to grind by itself, one must redden it on the fire, then when entirely red throw it into cold water, & it will crumble & pulverize easily for grinding it afterward. Being well ground it with a lot of water, **it resembles ground lead white**, but for all this it has no body. **I think it would be good for casting**."
-- The clustering of painting entries also corresponds to a section with very few casting entries. Is this a general trend? It seems to be that where there are painting entries there are no casting entries and vice versa. 
+- The clustering of painting entries also corresponds to a section with very few casting entries. Perhaps this is a general trend? 
 
 **Use of a Scribe?**
 - While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries 
