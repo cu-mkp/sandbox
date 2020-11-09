@@ -38,11 +38,14 @@ One black vertical line = 1 entry.
 
 ![categories-swarmplot-blank](https://github.com/cu-mkp/manuscript-object/blob/master/sandbox/blank_swarmplot.png?raw=true)
 
-### Notes, Observations, and Why is This Interesting?
+### Why is This Interesting?
 
-**Casting and Painting Clusters:**
-- Casting, the largest category, is found throughout the entire manuscript, but clustering of entries can be seen in the second half, especially around the 90s and after fol. 115r or so.
-- Painting entries appear earlier, with a distinct cluster of entries around the 60s. This seems to start with [fol. 56v, "Painter,"](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl) a relatively long entry which covers a wide variety of topics:
+**Casting and Painting Clusters: Is the Author-Practitioner a Metalworker?**
+- **Casting**, the largest category, is found throughout the entire manuscript, but clustering of entries can be seen in the second half, especially around the 90s and after fol. 115r or so.
+- Good molds rely on good sands (or earths), according to the author-practitioner. Like modern-day plaster, these sands (often mixed with a liquid binder) form the hollow mold into which molten metal, wax, or sulfur can be poured to create a cast object.
+- He recommends a number of additivies to the sands, including:
+     - 
+- **Painting** entries appear earlier in the manuscript, with a distinct cluster of entries around the 60s. This seems to start with [fol. 56v, "Painter,"](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl) a relatively long entry which covers a wide variety of topics:
      - pigments: "Vermilion ground by itself is wan and pale"
      - binding media: "In distemper do not mix your different colors together"
      - tools: "For palettes to paint, ivory is excellent"
