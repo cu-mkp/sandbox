@@ -19,10 +19,11 @@ developed by [Roni Kaufman](https://github.com/ronikaufman) in summer 2020 using
 
 The raw data (the xml-encoded transcriptions and translations of the manuscript text) is found in [cu-mkp/m-k-manuscript-data/ms-xml](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml). See also the extracted elements and properties in [cu-mkp/m-k-manuscript-data/metadata/entry-metadata.csv](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/metadata/entry_metadata.csv).
 
-### Notes and Observations and Why is This Interesting?
+### Why is This Interesting?
 
 - **Casting:** A large majority of casting recipes supports the theory that this is the author-practitioner's main focus and area of expertise. The casting entries are some of the longest and seen to contain the most first-hand observations and active experimentation.
-\[(add example of an entry with first-person language; recipes with repeated trials of same thing like sands or flies; graph of entry lengths)\]
+     - From fol. 80v to 93r is an almost uninterrupted cluster of entries discussing the author-practitioner's first-hand experiments with sands and other molding materials for casting.
+     - For example, see [fol. 84v-85r, "Sand for lead, the most excellent of all, for high and low reliefs"](https://edition640.makingandknowing.org/#/folios/84v/f/84v/tl), in which he records multiple trials, failures, and successes. The best method? Mix ceruse (lead carbonate) with egg white into the sand and oil the mold lightly with walnut oil.
 - **Alchemy:** While the manuscript was originally thought to contain alchemical writings, as was common for many "Books of Secrets" in the Renaissance that contained first-hand experimentation, the ditribution of categories shows that "alchemy" is one of the least prevalent categories. In fact, there is only one entry that is "alchemical": [fol. 52r, "The work done in Algiers"](https://edition640.makingandknowing.org/#/folios/52r/f/52r/tl)
 
 ## Distribution of Entry Categories Across the Folios
@@ -39,7 +40,7 @@ One black vertical line = 1 entry.
 
 ![categories-swarmplot-blank](https://github.com/cu-mkp/manuscript-object/blob/master/sandbox/blank_swarmplot.png?raw=true)
 
-### Notes and Observations and Why is This Interesting?
+### Notes, Observations, and Why is This Interesting?
 
 **Casting:**
 - The largest category is found throughout the entire manuscript, but clustering of entries can be seen in the second half, especially after fol. 115r or so.
