@@ -44,7 +44,10 @@ One black vertical line = 1 entry.
 - **Casting**, the largest category, is found throughout the entire manuscript, but clustering of entries can be seen in the second half, especially around the 90s and after fol. 115r or so.
 - Good molds rely on good sands (or earths), according to the author-practitioner. Like modern-day plaster, these sands (often mixed with a liquid binder) form the hollow mold into which molten metal, wax, or sulfur can be poured to create a cast object.
 - He recommends a number of additivies to the sands, including:
-     - 
+     - [Fol. 15r](https://edition640.makingandknowing.org/#/folios/15r/f/15r/tl): "horse dung & cloth waste"
+     - [Fol. 41r](https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl): "brick thoroughly ground on marble, or plaster or calcined alabaster"
+     - [Fol. 68r](https://edition640.makingandknowing.org/#/folios/68r/f/68r/tl): "chalk, pestled glass, tripoli & burnt linen"
+     - [Fol. 127r](https://edition640.makingandknowing.org/#/folios/127r/f/127r/tl): "crocum, iron scales, loops of iron, emery"
 - **Painting** entries appear earlier in the manuscript, with a distinct cluster of entries around the 60s. This seems to start with [fol. 56v, "Painter,"](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl) a relatively long entry which covers a wide variety of topics:
      - pigments: "Vermilion ground by itself is wan and pale"
      - binding media: "In distemper do not mix your different colors together"
