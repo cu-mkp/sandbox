@@ -1,3 +1,3 @@
 # sandbox
 
-https://cu-mkp.github.io/sandbox.github.io/
+https://cu-mkp.github.io/sandbox/
