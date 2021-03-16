@@ -9,7 +9,7 @@ Each entry has been grouped into at least one (and up to three) descriptive cate
 ## Percentage of Entries by Category
 As can be seen by the bar graph below, "casting" by far has the most entries of any category, followed by "painting" and then "metal process."
 
-![categories-barplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png)
+![categories-barplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png?raw=true)
 
 ### Raw Data and Generation
 
