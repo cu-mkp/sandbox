@@ -60,13 +60,13 @@ directory[^7], because they do not regard the context but rather the whole
 manuscript. Still, it is interesting to compare them with the context
 heatmaps.
 
-[^4]: https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context_viz.py
+[^4]: <https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context_viz.py>
 
-[^5]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations
+[^5]: <https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations>
 
-[^6]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations/comparisons
+[^6]: <https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations/comparisons>
 
-[^7]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/heatmaps
+[^7]: <https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/heatmaps>
 
 
 Following the observations of the differences between translations,
@@ -85,7 +85,7 @@ one line per language, the entries on the x-axis (which is more relevant
 than the folios) and the bubble size as the tag count, and the result was
 much better. 
 
-[^8]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations
+[^8]: <https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations>
 
 ![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png?raw=true)
 
@@ -149,7 +149,7 @@ For each version, a scatter plot[^9] represents all entries with the total numbe
 x-axis, the total number of different words in the y-axis, and the hue of
 the points as the folio number.
 
-[^9]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots
+[^9]: <https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots>
 
 
 Finally, also for each version, yet another bar plot shows the total[^10]
@@ -159,6 +159,6 @@ of number of (different) words. A continuous density estimation is also
 added on top to see the general trend. These are called dist plots
 because seaborn, the Python module, calls them that way.
 
-[^10]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/distplots
+[^10]: <https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/distplots>
 
 
