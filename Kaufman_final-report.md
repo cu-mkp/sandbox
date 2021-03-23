@@ -96,13 +96,13 @@ y-axis, one for each language^12.
 
 (^8) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations
 
-(^9) ![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png)
+(^9) ![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png?raw=true)
 
-(^10) ![languages bubbles normalized](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png)
+(^10) ![languages bubbles normalized](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png?raw=true)
 
-(^11) ![languages swarmplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/swarmplots/languages_swarmplot.png)
+(^11) ![languages swarmplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/swarmplots/languages_swarmplot.png?raw=true)
 
-(^12) ![French tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png)
+(^12) ![French tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png?raw=true)
 
 
 Then, I adapted these plots in order to make them easily created
@@ -122,29 +122,29 @@ scatter plot^16 represents all entries with the total number of words on the
 x-axis, the total number of different words in the y-axis, and the hue of
 the points as the folio number.
 
-![Greek tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/el_tag_by_category_barplot.png)
+![Greek tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/el_tag_by_category_barplot.png?raw=true)
 
-![Italian tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/it_tag_by_category_barplot.png)
+![Italian tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/it_tag_by_category_barplot.png?raw=true)
 
-![Latin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/la_tag_by_category_barplot.png)
+![Latin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/la_tag_by_category_barplot.png?raw=true)
 
-![Occitan tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/oc_tag_by_category_barplot.png)
+![Occitan tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/oc_tag_by_category_barplot.png?raw=true)
 
-![Poitevin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/po_tag_by_category_barplot.png)
-
-
-(^13) ![Add+del tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png)
-
-![Figures+marks tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/figures_marks_barplot.png)
-
-(^14) ![TC semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png)
-
-![TCN semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tcn_semantic_tags_size_barplot.png)
-
-![TL semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tl_semantic_tags_size_barplot.png)
+![Poitevin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/po_tag_by_category_barplot.png?raw=true)
 
 
-(^15) ![categories](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png)
+(^13) ![Add+del tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png?raw=true)
+
+![Figures+marks tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/figures_marks_barplot.png?raw=true)
+
+(^14) ![TC semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png?raw=true)
+
+![TCN semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tcn_semantic_tags_size_barplot.png?raw=true)
+
+![TL semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tl_semantic_tags_size_barplot.png?raw=true)
+
+
+(^15) ![categories](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png?raw=true)
 
 (^16) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots
 
