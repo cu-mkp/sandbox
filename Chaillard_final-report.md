@@ -13,10 +13,17 @@ All my code can be found at:
 <https://github.com/cu-mkp/manuscript-object/tree/v1.0-danachaillard>.
 The readme should allow you to get everything running.
 
-My work consisted in three tasks. The first one was to create word clouds
+My work consisted in three tasks. 
+
+## Word Clouds
+
+The first one was to create word clouds
 from the categories in the thesaurus. This was done in the file word_clouds.py
 using a specific Python package. For each semantic tag, there is a word cloud in
 the word cloud file.
+
+
+## Semantic Trees
 
 The second task was to create semantic trees from the vocabulary in the
 thesaurus. Once again category by category. These were created in the
@@ -26,6 +33,9 @@ give us the hypernyms of a word. For the the trees, I used only the tagged
 expressions in the thesaurus that are single words. I also had to clean the data
 to remove words not in the corpus or where the correct meaning we are
 looking for is not in the corpus.
+
+
+## Sentence Embeddings Using Machine Learning
 
 The third task was to create sentence embeddings using a machine
 learning approach. For that, I used a pretrained ELMo model found on
