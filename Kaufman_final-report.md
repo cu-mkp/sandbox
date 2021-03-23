@@ -121,11 +121,15 @@ number of entries tagged with each category^15. For each version, a
 scatter plot^16 represents all entries with the total number of words on the
 x-axis, the total number of different words in the y-axis, and the hue of
 the points as the folio number.
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/
-el_tag_by_category_barplot.png
+
+https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/el_tag_by_category_barplot.png
+
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/it_tag_by_category_barplot.png
+
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/la_tag_by_category_barplot.png
+
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/oc_tag_by_category_barplot.png
+
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/po_tag_by_category_barplot.png
 
 
