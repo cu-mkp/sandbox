@@ -1,6 +1,7 @@
 # My work at the Making and Knowing Project
 
 Roni Kaufman, Ecole Polytechnique
+
 March 30, 2020 - July 31, 2020
 
 I would like to express my deepest gratitude to all the Project
@@ -10,7 +11,7 @@ Schare, Clément Godbarge and Tianna Helena Uchacz. I truly thank you
 for working with me, for your constructive criticism and for trusting me.
 All my work can be found on the branch _context_ of my fork of the
 GitHub repository _manuscript-object_:
-https://github.com/ronikaufman/manuscript-object/tree/context
+https://github.com/ronikaufman/manuscript-object/tree/context.
 My first task consisted in extracting the context from the text
 tagged with the semantic tags. I used Python, and in particular the
 third-party module lxml, to go through the XML manuscript^1. For each
@@ -26,7 +27,9 @@ the directory _context_^3 (which, like all directories named here, is created if
 it doesn’t already exist when the script is executed).
 
 (^1) https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml
+
 (^2) https://github.com/ronikaufman/manuscript-object/blob/context/context.py
+
 (^3) https://github.com/ronikaufman/manuscript-object/tree/context/context
 
 
@@ -58,11 +61,12 @@ manuscript. Still, it is interesting to compare them with the context
 heatmaps.
 
 (^4) https://github.com/ronikaufman/manuscript-object/blob/context/context_viz.py
+
 (^5) https://github.com/ronikaufman/manuscript-object/tree/context/context_visualizations
-(^6)
-https://github.com/ronikaufman/manuscript-object/tree/context/context_visualizations/comparisons
-(^7)
-https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/heatmaps
+
+(^6) https://github.com/ronikaufman/manuscript-object/tree/context/context_visualizations/comparisons
+
+(^7) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/heatmaps
 
 
 Following the observations of the differences between translations,
@@ -91,16 +95,14 @@ plots as well, with the categories on the x-axis and the tag counts on the
 y-axis, one for each language^12.
 
 (^8) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations
-(^9)
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/bubblepl
-ots/languages_bubbles.png
-(^10)
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/bubblepl
-ots/languages_bubbles_normalized.png
-(^11)
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/swarmplots/languages_swarmplot.png
-(^12)
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png
+
+(^9) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/bubbleplots/languages_bubbles.png
+
+(^10) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png
+
+(^11) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/swarmplots/languages_swarmplot.png
+
+(^12) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png
 
 
 Then, I adapted these plots in order to make them easily created
@@ -125,17 +127,18 @@ https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visuali
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/la_tag_by_category_barplot.png
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/oc_tag_by_category_barplot.png
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/po_tag_by_category_barplot.png
-(^13)
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png
+
+
+(^13) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/figures_marks_barplot.png
-(^14)
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png
+
+(^14) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/tcn_semantic_tags_size_barplot.png
 https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/tl_semantic_tags_size_barplot.png
-(^15)
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/categories_barplot.png
-(^16)
-https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/scatterplots
+
+(^15) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/categories_barplot.png
+
+(^16) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/scatterplots
 
 
 Finally, also for each version, yet another bar plot shows the total^17
@@ -145,7 +148,6 @@ of number of (different) words. A continuous density estimation is also
 added on top to see the general trend. These are called dist plots
 because seaborn, the Python module, calls them that way.
 
-(^17)
-https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/distplots
+(^17) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/distplots
 
 
