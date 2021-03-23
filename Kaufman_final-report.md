@@ -80,47 +80,31 @@ I first tried making a scatter plot, with the folios in order on the
 x-axis, the tag count on the y-axis and the language (French, Greek,
 Italian, Latin, Occitan and Poitevin) as the color hue of the points. But
 the plot was very hard to read, the data was too noisy. It was erased. In
-consequence, I tried visualizing this data as a bubble plot[^9] instead, with
+consequence, I tried visualizing this data as a bubble plot instead, with
 one line per language, the entries on the x-axis (which is more relevant
 than the folios) and the bubble size as the tag count, and the result was
-much better. In a normalized version of this plot[^10] , I mapped the bubble
+much better. 
+
+[^8]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations
+
+![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png?raw=true)
+
+In a normalized version of this plot, I mapped the bubble
 size to the tag count divided by the total number of words of the entry.
-I also created a swarm plot[^11] to visualize this same data, with the
+
+![languages bubbles normalized](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png?raw=true)
+
+I also created a swarm plot to visualize this same data, with the
 entries on the x-axis, the categories on the y-axis and language as the
 color hue. On its background, all entries are drawn as lines, even if they
 don’t contain the tag of interest. This allows us to see, where there are
 no dots, whether it is because there are no entries with this tag or no
-entries in this category at this place in the manuscript. I designed bar
-plots as well, with the categories on the x-axis and the tag counts on the
-y-axis, one for each language[^12].
+entries in this category at this place in the manuscript. 
 
-[^8]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations
+![languages swarmplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/swarmplots/languages_swarmplot.png?raw=true)
 
-[^9]: ![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png?raw=true)
-
-[^10]: ![languages bubbles normalized](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png?raw=true)
-
-[^11]: ![languages swarmplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/swarmplots/languages_swarmplot.png?raw=true)
-
-[^12]: ![French tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png?raw=true)
-
-
-Then, I adapted these plots in order to make them easily created
-with different tags, and all code for the following visualizations was
-written with the same idea in mind. So, as other team members
-suggested, I generated them for additions and deletions, for margins, for
-semantic tags and for figures and insertions marks. For the cases of
-additions/deletions and figures/marks, a different bar plot groups various
-tags in separate columns inside the same image in order to compare
-them[^13]. Finally, for the case of semantic tags, I also created bar plots to
-see, in each manuscript version, how many words there are in average
-inside the two tag bounds[^14].
-To visualize other properties of the manuscript not related to
-particular tags, I designed some more plots. One bar plot counts the
-number of entries tagged with each category[^15]. For each version, a
-scatter plot[^16] represents all entries with the total number of words on the
-x-axis, the total number of different words in the y-axis, and the hue of
-the points as the folio number.
+I designed barplots as well, with the categories on the x-axis and the tag counts on the
+y-axis, one for each language.
 
 ![Greek tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/el_tag_by_category_barplot.png?raw=true)
 
@@ -132,30 +116,49 @@ the points as the folio number.
 
 ![Poitevin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/po_tag_by_category_barplot.png?raw=true)
 
+Then, I adapted these plots in order to make them easily created
+with different tags, and all code for the following visualizations was
+written with the same idea in mind. So, as other team members
+suggested, I generated them for additions and deletions, for margins, for
+semantic tags and for figures and insertions marks. For the cases of
+additions/deletions and figures/marks, a different bar plot groups various
+tags in separate columns inside the same image in order to compare
+them. 
 
-[^13]: ![Add+del tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png?raw=true)
+![Add+del tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png?raw=true)
 
 ![Figures+marks tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/figures_marks_barplot.png?raw=true)
 
-[^14]: ![TC semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png?raw=true)
+Finally, for the case of semantic tags, I also created bar plots to
+see, in each manuscript version, how many words there are in average
+inside the two tag bounds.
+
+![TC semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png?raw=true)
 
 ![TCN semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tcn_semantic_tags_size_barplot.png?raw=true)
 
 ![TL semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tl_semantic_tags_size_barplot.png?raw=true)
 
+To visualize other properties of the manuscript not related to
+particular tags, I designed some more plots. One bar plot counts the
+number of entries tagged with each category. 
 
-[^15]: ![categories](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png?raw=true)
+![categories](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png?raw=true)
 
-[^16]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots
+For each version, a scatter plot[^9] represents all entries with the total number of words on the
+x-axis, the total number of different words in the y-axis, and the hue of
+the points as the folio number.
+
+[^9]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots
 
 
-Finally, also for each version, yet another bar plot shows the total[^17]
+Finally, also for each version, yet another bar plot shows the total[^10]
 number of words and of different words using two different colors and
 transparency, to see how many entries there are inside different ranges
 of number of (different) words. A continuous density estimation is also
 added on top to see the general trend. These are called dist plots
 because seaborn, the Python module, calls them that way.
 
-[^17]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/distplots
+[^10]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/distplots
 
 
