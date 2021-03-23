@@ -10,7 +10,7 @@ Kaufman, Matthew Kumar, Gregory Schare and Tianna Helena Uchacz. It was a
 wonderful experience working with you all.
 
 All my code can be found at:
-https://github.com/cu-mkp/manuscript-object/tree/v1.0-danachaillard.
+[https://github.com/cu-mkp/manuscript-object/tree/v1.0-danachaillard](https://github.com/cu-mkp/manuscript-object/tree/v1.0-danachaillard).
 The readme should allow you to get everything running.
 
 My work consisted in three tasks. The first one was to create word clouds
