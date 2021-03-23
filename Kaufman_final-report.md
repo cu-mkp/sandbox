@@ -9,9 +9,9 @@ members that I had the chance to work with, Pamela H. Smith, Naomi
 Rosenkranz, Terry Catapano, Dana Chaillard, Matthew Kumar, Gregory
 Schare, Clément Godbarge and Tianna Helena Uchacz. I truly thank you
 for working with me, for your constructive criticism and for trusting me.
-All my work can be found on the branch _context_ of my fork of the
-GitHub repository _manuscript-object_:
-https://github.com/ronikaufman/manuscript-object/tree/context.
+All my work can be found here:
+https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman (originally, this was found on the branch _context_ of my fork of the
+GitHub repository _manuscript-object_).
 My first task consisted in extracting the context from the text
 tagged with the semantic tags. I used Python, and in particular the
 third-party module lxml, to go through the XML manuscript^1. For each
@@ -28,9 +28,9 @@ it doesn’t already exist when the script is executed).
 
 (^1) https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml
 
-(^2) https://github.com/ronikaufman/manuscript-object/blob/context/context.py
+(^2) https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context.py
 
-(^3) https://github.com/ronikaufman/manuscript-object/tree/context/context
+(^3) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context
 
 
 Then, I began visualizing this extracted data. I used the third-party
@@ -60,13 +60,13 @@ directory^7, because they do not regard the context but rather the whole
 manuscript. Still, it is interesting to compare them with the context
 heatmaps.
 
-(^4) https://github.com/ronikaufman/manuscript-object/blob/context/context_viz.py
+(^4) https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context_viz.py
 
-(^5) https://github.com/ronikaufman/manuscript-object/tree/context/context_visualizations
+(^5) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations
 
-(^6) https://github.com/ronikaufman/manuscript-object/tree/context/context_visualizations/comparisons
+(^6) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations/comparisons
 
-(^7) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/heatmaps
+(^7) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/heatmaps
 
 
 Following the observations of the differences between translations,
@@ -94,15 +94,15 @@ entries in this category at this place in the manuscript. I designed bar
 plots as well, with the categories on the x-axis and the tag counts on the
 y-axis, one for each language^12.
 
-(^8) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations
+(^8) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations
 
-(^9) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/bubbleplots/languages_bubbles.png
+(^9) ![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png)
 
-(^10) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png
+(^10) ![languages bubbles normalized](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png)
 
-(^11) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/swarmplots/languages_swarmplot.png
+(^11) ![languages swarmplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/swarmplots/languages_swarmplot.png)
 
-(^12) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png
+(^12) ![French tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png)
 
 
 Then, I adapted these plots in order to make them easily created
@@ -122,27 +122,31 @@ scatter plot^16 represents all entries with the total number of words on the
 x-axis, the total number of different words in the y-axis, and the hue of
 the points as the folio number.
 
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/el_tag_by_category_barplot.png
+![Greek tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/el_tag_by_category_barplot.png)
 
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/it_tag_by_category_barplot.png
+![Italian tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/it_tag_by_category_barplot.png)
 
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/la_tag_by_category_barplot.png
+![Latin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/la_tag_by_category_barplot.png)
 
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/oc_tag_by_category_barplot.png
+![Occitan tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/oc_tag_by_category_barplot.png)
 
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/po_tag_by_category_barplot.png
+![Poitevin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/po_tag_by_category_barplot.png)
 
 
-(^13) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/figures_marks_barplot.png
+(^13) ![Add+del tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png)
 
-(^14) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/tcn_semantic_tags_size_barplot.png
-https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/tl_semantic_tags_size_barplot.png
+![Figures+marks tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/figures_marks_barplot.png)
 
-(^15) https://github.com/ronikaufman/manuscript-object/blob/context/manuscript_visualizations/barplots/categories_barplot.png
+(^14) ![TC semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png)
 
-(^16) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/scatterplots
+![TCN semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tcn_semantic_tags_size_barplot.png)
+
+![TL semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tl_semantic_tags_size_barplot.png)
+
+
+(^15) ![categories](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png)
+
+(^16) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots
 
 
 Finally, also for each version, yet another bar plot shows the total^17
@@ -152,6 +156,6 @@ of number of (different) words. A continuous density estimation is also
 added on top to see the general trend. These are called dist plots
 because seaborn, the Python module, calls them that way.
 
-(^17) https://github.com/ronikaufman/manuscript-object/tree/context/manuscript_visualizations/distplots
+(^17) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/distplots
 
 
