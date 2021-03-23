@@ -1,6 +1,6 @@
 # My work at the Making and Knowing Project
 
-Dana Chaillard, Ecole Polytechnique
+[Dana Chaillard](https://github.com/danachaillard), Ecole Polytechnique
 
 Summer 2020
 

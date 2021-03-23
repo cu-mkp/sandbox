@@ -1,6 +1,6 @@
 # My work at the Making and Knowing Project
 
-Roni Kaufman, Ecole Polytechnique
+[Roni Kaufman](https://github.com/ronikaufman), Ecole Polytechnique
 
 March 30, 2020 - July 31, 2020
 
