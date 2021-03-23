@@ -26,11 +26,11 @@ update these tables is in the file _context.py_^2. The CSV files are saved in
 the directory _context_^3 (which, like all directories named here, is created if
 it doesn’t already exist when the script is executed).
 
-(^1) https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml
+[^1] https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml
 
-(^2) https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context.py
+[^2] https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context.py
 
-(^3) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context
+[^3] https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context
 
 
 Then, I began visualizing this extracted data. I used the third-party
@@ -60,13 +60,13 @@ directory^7, because they do not regard the context but rather the whole
 manuscript. Still, it is interesting to compare them with the context
 heatmaps.
 
-(^4) https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context_viz.py
+[^4] https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context_viz.py
 
-(^5) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations
+[^5] https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations
 
-(^6) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations/comparisons
+[^6] https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context_visualizations/comparisons
 
-(^7) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/heatmaps
+[^7] https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/heatmaps
 
 
 Following the observations of the differences between translations,
@@ -94,15 +94,15 @@ entries in this category at this place in the manuscript. I designed bar
 plots as well, with the categories on the x-axis and the tag counts on the
 y-axis, one for each language^12.
 
-(^8) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations
+[^8] https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations
 
-(^9) ![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png?raw=true)
+[^9] ![languages bubbles](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles.png?raw=true)
 
-(^10) ![languages bubbles normalized](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png?raw=true)
+[^10] ![languages bubbles normalized](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/bubbleplots/languages_bubbles_normalized.png?raw=true)
 
-(^11) ![languages swarmplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/swarmplots/languages_swarmplot.png?raw=true)
+[^11] ![languages swarmplot](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/swarmplots/languages_swarmplot.png?raw=true)
 
-(^12) ![French tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png?raw=true)
+[^12] ![French tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/fr_tag_by_category_barplot.png?raw=true)
 
 
 Then, I adapted these plots in order to make them easily created
@@ -133,20 +133,20 @@ the points as the folio number.
 ![Poitevin tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/po_tag_by_category_barplot.png?raw=true)
 
 
-(^13) ![Add+del tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png?raw=true)
+[^13] ![Add+del tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/add_del_tag_by_category_barplot.png?raw=true)
 
 ![Figures+marks tag by category](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/figures_marks_barplot.png?raw=true)
 
-(^14) ![TC semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png?raw=true)
+[^14] ![TC semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tc_semantic_tags_size_barplot.png?raw=true)
 
 ![TCN semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tcn_semantic_tags_size_barplot.png?raw=true)
 
 ![TL semantic tags](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/tl_semantic_tags_size_barplot.png?raw=true)
 
 
-(^15) ![categories](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png?raw=true)
+[^15] ![categories](https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/manuscript_visualizations/barplots/categories_barplot.png?raw=true)
 
-(^16) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots
+[^16] https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/scatterplots
 
 
 Finally, also for each version, yet another bar plot shows the total^17
@@ -156,6 +156,6 @@ of number of (different) words. A continuous density estimation is also
 added on top to see the general trend. These are called dist plots
 because seaborn, the Python module, calls them that way.
 
-(^17) https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/distplots
+[^17] https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/manuscript_visualizations/distplots
 
 
