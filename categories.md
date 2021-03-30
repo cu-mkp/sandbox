@@ -1,4 +1,4 @@
-# Categories of the Entries of BnF Ms. Fr. 640
+# Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640
 
 The anonymous, 16th-century artisanal manuscript, BnF Ms. Fr. 640, is comprised of almost 1,000 "entries." In the Making and Knowing Project's [_Secrets of Craft and Nature
 in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), an entry is a unit of text under a title. These include instructions, recipes, descriptions, and observations on a wide range of topics, including casting, painting, and medicine. 
