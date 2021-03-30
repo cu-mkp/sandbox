@@ -26,11 +26,11 @@ update these tables is in the file _context.py_[^2]. The CSV files are saved in
 the directory _context_[^3] (which, like all directories named here, is created if
 it doesn’t already exist when the script is executed).
 
-[^1]: https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml
+[^1]: <https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml>
 
-[^2]: https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context.py
+[^2]: <https://github.com/cu-mkp/manuscript-object/blob/v1.0-ronikaufman/context.py>
 
-[^3]: https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context
+[^3]: <https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman/context>
 
 
 Then, I began visualizing this extracted data. I used the third-party
