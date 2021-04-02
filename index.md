@@ -1,5 +1,5 @@
 # The Making and Knowing Project *Sandbox*
-**Under Development**
+**Site and Projects Under Development**
 
 The “Sandbox” makes available a number of resources that utilize and explore the data underlying [_Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/) created by the [Making and Knowing Project](https://www.makingandknowing.org/) at Columbia University.
 
@@ -7,6 +7,7 @@ The Sandbox presents experimental, provisional, and in-progress work that expand
 
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools (e.g., Jupyter Notebooks), where others can add and create their own tools, case studies, and resources presented here.
 
+## Projects
 - [Interacting with the Manuscript object in Python](manuscript-object-tutorial.md) (2020-11-02)
 - [Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640](categories.md) (2021-02-01)
 - École Polytechnique summer interns' manuscript visualization projects (2021-03-23)
