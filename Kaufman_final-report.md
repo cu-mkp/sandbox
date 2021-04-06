@@ -10,7 +10,7 @@ Rosenkranz, Terry Catapano, Dana Chaillard, Matthew Kumar, Gregory
 Schare, Clément Godbarge and Tianna Helena Uchacz. I truly thank you
 for working with me, for your constructive criticism and for trusting me.
 All my work can be found here:
-https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman (originally, this was found on the branch `context` of my fork of the
+<https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman> (originally, this was found on the branch `context` of my fork of the
 GitHub repository `manuscript-object`).
 My first task consisted in extracting the context from the text
 tagged with the semantic tags. I used Python, and in particular the
