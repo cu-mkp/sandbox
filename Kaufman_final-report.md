@@ -10,8 +10,8 @@ Rosenkranz, Terry Catapano, Dana Chaillard, Matthew Kumar, Gregory
 Schare, Clément Godbarge and Tianna Helena Uchacz. I truly thank you
 for working with me, for your constructive criticism and for trusting me.
 All my work can be found here:
-https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman (originally, this was found on the branch _context_ of my fork of the
-GitHub repository _manuscript-object_).
+https://github.com/cu-mkp/manuscript-object/tree/v1.0-ronikaufman (originally, this was found on the branch `context` of my fork of the
+GitHub repository `manuscript-object`).
 My first task consisted in extracting the context from the text
 tagged with the semantic tags. I used Python, and in particular the
 third-party module lxml, to go through the XML manuscript[^1]. For each
@@ -22,8 +22,8 @@ manuscript (TC, TCN and TL), I generated a CSV file, where the
 columns are: “folio”, “text in tag”, “before” and “after”. The context is
 inside “before” and “after”, written as Python arrays of (maximum) 10
 words preceding and following the tagged text. The code to create or
-update these tables is in the file _context.py_[^2]. The CSV files are saved in
-the directory _context_[^3] (which, like all directories named here, is created if
+update these tables is in the file `context.py`[^2]. The CSV files are saved in
+the directory `context`[^3] (which, like all directories named here, is created if
 it doesn’t already exist when the script is executed).
 
 [^1]: <https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-xml>
@@ -35,8 +35,8 @@ it doesn’t already exist when the script is executed).
 
 Then, I began visualizing this extracted data. I used the third-party
 Python module seaborn to create these, as well as all followings
-visualizations. The script is in file _context_viz.py_[^4] and the images are
-saved in the directory _context_visualizations_[^5].
+visualizations. The script is in file `context_viz.py`[^4] and the images are
+saved in the directory `context_visualizations`[^5].
 For each version of the manuscript, I created a bar plot showing
 the total number of different words in all the context arrays of each tag,
 and a heatmap visualizing, out of these words, what size is the
@@ -52,10 +52,10 @@ In order to understand the differences between the translations, I
 generated new versions of all these visualizations. For the bar plots, the
 three versions are grouped in one graph, and for the heatmaps, I simply
 subtracted their matrices between versions to create new ones. They are
-inside the subdirectory _comparisons_ of _context_visualizations_[^6].
+inside the subdirectory `comparisons` of `context_visualizations`[^6].
 Towards the end of my internship, using this base of code, I also
 generated all these heatmap plots for the words inside the tags, instead
-of their contexts. These are saved in the _manuscript_visualizations_
+of their contexts. These are saved in the `manuscript_visualizations`
 directory[^7], because they do not regard the context but rather the whole
 manuscript. Still, it is interesting to compare them with the context
 heatmaps.
@@ -72,9 +72,9 @@ heatmaps.
 Following the observations of the differences between translations,
 I was given the idea of visualizing other languages in the English version
 throughout the manuscript. As this plot wasn’t related to the context, I
-wrote the code in a new file, _manuscript_visualizations.py_, with in the
+wrote the code in a new file, `manuscript_visualizations.py`, with in the
 intention of adding in it the more visualizations later on. One execution
-generates all the plots inside _manuscript_visualizations_[^8]. As with the
+generates all the plots inside `manuscript_visualizations`[^8]. As with the
 context extraction, the data used is the XML versions of the manuscript.
 I first tried making a scatter plot, with the folios in order on the
 x-axis, the tag count on the y-axis and the language (French, Greek,
