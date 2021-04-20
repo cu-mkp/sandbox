@@ -8,11 +8,11 @@ The Sandbox presents experimental, provisional, and in-progress work that expand
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools (e.g., Jupyter Notebooks), where others can add and create their own tools, case studies, and resources presented here.
 
 ## Projects
-- [Interacting with the Manuscript object in Python](manuscript-object-tutorial.md) (2020-11-02)
-- [Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640](categories.md) (2021-02-01)
+- [Interacting with the Manuscript object in Python](docs/manuscript-object-tutorial.md) (2020-11-02)
+- [Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640](docs/categories.md) (2021-02-01)
 - École Polytechnique summer interns' manuscript visualization projects (2021-03-23)
-   - [Applying Machine Learning to the Manuscript: Semantic Trees, Word Clouds, and Sentence Embedding](Chaillard_final-report.md) (Dana Chaillard, Final Report)
-   - [Visualizing the Semantic Tagging in _Secrets of Craft and Nature_](Kaufman_final-report.md) (Roni Kaufman, Final Report)
+   - [Applying Machine Learning to the Manuscript: Semantic Trees, Word Clouds, and Sentence Embedding](docs/Chaillard_final-report.md) (Dana Chaillard, Final Report)
+   - [Visualizing the Semantic Tagging in _Secrets of Craft and Nature_](docs/Kaufman_final-report.md) (Roni Kaufman, Final Report)
 - Use Voyant for Interactive Text Analysis and Visualizations (using [manuscript data v1.2.0](https://github.com/cu-mkp/m-k-manuscript-data/releases/tag/v1.2.0)) (2020-10-29)
    - [Normalized French](http://voyant-test.makingandknowing.org:8888/?corpus=6b5b78554b426ede98671e5fdcad294d)
    - [English Translation](http://voyant-test.makingandknowing.org:8888/?corpus=b560f05582db17b6eb34356d684e565f)
