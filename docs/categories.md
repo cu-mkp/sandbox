@@ -59,6 +59,8 @@ One black vertical line = 1 entry.
      > "...Lake takes long to dry in oil and for that reason one must **grind some glass** with it. But one needs to choose cristallin because it is cleaner. And because it would be too difficult to grind by itself, one must redden it on the fire, then when entirely red throw it into cold water, & it will crumble & pulverize easily for grinding it afterward. Being well ground it with a lot of water, **it resembles ground lead white**, but for all this it has no body. **I think it would be good for casting**."
 - The clustering of painting entries also corresponds to a section with very few casting entries. Perhaps this is a general trend? 
 
+\[IN PROGRESS -- NOTES BELOW\]
+
 **Use of a Scribe?**
 - While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries 
 https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl
