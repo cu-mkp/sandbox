@@ -38,7 +38,7 @@ Starting at the beginning of the manuscript on 1r and ending with the last page,
 
 One black vertical line = 1 entry.
 
-![categories-swarmplot-blank](https://github.com/cu-mkp/sandbox/blob/main/images/blank_swarmplot.png)
+![categories-swarmplot-blank](https://github.com/cu-mkp/sandbox/blob/main/images/blank-swarmplot.png)
 
 
 ### Why is This Interesting?
