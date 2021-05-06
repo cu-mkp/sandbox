@@ -20,4 +20,4 @@ The Making and Knowing Project hopes to create an online environment for student
 - Spring 2019 Final Projects from the course, ENGL84031 / HISTGU4031 / COMS4495 "Transforming Texts: Textual Analysis, Literary Modeling, and Visualization"
    - [Ontologies of Ms. Fr. 640](docs/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
    - [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/docs/SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
-   - [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/docs/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf)
+   - [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/docs/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf) by Sandra Goldstein Lehnert, Laura Elizabeth Hand, and Greg Alton Houser
