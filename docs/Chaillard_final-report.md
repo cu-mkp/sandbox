@@ -69,7 +69,86 @@ The second task was to create semantic trees from the vocabulary in the thesauru
 
 A sample screenshot for Animals is provided below. To see all trees, visit [vocabulary_abstraction.ipiynb](https://github.com/cu-mkp/manuscript-object/blob/v1.0-danachaillard/vocabulary_abstraction.ipynb).
 
-![tree-animals](../images/tree-animals.PNG?raw=true)
+### Animals
+```
+                                  ┌musteline_mammal─weasel
+                                  │      ┌wolf
+                        ┌carnivore┼canine┤
+                        │         │      └dog─hunting_dog─water_dog
+                        │         └feline─cat
+                        │      ┌squirrel
+                        │      ├dormouse
+                        ├rodent┼mouse
+                        │      ├rat
+                        │      └porcupine
+                        ├swine─hog
+                        │      ┌horse
+                        ├equine┤
+                        │      └mule
+                 ┌mammal┤
+                 │      ├primate─homo
+                 │      │        ┌sheep─ewe
+                 │      │        │      ┌cow
+                 │      │        ├cattle┼beef
+                 │      │        │      └ox
+                 │      ├ruminant┤
+                 │      │        ├goat
+                 │      │        └deer─hart
+                 │      ├bat
+                 │      └rabbit
+                 │                 ┌waterfowl─duck
+                 │    ┌aquatic_bird┼swan
+                 │    │            └heron─bittern
+                 │    │         ┌lark
+                 │    │         ├new_world_oriole─meadowlark
+                 │    │         │     ┌linnet
+                 │    │         │     ├chaffinch
+                 │    │         ├finch┼goldfinch
+                 │    │         │     ├siskin
+                 │    │         │     └bunting─ortolan
+                 │    ├passerine┤
+                 │    │         ├crow
+                 │    │         ├nightingale
+                 │    │         └swallow
+                 ├bird┼bird_of_prey─eagle
+                 │    │                 ┌game_bird─partridge
+                 │    │                 │                     ┌hen
+                 │    ├gallinaceous_bird┼domestic_fowl─chicken┤
+                 │    │                 │                     └chick
+                 │    │                 └pigeon─dove─turtledove
+                 │    └cuckoo
+                 │    ┌cod
+      ┌vertebrate┼fish┤
+      │          │    └bowfin
+      │          │       ┌snake─viper
+      │          ├reptile┼turtle
+      │          │       └saurian─lizard─dragon
+      │          └amphibian─frog
+      │     ┌mealworm
+      ├larva┤
+      │     └caterpillar─silkworm
+animal┤
+      │                    ┌cephalopod─cuttlefish
+      │            ┌mollusk┼gastropod─snail
+      │            │       │       ┌oyster
+      │            │       └bivalve┤
+      │            │               └mussel
+      │            │                ┌lepidopterous_insect─butterfly
+      │            │                ├flea
+      │            │                ├homopterous_insect─cicada
+      │            │         ┌insect┼louse
+      │            │         │      ├grasshopper
+      │            │         │      ├hymenopterous_insect─ant
+      │            │         │      └dipterous_insect─fly
+      ├invertebrate┼arthropod┼arachnid─spider
+      │            │         │          ┌crayfish
+      │            │         └crustacean┤
+      │            │                    └crab
+      │            └worm─earthworm
+      │                  ┌calf
+      └young─young_mammal┼lamb
+                         └foal─colt
+```
 
 
 ## Sentence Embeddings Using Machine Learning
