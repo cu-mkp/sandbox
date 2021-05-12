@@ -1,5 +1,5 @@
 # 2020 Chaillard Final Project
-See [Applying Machine Learning to the Manuscript: Semantic Trees, Word Clouds, and Sentence Embedding](/sandbox/docs/Chaillard_final-report.md) for the full report.
+See [Applying Machine Learning to the Manuscript: Semantic Trees, Word Clouds, and Sentence Embedding](/sandbox/docs/Chaillard_final-report) for the full report.
 
 ## Word Clouds
 
