@@ -8,8 +8,8 @@ The Sandbox presents experimental, provisional, and in-progress work that expand
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools (e.g., Jupyter Notebooks), where others can add and create their own tools, case studies, and resources presented here.
 
 ## Projects
-- [Interacting with the Manuscript object in Python](docs/manuscript-object-tutorial.md) (2020-11-02) </br>
-- [Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640](docs/categories.md) (2021-02-01) </br>
+- [Interacting with the Manuscript object in Python](docs/manuscript-object-tutorial.md) (2020-11-02)
+- [Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640](docs/categories.md) (2021-02-01)
 - École Polytechnique summer interns' manuscript visualization projects (2021-03-23)
    - [Applying Machine Learning to the Manuscript: Semantic Trees, Word Clouds, and Sentence Embedding](docs/Chaillard_final-report.md) (Dana Chaillard, Final Report)
    - [Visualizing the Semantic Tagging in _Secrets of Craft and Nature_](docs/Kaufman_final-report.md) (Roni Kaufman, Final Report)
