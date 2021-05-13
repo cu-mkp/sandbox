@@ -23,7 +23,7 @@ One example, using the animal tag, is shown below. The remaining wordclouds for 
 
 The second task was to create semantic trees from the vocabulary in the thesaurus. Once again category by category. These were created in the [vocabulary_abstraction.ipiynb](https://github.com/cu-mkp/manuscript-object/blob/v1.0-danachaillard/vocabulary_abstraction.ipynb) jupyter notebook. The trees are only to be found in the notebook. They were created using wordnet, which is a corpus that can give us the hypernyms of a word. For the the trees, I used only the tagged expressions in the thesaurus that are single words. I also had to clean the data to remove words not in the corpus or where the correct meaning we are looking for is not in the corpus.
 
-An example tree for Animals is provided below. To see all trees, visit [vocabulary_abstraction.ipiynb](https://github.com/cu-mkp/manuscript-object/blob/v1.0-danachaillard/vocabulary_abstraction.ipynb).
+An example tree for Animals is provided below. All trees created (for Animals, Body Parts, Materials, and Tools) can be seen in [All Semantic Trees](Chaillard_trees.md). They can also be seen (with context) in the Jupyter Notebook, [vocabulary_abstraction.ipiynb](https://github.com/cu-mkp/manuscript-object/blob/v1.0-danachaillard/vocabulary_abstraction.ipynb).
 
 ### Animals
 ```
