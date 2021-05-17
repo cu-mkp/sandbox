@@ -109,6 +109,6 @@ animal┤
 
 ## Sentence Embeddings Using Machine Learning
 
-The third task was to create sentence embeddings using a machine learning approach. For that, I used a pretrained ELMo model found on tensorflow_hub. ELMo generates a 1024 dimensions vector for each sentence. I then used PCA and t-SNE to reduce these dimensions to 2 and plotted that in an html file. All these files can be found in the [sentence_encode directory](https://github.com/cu-mkp/manuscript-object/tree/v1.0-danachaillard/Sentence_encode). I also created a graph where two categories are plotted in different colors. It is called sentence_encode_dual.
+The third task was to create sentence embeddings using a machine learning approach. For that, I used a pretrained ELMo model found on tensorflow_hub. ELMo generates a 1024 dimensions vector for each sentence. I then used PCA and t-SNE to reduce these dimensions to 2 and plotted that in an html file. All these files can be found in the [sentence_encode directory](https://github.com/cu-mkp/manuscript-object/tree/v1.0-danachaillard/Sentence_encode). I also created a graph where two categories are plotted in different colors. It is called [sentence_encode_dual](Sentence_encode_dual.html).
 
-
+_See the [Jupyter Notebook](https://nbviewer.jupyter.org/github/cu-mkp/manuscript-object/blob/5abf324616dc9f6d3eb93301c3035b8da6c48861/Elmo_contextual_embeddings.ipynb) which generates these graphs._
