@@ -21,3 +21,10 @@ The Making and Knowing Project hopes to create an online environment for student
    - [Ontologies of Ms. Fr. 640](docs/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
    - [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/docs/SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
    - [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/docs/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf) by Sandra Goldstein Lehnert, Laura Elizabeth Hand, and Greg Alton Houser
+   - [Indexing Ingredients: Using Ingredients to Navigate Making](docs/SP19_Kaplan_Indexing-Ingredients.pdf) by Jennifer Kaplan, Chris Klippenstein, Matthew Kumar, and Vera Senina
+   - [Chromatic Index](docs/SP19_Soto_Chromatic-Index.pdf) by Guillermo Soto, Clement Godbarge, and Yuhe Zheng. See also:
+      - [PDF of PowerPoint presentation](docs/SP19_Chromatic-Index-Presentation.pdf)
+      - video (TBD)
+      - code (TBD)
+   - [Augmented Reality Group (ARGroup)](docs/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also:
+      - PowerPoint presentation [[PDF](docs/SP19_ARGroup-Presentation.pdf)] [[PPTX](docs/SP19_ARGroup-Presentation.pptx)]
