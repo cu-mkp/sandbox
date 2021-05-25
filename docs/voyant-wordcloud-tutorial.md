@@ -10,7 +10,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 681px; height: 190px;' src='//voyant-test.makingandknowing.org:8888/tool/Contexts/?query=wom*&corpus=f0380370babbd77eca24c52ab98c0b0f'></iframe>
+<iframe style='width: 681px; height: 190px;' src='http://voyant-test.makingandknowing.org:8888/tool/Contexts/?query=wom*&corpus=f0380370babbd77eca24c52ab98c0b0f'></iframe>
 
 ## step 2: export from voyant
 Hover over and click on the "export" button that only appears when hovering (cannot capture with screenshot)
