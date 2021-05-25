@@ -4,6 +4,14 @@
 E.g., `wom*` (to capture woman, women, etc.)
 ![image](https://user-images.githubusercontent.com/14779727/118019233-c2026c80-b326-11eb-9c78-5e37bb214187.png)
 
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 681px; height: 190px;' src='//voyant-test.makingandknowing.org:8888/tool/Contexts/?query=wom*&corpus=f0380370babbd77eca24c52ab98c0b0f'></iframe>
+
 ## step 2: export from voyant
 Hover over and click on the "export" button that only appears when hovering (cannot capture with screenshot)
 ![image](https://user-images.githubusercontent.com/14779727/118016677-ac3f7800-b323-11eb-92aa-3044c0a3f219.png)
