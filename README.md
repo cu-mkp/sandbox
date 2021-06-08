@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/309510720.svg)](https://zenodo.org/badge/latestdoi/309510720)
+
 # The Making and Knowing Project *Sandbox*
 
 https://cu-mkp.github.io/sandbox/
