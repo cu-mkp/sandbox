@@ -16,6 +16,7 @@ The Making and Knowing Project hopes to create an online environment for student
 - Use Voyant for Interactive Text Analysis and Visualizations (using [manuscript data v1.2.0](https://github.com/cu-mkp/m-k-manuscript-data/releases/tag/v1.2.0)) (2020-10-29)
    - [Normalized French](http://voyant-test.makingandknowing.org:8888/?corpus=6b5b78554b426ede98671e5fdcad294d)
    - [English Translation](http://voyant-test.makingandknowing.org:8888/?corpus=b560f05582db17b6eb34356d684e565f)
+- [ms-text-analysis: Files and tools for performing textual analysis of BnF Ms Fr 640](https://cu-mkp.github.io/ms-text-analysis/guide_to_searching) (2020-02-04)
 - [Visualizing Semantic Markup in BnF Ms. Fr. 640](https://www.clementgodbarge.com/post/visualization/) by Making and Knowing Postdoctoral Scholar Clément Godbarge (2021-03-09)
 - Spring 2019 Final Projects from the course, ENGL84031 / HISTGU4031 / COMS4495 "Transforming Texts: Textual Analysis, Literary Modeling, and Visualization" (2021-05-06)
    - [Ontologies of Ms. Fr. 640](docs/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
