@@ -29,3 +29,8 @@ The Making and Knowing Project hopes to create an online environment for student
       - code (TBD)
    - [Augmented Reality Group (ARGroup)](docs/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also:
       - PowerPoint presentation [[PDF](docs/SP19_ARGroup-Presentation.pdf)] [[PPTX](docs/SP19_ARGroup-Presentation.pptx)]
+ - Summer 2021 Final Projects for the course GU4692: *Hands on History.*
+   - [Branscum](https://docs.google.com/document/d/e/2PACX-1vQe2mB6peBF9wnc0uO-EZQArGYZILppTR0T9afQk7DrovrXWPl6ODrHrBMl4YaUv6_6pTKEmhpYbYYI/pub)
+   - [Fox](https://docs.google.com/document/d/e/2PACX-1vRLvJezbhrSqPS8s_8r1XmXfHllN9IsP1l2r10sQlKK90gq737BxJjPj8TCl4bz1TElq3N1Nq55vNxa/pub)
+   - [Macomber](https://docs.google.com/document/d/e/2PACX-1vQP1ivPeiqkSK7kUVnzodCKPESA5cJ3ZDhSy8b7oFVYn7-pIfyBzKSK78KnxHyl1z8cQTxCATfVLAoJ/pub)
+ 
