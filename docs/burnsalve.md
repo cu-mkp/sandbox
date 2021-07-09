@@ -1,6 +1,10 @@
 # Activity: Reconstruction of a 16th-century Burn Salve Recipe
 
+The study of historical recipes or "how-to" instructions can be a powerful tool to engage with the past and to learn about daily life in a different, more tangible way than traditional textual sources. Through historical reconstruction -- attempting to follow or replicate the recipe -- can really bring the past to life and provide a new perspective for experts and students alike.
 
+The activity sheet and resources below are intented to invite you to undertake a hands-on historical reconstruction yourself, or to provide you with what you will need to bring this activity into your classroom, studio, or even kitchen. It is recommended that the exercise be undertaken by students in middle (or secondary) school and older, due to the heating of oil and beeswax.
+
+## The Burn Salve Recipe
 
 This medical remedy to treat burns appears in BnF Ms. Fr. 640, a late sixteenth-century manuscript of artisanal recipes compiled by an anonymous author-practitioner working in Toulouse, France. 
 
@@ -21,5 +25,6 @@ This recipe is fully explored by Xiaomeng Liu's essay, [An Excellent Salve for B
 
 ## Teaching Resources
 
-
-
+- The full process of reconstructing the burn salve recipe is captured in the video, [Reconstructing 16th-c. Burn Salve](https://vimeo.com/465795692), prepared by the Making and Knowing Project team (special thank you to postdoctoral scholars Tianna Uchacz and Tillmann Taape).
+- The [Burn Salve Reconstruction Protocol]() Activity Sheet, prepared by postdoctoral scholar Tianna Uchacz, provides the Making and Knowing Project's procedure for reconstructing the burn salve. Adapted from the original 16th-century recipe, this worksheet standardizes the process and lists all the necessary materials and tools in order to undertake the activity in a modern context.
+- If you do not know how to recite the paternoster (or cannot do this at the same time as preparing the salve), the Making and Knowing Project provides the [paternoster audio recordings](https://drive.google.com/drive/folders/1jiDf7swYk3ohtDxp3WXEvEsLpbKA1vNH?usp=sharing), recited by Tillmann Taape, one of the Project's postdoctoral scholars, for each of the nine mixing steps.
