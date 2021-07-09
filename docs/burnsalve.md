@@ -1,8 +1,8 @@
-# Activity: Reconstruction of a 16th-century Burn Salve Recipe
+# Activity: Reconstruction of a 16th-Century Burn Salve Recipe
 
-The study of historical recipes or "how-to" instructions can be a powerful tool to engage with the past and to learn about daily life in a different, more tangible way than traditional textual sources. Through historical reconstruction -- attempting to follow or replicate the recipe -- can really bring the past to life and provide a new perspective for experts and students alike.
+The study of historical recipes or "how-to" instructions can be a powerful tool to engage with the past and to learn about daily life in a different, more tangible way than traditional textual sources. Historical reconstruction -- attempting to follow or replicate the recipe -- can bring the past to life and provide new perspectives for experts and students alike.
 
-The activity sheet and resources below are intented to invite you to undertake a hands-on historical reconstruction yourself, or to provide you with what you will need to bring this activity into your classroom, studio, or even kitchen. It is recommended that the exercise be undertaken by students in middle (or secondary) school and older, due to the heating of oil and beeswax.
+The activity sheet and resources below are intended to invite you to undertake a hands-on historical reconstruction yourself, or to provide you with what you will need to bring this activity into your classroom, studio, or even kitchen. It is recommended that the exercise be undertaken by students in middle (or secondary) school and older, due to the heating of oil and beeswax.
 
 ## The Burn Salve Recipe
 
@@ -16,11 +16,11 @@ This medical remedy to treat burns appears in BnF Ms. Fr. 640, a late sixteenth-
 
 ## Reconstructing the Burn Salve
 
-In a laboratory at Columbia University, the Making and Knowing Project has reconstructed the burn salve by following the instructions provided on [fol. 103r](https://edition640.makingandknowing.org/#/folios/103r/tc/103r/tl). The result is a smooth and creamy ointment that would not seem out of place in your home's medicine cabinet!
+In a laboratory at Columbia University, the Making and Knowing Project reconstructed the burn salve by following the instructions provided on [fol. 103r](https://edition640.makingandknowing.org/#/folios/103r/tc/103r/tl). The result is a smooth and creamy ointment that would not seem out of place in your home's medicine cabinet!
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/465795692" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-This recipe is fully explored by Xiaomeng Liu's essay, [An Excellent Salve for Burns](https://edition640.makingandknowing.org/#/essays/ann_080_sp_17), which notes the juxtaposition of the complex, transformative process described with the relatively few ingredients needed. The essay also highlights the ways in which this recipe is unusual among the other medical recipes in Ms. Fr. 640: it possesses explicit spiritual dimensions (pure ingredients, holy water, and the recitation of prayers) and it provides information about its source and trustworthiness. 
+This recipe is fully explored in Xiaomeng Liu's essay, [An Excellent Salve for Burns](https://edition640.makingandknowing.org/#/essays/ann_080_sp_17), which notes the juxtaposition of the complex, transformative process with the relatively few ingredients needed. The essay also highlights the ways in which this recipe is unusual among the other medical recipes in Ms. Fr. 640 because it possesses explicit spiritual dimensions (pure ingredients, holy water, and the recitation of prayers) and it provides information about its source and trustworthiness. 
 
 > Liu, Xiaomeng. “An Excellent Salve for Burns.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. https://edition640.makingandknowing.org/#/essays/ann_080_sp_17. DOI: https://www.doi.org/10.7916/58dr-ns42
 
