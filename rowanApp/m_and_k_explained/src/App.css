@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.parallax_image {
+  position: relative;
+  top: 15%;
+  width: 70%;
+  height: 70%;
+  z-index: 1;
+}
+
+.parallax_image2 {
+  position: absolute;
+  top: 40%;
+  width: 70%;
+  height: 70%;
+  z-index: 1;
+}
+
+.root {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  position: relative;
+  width: 25em;
+}
