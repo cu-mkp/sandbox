@@ -6,9 +6,7 @@ import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
 
 
 
-const ParallaxB = () => (
-    <ParallaxBanner className="parallax_banner" layers={[{image: "https://cdn.pixabay.com/photo/2017/08/27/03/24/backround-2685094_1280.jpg", amount: 0.3}]}></ParallaxBanner>
-);
+
 
 
 class FrontPage extends Component {
@@ -17,10 +15,9 @@ class FrontPage extends Component {
         return (
             <div id="root">
                 <div id="container">
-                    <ParallaxB/>
-                    <ParallaxB/>
-                    <ParallaxB/>
-                    <ParallaxB/>
+                    <ParallaxBanner className="parallax_banner" layers={[{image: "https://github.com/cu-mkp/sandbox/blob/RowanWebApp/rowanApp/pics%20for%20site/website%20backdrop.png?raw=true", amount: 0.3}]} style={{width: '100%', height: '200px'}}></ParallaxBanner>
+                    <ParallaxBanner className="parallax_banner" layers={[{image: "https://github.com/cu-mkp/sandbox/blob/RowanWebApp/rowanApp/pics%20for%20site/website%20backdrop.png?raw=true", amount: 0.3}]}></ParallaxBanner>
+                    <ParallaxBanner className="parallax_banner" layers={[{image: "https://github.com/cu-mkp/sandbox/blob/RowanWebApp/rowanApp/pics%20for%20site/website%20backdrop.png?raw=true", amount: 0.3}]}></ParallaxBanner>
                 </div>            
             </div>
         );
