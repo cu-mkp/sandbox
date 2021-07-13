@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## ReactBasics
+## React Basics
 
 Use these commands and tutorials for react development.
 
