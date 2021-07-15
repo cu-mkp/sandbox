@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Making And Knowing Explained
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## React Basics
 
-In the project directory, you can run:
+Use these commands and tutorials for react development.
 
 ### `npm start`
 
@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## The Website
+
+### Front Page
+
+This page takes the user to links to explanations of what M&K does and why it's important.
+
+### The Manuscript Explained Page
+
+Why Ms. Fr. 640 was chosen and is still relevant, why studying the text and language is important, why analyzing word choice matters, etc.
+
+### The Experiment Page ("Making" in M&K)
+
+Explains why experiments are conducted, their significance, who conduct them, everything related to labs and hands-on work.
+
+### The Digital Page
+
+Explains the digital work behind Ms. Fr. 640 (maybe combined with some other important aspect, I'm not too sure what this third page will be yet)
