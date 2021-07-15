@@ -13,7 +13,9 @@ class FrontPage extends Component {
                 <div id="container">
                     <ParallaxBanner 
                     className="parallax_banner" 
-                    layers={[{image: "https://github.com/cu-mkp/sandbox/blob/RowanWebApp/rowanApp/pics%20for%20site/website%20backdrop.png?raw=true", amount: 0.3}, {children:(<h1 className="header"><Link className="header" to="/manuscript">Why This Manuscript?</Link></h1>), amount: 0}]} 
+                    layers={
+                        [{image: "https://github.com/cu-mkp/sandbox/blob/RowanWebApp/rowanApp/pics%20for%20site/website%20backdrop.png?raw=true", amount: 0.3}, 
+                        {children:(<h1 className="header"><Link className="header" to="/manuscript">Why This Manuscript?</Link></h1>), amount: 0}]} 
                     style={{width: '100%', height: '350px'}}>
                     </ParallaxBanner>
                     <ParallaxBanner className="parallax_banner" layers={[{image: "https://github.com/cu-mkp/sandbox/blob/RowanWebApp/rowanApp/pics%20for%20site/website%20backdrop.png?raw=true", amount: 0.3}]} style={{width: '100%', height: '350px'}}></ParallaxBanner>
