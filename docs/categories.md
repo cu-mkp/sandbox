@@ -63,8 +63,9 @@ One black vertical line = 1 entry.
 \[IN PROGRESS -- NOTES BELOW\]
 
 **Use of a Scribe?**
-- While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries 
-https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl
+- While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries that begin on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl). The writing here is a semi-calligraphic French script and is most likely that of a scribe
+
+entry through fol. 76v, the hand is different (hand D, a semi-calligraphic French script, likely the hand of a scribe) from the author-practitioner's main hand (hand A). See also fols. 57r–58r and 77r–79v.
 
 
 manuscript/document/folio sequence
