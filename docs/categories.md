@@ -62,8 +62,24 @@ One black vertical line = 1 entry.
 
 \[IN PROGRESS -- NOTES BELOW\]
 
-**Use of a Scribe?**
-- While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries that begin on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl). The writing here is a semi-calligraphic French script and is most likely that of a scribe. The same hand appears again in a series of entries from [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) and from [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v]](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl).
+## Use of a Scribe?
+
+While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries that begin on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl). The writing here is a semi-calligraphic French script and is most likely that of a scribe. The same hand appears again in a series of entries from [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) and from [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v]](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl).
+
+The sections are highlighted below in red.
+![categories-swarmplot-blank](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe.png?raw=true)
+
+### Why is This Interesting?
+
+- These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of "recipes."
+- We can even see a few clues of the author-practitioner working together with the scribe. For example, on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl), *moullée* (grindings) is added in a hand that is most likely the author-practitioner's, to fill in a blank left by the scribe who wrote the rest of the page.
+
+PIC
+
+- [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as "painting"
+- [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, some metal and wax processes, varnish
+     - 73r has gap plus AP hand
+- [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v]](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl)
 
 
 manuscript/document/folio sequence
