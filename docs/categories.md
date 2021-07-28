@@ -60,8 +60,6 @@ One black vertical line = 1 entry.
      > "...Lake takes long to dry in oil and for that reason one must **grind some glass** with it. But one needs to choose cristallin because it is cleaner. And because it would be too difficult to grind by itself, one must redden it on the fire, then when entirely red throw it into cold water, & it will crumble & pulverize easily for grinding it afterward. Being well ground it with a lot of water, **it resembles ground lead white**, but for all this it has no body. **I think it would be good for casting**."
 - The clustering of painting entries also corresponds to a section with very few casting entries. Perhaps this is a general trend? 
 
-\[IN PROGRESS -- NOTES BELOW\]
-
 ## Use of a Scribe?
 
 While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries that begin on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl). The writing here is a semi-calligraphic French script and is most likely that of a scribe. The same hand appears again in a series of entries from [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) and from [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl).
@@ -71,9 +69,14 @@ The sections are highlighted below in red.
 
 ### Why is This Interesting?
 
-- These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of entries.
-- The types of entries written by the scribe all fall within the same few categories:
-     - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as painting, varnish, and arms and armor
+**Cartegories of the Scribe's Entries
+
+These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of entries.
+The types of entries written by the scribe all fall within the same few categories, highlighted below in blue.
+![categories-swarmplot-scribe-categories](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe-categories.png?raw=true)
+
+The categories by section:
+- [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as "painting," "varnish," and "arms and armor"
      
 | Category       | # entries |
 |----------------|-----------|
@@ -81,39 +84,46 @@ The sections are highlighted below in red.
 | varnish        | 1         |
 | arms and armor | 1         |
 
-   - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, metal process, wax processes, and varnish
+- [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) to [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are "wood and its coloring," "metal process," "wax processes," and "varnish"
    
 | Category                | # entries |
 |-------------------------|-----------|
-| wood and its   coloring | 22        |
+| wood and its coloring   | 22        |
 | metal process           | 9         |
 | varnish                 | 5         |
 | wax process             | 3         |
 | painting                | 2         |
 | corrosives              | 1         |
 
-  - [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl)
-![categories-swarmplot-scribe-categories](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe-categories.png?raw=true)
+- [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl) are "wood and its coloring," "varnish," "metal process," and "medicine" 
 
 | Category                | # entries |
 |-------------------------|-----------|
-| wood and its   coloring | 6         |
+| wood and its coloring   | 6         |
 | varnish                 | 8         |
 | metal process           | 3         |
 | medicine                | 1         |
 
-- Want to do further analysis on these entries? Use/download this [[CSV of scribe entry-metadata](docs/entry-metadata_scribe-hand-d.csv)].
+- One category that seems to dominate is "wood and its coloring." Of the 32 entries in this category, 28 are written by the scribe - that's 87.5% of the category! Thus, the author-practitioner only wrote 4 of the entries treating this topic.
+- Notably, there are no entries categorized as "casting," the author-practitioner's main concern throughout the manuscript.
+- Want to do further analysis on these entries? 
+     - Use/download this [[CSV of scribe entry-metadata](docs/entry-metadata_scribe-hand-d.csv)]
+     - Explore the [List of Entries](https://edition640.makingandknowing.org/#/entries) resource in *Secrets of Craft and Nature in Renaissance France*.
 
-- What clues in the text do we see to support the theory that the author-practitioner was working together with a scribe?
-     - One example is an intervention on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl). In the entry, *moullée* (grindings) is added in a hand that is most likely the author-practitioner's, to fill in a blank left by the scribe who wrote the rest of the page.
+**Evidence of the Scribe's Work**
+
+What clues in the text do we see to support the theory that the author-practitioner was working together with a scribe?
+
+- One example is an intervention on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl). In the entry, *moullée* (grindings) is added in a hand that is most likely the author-practitioner's, to fill in a blank left by the scribe who wrote the rest of the page.
 ![73r_facsimile_scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/73r_fac_scribe-ann.png?raw=true)
-     - There is also evidence of dictation: perhaps the author-practitioner spoke out loud to the scribe who wrote his notes down. In multiple entries on fols. 77v, 78r, and 79v, the scribe seems to have been confused by the word "sandarac," a type of resin used commonly in varnish recipes. He writes down words that sound similar, such as *sang* (blood) *de Drac* (of the dragon) or *da Rac* (the devil's shout), before ultimately correcting them.
+- There is also evidence of dictation: perhaps the author-practitioner spoke out loud to the scribe who wrote his notes down. In multiple entries on fols. 77v, 78r, and 79v, the scribe seems to have been confused by the word "sandarac," a type of resin used commonly in varnish recipes. He writes down words that sound similar, such as *sang* (blood) *de Drac* (of the dragon) or *da Rac* (the devil's shout), before ultimately correcting them.
 ![79v_facsimile_scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/79v_fac_scribe-ann.png?raw=true)
-     - In a longer entry that begins on [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter," the author-practitioner composes most of the entry, but a few sections in the middle are written by the scribe. Perhaps they were taking turns writing things down? Or writing at different times, adding to each other's sections?
+- In a longer entry that begins on [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter," the author-practitioner composes most of the entry, but a few sections in the middle are written by the scribe. Perhaps they were taking turns writing things down? Or writing at different times, adding to each other's sections?
 ![57r-scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/57r-scribe-annotated.png?raw=true)
 
 
 
+\[IN PROGRESS -- NOTES BELOW\]
 
 manuscript/document/folio sequence
 sequentially 
