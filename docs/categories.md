@@ -69,7 +69,7 @@ The sections are highlighted below in red.
 
 ### Why is This Interesting?
 
-**Cartegories of the Scribe's Entries
+**Categories of the Scribe's Entries**
 
 These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of entries.
 The types of entries written by the scribe all fall within the same few categories, highlighted below in blue.
