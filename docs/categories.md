@@ -73,8 +73,8 @@ The sections are highlighted below in red.
 
 - These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of entries.
 - The types of entries written by the scribe all fall within the same few categories:
-     - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as "painting"
-     - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, some metal and wax processes, varnish
+     - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as painting, varnish, and arms and armor
+     - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, metal process, wax processes, and varnish
      - [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl)
 ![categories-swarmplot-scribe-categories](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe-categories.png?raw=true)
 - What clues in the text do we see to support the theory that the author-practitioner was working together with a scribe?
