@@ -74,6 +74,11 @@ The sections are highlighted below in red.
 - These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of entries.
 - The types of entries written by the scribe all fall within the same few categories:
      - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as painting, varnish, and arms and armor
+| Category       | # entries |
+|----------------|-----------|
+| painting       | 2         |
+| varnish        | 1         |
+| arms and armor | 1         |
      - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, metal process, wax processes, and varnish
 | Category                | # entries |
 |-------------------------|-----------|
@@ -86,13 +91,15 @@ The sections are highlighted below in red.
      - [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl)
 ![categories-swarmplot-scribe-categories](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe-categories.png?raw=true)
 
-https://github.com/cu-mkp/sandbox/blob/main/docs/entry-metadata_scribe-hand-d.csv
+[[CSV of scribe entry-metadata](docs/entry-metadata_scribe-hand-d.csv)]
 
 - What clues in the text do we see to support the theory that the author-practitioner was working together with a scribe?
      - One example is an intervention on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl). In the entry, *moullée* (grindings) is added in a hand that is most likely the author-practitioner's, to fill in a blank left by the scribe who wrote the rest of the page.
 ![73r_facsimile_scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/73r_fac_scribe-ann.png?raw=true)
-   - There is also evidence of dictation: perhaps the author-practitioner spoke out loud to the scribe who wrote his notes down. In multiple entries on fols. 77v, 78r, and 79v, the scribe seems to have been confused by the word "sandarac," a type of resin used commonly in varnish recipes. He writes down words that sound similar, such as *sang* (blood) *de Drac* (of the dragon) or *da Rac* (the devil's shout), before ultimately correcting them.
+     - There is also evidence of dictation: perhaps the author-practitioner spoke out loud to the scribe who wrote his notes down. In multiple entries on fols. 77v, 78r, and 79v, the scribe seems to have been confused by the word "sandarac," a type of resin used commonly in varnish recipes. He writes down words that sound similar, such as *sang* (blood) *de Drac* (of the dragon) or *da Rac* (the devil's shout), before ultimately correcting them.
 ![79v_facsimile_scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/79v_fac_scribe-ann.png?raw=true)
+     - In a longer entry that begins on [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter," the author-practitioner composes most of the entry, but a few sections in the middle are written by the scribe. Perhaps they were taking turns writing things down? Or writing at different times, adding to each other's sections?
+![57r-scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/57r-scribe-annotated.png?raw=true)
 
 
 
