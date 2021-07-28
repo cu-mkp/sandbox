@@ -75,8 +75,19 @@ The sections are highlighted below in red.
 - The types of entries written by the scribe all fall within the same few categories:
      - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as painting, varnish, and arms and armor
      - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, metal process, wax processes, and varnish
+| Category                | # entries |
+|-------------------------|-----------|
+| wood and its   coloring | 22        |
+| metal process           | 9         |
+| varnish                 | 5         |
+| wax process             | 3         |
+| painting                | 2         |
+| corrosives              | 1         |
      - [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl)
 ![categories-swarmplot-scribe-categories](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe-categories.png?raw=true)
+
+https://github.com/cu-mkp/sandbox/blob/main/docs/entry-metadata_scribe-hand-d.csv
+
 - What clues in the text do we see to support the theory that the author-practitioner was working together with a scribe?
      - One example is an intervention on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl). In the entry, *moullée* (grindings) is added in a hand that is most likely the author-practitioner's, to fill in a blank left by the scribe who wrote the rest of the page.
 ![73r_facsimile_scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/73r_fac_scribe-ann.png?raw=true)
