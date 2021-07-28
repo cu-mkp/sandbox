@@ -74,12 +74,15 @@ The sections are highlighted below in red.
 - These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of entries.
 - The types of entries written by the scribe all fall within the same few categories:
      - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as painting, varnish, and arms and armor
+     
 | Category       | # entries |
 |----------------|-----------|
 | painting       | 2         |
 | varnish        | 1         |
 | arms and armor | 1         |
-     - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, metal process, wax processes, and varnish
+
+   - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are wood and its coloring, metal process, wax processes, and varnish
+   
 | Category                | # entries |
 |-------------------------|-----------|
 | wood and its   coloring | 22        |
@@ -88,10 +91,18 @@ The sections are highlighted below in red.
 | wax process             | 3         |
 | painting                | 2         |
 | corrosives              | 1         |
-     - [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl)
+
+  - [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl)
 ![categories-swarmplot-scribe-categories](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe-categories.png?raw=true)
 
-[[CSV of scribe entry-metadata](docs/entry-metadata_scribe-hand-d.csv)]
+| Category                | # entries |
+|-------------------------|-----------|
+| wood and its   coloring | 6         |
+| varnish                 | 8         |
+| metal process           | 3         |
+| medicine                | 1         |
+
+- Want to do further analysis on these entries? Use/download this [[CSV of scribe entry-metadata](docs/entry-metadata_scribe-hand-d.csv)].
 
 - What clues in the text do we see to support the theory that the author-practitioner was working together with a scribe?
      - One example is an intervention on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl). In the entry, *moullée* (grindings) is added in a hand that is most likely the author-practitioner's, to fill in a blank left by the scribe who wrote the rest of the page.
