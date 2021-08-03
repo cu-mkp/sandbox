@@ -1,0 +1,27 @@
+.circle {
+    position: relative;
+    width: 250px;     
+    height: 250px;
+    overflow: hidden;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+
+img {
+    position: absolute;
+    width: auto;
+    height: 110%;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    transition: width 0.5s, height 0.5s;
+}
+
+.circle:hover {
+    transform: scale(1.1);
+}
+
+img:hover {
+    height: 100%
+}
+
