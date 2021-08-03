@@ -34,4 +34,5 @@ The Making and Knowing Project hopes to create an online environment for student
    - [Cures in Context: Medicine in Ms. Fr. 640 and Household Recipe Books](https://docs.google.com/document/d/e/2PACX-1vQe2mB6peBF9wnc0uO-EZQArGYZILppTR0T9afQk7DrovrXWPl6ODrHrBMl4YaUv6_6pTKEmhpYbYYI/pub) by Elizabeth Branscum
    - [Was Ms. Fr. 640 Intentionally Disorganized?](https://docs.google.com/document/d/e/2PACX-1vRLvJezbhrSqPS8s_8r1XmXfHllN9IsP1l2r10sQlKK90gq737BxJjPj8TCl4bz1TElq3N1Nq55vNxa/pub) by Mackenzie Fox
    - [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640](https://docs.google.com/document/d/e/2PACX-1vQP1ivPeiqkSK7kUVnzodCKPESA5cJ3ZDhSy8b7oFVYn7-pIfyBzKSK78KnxHyl1z8cQTxCATfVLAoJ/pub) by Sophie Macomber
+   - [Understanding Natural Things in the World and the Workshop](https://docs.google.com/document/d/e/2PACX-1vQoI_G0UUDBjaDpH1vBJ5DGQSX6vz9Wwj-AYHVhw-bXMgYOUg88wTWCP9gl_T2Dw4xvyLM03eSZzY5U/pub) by Anna Christensen
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
