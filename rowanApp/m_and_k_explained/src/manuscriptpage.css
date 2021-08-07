@@ -4,7 +4,7 @@
     height: 250px;
     overflow: hidden;
     border-radius: 100%;
-    transition: transform 0.5s;
+    transition: transform 0.25s;
 }
 
 img {
@@ -14,7 +14,7 @@ img {
     top: 50%;
     left: 50%;
     transform: translate( -50%, -50%);
-    transition: width 0.5s, height 0.5s;
+    transition: height 0.25s;
 }
 
 .circle:hover {
