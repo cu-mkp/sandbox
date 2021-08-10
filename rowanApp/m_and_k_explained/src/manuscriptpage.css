@@ -1,16 +1,37 @@
 .circle {
     position: relative;
+    top: 40px;
+    left: 60px;
     width: 250px;     
     height: 250px;
     overflow: hidden;
     border-radius: 100%;
     transition: transform 0.25s;
+    cursor: pointer;
+}
+
+:root {
+    --popupdisplay: none;
+}
+
+.popUpClose {
+    position: relative;
+    right: 51%;
+    border: none;
+    background: none;
+    font-size: x-large;
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.popUpClose:hover {
+    transform: scale(1.2);
 }
 
 img {
     position: absolute;
     width: auto;
-    height: 110%;
+    height: 100%;
     top: 50%;
     left: 50%;
     transform: translate( -50%, -50%);
@@ -21,7 +42,81 @@ img {
     transform: scale(1.1);
 }
 
+.popup {
+    position: fixed;
+    block-size: fit-content;
+    top: 0%;
+    height: 88%;
+    margin: 1%;
+    border-radius: 30px;
+    background-color: cyan;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 70px;
+    padding-right: 70px;
+    transition-timing-function: ease-out;
+    animation: slidein 2s;
+}
+
+
+.popuphidden {
+    display: var(--popupdisplay);
+    position: fixed;
+    block-size: fit-content;
+    top: 0%;
+    height: 88%;
+    margin: 1%;
+    border-radius: 30px;
+    background-color: cyan;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 70px;
+    padding-right: 70px;
+    transition-timing-function: ease-in;
+    animation: slideout 2s;
+}
+
+@keyframes slidein {
+    0% {opacity: 0%;}
+    50% {opacity: 100%;}
+    from {
+        top: 100%;
+    }
+    to {
+        top: 0%;
+    }
+}
+
+@keyframes slideout {
+    50% {opacity: 100%;}
+    100% {opacity: 0%;}
+    from {
+        top: 0%;
+    }
+    to {
+        top: 100%;
+    }
+}
+
+
 img:hover {
     height: 100%
 }
 
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
