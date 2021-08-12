@@ -1,3 +1,25 @@
+.backgrounds {
+    position: relative;
+    display: block;
+    height: 100%;
+    width: auto;
+    background-repeat: no-repeat;
+}
+
+.backgrounds::before {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://github.com/cu-mkp/edition-webpages/blob/master/images/about-mk-collab-books.png?raw=true);
+    opacity: 0.4;
+}
+
+
 .circle {
     position: relative;
     top: 40px;
@@ -14,14 +36,41 @@
     --popupdisplay: none;
 }
 
+.popupheader {
+    position: relative;
+    font-size: 42px;
+    font-weight: bold;
+    font-family:cursive;
+    color:black;
+    top: -17.5%;
+}
+
 .popUpClose {
     position: relative;
-    right: 51%;
+    right: 50%;
+    top: -1%;
     border: none;
     background: none;
-    font-size: x-large;
+    font-size: xx-large;
     cursor: pointer;
     transition: transform 0.1s;
+}
+
+.popupcontent {
+    position: relative;
+    align-self: center;
+    align-content: center;
+    float: left;
+    margin-left: 8%;
+    background-color: white;
+    font: inherit;
+    width: 30%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    border-radius: inherit;
+    top: -20%;
 }
 
 .popUpClose:hover {
@@ -35,7 +84,6 @@ img {
     top: 50%;
     left: 50%;
     transform: translate( -50%, -50%);
-    transition: height 0.25s;
 }
 
 .circle:hover {
@@ -49,9 +97,11 @@ img {
     height: 88%;
     margin: 1%;
     border-radius: 30px;
-    background-color: cyan;
+    background-color: #a75365;
     padding-top: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: large;
     color: black;
     padding-left: 70px;
     padding-right: 70px;
@@ -68,9 +118,11 @@ img {
     height: 88%;
     margin: 1%;
     border-radius: 30px;
-    background-color: cyan;
+    background-color: #974c6e;
     padding-top: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: large;
     color: black;
     padding-left: 70px;
     padding-right: 70px;
@@ -100,10 +152,6 @@ img {
     }
 }
 
-
-img:hover {
-    height: 100%
-}
 
 .container {
     position: relative;
