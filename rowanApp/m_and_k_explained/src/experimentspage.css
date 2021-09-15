@@ -1,0 +1,196 @@
+.backgrounds {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+    width: auto;
+    background-repeat: no-repeat;
+}
+
+.backgrounds::before {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://github.com/cu-mkp/edition-webpages/blob/master/images/about-mk-collab-books.png?raw=true);
+    opacity: 0.4;
+}
+
+.navi {
+    font-family: sans-serif;
+}
+
+.circle {
+    position: relative;
+    margin: -25px;
+    width: 250px;     
+    height: 250px;
+    overflow: hidden;
+    border-radius: 100%;
+    transition: transform 0.25s;
+    cursor: pointer;
+}
+
+:root {
+    --popupdisplay: none;
+}
+
+.popupheader {
+    position: relative;
+    font-size: 42px;
+    font-weight: bold;
+    font-family:cursive;
+    color:black;
+    top: -15%;
+}
+
+.popUpClose {
+    position: relative;
+    right: 50%;
+    top: -1%;
+    border: none;
+    background: none;
+    font-size: xx-large;
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.popupcontent {
+    position: relative;
+    align-self: center;
+    overflow-y: auto;
+    align-content: center;
+    max-height: 80%;
+    float: left;
+    margin-left: 7%;
+    background-color: white;
+    font: inherit;
+    width: 40%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    border-radius: inherit;
+    top: -20%;
+}
+
+::-webkit-scrollbar{
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: gainsboro;
+    border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.popUpClose:hover {
+    transform: scale(1.2);
+}
+
+img {
+    position: absolute;
+    width: auto;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+}
+
+.circle:hover {
+    transform: scale(1.1);
+}
+
+.popup {
+    position: fixed;
+    block-size: fit-content;
+    top: 0%;
+    height: 95%;
+    margin: 1%;
+    border-radius: 30px;
+    background-color: #a75365;
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: large;
+    color: black;
+    padding-left: 70px;
+    padding-right: 70px;
+    transition-timing-function: ease-out;
+    animation: slidein 2s;
+}
+
+
+.popuphidden {
+    display: var(--popupdisplay);
+    position: fixed;
+    block-size: fit-content;
+    top: 0%;
+    height: 88%;
+    margin: 1%;
+    border-radius: 30px;
+    background-color: #a75365;
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: large;
+    color: black;
+    padding-left: 70px;
+    padding-right: 70px;
+    transition-timing-function: ease-in;
+    animation: slideout 2s;
+}
+
+@keyframes slidein {
+    0% {opacity: 0%;}
+    50% {opacity: 100%;}
+    from {
+        top: 100%;
+    }
+    to {
+        top: 0%;
+    }
+}
+
+@keyframes slideout {
+    50% {opacity: 100%;}
+    100% {opacity: 0%;}
+    from {
+        top: 0%;
+    }
+    to {
+        top: 100%;
+    }
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
