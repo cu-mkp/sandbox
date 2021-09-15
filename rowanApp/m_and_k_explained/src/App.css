@@ -19,7 +19,8 @@
 }
 
 .header {
-  font-size: 200%;
+  font-size: 225%;
+  font-family: 'IowanOldStyle-Bold';
   text-decoration-line: none;
   text-shadow:
     -3.5px 3.5px    var(--shadow),
@@ -51,6 +52,7 @@
 
 
 .header:hover {
+  color: #DAF792;
   transform: translate(1.5px, -1.5px);
   text-shadow:
     -6.5px 6.5px    var(--shadow), 

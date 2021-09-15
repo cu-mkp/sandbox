@@ -1,7 +1,9 @@
 .backgrounds {
     position: relative;
     display: block;
-    height: 100%;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
     width: auto;
     background-repeat: no-repeat;
 }
@@ -19,11 +21,13 @@
     opacity: 0.4;
 }
 
+.navi {
+    font-family: sans-serif;
+}
 
 .circle {
     position: relative;
-    top: 40px;
-    left: 60px;
+    margin: -25px;
     width: 250px;     
     height: 250px;
     overflow: hidden;
@@ -42,7 +46,7 @@
     font-weight: bold;
     font-family:cursive;
     color:black;
-    top: -17.5%;
+    top: -15%;
 }
 
 .popUpClose {
@@ -59,18 +63,40 @@
 .popupcontent {
     position: relative;
     align-self: center;
+    overflow-y: auto;
     align-content: center;
+    max-height: 80%;
     float: left;
-    margin-left: 8%;
+    margin-left: 7%;
     background-color: white;
     font: inherit;
-    width: 30%;
+    width: 40%;
     padding-left: 4%;
     padding-right: 4%;
     padding-top: 1.5%;
     padding-bottom: 1.5%;
     border-radius: inherit;
     top: -20%;
+}
+
+::-webkit-scrollbar{
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: gainsboro;
+    border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
 
 .popUpClose:hover {
@@ -94,7 +120,7 @@ img {
     position: fixed;
     block-size: fit-content;
     top: 0%;
-    height: 88%;
+    height: 95%;
     margin: 1%;
     border-radius: 30px;
     background-color: #a75365;
@@ -118,7 +144,7 @@ img {
     height: 88%;
     margin: 1%;
     border-radius: 30px;
-    background-color: #974c6e;
+    background-color: #a75365;
     padding-top: 50px;
     font-family: sans-serif;
     font-weight: normal;
