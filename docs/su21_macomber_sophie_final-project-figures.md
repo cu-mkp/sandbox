@@ -22,7 +22,7 @@ When exploring texts on the making of products or commodities, this is frequentl
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **My interpretation of Bisket Bread**                                            | **My Partner’s Interpretation of Bisket Bread**                                                  |
 
-**See More:** [**Historical Culinary Recreation: Bisket Bread Presentation**](https://fieldnotes.makingandknowing.org/2021-summer/Macomber-HCRFieldNotesSU21.html)
+See More: [Historical Culinary Recreation: Bisket Bread Presentation](https://fieldnotes.makingandknowing.org/2021-summer/Macomber-HCRFieldNotesSU21.html)
 
 ## Reconstructions
 
