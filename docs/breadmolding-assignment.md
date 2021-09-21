@@ -1,10 +1,10 @@
+# BREAD MOLDING RECONSTRUCTION ASSIGNMENT
+>
 _HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_
-
 _The Making and Knowing Project, Columbia University_
-
 _Last updated 2021-08-19_
 
-## BREAD MOLDING RECONSTRUCTION ASSIGNMENT
+
 
 | **Review the full entries in the Edition:** [fol. 140v](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl) in BnF Ms. Fr. 640 |
 | --- |
