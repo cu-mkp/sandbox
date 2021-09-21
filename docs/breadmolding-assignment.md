@@ -67,16 +67,14 @@ _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition a
 
 If you have time, search in other sources for other uses are made of bread in the workshop:
 
-1. Alessio Piemontese, _Book of Secrets_ (1555); various English versions on EEBO; French versions on Gallica; Italian versions...
+1. Alessio Piemontese, _Book of Secrets_ (1555); various English versions on EEBO; French versions on Gallica; Italian versions...(For English: Search for Ruscelli, Girolamo, _The secretes of the reuerende Maister Alexis of Piemount Containyng excellent remedies against diuers diseases, woundes, and other accidents, with the manner to make distillations, parfumes, confitures, diynges, colours, fusions and meltynges. ... Translated out of Frenche into Englishe, by Wyllyam Warde_ (1558).
 
-(For English: Search for Ruscelli, Girolamo, _The secretes of the reuerende Maister Alexis of Piemount Containyng excellent remedies against diuers diseases, woundes, and other accidents, with the manner to make distillations, parfumes, confitures, diynges, colours, fusions and meltynges. ... Translated out of Frenche into Englishe, by Wyllyam Warde_ (1558).
+2. Hugh Platt, _The Jewell House of Art and Nature: Containing divers rare and profitable Inventions, together with sundry new experimentes in the Art of Husbandry, Distillation, and Molding_ (London, 1594). EEBO
 
-1. Hugh Platt, _The Jewell House of Art and Nature: Containing divers rare and profitable Inventions, together with sundry new experimentes in the Art of Husbandry, Distillation, and Molding_ (London, 1594). EEBO
+3. Cennino Cennini, _Il libro dell&#39;Arte (The Craftsman&#39;s Handbook)_, trans. Daniel V. Thompson, Jr. (New York: Dover, 1960).
 
-2. Cennino Cennini, _Il libro dell&#39;Arte (The Craftsman&#39;s Handbook)_, trans. Daniel V. Thompson, Jr. (New York: Dover, 1960).
+4. Vannoccio Biringuccio, _Pirotechnia_ (1540), trans. Cyril Stanley Smith and Martha Teach Gnudi (repr., Cambridge, MA, 1966).
 
-3. Vannoccio Biringuccio, _Pirotechnia_ (1540), trans. Cyril Stanley Smith and Martha Teach Gnudi (repr., Cambridge, MA, 1966).
+5. Theophilus, _The Various Arts: De Diversis Artibus_, ed. and trans. C. R. Dodwell (Oxford: Clarendon Press, 1986).
 
-4. Theophilus, _The Various Arts: De Diversis Artibus_, ed. and trans. C. R. Dodwell (Oxford: Clarendon Press, 1986).
-
-5. Benvenuto Cellini, _Two Treatises_, trans. C. R. Ashbee (repr. 2006).
+6. Benvenuto Cellini, _Two Treatises_, trans. C. R. Ashbee (repr. 2006).
