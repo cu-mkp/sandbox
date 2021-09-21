@@ -1,50 +1,49 @@
 # BREAD MOLDING RECONSTRUCTION ASSIGNMENT
->
-_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_
-_The Making and Knowing Project, Columbia University_
-_Last updated 2021-08-19_
 
+>_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_<br>
+_The Making and Knowing Project, Columbia University_<br>
+_Last updated 2021-08-19_<br>
 
+The 16th-century artisanal/technical manual, BnF Ms. Fr. 640, contains hundreds of entries that describe making processes and techniques from the Renaissance. These include instructions for and observations about painting, gilding, arms and armor production, plant cultivation, and making molds and metal casts.
 
-| **Review the full entries in the Edition:** [fol. 140v](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl) in BnF Ms. Fr. 640 |
-| --- |
-| ![](RackMultipart20210921-4-1abcoaf_html_11d02548652c690a.png) | **For casting in sulfur** To cast neatly in sulfur, arrange the bread pith under the brazier, as you know. Mold in it what you want &amp; let dry, &amp; you will have very neat work.
-**Molding and shrinking a large figure** Mold it with bread pith coming from the oven, or as the aforesaid, &amp; in drying out, it will shrink &amp; consequently the medal that you will cast in it. You ~~it~~ can, by this means, by elongating and widening the imprinted bread pith, vary the figure &amp; with one image make many various ones. Bread coming from the oven is better. And the one that is reheated twice retracts more. You can cast sulfur without leaving the imprint of the bread to dry, if you want to mold as big as it is. But if you want to let it shrink, make it dry, either more or less. |
+Two unique entries from this manuscript describe a process for using freshly-baked bread as a quick mold into which wax or sulfur can be poured, creating a cast wax/sulfur object. Both entries are found on [folio 140v](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl) - follow the link to review the full entries in [_Secrets of Craft and Nature. A Digital Critical Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/). Excerpts from the translations of these entries are copied below:
+
+| Folio 140v                                                     | Translation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![140v-breadmolding](../images/140v-breadmolding.jpg?raw=true) | **For casting in sulfur**<br>  To cast neatly in sulfur, arrange the bread pith under the brazier, as you know. Mold in it what you want & let dry, & you will have very neat work.<br> <br> **Molding and shrinking a large figure**<br>  Mold it with bread pith coming from the oven, or as the aforesaid, & in drying out, it will shrink & consequently the medal that you will cast in it. You <del>it</del> can, by this means, by elongating and widening the imprinted bread pith, vary the figure & with one image make many various ones. Bread coming from the oven is better. And the one that is reheated twice retracts more. You can cast sulfur without leaving the imprint of the bread to dry, if you want to mold as big as it is. But if you want to let it shrink, make it dry, either more or less. |
 
 You are tasked with baking bread, loaves of which will become molds into which you will cast wax or sulfur. While modern bread is typically made with yeast, a common historical rising agent was a sourdough starter. Some of you have been given sourdough starter which you can use for making the bread for the molds. Others may wish to explore creating their own sourdough starters at home (there are many online resources about how to do this safely). After looking into these options, you may logistically only be able to bake bread with yeast (and that is ok). Start experimenting!
 
-The bread molds will be **due on**** October 18**, when we will cast wax and sulfur into them.
-
 The first step in your process will be to learn to bake bread. Eventually, you should follow an early modern bread recipe (see links to recipes further on in this document) to make your molds. As much as possible, try to think about (and research) what bread would have been like in the sixteenth century.
 
-### Objectives:
+## Objectives:
 
 1. To experiment at home with bread baking
-2. To experiment at home with reconstructing the process of making molds from bread, following the recipes in BnF Ms. Fr. 640.
-3. To gain familiarity with the process of methodical interpretation of Ms. Fr. 640 recipes, and the writing of an experimental protocol
-4. To begin thinking about the nature of materials—what is bread as a material in the workshop? What was it used for in the sixteenth century? What properties does it have that make it useful? Does it fit into some sort of informal taxonomy of materials and properties? Today we take bread for granted as a food, but how might its uses in the workshop re-orient that understanding?
+2. To experiment at home with reconstructing the process of making molds from bread, following the entries in BnF Ms. Fr. 640.
+3. To gain familiarity with the process of methodical interpretation of Ms. Fr. 640 entries, and the writing of an experimental protocol
+4. To begin thinking about the nature of materials — what is bread as a material in the workshop? What was it used for in the sixteenth century? What properties does it have that make it useful? Does it fit into some sort of informal taxonomy of materials and properties? Today we take bread for granted as a food, but how might its uses in the workshop re-orient that understanding?
 
-### Instructions for reconstruction at home:
+## Instructions for reconstruction at home:
 
-- _Note: your experience with the Historical Recipe Reconstruction will be useful to you in this assignment. Make use of the_ [_previous years&#39; Reconstruction templates_](https://drive.google.com/drive/folders/0BwJi-u8sfkVDazRMT2lVemxDdEU) _(FA2018 is especially useful). Keep detailed field notes of your experiences._
-- Carefully read the bread molding recipes, &quot;For casting in sulfur&quot; and &quot;Molding and shrinking a large figure,&quot; both on [fol. 140v](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl) in BnF Ms. Fr. 640.
+_Note: your experience with the Historical Recipe Reconstruction will be useful to you in this assignment. Make use of the previous years&#39; Reconstruction templates. Keep detailed field notes of your experiences._
+
+- Carefully read the bread molding recipes, &quot;For casting in sulfur&quot; and &quot;Molding and shrinking a large figure,&quot; both on [fol. 140v](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl) in Ms. Fr. 640.
 - In your Field Notes, write an experiment protocol that lays out how you interpret the Fr. 640 recipes and the step-by-step process which you will follow in reconstructing them.
 - When you have finished the first part of the experiment (i.e., bread molding at home), comment on anything you had to change in your protocol and why.
 - You will need to choose an object to use as your molding pattern (what you will press into the bread to create an impression).
 - Include your protocol and comments in your field notes about this process.
-- **Have your completed molds ready for class on May 18.**
+- **Have your completed molds ready for casting in the Lab during class.**
 
-### A few tips:
+## A few tips:
 
 - You are welcome to work alone or in groups of two.
+- Sourdough starter: Best to keep the portion you are saving in the refrigerator between bread baking sessions. Do not use the entire starter for a single loaf of bread, but instead feed and divide it, always saving a cup or so for your next loaf. 
+- Start early with the experiment as it will take you some time to become adept at making bread, and you may need more than one try at the mold making. (You may also eat up some of your baking experiments!)
+- For the molding pattern for your one-sided or two-piece mold, you will need to choose a relatively uncomplicated object, such as a key, flat shell, a large medallion or necklace pendant, as a pattern.
 
-- Sourdough starter: Best to keep the portion you are saving in the refrigerator between bread baking sessions. Do not use the entire starter for a single loaf of bread, but instead feed and divide it, always saving a cup or so for your next loaf. Start early with the experiment as it will take you some time to become adept at making bread, and you may need more than one try at the mold making. (You may also eat up some of your baking experiments!)
+## Helpful sources on making sixteenth-century bread:
 
-- For the molding pattern for your one-sided or two-piece mold, you will need to choose a relatively uncomplicated object, such as a key, flat shell, a large medallion or necklace pendant, as a pattern
-
-### Helpful sources on making sixteenth-century bread:
-
-- [John Evelyn&#39;s bread recipes](https://drive.google.com/file/d/1DEwyDoUtKeA0MgbW_Fk6mS5WzcJbZDor/view?usp=sharing), including varieties of French bread
+- [John Evelyn&#39;s bread recipes](./breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
   - ([working transcription](https://drive.google.com/open?id=1GNklzsgidrIGdf2Twf78eJy0fgy-S6Tuh3VKGdKNTJU) of Evelyn&#39;s recipes by Reut Ullman, Columbia University)
 - The Food Timeline- Bread History (good bibliography): [http://www.foodtimeline.org/foodbreads.html#breadhistory](http://www.foodtimeline.org/foodbreads.html#breadhistory)
 - Early English Bread Project: [https://earlybread.wordpress.com/](https://earlybread.wordpress.com/)
