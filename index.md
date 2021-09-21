@@ -36,4 +36,4 @@ The Making and Knowing Project hopes to create an online environment for student
    - [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640](docs/su21_macomber_sophie_final-project-figures.md) by Sophie Macomber
    - [Understanding Natural Things in the World and the Workshop](https://docs.google.com/document/d/e/2PACX-1vQoI_G0UUDBjaDpH1vBJ5DGQSX6vz9Wwj-AYHVhw-bXMgYOUg88wTWCP9gl_T2Dw4xvyLM03eSZzY5U/pub) by Anna Christensen
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
-- [Activity Sheet: Breadmolding Reconstruction(docs/breadmolding-assignment.md) - complete assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
+- [Activity Sheet: Breadmolding Reconstruction](docs/breadmolding-assignment.md) - complete assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
