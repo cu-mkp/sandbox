@@ -1,6 +1,8 @@
-_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_
+>_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_<br>
+_The Making and Knowing Project, Columbia University_<br>
+_Last updated 2021-05-13 by NJR_<br>
 
-_Last updated 2021-05-13 by NJR_
+A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
 
 # Making Paints from Pigments and Painting Them Out
 
