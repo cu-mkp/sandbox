@@ -4,7 +4,7 @@
 _The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-08-19_<br>
 
-A downloadable version of this assignment: [PDF](breadmolding_assignment_downloadable_2021.pdf)
+A downloadable version of this assignment: [[PDF](breadmolding_assignment_downloadable_2021.pdf)]
 
 The 16th-century artisanal/technical manual, BnF Ms. Fr. 640, contains hundreds of entries that describe making processes and techniques from the Renaissance. These include instructions for and observations about painting, gilding, arms and armor production, plant cultivation, and making molds and metal casts.
 
@@ -81,4 +81,4 @@ If you have time, search in other sources for other uses are made of bread in th
 
 6. Benvenuto Cellini, _Two Treatises_, trans. C. R. Ashbee (repr. 2006).
 
-A downloadable version of this assignment: [PDF](breadmolding_assignment_downloadable_2021.pdf)
+A downloadable version of this assignment: [[PDF](breadmolding_assignment_downloadable_2021.pdf)]
