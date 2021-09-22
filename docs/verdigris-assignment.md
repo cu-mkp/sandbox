@@ -96,7 +96,9 @@ Verdigris is a basic copper acetate, a material which can pose some safety risks
 
 ## "Harvesting" (or Preparing) the Verdigris for Painting - DO NOT DO THIS AT HOME
 
-**Verdigris is toxic. Do not carry out these instructions at home, only in a laboratory or approved studio setting.**
+**CAUTION: Verdigris is toxic.<br>
+Do not carry out these instructions at home, only in a laboratory or approved studio setting.<br>
+Ensure the setting you are working in is equipped to prevent harmful ingestion to you or others as well as to prevent harmful release to the environment.**
 
 The longer you keep the jar closed, the more verdigris &quot;growth&quot; you will have. After a few weeks, you should have enough to yield a good amount with which to paint.
 
@@ -105,11 +107,13 @@ The longer you keep the jar closed, the more verdigris &quot;growth&quot; you wi
 3. **Using latex or nitrile gloves** , carefully remove the copper from the jar and place copper into a ziptop plastic bag or other sealable container. Bring the bag/container into the lab.
   1. Do not try to transport the verdigris while still suspended in the vinegar jar - the liquid will splash up and you can easily lose your crystal growth!
 4. Using a stainless steel butter knife or spoon, scrape the crystal growth onto the plate. Using a palette knife, a butter knife, or the back of a stainless steel spoon, scrape the green crystals from the copper. Gently crush the crystals to a fine powder
-  1. **NOTE:** Never carry this out in a setting other than a lab or approved studio where safety precautions can be followed to avoid hazard to you or the environment.
+  1. **NOTE: Never carry this out in a setting other than a lab or approved studio where safety precautions can be followed to avoid hazard to you or the environment.**
   2. Be sure to cover the surface you use with old newspaper or paper bags (which you discard immediately after use).
   3. Do not touch your mouth or eyes while doing this.
   4. When complete, thoroughly clean all surfaces with which the verdigris came into contact.
   5. Remember to avoid disposing of verdigris down the drain or into household trash.
+
+Once crystals have been scraped off of the copper, you can return it to your jar-and-vinegar setup to grow further. This can be repeated until the copper is too degraded to hold its shape. 
 
 ## Painting with verdigris in BnF Ms. Fr. 640
 
@@ -117,70 +121,58 @@ While there are no references to the process of making verdigris in BnF Ms. Fr. 
 
 > Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), https://edition640.makingandknowing.org/, https://doi.org/10.7916/78yt-2v41.
 
-For all instances in Fr. 640, search for "verdigris" in [_Secrets of Craft and Nature_](https://edition640.makingandknowing.org/#/).
+For all instances in Ms. Fr. 640, search for "verdigris" in [_Secrets of Craft and Nature_](https://edition640.makingandknowing.org/#/).
 
-Excerpts from Fr. 640 about using verdigris in painting are below:
+### Excerpts from Ms. Fr. 640 about using verdigris in painting:
 
-- [Fol. 63r](https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl) suggests crushing the crystals with vinegar or urine, allowing the mixture to dry, then mixing that with binder.
+[Fol. 63r](https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl) suggests crushing the crystals with vinegar or urine, allowing the mixture to dry, then mixing that with binder.
 
-_**Verdigris and another very beautiful bright green**_
-
+>_**Verdigris and another very beautiful bright green**_<br>
 _One ought not to grind it with water alone, for that makes it die. To render it beautiful in distemper, some grind it with vinegar, but that makes it turn pale &amp; become whitish. To render it beautiful, grind it with urine &amp; leave to dry. Then, whenever you like, grind it with oil. And after you have collected it with the spatula, before finishing to clean the marble, grind stil de grain yellow on it. And you will have a very beautiful green._
 
-- [Fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/tl) says that grinding it with urine will prevent the verdigris color from &quot;dying.&quot;
+[Fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/tl) says that grinding it with urine will prevent the verdigris color from &quot;dying.&quot;
 
-_ **Painter** _
-
+>_**Painter**_<br>
 … _Verdigris and orpiment must first be ground with urine before thinning them with oil. Thus they are beautiful &amp; do not die. …_
 
-- [Fol. 6r](https://edition640.makingandknowing.org/#/folios/6r/tl) recommends verdigris and turpentine varnish to create green burnished gold.
+[Fol. 6r](https://edition640.makingandknowing.org/#/folios/6r/tl) recommends verdigris and turpentine varnish to create green burnished gold.
 
-_ **For laying down and seating burnished gold and giving red or green or blue** _
-
+>_**For laying down and seating burnished gold and giving red or green or blue**_<br>
 … _For green, temper verdigris with walnut or linseed oil &amp; grind it, next mix in turpentine varnish and not spike lavender varnish, which is not suitable for verdigris. …_
 
 - [Fol. 39v](https://edition640.makingandknowing.org/#/folios/39v/tl) uses verdigris, turpentine, and mastic resin for the background of reverse-painted glass.
 
-_ **Tracing some history on glass** _
-
+>_**Tracing some history on glass**_<br>
 …_then you shall fill the background with azur d&#39;esmail or verdigris or fine laque platte_ ~~_platte_~~ _tempered with clear turpentine, mixed with a little of tear of mastic if you want that the colors are more even &amp; do not spread. …_
 
-- [Fol. 64r](https://edition640.makingandknowing.org/#/folios/64r/tl) explains that verdigris does not require two layers of application.
+[Fol. 64r](https://edition640.makingandknowing.org/#/folios/64r/tl) explains that verdigris does not require two layers of application.
 
-_ **Double layer** _
-
+>_**Double layer**_<br>
 _Verdigris does not die, &amp; thus does not need to be layered twice. But lake &amp; others, &amp; principally flesh colors,_ ~~_the_~~ _require two layers. Colors hardly change when they are dry._
 
-- [Fol. 65v](https://edition640.makingandknowing.org/#/folios/65v/tl) states that verdigris has no body and is thus good for glazing, but that it is also harmful to other colors.
+[Fol. 65v](https://edition640.makingandknowing.org/#/folios/65v/tl) states that verdigris has no body and is thus good for glazing, but that it is also harmful to other colors.
 
-_ **Glazing** _
-
-_One commonly glazes with colors that do not have body, such as lake &amp; verdigris. However, to use other colors, one mixes in a quantity of calcined &amp; ground cristallin, which also has no body &amp;_ ~~_makes_~~ _lightens the density of the others._
-
-_ **Imprimatura** _
-
+>_**Glazing**_<br>
+_One commonly glazes with colors that do not have body, such as lake &amp; verdigris. However, to use other colors, one mixes in a quantity of calcined &amp; ground cristallin, which also has no body &amp;_ ~~_makes_~~ _lightens the density of the others._<br><br>
+_**Imprimatura**_<br>
 _One needs to be quite careful about this, &amp; not make it, as some will, with gold color which is made with the washings of oil paintbrushes, because verdigris &amp; other corrosive colors which are in it will in the end make the colors die that are_ ~~_meu_~~ _layered on next. It is good to do it with ceruse,_ ~~_&amp; a bit of_~~ _yellow ocher, &amp; a little massicot, &amp; make it not very thick in order that it does not crack._
 
-- [Fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/tl) also comments on verdigris&#39; harmful properties.
+[Fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/tl) also comments on verdigris&#39; harmful properties.
 
-_ **Or mat** _
-
+>_**Or mat**_<br>
 … _Gold color that is made of different colors cleaned from paintbrushes for oil is not so good, &amp; with time, tarnishes the gold because of the verdigris. …_
 
-- [Fol. 105r](https://edition640.makingandknowing.org/#/folios/105r/tl) states that verdigris should be added to certain other pigments to help them dry in oil.
+[Fol. 105r](https://edition640.makingandknowing.org/#/folios/105r/tl) states that verdigris should be added to certain other pigments to help them dry in oil.
 
-_ **Drying colors** _
-
+>_**Drying colors**_<br>
 _Soot black &amp; others would not dry in oil if one did not put verdigris with it._
 
-- [Fol. 129r](https://edition640.makingandknowing.org/#/folios/129r/tl) offers ways to color objects cast in metal (specifically, snakes).
+[Fol. 129r](https://edition640.makingandknowing.org/#/folios/129r/tl) offers ways to color objects cast in metal (specifically, snakes).
 
-_ **Viper color** _
-
+>_**Viper color**_<br>
 … _Its true color is made with good verdigris ground well with some good vinegar, if it is of lead or tin. And if it is in some place darker, fumigate this first color with sulfur, as you know. …_
 
-- [Fol. 158v](https://edition640.makingandknowing.org/#/folios/158v/tl) has another way to give color to metal casts (here, leaves).
+[Fol. 158v](https://edition640.makingandknowing.org/#/folios/158v/tl) has another way to give color to metal casts (here, leaves).
 
-_ **Colors for green leaves** _
-
+>_**Colors for green leaves**_<br>
 … _For green, the verdigris has depth &amp; is too dark. If it is a yellowish green, you can mix with the verdigris a little yellow ocher &amp; stil de grain yellow. If the green is dark, put with it charcoal of peach tree pits, which makes a_ ~~_v_~~ _greenish black, in the same way that black of ox foot bone looks bluish. And thus, by judgment &amp; discretion, put the color on the natural flower or leaf to see whether it comes close. …_
