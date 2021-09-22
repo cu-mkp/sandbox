@@ -166,9 +166,9 @@ Remember to record your experiences in your field notes.
 - Linked websites listed in [Pigment Resources](https://docs.google.com/document/d/1PVbjreZFHa8i9XN60tyyIsN_Ar_HbiPcRxBGeEaWIxg/edit?usp=sharing), esp.:
   - [Technical Art History Website](https://www.artcons.udel.edu/outreach/kress), University of Delaware
   - [CAMEO: Conservation &amp; Art Materials Encyclopedia Online](http://cameo.mfa.org/wiki/Main_Page) (explore, and check &quot;Materials database&quot;)
-  - The Fitzwilliam Museum: [Overview of Artists&#39; Materials | ILLUMINATED](https://www.fitzmuseum.cam.ac.uk/illuminated/lab/lab/overview-of-artists-materials)
-  - Resources listed in this guide: [Medieval Pigments: Creation and Analysis | Cynthia Turner Camp](https://faculty.franklin.uga.edu/ctcamp/medieval-pigments-creation-and-analysis)
-  - Yale&#39;s [Traveling Scriptorium | A Teaching Kit by the Yale University Library](https://travelingscriptorium.wordpress.com/)
+  - The Fitzwilliam Museum: [Overview of Artists&#39; Materials - ILLUMINATED](https://www.fitzmuseum.cam.ac.uk/illuminated/lab/lab/overview-of-artists-materials)
+  - Resources listed in this guide: [Medieval Pigments: Creation and Analysis - Cynthia Turner Camp](https://faculty.franklin.uga.edu/ctcamp/medieval-pigments-creation-and-analysis)
+  - Yale&#39;s [Traveling Scriptorium - A Teaching Kit by the Yale University Library](https://travelingscriptorium.wordpress.com/)
   - the [COLOUR ConTEXT database](https://arb.mpiwg-berlin.mpg.de/node/1) (it&#39;s a slightly confusing interface, so look for the &quot;search&quot; bar in upper left corner and enter your term there).
 
 **Practical painting resources from Natural Pigments**
