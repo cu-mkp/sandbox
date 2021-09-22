@@ -1,14 +1,18 @@
+# Making Paints from Pigments and Painting Them Out
+
 >_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_<br>
 _The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-05-13 by NJR_<br>
 
 A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
 
-# Making Paints from Pigments and Painting Them Out
+![painting-header](../images/painting-header.png?raw=true)
+
+## Paint = Pigment + Binding Media
 
 Refer to [Presentation: Introduction to Pigments &amp; Paints](https://docs.google.com/presentation/d/1vdaIjHtvn5fM0X1I5n3aSLOlAXBTq71FZQURO0zIzY0/edit?usp=sharing)
 
-![](RackMultipart20210922-4-14p36nj_html_d6c6b43280d4ebdc.png)
+![painting-pigment+binding-media](../images/painting-pigment+binding-media.png?raw=true)
 
 ## Overview of Activity
 
@@ -20,16 +24,16 @@ Much more detailed information and resources are provided below in this document
   - Egg yolk (tempera)
   - Egg white (glair)
 - Make paint with 3 pigments:
-  - Cochineal lake
-  - Azurite
-  - Yellow ochre
+  - Cochineal lake (organic)
+  - Azurite (mineral)
+  - Yellow ochre (earth)
+  - (_or any other combination of pigments you have_)
 - Mull the pigments with the binding media to create a smooth, even paint (using muller and flat surface)
 - Paint out your prepared paints on the sample card
 - Continue experimenting with your paint!
 
 ## Materials and Tools
 
-|
 - Gum arabic ([Kremer #63330](http://shop.kremerpigments.com/en/mediums--binders-und-glues/water-soluble-binders/gum-arabic-powder-63330:.html))
 - Measuring cups, spoons, or food scale (to measure out water)
 - Water
@@ -40,14 +44,11 @@ Much more detailed information and resources are provided below in this document
 - Plastic palette knife
 - Mixed media paper ([Blick, Strathmore](https://www.dickblick.com/items/13640-1021/))
 - Muller (provided by M&amp;K: an &#39;improvised&#39; muller from a glass candlestick holder, [Letine (amazon)](https://www.amazon.com/gp/product/B07X7W2MXG/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;psc=1))
- |
 - OPTIONAL - Muller (improvised from home: try the back of a spoon, the bottom of a glass cup or jar...get creative!)
 - Surface for mulling (old plate, flat plastic lid)
-- Cochineal lake, prepared by you!
+- Cochineal lake (historical reconstruction), prepared by you!
 - Azurite ([Kremer #10200, 0 - 120 µ](https://shop.kremerpigments.com/us/shop/pigments/10200-azurite-natural-standard.html))
 - Ochre ([Earth Pigments (Colonial Yellow)](http://www.earthpigments.com/colonial-yellow-ocher-pigment/))
- |
-| --- | --- |
 
 ## Pigments
 
@@ -100,9 +101,6 @@ While professionals may invest in artisanal mullers and mulling surfaces (or pre
 - If needed, add more binding medium or water (if working with aqueous solutions), or use the palette knife to gather the paint back into the center.
 - You should not need to bear down with your weight - you are combining through friction and a little force but not grinding forcefully.
 
-###
-
-
 ### Resources
 
 Preparing your own paints (and mulling, in particular) is something that is easier shown than described in words. There are many demonstrations on the internet - search for &quot;pigments and binders&quot; or &quot;mulling pigments&quot; for videos of the process. For example, this [video showing mulling with egg yolk](https://www.youtube.com/watch?v=9cUDDQt7xfs) and this [video for oil and pigment](https://www.youtube.com/watch?v=GvLkNoWjKz0).
@@ -137,23 +135,13 @@ You have been provided with mixed media paper and paint brushes. You will first 
 
 ### Create Sample Card
 
-|
- | Binding medium 1_E.g., gum arabic in water (1:10)_ | Binding medium 2_E.g., linseed oil (Kremer #73054 cold-pressed)_ | Binding medium 3_E.g., Glair (egg white)_ |
-| --- | --- | --- | --- |
-| Pigment 1_E.g., cochineal lake, prepared 2019-03-07_ |
- |
- |
- |
-| Pigment 2_E.g., azurite, natural standard (Kremer #10200, 0 - 120 µ)_ |
- |
- |
- |
-| Pigment 3_E.g., yellow ochre (Earth Pigments, Colonial Yellow)_ |
- |
- |
- |
+|                                                                      | Binding medium 1<br> _E.g., gum arabic in water (1:10)_ | Binding medium 2<br> _E.g., linseed oil (Kremer #73054 cold-pressed)_ | Binding medium 3<br> _E.g., Glair (egg white)_ |
+|----------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------|------------------------------------------|
+| Pigment 1 E.g., cochineal lake, prepared 2019-03-07                  |                                                   |                                                                 |                                          |
+| Pigment 2 E.g., azurite, natural standard (Kremer #10200, 0 - 120 µ) |                                                   |                                                                 |                                          |
+| Pigment 3 E.g., yellow ochre (Earth Pigments, Colonial Yellow)       |                                                   |                                                                 |                                          |
 
-![](RackMultipart20210922-4-14p36nj_html_c9834539b8fa8ee3.png)
+![painting-pigment-card](../images/painting-pigment-card.png?raw=true)
 
 ## Questions for Consideration
 
