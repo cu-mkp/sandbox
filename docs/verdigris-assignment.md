@@ -1,20 +1,20 @@
-Making and Knowing Project
+# VERDIGRIS PIGMENT "GROWING" RECONSTRUCTION
 
-_Last updated August 19, 2021 NJR_
+> _HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
+The Making and Knowing Project, Columbia University
+Last updated 2021-08-19 by NJR_
 
-![](RackMultipart20210922-4-w1bfds_html_9abba6f7807e6c3e.png)
+![verdigris-header](../images/verdigris-header.png?raw=true)
 
-Safety Note: Nitrile/latex gloves must be worn when handling verdigris. Do not touch your mouth or bare skin. Do not scrape or grind the verdigris on food preparation surfaces.
+_**Safety Note: Nitrile/latex gloves must be worn when handling verdigris. Do not touch your mouth or bare skin. Do not scrape or grind the verdigris on food preparation surfaces.**_
 
-![](RackMultipart20210922-4-w1bfds_html_237499165a11f2b9.gif)
-
-&quot; **Growing&quot; Verdigris Assignment**
+## "Growing" Verdigris Assignment
 
 Verdigris is a blue-­green pigment prepared by exposing copper to acetic acid (vinegar), forming a basic copper acetate.
 
 This activity asks you to &quot;grow&quot; verdigris at home—a process for which you will assemble the equipment, plan, carry out, monitor, and document over the coming weeks. Because it takes time for the crystals to form, and because you will need crystals in a few weeks, you must start this assignment as soon as you can.
 
-**Historical Recipe Examples**
+## Historical Recipe Examples
 
 There are a number of recipes for &quot;growing&quot; verdigris across Medieval and Renaissance painter&#39;s manuals. Try searching for these in recipe collections, such as:
 
@@ -29,7 +29,7 @@ One particularly illuminating recipe is from the &quot;Bolognese Manuscript&quot
 | If you wish to make the copper-green which is called Greek, take a new jar, or any other concave vase, and put it into the strongest or most acid vinegar, so as not to fill it and put strips of very clean copper or brass over the vinegar, so as that they may not touch the vinegar or each other, being suspended to a stick placed across the vase. Then cover the vase and seal it, and put it into a warm place, or dung, or underground, and leave it so for six months, and then open the vase and shake out what you find in it, and on the strips of metal, into a clean vase, and put it in the sun to dry.
 Merrifield, Mary P., _Original Treatises Dating from the XIIth to XVIIIth Centuries on the Arts of Painting_, 2 vols (London: John Murray, 1849), vol. 1, pg. 124. |
 
-**Modern Recipe Resources**
+## Modern Recipe Resources
 
 Familiarize yourself with growing verdigris by browsing the [From Dirt to Shirt](http://www.vastrepast.net/www.vastrepast.net/From_Dirt_to_Shirt/Entries/2010/5/31_Making_Verdigris.html) blog which details various recipes for verdigris (note that this blogger prepares verdigris in order to eventually use it as a _dye_ while we will be using it as a _pigment_).
 
@@ -41,7 +41,7 @@ For more information about verdigris, please also see these scientific articles:
 - [Chaplin - Study by Raman microscopy of nine variants of the green-blue pigment verdigris](https://drive.google.com/open?id=0BwJi-u8sfkVDaVlFSzFVUlpNb2M)
 - [Andrés - Verdigris pigment: a mixture of compounds. Input from Raman spectroscopy](https://drive.google.com/open?id=0BwJi-u8sfkVDUHUyNFlibG4yVEE)
 
-**Materials**
+## Materials
 
 | **Material** | **Notes or substitutions** |
 | --- | --- |
@@ -57,7 +57,7 @@ For more information about verdigris, please also see these scientific articles:
 - palette knife (or other sturdy flat instrument such as a butter knife or metal spoon - just make sure not to use it for anything else after!)
  |
 
-**Instructions**
+## Instructions
 
 Below is a basic recipe designed to be a straightforward version of a historical example. Don&#39;t let that limit you in your experimentations! If you wish, try to reconstruct variations of recipes you found, like different types of vinegar or sources of copper, substituting urine for the vinegar, or creating a warm environment that would mimic the horse dung described in the example above.
 
@@ -70,7 +70,7 @@ Below is a basic recipe designed to be a straightforward version of a historical
 
 _ **Make sure to keep the jar closed and do not let the liquid touch the copper** __ **.** _
 
-**Material Safety Information**
+## Material Safety Information
 
 | Verdigris is a basic copper acetate, a material which can pose some safety risks. To determine how to work with it safely and what precautions to take, we consult the [Material Safety Data Sheet (MSDS) for copper acetate](https://drive.google.com/file/d/1ERlL29FybXl2y8nVLhuajccOYY2Cc3gD/view?usp=sharing). Key points are summarized below.
 
@@ -102,7 +102,7 @@ _ **Make sure to keep the jar closed and do not let the liquid touch the copper*
  |
 | --- |
 
-&quot;**Harvesting&quot; (or Preparing) the Verdigris for Painting - DO NOT DO THIS AT HOME**
+## "Harvesting" (or Preparing) the Verdigris for Painting - DO NOT DO THIS AT HOME
 
 Verdigris is toxic. Do not carry out these instructions at home, only in a laboratory or approved studio setting.
 
@@ -121,7 +121,7 @@ The longer you keep the jar closed, the more verdigris &quot;growth&quot; you wi
 
 ![](RackMultipart20210922-4-w1bfds_html_237499165a11f2b9.gif)
 
-**Painting with verdigris in BnF Ms. Fr. 640**
+## Painting with verdigris in BnF Ms. Fr. 640
 
 While there are no references to the process of making verdigris in BnF Ms. Fr. 640, there are a few notes about its use or application in painting. The manuscript also mentions verdigris as a material in processes other than painting, including casting, etching, and dyeing.
 
