@@ -49,7 +49,7 @@ For more information about verdigris, please also see these scientific articles:
 | Copper sheet, about 2&quot;X2&quot; ([Blick 60503 -8110 - Maid-o&#39;-Metal, St Louis Crafts Inc](https://www.dickblick.com/items/60503-8110/)) | Any small piece of copper metal can be used, such as copper piping from a hardware store (cut to size that will fit inside the jar, about an inch or so in diameter and an inch or two in length). Make sure that whatever you use is 100% and not an alloy or only copper-coated. |
 | ~5&quot; piece of cotton twine | This is what you will use to suspend the copper above the vinegar in the jar. Any piece of twine or string that will fit across the diameter of the jar with some extra length to hang over the sides will work |
 | About 50ml vinegar
-(or urine) | Try experimenting with different types of vinegar and make a note of their acetic acid concentration (most are diluted to 5% - check the label). Apple cider vinegar with the &quot;mother&quot; is ,brlikely the most similar to historical vinegar. |
+(or urine) | Try experimenting with different types of vinegar and make a note of their acetic acid concentration (most are diluted to 5% - check the label). Apple cider vinegar with the &quot;mother&quot; is likely the most similar to historical vinegar. |
 | **To harvest the verdigris:**<br> nitrile or latex gloves, table covering (such as a sheet of newspaper or paper bag, plastic sheeting), ceramic or glass plate (or other flat surface), palette knife (or other sturdy flat instrument such as a butter knife or metal spoon - just make sure not to use it for anything else after!)|
 
 ## Instructions
