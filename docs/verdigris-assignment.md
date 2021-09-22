@@ -1,30 +1,28 @@
 # VERDIGRIS PIGMENT "GROWING" RECONSTRUCTION
 
-> _HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
-The Making and Knowing Project, Columbia University
-Last updated 2021-08-19 by NJR_
+>_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_<br>
+_The Making and Knowing Project, Columbia University_<br>
+_Last updated 2021-08-19_<br>
 
 ![verdigris-header](../images/verdigris-header.png?raw=true)
 
 _**Safety Note: Nitrile/latex gloves must be worn when handling verdigris. Do not touch your mouth or bare skin. Do not scrape or grind the verdigris on food preparation surfaces.**_
 
-## "Growing" Verdigris Assignment
+Verdigris is a blue-green pigment prepared by exposing copper to acetic acid (vinegar), forming a basic copper acetate.
 
-Verdigris is a blue-­green pigment prepared by exposing copper to acetic acid (vinegar), forming a basic copper acetate.
-
-This activity asks you to &quot;grow&quot; verdigris at home—a process for which you will assemble the equipment, plan, carry out, monitor, and document over the coming weeks. Because it takes time for the crystals to form, and because you will need crystals in a few weeks, you must start this assignment as soon as you can.
+This activity asks you to &quot;grow&quot; verdigris at home — a process for which you will assemble the equipment, plan, carry out, monitor, and document over the coming weeks. It takes time for the crystals to form, you will need to start this assignment as soon as possible. You will likely need to plan for a few weeks of growth before you plan to use the verdigris (e.g., for painting).
 
 ## Historical Recipe Examples
 
 There are a number of recipes for &quot;growing&quot; verdigris across Medieval and Renaissance painter&#39;s manuals. Try searching for these in recipe collections, such as:
 
 - Cennino Cennini, _The Craftsman&#39;s Handbook, &#39;Il Libro dell&#39;Arte&#39;_, trans. by Daniel Thompson (New York: Dover, 1960).
-- Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations_ (Courier Dover Publications, 2012). ([PDFs of the two volumes](https://drive.google.com/drive/folders/0BwJi-u8sfkVDZnVsbXZpb1FqN0k?resourcekey=0-MmelaybrnNo3vmBHZaP9PA&amp;usp=sharing))
+- Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations_ (Courier Dover Publications, 2012).
 - _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_, edited by the Making and Knowing Project, et. al. (New York: the Making and Knowing Project, 2020),[https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
 
-One particularly illuminating recipe is from the &quot;Bolognese Manuscript&quot; of Jehan le Begue (late 14th or early 15th century) in _Medieval and Renaissance Treatises on the Art of Painting._
+One particularly illuminating recipe is from the &quot;Bolognese Manuscript&quot; of Jehan le Begue (late 14th or early 15th century) in _Medieval and Renaissance Treatises on the Art of Painting_.
 
-| _ **How to make the green from brass which is called Greek or common green** _ |
+| _**How to make the green from brass which is called Greek or common green**_ |
 | --- |
 | If you wish to make the copper-green which is called Greek, take a new jar, or any other concave vase, and put it into the strongest or most acid vinegar, so as not to fill it and put strips of very clean copper or brass over the vinegar, so as that they may not touch the vinegar or each other, being suspended to a stick placed across the vase. Then cover the vase and seal it, and put it into a warm place, or dung, or underground, and leave it so for six months, and then open the vase and shake out what you find in it, and on the strips of metal, into a clean vase, and put it in the sun to dry.
 Merrifield, Mary P., _Original Treatises Dating from the XIIth to XVIIIth Centuries on the Arts of Painting_, 2 vols (London: John Murray, 1849), vol. 1, pg. 124. |
@@ -37,9 +35,9 @@ You will notice that some recipes call for urine in the place of vinegar. Should
 
 For more information about verdigris, please also see these scientific articles:
 
-- [Roja - Application of Raman microscopy to the characterization of different verdigris variants obtained using recipes from old treatises](https://drive.google.com/file/d/0BwJi-u8sfkVDSEFPTGtiR05MOVk/view?usp=sharing)
-- [Chaplin - Study by Raman microscopy of nine variants of the green-blue pigment verdigris](https://drive.google.com/open?id=0BwJi-u8sfkVDaVlFSzFVUlpNb2M)
-- [Andrés - Verdigris pigment: a mixture of compounds. Input from Raman spectroscopy](https://drive.google.com/open?id=0BwJi-u8sfkVDUHUyNFlibG4yVEE)
+- de la Roja, J.M., V.G. Baonza, and M. San Andrés. “Application of Raman Microscopy to the Characterization of Different Verdigris VARIANTS Obtained Using Recipes from Old Treatises.” _Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 68_, no. 4 (2007): 1120–25. https://doi.org/10.1016/j.saa.2007.06.053.
+- Chaplin, Tracey D., Robin J. Clark, and David A. Scott. “Study by Raman Microscopy of Nine Variants of the GREEN-BLUE Pigment Verdigris.” _Journal of Raman Spectroscopy_ 37, no. 1-3 (2006): 223–29. https://doi.org/10.1002/jrs.1469. 
+- San Andrés, M., J. M. de la Roja, V. G. Baonza, and N. Sancho. “Verdigris Pigment: A Mixture of Compounds. Input from Raman Spectroscopy.” _Journal of Raman Spectroscopy_ 41, no. 11 (2010): 1468–76. https://doi.org/10.1002/jrs.2786. 
 
 ## Materials
 
@@ -49,17 +47,12 @@ For more information about verdigris, please also see these scientific articles:
 | Copper sheet, about 2&quot;X2&quot; ([Blick 60503 -8110 - Maid-o&#39;-Metal, St Louis Crafts Inc](https://www.dickblick.com/items/60503-8110/)) | Any small piece of copper metal can be used, such as copper piping from a hardware store (cut to size that will fit inside the jar, about an inch or so in diameter and an inch or two in length). Make sure that whatever you use is 100% and not an alloy or only copper-coated. |
 | ~5&quot; piece of cotton twine | This is what you will use to suspend the copper above the vinegar in the jar. Any piece of twine or string that will fit across the diameter of the jar with some extra length to hang over the sides will work |
 | About 50ml vinegar
-(or urine) | Try experimenting with different types of vinegar and make a note of their acetic acid concentration (most are diluted to 5% - check the label). Apple cider vinegar with the &quot;mother&quot; is likely the most similar to historical vinegar. |
-| **To harvest the verdigris:**
-- nitrile or latex gloves
-- table covering (such as a sheet of newspaper or paper bag, plastic sheeting)
-- ceramic or glass plate (or other flat surface)
-- palette knife (or other sturdy flat instrument such as a butter knife or metal spoon - just make sure not to use it for anything else after!)
- |
+(or urine) | Try experimenting with different types of vinegar and make a note of their acetic acid concentration (most are diluted to 5% - check the label). Apple cider vinegar with the &quot;mother&quot; is ,brlikely the most similar to historical vinegar. |
+| **To harvest the verdigris:**<br> nitrile or latex gloves, table covering (such as a sheet of newspaper or paper bag, plastic sheeting), ceramic or glass plate (or other flat surface), palette knife (or other sturdy flat instrument such as a butter knife or metal spoon - just make sure not to use it for anything else after!)|
 
 ## Instructions
 
-Below is a basic recipe designed to be a straightforward version of a historical example. Don&#39;t let that limit you in your experimentations! If you wish, try to reconstruct variations of recipes you found, like different types of vinegar or sources of copper, substituting urine for the vinegar, or creating a warm environment that would mimic the horse dung described in the example above.
+Below is a basic recipe designed to be a straightforward version of a historical example. Don't let that limit you in your experimentations! If you wish, try to reconstruct variations of recipes you found, like different types of vinegar or sources of copper, substituting urine for the vinegar, or creating a warm environment that would mimic the horse dung described in the example above.
 
 1. Fill the jar about ¼ full with vinegar (about an inch from the bottom of the jar)
 2. Attach the copper foil to the twine (e.g., by folding or crimping an edge over the string; or piercing a hole in the copper and threading the twine through). Make sure it is secure
@@ -68,17 +61,18 @@ Below is a basic recipe designed to be a straightforward version of a historical
 5. Put the jar in a warm spot where it will not be disturbed
 6. Observe your verdigris every few days and keep records and photos in your fieldnotes of what you observe. Take photos.
 
-_ **Make sure to keep the jar closed and do not let the liquid touch the copper** __ **.** _
+_**Make sure to keep the jar closed and do not let the liquid touch the copper.**_
 
 ## Material Safety Information
 
-| Verdigris is a basic copper acetate, a material which can pose some safety risks. To determine how to work with it safely and what precautions to take, we consult the [Material Safety Data Sheet (MSDS) for copper acetate](https://drive.google.com/file/d/1ERlL29FybXl2y8nVLhuajccOYY2Cc3gD/view?usp=sharing). Key points are summarized below.
+Verdigris is a basic copper acetate, a material which can pose some safety risks. To determine how to work with it safely and what precautions to take, we consult the [Material Safety Data Sheet (MSDS) for copper acetate](verdigris_msds-copper-acetate.pdf). Key points are summarized below.
 
-| **Material:** | **Verdigris** |
-| --- | --- |
+**Formation of copper(ii) acetate from Cu(s) and acetic acid.**
+- Common Name: **Verdigris** 
+- Chemical name: Copper(ii) acetate
+- Solubility: soluble in H2O and alcohol
+- Melting point: 115° C
 
-
-**Formation of copper(ii) acetate from Cu(s) and acetic acid.**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Common Name: **Verdigris** Chemical name: Copper(ii) acetateSolubility: soluble in H2O and alcoholMelting point: 115° C
 **Hazard statements, flashpoints, combustion points, interactions, etc.**
 - H302 harmful if swallowed;
 - H315 causes skin irritation;
@@ -96,15 +90,13 @@ _ **Make sure to keep the jar closed and do not let the liquid touch the copper*
 **Waste management**
 - Do not wash down the sink or throw away in household or regular trash
 - Any items that have come in contact with verdigris or that have any verdigris residue must be disposed of in hazardous waste containers
-- In the M&amp;K lab: verdigris is &quot;hazardous waste,&quot; detailed in [Waste management.pptx](https://docs.google.com/presentation/d/13-ZVw9qOoyZFTDsWZyt0qEY1Gf7zhPIUP1A3bsecP4c/edit?usp=sharing)
+- In the Making and Knowing labat Columbia University: verdigris is "hazardous waste" (we follow the recommendations of [Columbia Environmental Health & Safety](https://research.columbia.edu/environmental-health-safety)
   - Solid/Liquid, non-oil, hazardous; or
   - Solid/Liquid, oil, hazardous
- |
-| --- |
 
 ## "Harvesting" (or Preparing) the Verdigris for Painting - DO NOT DO THIS AT HOME
 
-Verdigris is toxic. Do not carry out these instructions at home, only in a laboratory or approved studio setting.
+**Verdigris is toxic. Do not carry out these instructions at home, only in a laboratory or approved studio setting.**
 
 The longer you keep the jar closed, the more verdigris &quot;growth&quot; you will have. After a few weeks, you should have enough to yield a good amount with which to paint.
 
@@ -119,19 +111,19 @@ The longer you keep the jar closed, the more verdigris &quot;growth&quot; you wi
   4. When complete, thoroughly clean all surfaces with which the verdigris came into contact.
   5. Remember to avoid disposing of verdigris down the drain or into household trash.
 
-![](RackMultipart20210922-4-w1bfds_html_237499165a11f2b9.gif)
-
 ## Painting with verdigris in BnF Ms. Fr. 640
 
-While there are no references to the process of making verdigris in BnF Ms. Fr. 640, there are a few notes about its use or application in painting. The manuscript also mentions verdigris as a material in processes other than painting, including casting, etching, and dyeing.
+While there are no references to the process of making verdigris in BnF Ms. Fr. 640 (the 16th-century artisanal/technical manual studied by the Making and Knowing Project), there are a few notes about its use or application in painting. The manuscript also mentions verdigris as a material in processes other than painting, including casting, etching, and dyeing.
 
-For all instances in Fr. 640, search for &quot;verdigris&quot; in [_Secrets of Craft and Nature_](https://edition640.makingandknowing.org/#/)_._
+> Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), https://edition640.makingandknowing.org/, https://doi.org/10.7916/78yt-2v41.
+
+For all instances in Fr. 640, search for "verdigris" in [_Secrets of Craft and Nature_](https://edition640.makingandknowing.org/#/).
 
 Excerpts from Fr. 640 about using verdigris in painting are below:
 
 - [Fol. 63r](https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl) suggests crushing the crystals with vinegar or urine, allowing the mixture to dry, then mixing that with binder.
 
-_ **Verdigris and another very beautiful bright green** _
+_**Verdigris and another very beautiful bright green**_
 
 _One ought not to grind it with water alone, for that makes it die. To render it beautiful in distemper, some grind it with vinegar, but that makes it turn pale &amp; become whitish. To render it beautiful, grind it with urine &amp; leave to dry. Then, whenever you like, grind it with oil. And after you have collected it with the spatula, before finishing to clean the marble, grind stil de grain yellow on it. And you will have a very beautiful green._
 
