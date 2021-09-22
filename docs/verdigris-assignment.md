@@ -4,6 +4,8 @@
 _The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-08-19_<br>
 
+A downloadable version of this assignment: [[PDF](verdigris_assignment_downloadable_2021.pdf)]
+
 ![verdigris-header](../images/verdigris-header.png?raw=true)
 
 _**Safety Note: Nitrile/latex gloves must be worn when handling verdigris. Do not touch your mouth or bare skin. Do not scrape or grind the verdigris on food preparation surfaces.**_
@@ -176,3 +178,5 @@ _Soot black &amp; others would not dry in oil if one did not put verdigris with 
 
 >_**Colors for green leaves**_<br>
 … _For green, the verdigris has depth &amp; is too dark. If it is a yellowish green, you can mix with the verdigris a little yellow ocher &amp; stil de grain yellow. If the green is dark, put with it charcoal of peach tree pits, which makes a_ ~~_v_~~ _greenish black, in the same way that black of ox foot bone looks bluish. And thus, by judgment &amp; discretion, put the color on the natural flower or leaf to see whether it comes close. …_
+
+A downloadable version of this assignment: [[PDF](verdigris_assignment_downloadable_2021.pdf)]
