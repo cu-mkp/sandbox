@@ -181,3 +181,5 @@ Remember to record your experiences in your field notes.
 - [Artists Materials - Why Some Paints are Transparent and Others Opaque](https://www.naturalpigments.com/artist-materials/cat/natural-pigments-supplies/post/transparent-opaque-paints/)
 
 Remember to record your experiences in your field notes.
+
+A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
