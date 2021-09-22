@@ -19,7 +19,7 @@ The Making and Knowing Project hopes to create an online environment for student
 - [ms-text-analysis: Files and tools for performing textual analysis of BnF Ms Fr 640](https://cu-mkp.github.io/ms-text-analysis/guide_to_searching) (2020-02-04)
 - [Visualizing Semantic Markup in BnF Ms. Fr. 640](https://www.clementgodbarge.com/post/visualization/) by Making and Knowing Postdoctoral Scholar Clément Godbarge (2021-03-09)
 
-## Spring 2019 Final Projects from the course, ENGL84031 / HISTGU4031 / COMS4495 "Transforming Texts: Textual Analysis, Literary Modeling, and Visualization" (2021-05-06)
+## Spring 2019 Final Projects from the course, ENGL84031 / HISTGU4031 / COMS4495: *Transforming Texts: Textual Analysis, Literary Modeling, and Visualization* (2021-05-06)
 - [Ontologies of Ms. Fr. 640](docs/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
 - [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/docs/SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
 - [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/docs/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf) by Sandra Goldstein Lehnert, Laura Elizabeth Hand, and Greg Alton Houser
