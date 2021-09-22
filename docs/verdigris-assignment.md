@@ -2,7 +2,7 @@
 
 >_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_<br>
 _The Making and Knowing Project, Columbia University_<br>
-_Last updated 2021-08-19_<br>
+_Last updated 2021-08-19 by NJR_<br>
 
 A downloadable version of this assignment: [[PDF](verdigris_assignment_downloadable_2021.pdf)]
 
