@@ -42,3 +42,4 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
 - [Activity Sheet: Breadmolding Reconstruction](docs/breadmolding-assignment.md) - complete assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
 - [Activity Sheet: "Growing" Verdigris Pigment Reconstruction](docs/verdigris-assignment.md) - complete assignment sheet for producing verdigris, a blue-green pigment, using historical techniques (2021-09-22)
+- [Activity Sheet: Making Paints from Pigments and Painting Them Out](docs/painting-assignment.md) - complete assignment sheet for making paints by combining historical pigments and binding media (2021-09-22)
