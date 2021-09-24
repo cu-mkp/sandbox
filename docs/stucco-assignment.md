@@ -6,7 +6,7 @@ _Last updated 2021-09-24 by NJR_<br>
 
 A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
 
-![stucco-header](../images/stucco-header.png?raw=true)
+![stucco-header](../images/stucco-header.jpg?raw=true)
 
 ## Ephemeral Art in BnF Ms. Fr. 640
 The 16th-century artisanal/technical manual, BnF Ms. Fr. 640, contains hundreds of entries that describe making processes and techniques from the Renaissance. These include instructions for and observations about painting, gilding, arms and armor production, plant cultivation, and making molds and metal casts.
