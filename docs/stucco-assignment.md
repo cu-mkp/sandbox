@@ -54,6 +54,8 @@ The reconstruction of this recipe has been adapted for two variations: stucco fr
 - Add tragacanth gum to water while mixing. The powder will not easily incorporate into the water, so allow the gum to “drink its water” until is “swollen and like jelly.”
 - Stir the mixture until it is a cohesive mass, then transfer it to a plate and mull with a muller until smooth and the mixture resembles the texture of petroleum jelly.
 
+![stucco-tragacanth-gum](../images/stucco-tragacanth-gum.jpg?raw=true)
+
 ### Step 2: Stucco | OPTION 1: Rye flour (approximately 3:4 ratio gum/water to rye flour)
 - Sift the flour with a fine mesh to remove larger pieces.
 - Into the tragacanth gum and water mixture, begin to incorporate the sifted flour on the glass plate. Mix first with a palette knife or spoon, then work it with your hands, treating it like dough.
@@ -63,11 +65,15 @@ The reconstruction of this recipe has been adapted for two variations: stucco fr
 - Into the tragacanth gum and water mixture, begin to incorporate the chalk on the glass plate. Mix first with a palette knife or spoon, then work it with your hands, treating it like dough. 
 - Add chalk  until the stucco is malleable yet firm and can be “kneaded” to become smooth and homogeneous.
 
+![stucco-chalk](../images/stucco-chalk.jpg?raw=true)
+
 ### Step 3: Molding
 - To prepare the molds for the stucco, use a soft brush to lightly oil the silicone or plastic molds with linseed oil, making sure to cover all surfaces and crevices of the mold with a very thin layer of oil.
 - Take a ball of the prepared stucco dough that is slightly larger in volume than the mold.
 - Press the ball into the mold, ensuring that dough has reached every crevice
 - Carefully remove the molded dough from the mold and leave to dry overnight, impression-side up.
+
+![stucco-molded](../images/stucco-molded.jpg?raw=true)
 
 NOTE TO INSTRUCTORS: Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves.
 
