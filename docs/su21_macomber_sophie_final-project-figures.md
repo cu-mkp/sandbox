@@ -61,6 +61,8 @@ With 34 entries (not quite a quarter of the total), those relating to arms and a
 
 ![su21-macomber-distribution-of-figures](../images/su21-macomber-distribution-of-figures.png?raw=true)
 
+_See [su21_macomber_figures.R](../code/su21_macomber_figures.R) for sourcecode of this chart._
+
 ### Text and Figure
 
 While breaking down the figures by category allows us to gain information about when the author-practitioner felt that it was necessary to utilize figures, we must turn to how the figures are integrated into the manuscript in order to determine how the author-practitioner worked the figures into the manuscript as he was writing.
