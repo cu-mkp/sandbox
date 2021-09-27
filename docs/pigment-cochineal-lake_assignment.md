@@ -6,32 +6,23 @@ _Last updated 2021-04-16 by NJR_
 
 Refer also to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](https://docs.google.com/presentation/d/1DaYRSXG2iUwkHnKqRgMkSDwTqL0TreohJGrlKbMZhVg/edit?usp=sharing)
 
-## Recipe for cochineal lake from the &quot;Paduan Manuscript&quot;
+## Recipe for cochineal lake from the "Paduan Manuscript"
 
-**(anonymous, Venice, late 16****th ****-17**** th **** century)**
-
+**(anonymous, Venice, late 16th-17th century)**
 Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations_ (1849, Dover Publications, 1969), pp. 701-702.
 
-![](RackMultipart20210927-4-kutgiw_html_237499165a11f2b9.gif)
+> _Another sort of fine lake._ Take 12 grains of powdered cochineal or fine grana, add to it 2oz of ley; leave the infusion for about 2 hours; strain it through a linen cloth and put it over hot cinders; When it boils add to it pulverized roche alum of the size of 2 peas then the ley will make a thick red scum; as soon as this happens throw it all onto a stretched linen cloth, when the clear ley will pass through leaving the coagulum on the cloth, which coagulum must afterwards be dried and made into tablets.
 
-_Another sort of fine lake._ Take 12 grains of powdered cochineal or fine grana, add to it 2oz of ley; leave the infusion for about 2 hours; strain it through a linen cloth and put it over hot cinders; When it boils add to it pulverized roche alum of the size of 2 peas then the ley will make a thick red scum; as soon as this happens throw it all onto a stretched linen cloth, when the clear ley will pass through leaving the coagulum on the cloth, which coagulum must afterwards be dried and made into tablets.
-
-![](RackMultipart20210927-4-kutgiw_html_237499165a11f2b9.gif)
-
-_Un altra sorte di lacca fina._ - R. Piglia 12 grani di cocciniglia, o grana fina fatta inpolvere, si pone in due oncie di lissivio lasciandola in infusione due hore incirca poi si cola per pano lino, e si mette sopra cenere calda, quando vorrà bollire vi si aggiunge quanto due piselli d&#39;allume di rocca in polvere, quando il liscivo farà schiuma grossa incarnata all&#39; hora si getta tutto in un panno lino steso, e passarà il lissivo chiaro restando la schiuma nel panno, quale si fa seccare, e si fa tavolette.
-
-![](RackMultipart20210927-4-kutgiw_html_237499165a11f2b9.gif)
-
-##
-
+>_Un altra sorte di lacca fina._ - R. Piglia 12 grani di cocciniglia, o grana fina fatta inpolvere, si pone in due oncie di lissivio lasciandola in infusione due hore incirca poi si cola per pano lino, e si mette sopra cenere calda, quando vorrà bollire vi si aggiunge quanto due piselli d&#39;allume di rocca in polvere, quando il liscivo farà schiuma grossa incarnata all&#39; hora si getta tutto in un panno lino steso, e passarà il lissivo chiaro restando la schiuma nel panno, quale si fa seccare, e si fa tavolette.
 
 ## Modernized recipes, adapted for the laboratory (or kitchen)
+The following recipes have been adapted from Chapter 5, "Recipes," of Jo Kirby et al, _**Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources**_ (Archetype, London, 2014).
 
 There are two modernized versions of this recipe:
 
-1. &quot; **Standard&quot;**
+1. **"Standard"**
   1. Extraction of cochineal in potash, precipitation of pigment with alum
-2. &quot; **Standard Reversed&quot;**
+2. **"Standard Reversed"**
   1. Extraction of cochineal in alum, precipitation of pigment with potash
 
 ## RECIPE 1: &quot;Standard&quot;
@@ -102,4 +93,3 @@ This method uses a water bath or bain-marie (see this [cooking blog](https://www
 - Because water boils and begins to evaporate at 100 °C, your solutions will never exceed 100 °C, the temperature at which the colorants can begin to degrade. This is an easy way to prepare solutions without a thermometer and ensure you are not reaching high temperature levels
 - If the water in the pot begins to boil or simmer violently, your jars will start to shake and move around the pot. If this happens, it is a sign to turn your heat down
 
-**Recipes adapted from Jo Kirby et al,** _ **Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources** _ **(Archetype, London, 2014).** -- [Chapter 5 - Recipes](https://drive.google.com/open?id=0BwJi-u8sfkVDNmxiVHU5SzZqQ0k)
