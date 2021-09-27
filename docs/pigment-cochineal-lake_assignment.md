@@ -9,6 +9,7 @@ Refer also to [Presentation: Cochineal Lake: History, Chemistry, and Preparation
 ## Recipe for cochineal lake from the "Paduan Manuscript"
 
 **(anonymous, Venice, late 16th-17th century)**
+
 Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations_ (1849, Dover Publications, 1969), pp. 701-702.
 
 > _Another sort of fine lake._ Take 12 grains of powdered cochineal or fine grana, add to it 2oz of ley; leave the infusion for about 2 hours; strain it through a linen cloth and put it over hot cinders; When it boils add to it pulverized roche alum of the size of 2 peas then the ley will make a thick red scum; as soon as this happens throw it all onto a stretched linen cloth, when the clear ley will pass through leaving the coagulum on the cloth, which coagulum must afterwards be dried and made into tablets.
