@@ -6,6 +6,10 @@ _Last updated 2021-09-24 by NJR_<br>
 
 A downloadable version of this assignment: [[PDF](stucco_assignment_downloadable_2021.pdf)]
 
+**NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves. A "student handout" is available:
+- [webpage (student handout)](stucco_assignment_student-handout.md)
+- [PDF (student handout)](stucco_assignment_student-handout.pdf)
+
 ![stucco-header](../images/stucco-header.jpg?raw=true)
 
 ## Ephemeral Art in BnF Ms. Fr. 640
@@ -75,6 +79,15 @@ The reconstruction of this recipe has been adapted for two variations: stucco fr
 
 ![stucco-molded](../images/stucco-molded.jpg?raw=true)
 
-NOTE TO INSTRUCTORS: Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves.
+## Further reading:
+- Elizondo-Garza, Nina. "Stucco for Molding." In Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. https://edition640.makingandknowing.org/#/essays/ann_064_fa_17. DOI: https://www.doi.org/10.7916/1n6h-5f69
+
+<br><hr><br>
 
 A downloadable version of this assignment: [[PDF](stucco_assignment_downloadable_2021.pdf)]
+
+**NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves.A "student handout" is available:
+- [webpage (student handout)](stucco_assignment_student-handout.md)
+- [PDF (student handout)](stucco_assignment_student-handout.pdf)
+
+
