@@ -141,7 +141,7 @@ You have been provided with mixed media paper and paint brushes. You will first 
 | Pigment 2 E.g., azurite, natural standard (Kremer #10200, 0 - 120 µ) |                                                   |                                                                 |                                          |
 | Pigment 3 E.g., yellow ochre (Earth Pigments, Colonial Yellow)       |                                                   |                                                                 |                                          |
 
-![painting-pigment-card](../images/painting-pigment-card.png?raw=true)
+![pigment-card](../images/pigment-card.png?raw=true)
 
 ## Questions for Consideration
 
