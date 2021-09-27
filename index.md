@@ -38,6 +38,8 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Was Ms. Fr. 640 Intentionally Disorganized?](https://docs.google.com/document/d/e/2PACX-1vRLvJezbhrSqPS8s_8r1XmXfHllN9IsP1l2r10sQlKK90gq737BxJjPj8TCl4bz1TElq3N1Nq55vNxa/pub) by Mackenzie Fox
 - [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640](docs/su21_macomber_sophie_final-project-figures.md) by Sophie Macomber
 - [Understanding Natural Things in the World and the Workshop](https://docs.google.com/document/d/e/2PACX-1vQoI_G0UUDBjaDpH1vBJ5DGQSX6vz9Wwj-AYHVhw-bXMgYOUg88wTWCP9gl_T2Dw4xvyLM03eSZzY5U/pub) by Anna Christensen
+- [Foraging for Pigments: A Making and Knowing Project](docs/su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder (PDF)
+     - [[PPTX](docs/su21_snyder_mellon_final-project-pigments.pptx)]
 
 ## Resources
 ### Activity Sheets, Assignments, and Reconstruction Protocols
