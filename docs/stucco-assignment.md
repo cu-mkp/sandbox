@@ -4,13 +4,13 @@
 _The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-09-24 by NJR_<br>
 
+![stucco-header](../images/stucco-header.jpg?raw=true)
+
 A downloadable version of this assignment: [[PDF](stucco_assignment_downloadable_2021.pdf)]
 
 **NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves. A "student handout" is available:
 - [webpage (student handout)](stucco_assignment_student-handout.md)
 - [PDF (student handout)](stucco_assignment_student-handout.pdf)
-
-![stucco-header](../images/stucco-header.jpg?raw=true)
 
 ## Ephemeral Art in BnF Ms. Fr. 640
 The 16th-century artisanal/technical manual, BnF Ms. Fr. 640, contains hundreds of entries that describe making processes and techniques from the Renaissance. These include instructions for and observations about painting, gilding, arms and armor production, plant cultivation, and making molds and metal casts.
