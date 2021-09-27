@@ -24,9 +24,9 @@ The following recipes have been adapted from Chapter 5, "Recipes," of Jo Kirby e
 There are two modernized versions of this recipe:
 
 1. **"Standard"**
-  1. Extraction of cochineal in potash, precipitation of pigment with alum
+     - Extraction of cochineal in potash, precipitation of pigment with alum
 2. **"Standard Reversed"**
-  1. Extraction of cochineal in alum, precipitation of pigment with potash
+     - Extraction of cochineal in alum, precipitation of pigment with potash
 
 ## RECIPE 1: "Standard"
 
