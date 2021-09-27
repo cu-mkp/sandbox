@@ -48,3 +48,4 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Activity Sheet: "Growing" Verdigris Pigment Reconstruction](docs/verdigris-assignment.md) - complete assignment sheet for producing verdigris, a blue-green pigment, using historical techniques (2021-09-22)
 - [Activity Sheet: Making Paints from Pigments and Painting Them Out](docs/painting-assignment.md) - complete assignment sheet for making paints by combining historical pigments and binding media (2021-09-22)
 - [Activity Sheet: Stucco for Molding](docs/stucco-assignment.md) - complete assignment sheet for creating molded stucco object from rye flour or chalk (2021-09-24) 
+- [Activity Sheet: Making Lake Pigment from Cochineal](docs/pigment-cochineal-lake_assignment.md) - complete assignment sheet for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
