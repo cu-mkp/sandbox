@@ -1,8 +1,10 @@
-_The Making and Knowing Project, Columbia University_
+# MAKING LAKE PIGMENT FROM COCHINEAL
 
+>_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-04-16 by NJR_
 
-# MAKING LAKE PIGMENT WITH COCHINEAL
+
+![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
 
 Refer also to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](https://docs.google.com/presentation/d/1DaYRSXG2iUwkHnKqRgMkSDwTqL0TreohJGrlKbMZhVg/edit?usp=sharing)
 
@@ -26,58 +28,79 @@ There are two modernized versions of this recipe:
 2. **"Standard Reversed"**
   1. Extraction of cochineal in alum, precipitation of pigment with potash
 
-## RECIPE 1: &quot;Standard&quot;
+## RECIPE 1: "Standard"
 
-| **RECIPE 1: &quot;Standard&quot;** |
-| --- |
-| 1 - Mortar &amp; pestle1 - Hot plate1 - Large beaker (at least 1000ml)1 - Small beaker (at least 100ml)1 - Pair of chopsticks or other stirring device1 - Thermometer 1 - Funnel1 - Filter | pH strips300ml - Water - for potash (large beaker)50ml - Water - for alum (smaller beaker)1 - Drawstring bag0.24g - Cochineal10g - Alum4g - Potash |
+### Materials and Equipment (Recipe 1)
+- Mortar & pestle
+- Hot plate
+- Large beaker (at least 1000ml)
+- Small beaker (at least 100ml)
+- Pair of chopsticks or other stirring device
+- Thermometer 
+- Funnel
+- Filter (such as a basket coffee filter) or filter paper
+- pH strips
+- 300ml Water - for potash (large beaker)
+- 50ml Water - for alum (smaller beaker)
+- Drawstring bag (such as a disposable tea bag)
+- 0.24g Cochineal
+- 10g Alum
+- 4g Potash
 
-**Procedure:**
+### Procedure (Recipe 1)
 
 - Grind cochineal in mortar and pestle
 - Using a small utensil, add cochineal to the drawstring bag. Close the bag tightly
 - Add potash and bag of cochineal to 300ml water in the 1000ml beaker
 - Bring to a boil and boil for 15-20 min
 - Using heat, dissolve 10g alum in 50 ml water in the 100ml beaker
-- Warm the colored solution to about 50 ˚C and add alum solution very gradually, stirring. Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
+- Warm the colored solution to about 50 ˚C and add alum solution very gradually, stirring constantly 
+     - Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
 - Allow the solution to settle for at least 15min (ideally overnight)
 - Pour solution through filter in a funnel
 - Once the liquid has drained through, wash the pigment: discard the filtrate and place funnel+filter over a clean container. Pour 100ml of clean water through the filter. Repeat until the filtrate is clear
 - Allow the pigment to dry on the filter (at least overnight), then scrape off and use
 
-##
+## RECIPE 2: "Standard - Reversed"
 
+### Materials and Equipment (Recipe 2)
+- Mortar & pestle
+- Hot plate
+- Large beaker (at least 1000ml)
+- Small beaker (at least 100ml)
+- Pair of chopsticks or other stirring device
+- Thermometer 
+- Funnel
+- Filter (such as a basket coffee filter) or filter paper
+- pH strips
+- 300ml Water - for alum (large beaker)
+- 50ml Water - for potash (smaller beaker)
+- Drawstring bag (such as a disposable tea bag)
+- 0.24g Cochineal
+- 10g Alum
+- 4g Potash
 
-## RECIPE 2: &quot;Standard - Reversed&quot;
-
-| **RECIPE 2: &quot;Standard - Reversed&quot;** |
-| --- |
-| 1 - Mortar &amp; pestle1 - Hot plate1 - Large beaker (at least 1000ml)1 - Small beaker (at least 100ml)1 - Pair of chopsticks or other stirring device1 - Thermometer 1 - Funnel1 - Filter | pH strips300ml - Water - for alum (large beaker)50ml - Water - for potash (smaller beaker)1 - Drawstring bag0.24g - Cochineal10g - Alum4g - Potash |
-
-**Procedure:**
+### Procedure (Recipe 2)
 
 - Grind cochineal in mortar and pestle
 - Using a small utensil, add cochineal to the drawstring bag. Close the bag tightly
 - Add alum and bag of cochineal to 300ml water in the 1000ml beaker
 - Bring to a boil and boil for 15-20 min
 - Using heat, dissolve 10g potash in 50 ml water in the 100ml beaker
-- Warm the colored solution to about 50 ˚C and add potash solution very gradually, stirring. Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
+- Warm the colored solution to about 50 ˚C and add potash solution very gradually, stirring constantly
+     - Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
 - Allow the solution to settle for at least 15min (ideally overnight)
 - Pour solution through filter in a funnel
 - Once the liquid has drained through, wash the pigment: discard the filtrate and place funnel+filter over a clean container. Pour 100ml of clean water through the filter. Repeat until the filtrate is clear
 - Allow the pigment to dry on the filter (at least overnight), then scrape off and use
 
-##
-
-
 ## An Alternative Method To Using Hotplates and Beakers
-
 This method uses a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries)
 
-**Process**
+### Process
 
 - On your stove at home, prepare your solutions in mason jars (or other glass jars that can withstand prolonged heating such as pickling or jam jars).
-- Place the jars in a large cooking pot (the pot&#39;s material doesn&#39;t matter – can use steel, ceramic, etc.)
+- Place the jars in a large cooking pot (the pot's material doesn't matter – can use steel, ceramic, etc.)
   - NOTE: be careful about using these pots to prepare foods after you have dyed with them if you are working with materials that are not food safe.
   - NOTE: the natural colorants can stain light-colored surfaces, so be careful if using ceramic or glass pots.
 - Fill the pot with enough water to come up past the solutions in your mason jars, being careful not to contaminate the solutions inside your jars
