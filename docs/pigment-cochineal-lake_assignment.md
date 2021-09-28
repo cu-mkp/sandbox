@@ -1,4 +1,4 @@
-# MAKING LAKE PIGMENT FROM COCHINEAL
+# MAKING LAKE PIGMENT FROM COCHINEAL: A HISTORICAL RECONSTRUCTION
 
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-04-16 by NJR_
@@ -6,7 +6,17 @@ _Last updated 2021-04-16 by NJR_
 
 ![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
 
-Refer also to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](https://docs.google.com/presentation/d/1DaYRSXG2iUwkHnKqRgMkSDwTqL0TreohJGrlKbMZhVg/edit?usp=sharing)
+## Lake pigments and natural colorants
+If you are not already familiar with historical pigments and natural colorants, refer to to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](docs/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
+
+See also [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf).
+
+Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed
+directly with a binding medium and therefore cannot be used as a pigment.
+
+**Lake pigments:** in general, pigments prepared from soluble natural colorants, formed by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate.
+
+> Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 ## Recipe for cochineal lake from the "Paduan Manuscript"
 
