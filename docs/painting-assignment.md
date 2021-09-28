@@ -10,7 +10,7 @@ A downloadable version of this assignment: [[PDF](painting_assignment_downloadab
 
 ## Paint = Pigment + Binding Media
 
-Refer to [Presentation: Introduction to Pigments &amp; Paints](https://docs.google.com/presentation/d/1vdaIjHtvn5fM0X1I5n3aSLOlAXBTq71FZQURO0zIzY0/edit?usp=sharing)
+Refer to [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf)
 
 ![painting-pigment+binding-media](../images/painting-pigment+binding-media.png?raw=true)
 
