@@ -1,8 +1,7 @@
 # MAKING LAKE PIGMENT FROM COCHINEAL: A HISTORICAL RECONSTRUCTION
 
 >_The Making and Knowing Project, Columbia University_<br>
-_Last updated 2021-04-16 by NJR_
-
+_Last updated 2021-09-29 by NJR_
 
 ![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
 
@@ -12,15 +11,26 @@ If you are not already familiar with historical pigments and natural colorants, 
 See also [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf).
 
 Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed
-directly with a binding medium and therefore cannot be used as a pigment.
+directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
 
 **Lake pigments:** in general, pigments prepared from soluble natural colorants, formed by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate.
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
-## Recipe for cochineal lake from the "Paduan Manuscript"
+## Cochineal
+![cochineal-plant](../images/cochineal-plant.jpg?raw=true)
+Photo credit: MARK WILLIAMSON/SCIENCE PHOTO LIBRARY [https://www.bbc.com/news/business-43786055](https://www.bbc.com/news/business-43786055)
 
-**(anonymous, Venice, late 16th-17th century)**
+Cochineal is a scale insect found on prickly pear or Barbary fig cactus (Opuntia ficusindica (L.)).
+Species name: Dactylopius coccus
+Chemical class: carminic acid (anthraquinone)
+Region: Cultivated in Mexico and Peruvian Andes, before Spain brought to Europe in 1523 where it spread rapidly.
+
+> Phipps, Elena. _Cochineal Red: the Art History of a Color._ New York (N.Y.: The Metropolitan Museum of Art, 2010. Print.)
+
+## Historical recipe for cochineal lake
+
+**The "Paduan Manuscript" (anonymous, Venice, late 16th-17th century)**
 
 Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations_ (1849, Dover Publications, 1969), pp. 701-702.
 
@@ -53,9 +63,9 @@ There are two modernized versions of this recipe:
 - 300ml Water - for potash (large beaker)
 - 50ml Water - for alum (smaller beaker)
 - Drawstring bag (such as a disposable tea bag)
-- 0.24g Cochineal
-- 10g Alum
-- 4g Potash
+- 0.24g Cochineal (the Making and Knowing Project typically sources this from Kremer Pigments, [Kremer #36040-cochineal](https://shop.kremerpigments.com/us/shop/dyes-vegetable-color-paints/natural-organic-dyes-vegetable-color-paints/36040-cochineal.html))
+- 10g Alum (aluminum potassium sulfate, [Kremer #64100-potash-alum](https://shop.kremerpigments.com/us/shop/solvents-chemicals-additives/chemicals/64100-potash-alum.html))
+- 4g Potash (potassium carbonate, [Kremer #64040-potash](https://shop.kremerpigments.com/us/shop/solvents-chemicals-additives/64040-potash.html))
 
 ### Procedure (Recipe 1)
 
