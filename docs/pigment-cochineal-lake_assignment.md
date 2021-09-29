@@ -22,8 +22,11 @@ directly with a binding medium and therefore cannot be used as a pigment. These 
 Photo credit: MARK WILLIAMSON/SCIENCE PHOTO LIBRARY [https://www.bbc.com/news/business-43786055](https://www.bbc.com/news/business-43786055)
 
 Cochineal is a scale insect found on prickly pear or Barbary fig cactus (Opuntia ficusindica (L.)).
+
 Species name: Dactylopius coccus
+
 Chemical class: carminic acid (anthraquinone)
+
 Region: Cultivated in Mexico and Peruvian Andes, before Spain brought to Europe in 1523 where it spread rapidly.
 
 > Phipps, Elena. _Cochineal Red: the Art History of a Color._ New York (N.Y.: The Metropolitan Museum of Art, 2010. Print.)
@@ -96,9 +99,9 @@ There are two modernized versions of this recipe:
 - 300ml Water - for alum (large beaker)
 - 50ml Water - for potash (smaller beaker)
 - Drawstring bag (such as a disposable tea bag)
-- 0.24g Cochineal
-- 10g Alum
-- 4g Potash
+- 0.24g Cochineal (the Making and Knowing Project typically sources this from Kremer Pigments, [Kremer #36040-cochineal](https://shop.kremerpigments.com/us/shop/dyes-vegetable-color-paints/natural-organic-dyes-vegetable-color-paints/36040-cochineal.html))
+- 10g Alum (aluminum potassium sulfate, [Kremer #64100-potash-alum](https://shop.kremerpigments.com/us/shop/solvents-chemicals-additives/chemicals/64100-potash-alum.html))
+- 4g Potash (potassium carbonate, [Kremer #64040-potash](https://shop.kremerpigments.com/us/shop/solvents-chemicals-additives/64040-potash.html))
 
 ### Procedure (Recipe 2)
 
