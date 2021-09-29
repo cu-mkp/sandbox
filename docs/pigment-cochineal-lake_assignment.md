@@ -31,6 +31,14 @@ Region: Cultivated in Mexico and Peruvian Andes, before Spain brought to Europe 
 
 > Phipps, Elena. _Cochineal Red: the Art History of a Color._ New York (N.Y.: The Metropolitan Museum of Art, 2010. Print.)
 
+## Examples of cochineal in art
+
+Cochineal insects have been used for centuries in the Americas as both a red dye and pigment. In the sixteenth century, when they were first brought to Europe, their use proliferated and even continues to this day all around the world. 
+
+![cochineal-dyes](../images/cochineal-dyes.png?raw=true)
+
+![cochineal-paintings](../images/cochineal-paintings.png?raw=true)
+
 ## Historical recipe for cochineal lake
 
 **The "Paduan Manuscript" (anonymous, Venice, late 16th-17th century)**
