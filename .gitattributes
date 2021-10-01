@@ -1,2 +1,5 @@
 # detect MD
 *.md linguist-detectable
+
+# detect CSV
+*.csv linguist-detectable
