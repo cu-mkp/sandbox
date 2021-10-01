@@ -11,21 +11,21 @@ and they are scattered throughout the manuscript with little apparent
 rhyme or reason. In this essay, I will look more closely at the medical
 entries in Ms. Fr. 640, and compare them briefly to medical recipes
 included in a household recipe book compiled in mid-seventeenth century
-England.[1] This comparison, which places Ms. Fr. 640 alongside a text
+England.[^1] This comparison, which places Ms. Fr. 640 alongside a text
 from a similar period whose purpose and genre is well-established, may
 shed light on the strategies and intent of the author-practitioner in
 compiling the medical recipes in Fr. 640, and raise fruitful questions
-for further study.[2]
+for further study.[^2]
 
 First, let’s turn our focus to Ms. Fr. 640. There are 48 entries in the
 manuscript with an explicitly medical focus that are scattered
 throughout the text and have a wide variety of intended purposes and
-ingredients.[3]
+ingredients.[^3]
 
 <img src="./media/image2.png" style="width:6.5in;height:4.01389in" alt="Chart" />
 
 Seventeen of these recipes address bodily pain and discomfort with no
-specific cause – nosebleeds, swollen breasts, constipation, etc.[4]
+specific cause – nosebleeds, swollen breasts, constipation, etc.[^4]
 Thirteen detail remedies or preventative measures for specific diseases
 such as the plague, gonorrhea, and even mange in dogs. There are eight
 recipes that deal with cosmetic concerns (whitening teeth and the face),
@@ -61,7 +61,7 @@ in Ms. Fr. 640 may be instructive.
 The text we will use for our comparison was compiled by Englishwoman
 Mary Granville around 1640 – at least twenty years after the
 author-practitioner finished compiling Ms. Fr. 640, and likely closer to
-fifty.[5] The Granville manuscript features a total of 212 recipes, 76
+fifty.[^5] The Granville manuscript features a total of 212 recipes, 76
 of which are medical in focus. Right away, we see that medical recipes
 constitute a much larger portion of this household recipe book than they
 do in Ms. Fr. 640.
@@ -117,21 +117,21 @@ remedies from friends and neighbors, like “Mrs. Badge’s Plaister.”
 Likewise, the Granvilles are interested in proving the efficacy of the
 recipes they record. At the end of a recipe for “a water for Squinancy,”
 the author notes, “this is the best medicine for a sore Throat that ever
-I met with.”[6]
+I met with.”[^6]
 
 Ms. Fr. 640 and the Granville recipe book also feature recipes intended
 for the same or similar purposes - for example, both include a set of
 instructions for crafting sleep aids. The Ms. Fr. 640 recipe reads as
 follows:
 
-> White soporific oil[7]
+> White soporific oil[^7]
 >
 > Take x or 12 mandrake apples, put them in quarters in olive oil, the
 > whole in a glass bottle which you will place in a bain marie for two
 > days and your oil will turn white. If you rub the soles of your feet
 > with the same, you will soon feel like sleeping.
 
-The Granville recipe, the first in the entire book, is below:[8]
+The Granville recipe, the first in the entire book, is below:[^8]
 
 > To make one sleep
 >
@@ -165,7 +165,7 @@ entry in Ms. Fr. 640 reads:
 > Turpentine oil, oil of Jacob, and salt extracted from cabbage ash.
 
 A recipe in the Granville book “for the curing of most pains and aches”
-is significantly longer and more detailed:[9]
+is significantly longer and more detailed:[^9]
 
 > Take a pint of white french wine in a pint pot, ten leaves or blades
 > of mace, 30 sprigs of sweet marjoram tied with a thread put both these
@@ -196,7 +196,7 @@ These two recipes for aches and pains demonstrate another important
 difference between the two recipe texts. Overall, Ms. Fr. 640 calls for
 more ingredients that could be classified as minerals or chemicals, a
 category more likely to include ingredients that would not have been
-common household items.[10] These make up 23% of the 91 different
+common household items.[^10] These make up 23% of the 91 different
 ingredients in the medical recipes, as opposed to only 12% in the
 Granville manuscript. On the other hand, of the nearly five hundred
 ingredients called for across the 75 medical recipes in the Granville
@@ -250,7 +250,7 @@ usually gave birth in their own beds. More broadly, comparing Ms. Fr.
 640 and the Granville recipe book suggests that practicality was not the
 central guiding tenet for whoever compiled the few medical recipes
 included in Ms. Fr. 640, at least not for any kind of general use, or
-even an audience of artisans.[11] While the recipes in Ms. Fr. 640
+even an audience of artisans.[^11] While the recipes in Ms. Fr. 640
 certainly demonstrate the author-practitioner’s interest in practical
 medical knowledge, the specific remedies included stray far from those
 medical concerns most likely to be experienced on a daily basis, and
@@ -785,14 +785,14 @@ Smith, Lisa. “Women’s Health Care in England and France (1660-1775)”.
 Unpublished doctoral dissertation for the Department of History at the
 University of Essex. October 2001.
 
-[1] I have determined which recipes to focus on for this essay by using
+[^1]: I have determined which recipes to focus on for this essay by using
 the entries in the “Medicine” category, rather than those which include
 terms tagged with “Medical” tag, to narrow my focus to those recipes
 that deal explicitly with some medical substance, therapy, or advice.
 See the List of Entries,
 [<u>https://edition640.makingandknowing.org/#/entries</u>](https://edition640.makingandknowing.org/#/entries).
 
-[2] I have chosen to compare Ms. Fr. 640 with a seventeenth-century
+[^2]: I have chosen to compare Ms. Fr. 640 with a seventeenth-century
 English household recipe book. Although this source was compiled later
 and in England, there is good reason to believe that it offers a
 fruitful point for comparison. Historians of medicine generally consider
@@ -817,7 +817,7 @@ Toronto Press, 2017), and Alisha Rankin, *Panaceia’s Daughters:
 Noblewomen as Healers in Early Modern Germany*, “Introduction: Pharmacy
 for Princesses,” (Chicago: University of Chicago Press, 2013).
 
-[3] This analysis is based on the 2020 English translation of the
+[^3]: This analysis is based on the 2020 English translation of the
 edition. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
 Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
 Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
@@ -826,33 +826,33 @@ Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
 (New York: Making and Knowing Project, 2020),
 [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
 
-[4] These categories are not entirely satisfying - it’s not always easy
+[^4]: These categories are not entirely satisfying - it’s not always easy
 to draw the line between bodily discomfort and full-blown disease, as
 symptoms in the early modern period were often considered ailments all
 their own. Nevertheless, I’ve tried to make the distinction based on
 categories familiar to modern readers. See the appendix for the full
 breakdown of recipes and how I categorized them.
 
-[5] This analysis is based on the transcription and annotation of the
+[^5]: This analysis is based on the transcription and annotation of the
 Granville book in Kowalchuk, *Preserving on Paper*. When quoting from
 the manuscript, I have chosen to regularize the spelling to align with
 the English translation of Ms. Fr. 640.
 
-[6] Kowalchuk, *Preserving on Paper,* 75.
+[^6]: Kowalchuk, *Preserving on Paper,* 75.
 
-[7] https://edition640.makingandknowing.org/#/folios/44v
+[^7]: https://edition640.makingandknowing.org/#/folios/44v
 
-[8] Ibid., 67.
+[^8]: Ibid., 67.
 
-[9] Ibid., 103.
+[^9]: Ibid., 103.
 
-[10] This categorization does not, of course, necessarily imply
+[^10]: This categorization does not, of course, necessarily imply
 materials not common in the household - salt and vinegar are both
 included in the chemical/mineral category. But so are alum, lead,
 sulfur, quicklime, and gemstones, all of which appear in the medical
 recipes in Ms. Fr. 640.
 
-[11] This somewhat contradicts the conclusion Xiaomeng Liu seems to make
+[^11]: This somewhat contradicts the conclusion Xiaomeng Liu seems to make
 in his companion essay, “Collecting Cures in an Artisanal Manuscript:
 Practical Therapeutics and Disease in Ms. Fr. 640,” where he ends with a
 reflection on the prevailing interest in self-medication in early modern
