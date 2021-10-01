@@ -8,7 +8,11 @@ _Last updated 2021-09-29 by NJR_
 ## Lake pigments and natural colorants
 If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](docs/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
+
 See also [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf).
+
+[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](../images/cochineal-presentation.png?raw=true)](docs/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
+
 
 Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed
 directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
@@ -51,6 +55,8 @@ Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting:
 
 ## Modernized recipes, adapted for the laboratory (or kitchen)
 The following recipes have been adapted from Chapter 5, "Recipes," of Jo Kirby et al, _**Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources**_ (Archetype, London, 2014).
+
+![pigment-lake-overview](../images/pigment-lake-overview.png?raw=true) 
 
 There are two modernized versions of this recipe:
 
@@ -126,7 +132,7 @@ There are two modernized versions of this recipe:
 - Allow the pigment to dry on the filter (at least overnight), then scrape off and use
 
 ## An Alternative Method To Using Hotplates and Beakers
-This method uses a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries)
+If you do not have access to hotplates and heat-safe glass beakers, an alternative method uses a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries).
 
 ### Process
 
