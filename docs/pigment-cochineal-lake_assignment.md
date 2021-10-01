@@ -3,6 +3,8 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-09-29 by NJR_
 
+A downloadable version of this assignment: [[PDF](pigment-cochineal-lake_assignment_downloadable_2021.pdf)]
+
 ![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
 
 ## Lake pigments and natural colorants
