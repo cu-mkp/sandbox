@@ -3,3 +3,9 @@
 
 # detect CSV
 *.csv linguist-detectable
+
+# detect XLSX
+*.xlsx linguist-detectable
+
+# detect IPYNB
+*.ipynb linguist-detectable
