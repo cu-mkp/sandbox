@@ -103,9 +103,9 @@ including the practical sort with which he was chiefly concerned.
 </thead>
 <tbody>
 </tbody>
-</table>[^8]
+</table>
 
-To reject the hierarchy of knowledge represented by the *Tablet of
+[^8] To reject the hierarchy of knowledge represented by the *Tablet of
 Cebes* is not the same, however, as objecting to the systematization of
 knowledge characteristic of encyclopedism. It does not seem to be the
 case that the author-practitioner harbors the same sort of resentment
