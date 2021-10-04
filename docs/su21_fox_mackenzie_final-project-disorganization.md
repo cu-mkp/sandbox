@@ -1,3 +1,6 @@
+# Was Ms. Fr. 640 Intentionally Disorganized?
+_Mackenzie Fox_<br><br>_Summer 2021_
+
 When browsing through the wide range of how-to instructions in Ms. Fr.
 640, it is often frustratingly unclear why the author-practitioner chose
 to address such disparate topics in a single text, or why he chose to
@@ -7,14 +10,14 @@ for making molds to cast metal, record an observation about the ways in
 which garden lilies grow and flower, offer yet further advice on the
 appropriate type of earth for use in casting, and, finally, discuss the
 rate at which ducklings grow and how one should feed them?[1] (See image
-to the right for the page in question) Does he perceive a relationship
+below for the page in question) Does he perceive a relationship
 between the topics covered in these entries? Was he simply jotting down
 information as it occurred to him as he went about his life? Was Ms. Fr.
 640 a work in progress that the author intended to rearrange at a later
 date before publication or wider
 circulation?
 
-<img src="./media/image5.png" style="width:3.40625in;height:5.56483in" />
+<img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image5.png" style="width:3.40625in;height:5.56483in" />
 
 As these questions suggest, it is not clear how much importance — let
 alone what sort of importance — should be ascribed to the coverage and
@@ -93,7 +96,7 @@ including the practical sort with which he was chiefly concerned.
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="./media/image1.jpg" style="width:6.35417in;height:4.27778in" /></p>
+<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image1.jpg" style="width:6.35417in;height:4.27778in" /></p>
 <p>Fig. 2. <em>Tabula Cebetis (The Tabula of Cebes or The Journey of Human Life)</em>, Netherlandish, 1573. Oil on panel, 119.5 x 177 cm. Rijksmuseum, Amsterdam, SK-A-2372. Vera Keller describes the image as follows: “This Christianized version of the <em>Tablet of Cebes</em> shows the temple of divine wisdom towering over the landscape. In this version, the mechanical arts (<em>artes mechanicae</em>), symbolized by figures spinning, chopping wood, and working at a forge, are located surprisingly deep within the structure of learning, within the second wall to the right. They have not yet begun the ascent to more abstract knowledge, however.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <p>Permalink: <a href="http://hdl.handle.net/10934/RM0001.COLLECT.4688"><u>http://hdl.handle.net/10934/RM0001.COLLECT.4688</u></a> (<a href="https://creativecommons.org/publicdomain/zero/1.0/"><u>CC0 1.0</u></a>).</p></th>
 </tr>
@@ -165,7 +168,7 @@ Spring and Autumn Annals 春秋.
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="./media/image3.jpg" style="width:6.35417in;height:5.77778in" /></p>
+<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image3.jpg" style="width:6.35417in;height:5.77778in" /></p>
 <p>Fig. 3. Above are two pages from a 16th century printed edition of the semi-canonical <em>Zuo Commentary</em> 左傳 on <em>The Spring and Autumn Annals</em>. The <em>Annals</em> recorded the history of the state of <em>Lu</em> 魯 from 722 to 481 BCE in extremely sparse detail, but, as it was traditionally thought to have been compiled by Confucius, was believed to contain his judgments on politics and morality, if in very oblique ways. The ambiguity left by the extremely sparse text spawned an enormous commentarial tradition that sought to explain its significance, within which the <em>Zuo</em> commentary, first written around the 4th century BCE, came to be revered nearly as much as the <em>Annals</em> itself, as it described the events recorded in the <em>Annals</em> in far more detail than the original text. <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <p>(Reminder: Traditional Chinese texts are read from top to bottom and then from right to left) On the right page and in the first three lines of the left page, all of the large-format characters are taken from the original text of the <em>Annals</em>. (This beginning of this section is marked with the character 經 [classic] against a black background) The large-format characters seen on remainder of the left page (i.e., everything after the character 傳 [tradition; here short for <em>zuozhuan</em> 左傳 or the <em>Zuo Commentary</em>] against a black background) are from the <em>Zuo</em> commentary. The small, half-width characters on each page are commentary written by a later writer, Lin Yaosou 林堯叟 (ND). The format of the text is quite typical; the original text of the classic (including the <em>Zuo Commentary</em> in this case, given its semi-canonical status) appears in larger, darker characters, while the commentary appears in half-sized characters after it. This is an extreme example given that there are essentially two layers of commentary present, but it gives a sense of how much more verbose commentaries could be than the classical texts they were interpreting. Du, Yu, 222-284, Yaosou Lin, Quan Yang, and Chinese Rare Book Collection. <em>Chun qiu Zuo zhuan: san shi juan.</em> Chengdu fu zhi fu: yang quan, ming jiajing, between 1523 and 1566, 1523. Image. https://www.loc.gov/item/00510379/.</p></th>
 </tr>
@@ -228,7 +231,7 @@ is also quite common. *Biji* often stop short of definitive judgments.
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="./media/image2.jpg" style="width:6.35417in;height:3.48611in" /></p>
+<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image2.jpg" style="width:6.35417in;height:3.48611in" /></p>
 <p>Fig. 4. A pufferfish in a tank at a restaurant in Nagoya, Japan. Wikimedia Commons contributors, "File:Fugu in Tank.jpg," <em>Wikimedia Commons, the free media repository,</em> <a href="https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013"><u>https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013</u></a> (accessed June 21, 2021).</p></th>
 </tr>
 </thead>
@@ -260,7 +263,7 @@ found, etc.
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="./media/image4.jpg" style="width:6.35417in;height:6.26389in" /></p>
+<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image4.jpg" style="width:6.35417in;height:6.26389in" /></p>
 <p>Fig. 5. Two pages from a 17th-century <em>biji</em>; the entry-based structure typical of the genre is clearly visible here. Wang, Shizhen, Tinglun Zhi, and Chinese Rare Book Collection. Chi Bei Ou Tan: Er Shi Liu Juan. [Fujian Tingzhou fu: Zhi Tinglun, Qing Kangxi 30 nian, i.e, 1691] Image. https://www.loc.gov/item/2012402038/.</p></th>
 </tr>
 </thead>
