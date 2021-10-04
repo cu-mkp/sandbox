@@ -97,8 +97,8 @@ including the practical sort with which he was chiefly concerned.
 <thead>
 <tr class="header">
 <th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image1.jpg" style="width:6.35417in;height:4.27778in" /></p>
-<p>Fig. 2. <em>Tabula Cebetis (The Tabula of Cebes or The Journey of Human Life)</em>, Netherlandish, 1573. Oil on panel, 119.5 x 177 cm. Rijksmuseum, Amsterdam, SK-A-2372. Vera Keller describes the image as follows: “This Christianized version of the <em>Tablet of Cebes</em> shows the temple of divine wisdom towering over the landscape. In this version, the mechanical arts (<em>artes mechanicae</em>), symbolized by figures spinning, chopping wood, and working at a forge, are located surprisingly deep within the structure of learning, within the second wall to the right. They have not yet begun the ascent to more abstract knowledge, however.”[^8]</p>
-<p>Permalink: <a href="http://hdl.handle.net/10934/RM0001.COLLECT.4688"><u>http://hdl.handle.net/10934/RM0001.COLLECT.4688</u></a> (<a href="https://creativecommons.org/publicdomain/zero/1.0/"><u>CC0 1.0</u></a>).</p></th>
+<p>Fig. 2. <em>Tabula Cebetis (The Tabula of Cebes or The Journey of Human Life)</em>, Netherlandish, 1573. Oil on panel, 119.5 x 177 cm. Rijksmuseum, Amsterdam, SK-A-2372. Vera Keller describes the image as follows: “This Christianized version of the <em>Tablet of Cebes</em> shows the temple of divine wisdom towering over the landscape. In this version, the mechanical arts (<em>artes mechanicae</em>), symbolized by figures spinning, chopping wood, and working at a forge, are located surprisingly deep within the structure of learning, within the second wall to the right. They have not yet begun the ascent to more abstract knowledge, however.”
+<p>Permalink: <a href="http://hdl.handle.net/10934/RM0001.COLLECT.4688"><u>http://hdl.handle.net/10934/RM0001.COLLECT.4688</u></a> (<a href="https://creativecommons.org/publicdomain/zero/1.0/"><u>CC0 1.0</u></a>).[^8]</p></th>
 </tr>
 </thead>
 <tbody>
