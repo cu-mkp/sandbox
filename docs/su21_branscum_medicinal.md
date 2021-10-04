@@ -1,281 +1,78 @@
 # Medicine in Ms. Fr. 640 and Household Recipe Books
+> By Elizabeth Branscum, Summer 2021
 
-As you know by now, the origin and purpose of Ms. Fr. 640 is still
-uncertain. Who is the mysterious author-practitioner who compiled these
-recipes, and what did he intend to do with them? Part of what makes this
-question so intriguing is the inclusion of recipes on such a wide
-variety of topics – craft, sleight of hand, and even medicine. The
-medical recipes in the manuscript are particularly curious. Out of over
-900 entries, there are only 48 that explicitly detail medical recipes,
-and they are scattered throughout the manuscript with little apparent
-rhyme or reason. In this essay, I will look more closely at the medical
-entries in Ms. Fr. 640, and compare them briefly to medical recipes
-included in a household recipe book compiled in mid-seventeenth century
-England.[^1] This comparison, which places Ms. Fr. 640 alongside a text
-from a similar period whose purpose and genre is well-established, may
-shed light on the strategies and intent of the author-practitioner in
-compiling the medical recipes in Fr. 640, and raise fruitful questions
-for further study.[^2]
+As you know by now, the origin and purpose of Ms. Fr. 640 is still uncertain. Who is the mysterious author-practitioner who compiled these recipes, and what did he intend to do with them? Part of what makes this question so intriguing is the inclusion of recipes on such a wide variety of topics – craft, sleight of hand, and even medicine. The medical recipes in the manuscript are particularly curious. Out of over 900 entries, there are only 48 that explicitly detail medical recipes, and they are scattered throughout the manuscript with little apparent rhyme or reason. In this essay, I will look more closely at the medical entries in Ms. Fr. 640, and compare them briefly to medical recipes included in a household recipe book compiled in mid-seventeenth century England.[^1] This comparison, which places Ms. Fr. 640 alongside a text from a similar period whose purpose and genre is well-established, may shed light on the strategies and intent of the author-practitioner in compiling the medical recipes in Fr. 640, and raise fruitful questions for further study.[^2]
 
-First, let’s turn our focus to Ms. Fr. 640. There are 48 entries in the
-manuscript with an explicitly medical focus that are scattered
-throughout the text and have a wide variety of intended purposes and
-ingredients.[^3]
+First, let’s turn our focus to Ms. Fr. 640. There are 48 entries in the manuscript with an explicitly medical focus that are scattered throughout the text and have a wide variety of intended purposes and ingredients.[^3]
 
-<img src="./media/image2.png" style="width:6.5in;height:4.01389in" alt="Chart" />
+<img src="./media/image2.png" style="width:6.5in;height:4.01389in" alt="Chart - Fr. 640 medicinal recipes" />
 
-Seventeen of these recipes address bodily pain and discomfort with no
-specific cause – nosebleeds, swollen breasts, constipation, etc.[^4]
-Thirteen detail remedies or preventative measures for specific diseases
-such as the plague, gonorrhea, and even mange in dogs. There are eight
-recipes that deal with cosmetic concerns (whitening teeth and the face),
-seven that claim to produce a range of miscellaneous effects (induce
-sleep, poison, induce temporary paralysis), and four that seem
-specifically geared toward artisans. These last four (an antidote
-against metal fumes, a caution to glassworkers, a remedy for healing a
-burn from toad urine incurred while trying to cast such an animal, and a
-remedy against burns specifically said to have been tested by a
-gunpowder maker) constitute a small percentage of the total recipes,
-indicating that, overall, the medical recipes included in Ms. Fr. 640
-are not specific to the artisan’s workshop. But just how common were the
-medical recipes included in Ms. Fr. 640? Were they similar to those
-detailed in other contexts? Would their construction have required
-special skills or ingredients?
+Seventeen of these recipes address bodily pain and discomfort with no specific cause – nosebleeds, swollen breasts, constipation, etc.[^4] Thirteen detail remedies or preventative measures for specific diseases such as the plague, gonorrhea, and even mange in dogs. There are eight recipes that deal with cosmetic concerns (whitening teeth and the face), seven that claim to produce a range of miscellaneous effects (induce sleep, poison, induce temporary paralysis), and four that seem specifically geared toward artisans. These last four (an antidote against metal fumes, a caution to glassworkers, a remedy for healing a burn from toad urine incurred while trying to cast such an animal, and a remedy against burns specifically said to have been tested by a gunpowder maker) constitute a small percentage of the total recipes, indicating that, overall, the medical recipes included in Ms. Fr. 640 are not specific to the artisan’s workshop. But just how common were the medical recipes included in Ms. Fr. 640? Were they similar to those detailed in other contexts? Would their construction have required special skills or ingredients?
 
-To begin thinking about answers to these questions, let’s turn to a
-recipe book compiled in a different context: the household. There is a
-large body of literature on early modern household recipe books, their
-compilation, preservation, and uses, both practical and otherwise. For
-our purposes, it will suffice to say that in both early modern England
-and France, recipe books were a common tool wherein men and women
-collected recipes (culinary, medical, etc.) that would have been of use
-to the household. The most wide-ranging surveys of documents such as
-these suggest that, while they did serve a number of different purposes,
-they were primarily practical texts, and their recipes were intended to
-be replicable in a domestic context. Given this well-defined purpose, a
-comparison between medical recipes in household recipe books and those
-in Ms. Fr. 640 may be instructive.
+To begin thinking about answers to these questions, let’s turn to a recipe book compiled in a different context: the household. There is a large body of literature on early modern household recipe books, their compilation, preservation, and uses, both practical and otherwise. For our purposes, it will suffice to say that in both early modern England and France, recipe books were a common tool wherein men and women collected recipes (culinary, medical, etc.) that would have been of use to the household. The most wide-ranging surveys of documents such as these suggest that, while they did serve a number of different purposes, they were primarily practical texts, and their recipes were intended to be replicable in a domestic context. Given this well-defined purpose, a comparison between medical recipes in household recipe books and those in Ms. Fr. 640 may be instructive.
 
-# Recipe Book Attributed to Mary Granville and Anne Granville D’Ewes
+## Recipe Book Attributed to Mary Granville and Anne Granville D’Ewes
 
-The text we will use for our comparison was compiled by Englishwoman
-Mary Granville around 1640 – at least twenty years after the
-author-practitioner finished compiling Ms. Fr. 640, and likely closer to
-fifty.[^5] The Granville manuscript features a total of 212 recipes, 76
-of which are medical in focus. Right away, we see that medical recipes
-constitute a much larger portion of this household recipe book than they
-do in Ms. Fr. 640.
+The text we will use for our comparison was compiled by Englishwoman Mary Granville around 1640 – at least twenty years after the author-practitioner finished compiling Ms. Fr. 640, and likely closer to fifty.[^5] The Granville manuscript features a total of 212 recipes, 76 of which are medical in focus. Right away, we see that medical recipes
+constitute a much larger portion of this household recipe book than they do in Ms. Fr. 640.
 
-<img src="./media/image1.png" style="width:6.5in;height:4.01389in" alt="Chart" />
+<img src="./media/image1.png" style="width:6.5in;height:4.01389in" alt="Chart - Granville medicinal recipes" />
 
-The graph above sorts the recipes in the Granville manuscript into five
-very broad categories, allowing us to make a superficial comparison
-between this document and Ms. Fr. 640. Here we can see a relatively
-similar array and proportion of recipes included in this recipe book and
-Ms. Fr. 640 (see Appendix for more detailed breakdown of recipes in each
-manuscript). The Granville contributors compiled many more remedies for
-ailments that would have been quite common but make no appearance in Ms.
-Fr. 640: consumption, cough, sore throat, and agues (a general term for
-any illness involving a fever and chills). Both feature multiple
-remedies for the plague. Ms. Fr. 640 seems to tend more toward the
-unusual or idiosyncratic, as the author-practitioner includes two
-remedies for “falling sickness” (vertigo), three for curing mange in
-dogs, two mysterious entries with text written backward that seem to be
-instructions for making poison, and one entry, titled “Toadstone,” which
-relates a claim that a certain powder diffused in the air will make a
-person “neither able to move, nor speak, nor thwart thieves.”
+The graph above sorts the recipes in the Granville manuscript into five very broad categories, allowing us to make a superficial comparison between this document and Ms. Fr. 640. Here we can see a relatively similar array and proportion of recipes included in this recipe book and Ms. Fr. 640 (see Appendix for more detailed breakdown of recipes in each manuscript). The Granville contributors compiled many more remedies for ailments that would have been quite common but make no appearance in Ms. Fr. 640: consumption, cough, sore throat, and agues (a general term for any illness involving a fever and chills). Both feature multiple remedies for the plague. Ms. Fr. 640 seems to tend more toward the unusual or idiosyncratic, as the author-practitioner includes two remedies for “falling sickness” (vertigo), three for curing mange in dogs, two mysterious entries with text written backward that seem to be instructions for making poison, and one entry, titled “Toadstone,” which relates a claim that a certain powder diffused in the air will make a person “neither able to move, nor speak, nor thwart thieves.”
 
-There are further points of difference between the two recipe
-collections. Interestingly, the Granville book contains a smaller
-percentage of recipes aimed at cosmetic concerns. The author of Fr. 640
-seems particularly interested in whitening teeth and diminishing
-under-eye circles, while the Granville book includes four different
-recipes for removing marks from smallpox. One might wonder: did the
-author-practitioner of Ms. Fr. 640 struggle with stained teeth? Did the
-Granvilles, or a member of their household, suffer from smallpox? The
-Granville recipe collection also includes two recipes for women in
-labor, perhaps unsurprising given that the book was passed from a mother
-to her daughter, and does not contain any recipes specific to craft
-knowledge and practice.
+There are further points of difference between the two recipe collections. Interestingly, the Granville book contains a smaller percentage of recipes aimed at cosmetic concerns. The author of Fr. 640 seems particularly interested in whitening teeth and diminishing under-eye circles, while the Granville book includes four different recipes for removing marks from smallpox. One might wonder: did the author-practitioner of Ms. Fr. 640 struggle with stained teeth? Did the Granvilles, or a member of their household, suffer from smallpox? The Granville recipe collection also includes two recipes for women in labor, perhaps unsurprising given that the book was passed from a mother to her daughter, and does not contain any recipes specific to craft knowledge and practice.
 
-# Taking a Closer Look: Instructions and Ingredients
+## Taking a Closer Look: Instructions and Ingredients
 
-To understand more about what distinguishes each of these recipe
-collections, we’ll need to examine them more closely. Where do the
-recipes come from? How do the respective authors present and verify the
-instructions they give? What kinds of ingredients, tools, and techniques
-do they call for?
+To understand more about what distinguishes each of these recipe collections, we’ll need to examine them more closely. Where do the recipes come from? How do the respective authors present and verify the instructions they give? What kinds of ingredients, tools, and techniques do they call for?
 
-Both manuscripts include recipes attributed to other people - in an
-entry “Against Burns” in Ms. Fr. 640, the author-practitioner notes that
-the recipe came from a gunpowder maker (who, importantly, had tried the
-remedy himself and swore by its efficacy, even apparently showing the
-author-practitioner a burn he had successfully healed by this method).
-The Granville book includes recipes from clear authorities, probably
-copied from printed books, such as “Doctor Chambers his water,” but also
-remedies from friends and neighbors, like “Mrs. Badge’s Plaister.”
-Likewise, the Granvilles are interested in proving the efficacy of the
-recipes they record. At the end of a recipe for “a water for Squinancy,”
-the author notes, “this is the best medicine for a sore Throat that ever
-I met with.”[^6]
+Both manuscripts include recipes attributed to other people - in an entry “Against Burns” in Ms. Fr. 640, the author-practitioner notes that the recipe came from a gunpowder maker (who, importantly, had tried the remedy himself and swore by its efficacy, even apparently showing the author-practitioner a burn he had successfully healed by this method). The Granville book includes recipes from clear authorities, probably copied from printed books, such as “Doctor Chambers his water,” but also remedies from friends and neighbors, like “Mrs. Badge’s Plaister.” Likewise, the Granvilles are interested in proving the efficacy of the recipes they record. At the end of a recipe for “a water for Squinancy,” the author notes, “this is the best medicine for a sore Throat that ever I met with.”[^6]
 
-Ms. Fr. 640 and the Granville recipe book also feature recipes intended
-for the same or similar purposes - for example, both include a set of
-instructions for crafting sleep aids. The Ms. Fr. 640 recipe reads as
-follows:
+Ms. Fr. 640 and the Granville recipe book also feature recipes intended for the same or similar purposes - for example, both include a set of instructions for crafting sleep aids. The Ms. Fr. 640 recipe reads as follows:
 
-> White soporific oil[^7]
+> **White soporific oil**[^7]
 >
-> Take x or 12 mandrake apples, put them in quarters in olive oil, the
-> whole in a glass bottle which you will place in a bain marie for two
-> days and your oil will turn white. If you rub the soles of your feet
-> with the same, you will soon feel like sleeping.
+> Take x or 12 mandrake apples, put them in quarters in olive oil, the whole in a glass bottle which you will place in a bain marie for two days and your oil will turn white. If you rub the soles of your feet with the same, you will soon feel like sleeping.
 
 The Granville recipe, the first in the entire book, is below:[^8]
 
-> To make one sleep
+> **To make one sleep**
 >
-> Take house Ivy Leaves stamped in a mortar till a spoonful or less
-> quantity be strained thereout, put thereto a like quantity of white
-> wine vinegar, make the same Luke warme, in a porringer, or Sawcer, and
-> therewith anoint, both the temple and forehead, and wet two linen
-> cloths therein, and bind them over the forehead and temples, and then
-> let the party apply himself to sleep.
+> Take house Ivy Leaves stamped in a mortar till a spoonful or less quantity be strained thereout, put thereto a like quantity of white wine vinegar, make the same Luke warme, in a porringer, or Sawcer, and therewith anoint, both the temple and forehead, and wet two linen cloths therein, and bind them over the forehead and temples, and then let the party apply himself to sleep.
 
-Here, the structure and ingredients of the recipes are quite similar.
-Both call for plant matter cut up (or stamped, in the Granville case),
-added to a liquid, and warmed. Both direct where and how the resulting
-mixture should be applied to produce the desired effect. The recipe in
-Ms. Fr. 640 uses a more technical term for the final product (soporific)
-and calls for a significant time investment (someone would presumably
-need to be checking on the oil in the bain marie at least periodically
-over two days). In a household where a servant could be assigned to the
-task, this could be feasible, but if a family had no servants, or those
-they did have were occupied with more pressing responsibilities,
-following the author-practitioner’s instructions might have been
-practically difficult.
+Here, the structure and ingredients of the recipes are quite similar. Both call for plant matter cut up (or stamped, in the Granville case), added to a liquid, and warmed. Both direct where and how the resulting mixture should be applied to produce the desired effect. The recipe in Ms. Fr. 640 uses a more technical term for the final product (soporific) and calls for a significant time investment (someone would presumably need to be checking on the oil in the bain marie at least periodically over two days). In a household where a servant could be assigned to the task, this could be feasible, but if a family had no servants, or those they did have were occupied with more pressing responsibilities, following the author-practitioner’s instructions might have been practically difficult.
 
-On the other hand, at times, the Granville manuscript offers much more
-painstaking instructions than Ms. Fr. 640. Both documents contain
-multiple recipes against general aches and pains. One particularly brief
-entry in Ms. Fr. 640 reads:
+On the other hand, at times, the Granville manuscript offers much more painstaking instructions than Ms. Fr. 640. Both documents contain multiple recipes against general aches and pains. One particularly brief entry in Ms. Fr. 640 reads:
 
-> Against pains
+> **Against pains**
 >
 > Turpentine oil, oil of Jacob, and salt extracted from cabbage ash.
 
-A recipe in the Granville book “for the curing of most pains and aches”
-is significantly longer and more detailed:[^9]
+A recipe in the Granville book “for the curing of most pains and aches” is significantly longer and more detailed:[^9]
 
-> Take a pint of white french wine in a pint pot, ten leaves or blades
-> of mace, 30 sprigs of sweet marjoram tied with a thread put both these
-> into the said wine and boil them until ¼ part be consumed Then strain
-> it through a clean lining cloth into another vessel and being strained
-> return it into the same pint pot and refill it with good salad oil
-> with two spoonfuls of white sugar, now thus brew them together until
-> comes to be no warmer than can be suffered to drink, and then drink
-> the same fasting in a morning in your bed then off shirt and cover
-> yourself very warm head and all for an hour lying flat on your back,
-> then one hour more with hot clothes from the fire continually wiping
-> the body over then begin by little and little to take off the clothes
-> from the bed to cool yourself by degrees but still wiping that no
-> sweat return into the body for the space of an hour and so repeat the
-> medicine as you find it needful for a total cure.
+> Take a pint of white french wine in a pint pot, ten leaves or blades of mace, 30 sprigs of sweet marjoram tied with a thread put both these into the said wine and boil them until ¼ part be consumed Then strain it through a clean lining cloth into another vessel and being strained return it into the same pint pot and refill it with good salad oil with two spoonfuls of white sugar, now thus brew them together until comes to be no warmer than can be suffered to drink, and then drink the same fasting in a morning in your bed then off shirt and cover yourself very warm head and all for an hour lying flat on your back, then one hour more with hot clothes from the fire continually wiping the body over then begin by little and little to take off the clothes from the bed to cool yourself by degrees but still wiping that no sweat return into the body for the space of an hour and so repeat the medicine as you find it needful for a total cure.
 
-Much of the detail in the Granville recipe involves how to employ the
-remedy once it has been made, but there is a close level of attention to
-the making process as well - exactly how to tell when the wine, mace,
-and marjoram mixture has been sufficiently boiled, for example, or the
-direction to return them to the same pot after straining into a
-different one. The tools involved are no more than what one could expect
-to find in a reasonably well-equipped kitchen, but the technique and
-quantities of ingredients are quite detailed, in sharp contrast to the
-recipe of similar purpose included in Fr. 640.
+Much of the detail in the Granville recipe involves how to employ the remedy once it has been made, but there is a close level of attention to the making process as well - exactly how to tell when the wine, mace, and marjoram mixture has been sufficiently boiled, for example, or the direction to return them to the same pot after straining into a different one. The tools involved are no more than what one could expect to find in a reasonably well-equipped kitchen, but the technique and quantities of ingredients are quite detailed, in sharp contrast to the recipe of similar purpose included in Fr. 640.
 
-These two recipes for aches and pains demonstrate another important
-difference between the two recipe texts. Overall, Ms. Fr. 640 calls for
-more ingredients that could be classified as minerals or chemicals, a
-category more likely to include ingredients that would not have been
-common household items.[^10] These make up 23% of the 91 different
-ingredients in the medical recipes, as opposed to only 12% in the
-Granville manuscript. On the other hand, of the nearly five hundred
-ingredients called for across the 75 medical recipes in the Granville
-collection, 70% are plant-based, 10% are animal products that would have
-been relatively easy to acquire (such as eggs, milk, honey, and even
-horse dung), and 4.5% are food or drink items.
+These two recipes for aches and pains demonstrate another important difference between the two recipe texts. Overall, Ms. Fr. 640 calls for more ingredients that could be classified as minerals or chemicals, a category more likely to include ingredients that would not have been common household items.[^10] These make up 23% of the 91 different ingredients in the medical recipes, as opposed to only 12% in the Granville manuscript. On the other hand, of the nearly five hundred ingredients called for across the 75 medical recipes in the Granville collection, 70% are plant-based, 10% are animal products that would have been relatively easy to acquire (such as eggs, milk, honey, and even horse dung), and 4.5% are food or drink items.
 
 <img src="./media/image3.png" style="width:6.38021in;height:3.93651in" alt="Chart" />
 
 <img src="./media/image4.png" style="width:6.36979in;height:3.93008in" alt="Chart" />
 
-And yet, the Granville collection does not shy away from ingredients
-that might seem more fitting in an artisan’s workshop than a domestic
-kitchen. Only 12.5% of the ingredients called for can be categorized as
-chemical or mineral compounds, but this is the second largest category
-after plant matter, larger than animal products or food and drink. Some
-of these items are concentrated in specific recipes. One recipe for “A
-medicine for a burne or Scald” calls for lithridge of gold (a type of
-lead), gold oil, and oil of vitriol (sulfuric acid!) combined together.
-But different kinds of lead are common among different recipes, as are
-sulfur, turpentine, and alum, and often these ingredients are mixed with
-more homely ones - the recipe for burns mentioned above also calls for
-hog fat.
+And yet, the Granville collection does not shy away from ingredients that might seem more fitting in an artisan’s workshop than a domestic kitchen. Only 12.5% of the ingredients called for can be categorized as chemical or mineral compounds, but this is the second largest category after plant matter, larger than animal products or food and drink. Some of these items are concentrated in specific recipes. One recipe for “A medicine for a burne or Scald” calls for lithridge of gold (a type of lead), gold oil, and oil of vitriol (sulfuric acid!) combined together. But different kinds of lead are common among different recipes, as are sulfur, turpentine, and alum, and often these ingredients are mixed with more homely ones - the recipe for burns mentioned above also calls for hog fat.
 
-# Conclusion
+## Conclusion
 
-In some ways, the medical recipes included in these two manuscripts are
-remarkably similar: both feature recipes addressing a wide array of
-possible medical complaints, including those of nonhuman animals and
-cosmetic concerns; both include ingredients likely available around the
-home alongside those that would have had to be purchased elsewhere and
-might have been tricky to use. The common ground highlighted here
-indicates that the majority of the medical recipes included in Ms. Fr.
-640 are not specific to an artisan’s interests, and would have been
-relevant and accessible to laypeople of the period. There is no reason
-to think that many of the medical recipes included in Ms. Fr. 640 could
-not have been recreated in a domestic setting, given the overlap of many
-of the ingredients included in the two works, both those that would have
-been readily at hand almost anywhere (plant matter, food, animal
-products) and perhaps more difficult to access (some of the chemical and
-mineral ingredients).
+In some ways, the medical recipes included in these two manuscripts are remarkably similar: both feature recipes addressing a wide array of possible medical complaints, including those of nonhuman animals and cosmetic concerns; both include ingredients likely available around the home alongside those that would have had to be purchased elsewhere and might have been tricky to use. The common ground highlighted here indicates that the majority of the medical recipes included in Ms. Fr. 640 are not specific to an artisan’s interests, and would have been relevant and accessible to laypeople of the period. There is no reason to think that many of the medical recipes included in Ms. Fr. 640 could not have been recreated in a domestic setting, given the overlap of many of the ingredients included in the two works, both those that would have been readily at hand almost anywhere (plant matter, food, animal products) and perhaps more difficult to access (some of the chemical and mineral ingredients).
 
-However, examining these manuscripts side by side also highlights
-important differences in their purposes. Ms. Fr. 640 does contain
-recipes and cautions intended specifically for the context of a
-workshop, as well as the occasional tool and technique that might not
-have been feasible within the average household. The Granville
-manuscript includes instructions for women in labor, indicating its
-primary purpose as a medical book for the whole household, where women
-usually gave birth in their own beds. More broadly, comparing Ms. Fr.
-640 and the Granville recipe book suggests that practicality was not the
-central guiding tenet for whoever compiled the few medical recipes
-included in Ms. Fr. 640, at least not for any kind of general use, or
-even an audience of artisans.[^11] While the recipes in Ms. Fr. 640
-certainly demonstrate the author-practitioner’s interest in practical
-medical knowledge, the specific remedies included stray far from those
-medical concerns most likely to be experienced on a daily basis, and
-toward those that are more fantastic, or perhaps merely piqued the
-author-practitioner’s interest for personal reasons. It is not
-impossible that the author-practitioner did suffer from gonorrhea, gout,
-and vertigo all at once. He may very well have had a dog that suffered
-from mange. In that case, part of the body of medical recipes could
-represent a handful of ailments that troubled the author-practitioner
-and others in his life, which indicates an intended practical purpose
-for the cures compiled in Ms. Fr. 640 (though why he would include
-recipes for personal medical use in this manuscript raises perhaps even
-more questions). But the inclusion of certain other recipes with a
-medical bent that do not seem to address any personal medical concerns
-(those for creating poison or inducing temporary paralysis) indicate an
-interest in the unusual, or even implausible, suggesting that the
-medical recipes of Ms. Fr. 640 are not solely, or perhaps even
-primarily, a set of tools for practical self-medication.
+However, examining these manuscripts side by side also highlights important differences in their purposes. Ms. Fr. 640 does contain recipes and cautions intended specifically for the context of a workshop, as well as the occasional tool and technique that might not have been feasible within the average household. The Granville manuscript includes instructions for women in labor, indicating its primary purpose as a medical book for the whole household, where women usually gave birth in their own beds. More broadly, comparing Ms. Fr. 640 and the Granville recipe book suggests that practicality was not the central guiding tenet for whoever compiled the few medical recipes included in Ms. Fr. 640, at least not for any kind of general use, or even an audience of artisans.[^11] While the recipes in Ms. Fr. 640 certainly demonstrate the author-practitioner’s interest in practical medical knowledge, the specific remedies included stray far from those medical concerns most likely to be experienced on a daily basis, and toward those that are more fantastic, or perhaps merely piqued the author-practitioner’s interest for personal reasons. It is not impossible that the author-practitioner did suffer from gonorrhea, gout, and vertigo all at once. He may very well have had a dog that suffered from mange. In that case, part of the body of medical recipes could represent a handful of ailments that troubled the author-practitioner and others in his life, which indicates an intended practical purpose for the cures compiled in Ms. Fr. 640 (though why he would include recipes for personal medical use in this manuscript raises perhaps even more questions). But the inclusion of certain other recipes with a medical bent that do not seem to address any personal medical concerns (those for creating poison or inducing temporary paralysis) indicate an interest in the unusual, or even implausible, suggesting that the medical recipes of Ms. Fr. 640 are not solely, or perhaps even primarily, a set of tools for practical self-medication.
 
-# Appendix
+## Appendix
 
-See data and its workup in the spreadsheet,
-[<u>https://github.com/cu-mkp/sandbox/blob/main/docs/SU21_Branscum_Making-and-Knowing-Recipe-Data.xlsx</u>](https://github.com/cu-mkp/sandbox/blob/main/docs/SU21_Branscum_Making-and-Knowing-Recipe-Data.xlsx)
+See data and its workup in the [SU21_Branscum_Making-and-Knowing-Recipe-Data spreadsheet](SU21_Branscum_Making-and-Knowing-Recipe-Data.xlsx)
 
-## Medical Recipe Types in the Granville recipe Book
+### Medical Recipe Types in the Granville recipe Book
 
 <table>
 <colgroup>
@@ -557,7 +354,7 @@ See data and its workup in the spreadsheet,
 </ol>
 </section>
 
-## Medical Recipe Types in Ms. Fr. 640
+### Medical Recipe Types in Ms. Fr. 640
 
 <table>
 <colgroup>
@@ -749,7 +546,7 @@ See data and its workup in the spreadsheet,
 </ol>
 </section>
 
-# Bibliography
+## Bibliography
 
 > Kowalchuk, Kristine, ed., *Preserving on Paper: Seventeenth-Century
 > Englishwomen’s recipe Books.* Toronto: University of Toronto Press,
