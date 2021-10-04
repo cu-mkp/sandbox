@@ -56,9 +56,9 @@ Much of the detail in the Granville recipe involves how to employ the remedy onc
 
 These two recipes for aches and pains demonstrate another important difference between the two recipe texts. Overall, Ms. Fr. 640 calls for more ingredients that could be classified as minerals or chemicals, a category more likely to include ingredients that would not have been common household items.[^10] These make up 23% of the 91 different ingredients in the medical recipes, as opposed to only 12% in the Granville manuscript. On the other hand, of the nearly five hundred ingredients called for across the 75 medical recipes in the Granville collection, 70% are plant-based, 10% are animal products that would have been relatively easy to acquire (such as eggs, milk, honey, and even horse dung), and 4.5% are food or drink items.
 
-<img src="./media/image3.png" style="width:6.38021in;height:3.93651in" alt="Chart" />
+<img src="./media/image3.png" style="width:6.38021in;height:3.93651in" alt="Chart - Fr. 640 ingredients" />
 
-<img src="./media/image4.png" style="width:6.36979in;height:3.93008in" alt="Chart" />
+<img src="./media/image4.png" style="width:6.36979in;height:3.93008in" alt="Chart - Granville ingredients" />
 
 And yet, the Granville collection does not shy away from ingredients that might seem more fitting in an artisan’s workshop than a domestic kitchen. Only 12.5% of the ingredients called for can be categorized as chemical or mineral compounds, but this is the second largest category after plant matter, larger than animal products or food and drink. Some of these items are concentrated in specific recipes. One recipe for “A medicine for a burne or Scald” calls for lithridge of gold (a type of lead), gold oil, and oil of vitriol (sulfuric acid!) combined together. But different kinds of lead are common among different recipes, as are sulfur, turpentine, and alum, and often these ingredients are mixed with more homely ones - the recipe for burns mentioned above also calls for hog fat.
 
