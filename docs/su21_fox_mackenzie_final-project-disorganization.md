@@ -9,7 +9,7 @@ he, in the space of a single page, give advice on how to prepare earth
 for making molds to cast metal, record an observation about the ways in
 which garden lilies grow and flower, offer yet further advice on the
 appropriate type of earth for use in casting, and, finally, discuss the
-rate at which ducklings grow and how one should feed them?[1] (See image
+rate at which ducklings grow and how one should feed them?[^1] (See image
 below for the page in question) Does he perceive a relationship
 between the topics covered in these entries? Was he simply jotting down
 information as it occurred to him as he went about his life? Was Ms. Fr.
