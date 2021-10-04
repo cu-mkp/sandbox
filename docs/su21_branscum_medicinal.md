@@ -1,5 +1,5 @@
 # Medicine in Ms. Fr. 640 and Household Recipe Books
-> By Elizabeth Branscum, Summer 2021
+_Elizabeth Branscum_<br><br>Summer 2021
 
 As you know by now, the origin and purpose of Ms. Fr. 640 is still uncertain. Who is the mysterious author-practitioner who compiled these recipes, and what did he intend to do with them? Part of what makes this question so intriguing is the inclusion of recipes on such a wide variety of topics – craft, sleight of hand, and even medicine. The medical recipes in the manuscript are particularly curious. Out of over 900 entries, there are only 48 that explicitly detail medical recipes, and they are scattered throughout the manuscript with little apparent rhyme or reason. In this essay, I will look more closely at the medical entries in Ms. Fr. 640, and compare them briefly to medical recipes included in a household recipe book compiled in mid-seventeenth century England.[^1] This comparison, which places Ms. Fr. 640 alongside a text from a similar period whose purpose and genre is well-established, may shed light on the strategies and intent of the author-practitioner in compiling the medical recipes in Fr. 640, and raise fruitful questions for further study.[^2]
 
