@@ -10,7 +10,7 @@ for making molds to cast metal, record an observation about the ways in
 which garden lilies grow and flower, offer yet further advice on the
 appropriate type of earth for use in casting, and, finally, discuss the
 rate at which ducklings grow and how one should feed them?[^1] (See image
-below for the page in question) Does he perceive a relationship
+below for the page in question, fol. [41r](https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl)) Does he perceive a relationship
 between the topics covered in these entries? Was he simply jotting down
 information as it occurred to him as he went about his life? Was Ms. Fr.
 640 a work in progress that the author intended to rearrange at a later
