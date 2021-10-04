@@ -171,7 +171,7 @@ practices that go beyond the imitation of nature and move into the realm
 of imagination. After describing how to dry and display a small cat, the
 author notes, “One gives it a painted tongue, horns, wings & similar
 fancies. Thus for rats & all animals.” (For more on this entry, see
-Divya Anantharaman’s essay, "[Animals Dried in an Oven](https://edition640.makingandknowing.org/#/essays/ann_502_ad_20)").
+Divya Anantharaman’s essay, "[Animals Dried in an Oven](https://edition640.makingandknowing.org/#/essays/ann_502_ad_20).")
 
 <table>
 <colgroup>
