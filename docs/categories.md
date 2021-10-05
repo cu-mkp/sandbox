@@ -143,24 +143,42 @@ Varnishing was often the final step in the creation of the painting, covering th
 Cennini even notes that when you varnish your colors or paintings, 
 > "they then become very fresh and beautiful, and remain in pristine state forever." 
 
+### Why is This Interesting?
+
 In BnF Ms. Fr. 640, there are 189 entries categorized as "painting," "varnish," or both "painting" and "varnish."
+
+| Category                | # entries   |
+|-------------------------|-------------|
+| painting only           | 138         |
+| varnish  only           | 38          |
+| painting AND varnish    | 13          |
+| TOTAL                   | 189         |
 
 ![painting-varnish-pie-chart](../images/painting-varnish-pie-chart.png?raw=true)
 
-### Why is This Interesting?
+The above pie chart was created using:
+- The raw data in [entry_metadata_paint-varnish_data.csv](entry_metadata_paint-varnish_data.csv)
+- The calculations based upon that data in [entry_metadata_paint-varnish_analysis.csv](entry_metadata_paint-varnish_analysis.csv)
+- The processing and workup were done using Microsoft Excel, in an Excel spreadsheet, [entry_metadata_paint-varnish.xlsx](entry_metadata_paint-varnish.xlsx)
+
+You can use and/or download this data to do your own analysis!
+
+Might we expect there to be more or less overlap between the two entries? 
+
+To ponder this question, it may help to consider the 13 entries categorized as both "painting" and "varnish":
+[fol. 7r](https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl), "For coloring stamped trunks"
+[fol. 32r](https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl), "Painter"
+[fol. 42v](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl), "White varnish on plaster"
+[fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "White bronzing on plaster"
+[fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "Purple"
+[fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter"
+[fol. 59r](https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl), "Azure"
+[fol. 60r](https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl), "Oil"
+[fol. 60v](https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl), "Wood color"
+[fol. 61v](https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl), "Frames of the Germans"
+[fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl), "Colors in oil that are imbibed"
+[fol. 67v](https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl), "Essential oils"
+[fol. 165r](https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl), "Dragon’s blood"
 
 
 
-\[IN PROGRESS -- NOTES BELOW\]
-
-manuscript/document/folio sequence
-sequentially 
-
-- \[ varnish category vs. painting - which ones are both? which ones are only one or the other? \]
-
-- \[ cluster of painting by the scribe \]
-
-- \[ super long entries - furbisher and pewterer \]
-
-- \[ La boutique \]
-\[ --> DO THIS YOURSELF (to reader)\]
