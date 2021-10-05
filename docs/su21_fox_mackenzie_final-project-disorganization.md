@@ -331,8 +331,7 @@ comparative research.
 [^1]: Folio [41r](https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl).
 
 [^2]: Neil Kenny, *The Palace of Secrets: Béroalde de Verville and
-Renaissance Conceptions of Knowledge* (Oxford: Clarendon Press, 1991),
-43.
+Renaissance Conceptions of Knowledge* (Oxford: Clarendon Press, 1991), 43.
 
 [^3]: Ibid., 1.
 
