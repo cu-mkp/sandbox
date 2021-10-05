@@ -1,0 +1,190 @@
+div_id,categories,painting,varnish,painting+varnish,heading_tc,heading_tcn,heading_tl
+p003r_2,varnish,0,1,N,Vernis pour tableaulx,Vernis pour tableaulx,Varnish for panels
+p003r_3,varnish,0,1,N,Gros vernis pour les planchers,Gros vernis pour les planchers,Thick varnish for planks
+p003v_1,varnish,0,1,N,Pour vernir,Pour vernir,For varnishing
+p004r_1,varnish,0,1,N,Vernis dhuile daspic,Vernis d’huile d’aspic,Varnish of spike lavender oil
+p004r_2,varnish,0,1,N,Pour oster le vernis dun  vieulx tableau qui est jaunastre  & le vernir de nouveau,Pour oster le vernis d’un   vieulx tableau qui est jaunastre  & le vernir de nouveau,For removing varnish from an old panel that is yellowish & varnishing it anew
+p004v_1,varnish;arms and armor,0,1,N,Vernis noir pour garde  despee bandes de bahus &,"Vernis noir pour garde  d’espée, bandes de bahus &[c]","Black varnish for sword guard, bands for trunks, &c"
+p004v_2,varnish,0,1,N,Vernis noir sans foeu sans  demonter les harnois ou deffaire  les bandes des bahus,"Vernis noir sans foeu, sans  demonter les harnois ou deffaire  les bandes des bahus","Black varnish without fire, without disassembling the harnesses or removing the bands from trunks"
+p004v_3,varnish,0,1,N,Vernis des graveurs sur le  fer,Vernis des graveurs sur le  fer,Varnish of iron engravers
+p006r_1,painting,1,0,N,Pour poser et assoir dor bruny et donner  rouge ou verd ou bleud,Pour poser et assoir d’or bruny et donner  rouge ou verd ou bleud,For laying down and seating burnished gold and giving red or green or blue
+p007r_1,painting,1,0,N,Pour dorer dor couleur et dor bel,Pour dorer d’or couleur et d’or bel,For gilding with gold color and tinsel
+p007r_2,decorative;painting;varnish,1,1,Y,Pour colorer bahus stampes,Pour colorer bahus stampés,For coloring stamped trunks
+p008r_1,painting,1,0,N,L{ett}re dor sur papier,L{ett}re d’or sur papier,Lettering of gold on paper
+p008v_2,painting,1,0,N,Or et argent moulu,Or et argent moulu,Or and argent moulu
+p009r_2,painting,1,0,N,Painctre,Painctre,Painter
+p009v_1,painting,1,0,N,Painctre,Painctre,Painter
+p010r_2,painting,1,0,N,Scudegrun,Scudegrun,Stil de grain yellow
+p010r_4,painting,1,0,N,Couleur de pourpres,Couleur de pourpres,Purple color
+p010v_1,painting,1,0,N,Pour paindre a huile sur  taffetas sans que lhuile coure,Pour paindre à huile sur  taffetas sans que l’huile coure,For painting in oil on taffeta without the oil running
+p010v_2,painting,1,0,N,Assiete dor de foeuille sur parchemin  ou papier,Assiete d’or de foeuille sur parchemin  ou papier,Seat for gold leaf on parchment or paper
+p010v_3,metal process;painting,1,0,N,Pour nettoyer lor de foeille   pose sur le fer,Pour nettoyer l’or de foeille  posé sur le fer,For cleaning gold leaf applied to iron
+p010v_4,painting,1,0,N,Pour blanchir la ceruse,Pour blanchir la ceruse,For whitening ceruse
+p011r_1,painting,1,0,N,Paindre a huile desmail dazur,Paindre à huile d’esmail d’azur,Painting esmail d’azur in oil
+p011v_3,painting,1,0,N,Pour coucher dor mat,Pour coucher d’or mat,For coating with or mat
+p013r_1,painting,1,0,N,Carnation darsenic,Carnation d’arsenic,Flesh color from arsenic
+p013v_1,painting,1,0,N,Pour cognoistre la bonne      cendree dazur a huile,Pour cognoistre la bonne      cendrée d’azur à huile,For knowing the good cendrée of azure for oil
+p019v_1,painting,1,0,N,Figures de mathematique sans  regle et compas,Figures de mathematique sans  regle et compas,Mathematical figures without ruler and compass
+p019v_2,painting,1,0,N,Pour escripre a gaulche aussi  bien qua la droicte,Pour escripre à gaulche aussi  bien qu’à la droicte,For writing as well from the left as from the right
+p029v_1,varnish,0,1,N,Couleur dor sans or sur largent,Couleur d’or sans or sur l’argent,Color of gold without gold on silver
+p029v_2,painting,1,0,N,Couche dor bruny sur le papier,Couche d’or bruny sur le papier,Layer of burnished gold on paper
+p029v_4,painting,1,0,N,Assiete dor,Assiete d’or,Seat for gold
+p029v_5,painting,1,0,N,Extraction dhuiles,Extraction d’huiles,Extraction of oils
+p029v_6,painting,1,0,N,Sang de dragon,Sang de dragon,Dragon’s blood
+p031r_3,varnish,0,1,N,Vernis durant a leau,Vernis durant à l’eau,Varnish resistant to water
+p031r_4,painting;household and daily life,1,0,N,Fruict de sucre,Fruict de sucre,Fruit made from sugar
+p031v_1,painting,1,0,N,Painctre,Painctre,Painter
+p031v_2,painting,1,0,N,Broisses,Broisses,Brushes
+p031v_3,painting,1,0,N,Paindre au naturel,Paindre au naturel,Painting from nature
+p031v_4,painting;glass process,1,0,N,Paindre daprest,Paindre d’aprest,Painting on glass
+p032r_2,painting;varnish,1,1,Y,Painctre,Painctre,Painter
+p032r_3,painting,1,0,N,Pour coucher lor a destrempe,Pour coucher l’or à destrempe,For layering gold in distemper
+p039v_1,painting,1,0,N,Esmail,Esmail,Enamel
+p039v_2,painting;glass process,1,0,N,Couleurs sur verre  denlumineure,Couleurs sur verre  d’enlumineure,Colors for illumination on glass
+p039v_3,painting;glass process,1,0,N,Trasser sur le verre quelque  histoire,Trasser sur le verre quelque  histoire,Tracing some history on glass
+p040v_1,painting,1,0,N,Croix des commandeurs  de malte,Croix des commandeurs de Malte,Cross of the commanders of Malta
+p041v_1,painting,1,0,N,Noir des vitriers,Noir des vitriers,Glassworkers’ black
+p041v_3,painting;glass process,1,0,N,Couleurs et doreure sur le verre,Couleurs et doreure sur le verre,Colors and gilding on glass
+p042v_1,painting;household and daily life,1,0,N,Poncis pour esgratigner sur le  satin,Poncis pour esgratigner sur le  satin,Pounced design for scratching satin
+p042v_2,painting,1,0,N,Toile pour paindre a huile  sans se rompre,Toile pour paindre à huile  sans se rompre,Canvas for painting in oil without breaking
+p042v_3,painting,1,0,N,paindre a huile sur taffetas qui,Paindre à huile sur taffetas qui,Painting in oil on taffeta which
+p042v_5,painting,1,0,N,Pour pourfiler un portraict,Pour pourfiler un portraict,For outlining a portrait
+p042v_6,varnish;painting,1,1,Y,Vernis blanc sur le plastre,Vernis blanc sur le plastre,White varnish on plaster
+p043r_2,painting;varnish,1,1,Y,Bronzure blanche sur plastre,Bronzure blanche sur plastre,White bronzing on plaster
+p043r_3,painting;metal process;varnish,1,1,Y,Purpurine,Purpurine,Purple
+p043r_4,painting,1,0,N,Bronzure blanche,Bronzure blanche,White bronzing
+p044r_4,painting,1,0,N,Laque,Laque,Lake
+p052v_2,painting,1,0,N,Couleurs,Couleurs,Colors
+p056r_2,varnish,0,1,N,Vernis pour destrempe,Vernis pour destrempe,Varnish for distemper
+p056v_1,painting;varnish,1,1,Y,Painctre,Painctre,Painter
+p057v_2,painting,1,0,N,Painctre,Painctre,Painter
+p058v_1,painting,1,0,N,Noirs,Noirs,Blacks
+p058v_2,painting,1,0,N,Ombres,Ombres,Shadows
+p058v_3,painting,1,0,N,A fresc,A fresc,In fresco
+p058v_4,painting,1,0,N,Azur,Azur,Azure
+p058v_5,painting,1,0,N,Pinceaulx,Pinceaulx,Paintbrushes
+p059r_1,painting,1,0,N,Ombres,Ombres,Shadows
+p059r_2,varnish;painting,1,1,Y,Azur,Azur,Azure
+p059v_1,painting,1,0,N,Noir Paincture darmes,Noir Paincture d’armes,Black Painting of armor
+p059v_2,painting,1,0,N,Paincture de crespe,Paincture de crespe,Painting of crêpe
+p059v_3,painting,1,0,N,Plis de vestements,Plis de vestements,Folds in clothing
+p059v_4,painting,1,0,N,Desiccatif,Desiccatif,Desiccative
+p059v_5,painting,1,0,N,Double couche,Double couche,Double layers
+p059v_6,painting,1,0,N,Racoustrer les fentes dun tableau,Racoustrer les fentes d’un tableau,Mending the cracks in a panel
+p060r_1,painting,1,0,N,Blanchiment premier dun tableau,Blanchiment premier dun tableau,First whitening of a panel
+p060r_2,painting,1,0,N,Labeur net,Labeur net,Neat work
+p060r_3,painting;varnish,1,1,Y,Huile,Huile,Oil
+p060v_1,varnish,0,1,N,Vernis sec en une heure,Vernis sec en une heure,Varnish dry in an hour
+p060v_2,painting,1,0,N,Laver les tableaulx,Laver les tableaulx,Cleaning panels
+p060v_3,painting,1,0,N,Huile daspic,Huile d’aspic,Spike lavender oil
+p060v_4,painting;varnish,1,1,Y,Couleur de bois,Couleur de bois,Wood color
+p060v_5,painting,1,0,N,Labeur des flamens,Labeur des Flamens,Work of the Flemish
+p061r_1,painting,1,0,N,Carnations,Carnations,Flesh colors
+p061r_2,painting,1,0,N,Arrondir,Arrondir,Rounding
+p061r_3,painting,1,0,N,Blanc de plomb,Blanc de plomb,Lead white
+p061r_4,painting,1,0,N,Jours,Jours,Lights
+p061v_1,painting;practical optics,1,0,N,Eau pour donner jour au  painctre,Eau pour donner jour au  painctre,Water to give light for the painter
+p061v_2,painting;varnish;practical optics,1,1,Y,Chassis des allemans,Chassis des Allemans,Frames of the Germans
+p061v_3,painting,1,0,N,Azur desmail a huile,Azur d’esmail à huile,Azur d’esmail in oil
+p061v_4,painting,1,0,N,Broyer couleurs,Broyer couleurs,Grinding colors
+p062r_1,painting,1,0,N,Perspectives,Perspectives,Perspectives
+p062r_2,painting,1,0,N,Ocre,Ocre,Ocher
+p062r_3,painting,1,0,N,Hommes et animaulx esloignes,Hommes et animaulx esloignés,Distant people and animals
+p062r_4,painting,1,0,N,Pourtraire,Pourtraire,Drawing
+p062v_1,painting,1,0,N,Portraire,Portraire,Drawing
+p062v_2,painting,1,0,N,Perspective,Perspective,Perspective
+p062v_3,painting,1,0,N,Tableau,Tableau,Panel
+p063r_1,painting,1,0,N,Couleur damaranthe,Couleur d’amaranthe,Amaranth color
+p063r_2,painting,1,0,N,Desiccation dhuile,Desiccation d’huile,Drying of oil
+p063r_4,painting,1,0,N,Umbres,Umbres,Shadows
+p063r_5,painting,1,0,N,Bistre,Bistre,Bistre
+p063r_6,painting,1,0,N,Verdegris et aultre tresbeau vert  gay,Verdegris et aultre tres beau vert  gay,Verdigris and another very beautiful bright green
+p063v_1,painting,1,0,N,Velours et noirs,Velours et noirs,Velvets and blacks
+p063v_2,painting,1,0,N,Armes,Armes,Armor
+p063v_3,painting,1,0,N,Scudegrun,Scudegrun,Stil de grain yellow
+p063v_4,painting,1,0,N,Rosette,Rosette,Rosette
+p063v_5,painting,1,0,N,Pers de flendres,Pers de Flendres,Flanders blue
+p063v_6,painting,1,0,N,Paysages de neiges,Paysages de neiges,Snow-covered landscapes
+p063v_7,painting,1,0,N,Adoulcir,Adoulcir,Softening
+p064r_1,painting,1,0,N,Nettement travailler,Nettement travailler,Working neatly
+p064r_6,painting,1,0,N,Ocre              jaulne,Ocre              jaulne,Yellow ocher
+p064r_2,painting,1,0,N,Huile gras,Huile gras,Fatty oil
+p064r_7,painting,1,0,N,Adoulcir,Adoulcir,Softening
+p064r_3,painting,1,0,N,Vermeillon,Vermeillon,Vermilion
+p064r_8,painting,1,0,N,Oeil,Oeil,Eye
+p064r_4,painting,1,0,N,Couleurs a huile dans leau,Couleurs à huile dans l’eau,Oil colors in water
+p064r_5,painting,1,0,N,Double couche,Double couche,Double layer
+p064v_1,painting,1,0,N,Aprentissaige du paintre,Aprentissaige du paintre,Apprenticeship of the painter
+p064v_3,painting,1,0,N,Adoulcir,Adoulcir,Softening
+p064v_4,painting,1,0,N,Lignes droictes,Lignes droictes,Straight lines
+p064v_5,painting,1,0,N,Destrempe,Destrempe,Distemper
+p065r_1,painting,1,0,N,Umbres,Umbres,Shadows
+p065r_2,painting,1,0,N,Carnation,Carnation,Flesh color
+p065r_4,painting,1,0,N,Couleurs grasses,Couleurs grasses,Fatty colors
+p065r_3,painting;practical optics,1,0,N,Mirouer,Mirouer,Mirror
+p065v_1,painting,1,0,N,Couleurs mi vives,Couleurs mi vives,Semi-lively colors
+p065v_6,painting,1,0,N,Au naturel,Au naturel,From nature
+p065v_2,painting,1,0,N,Paindre grandes figures,Paindre grandes figures,Painting large figures
+p065v_3,painting,1,0,N,Glasser,Glasser,Glazing
+p065v_4,painting,1,0,N,Blanc et noir,Blanc et noir,White and black
+p065v_7,painting,1,0,N,Impression,Impression,Imprimatura
+p065v_5,painting,1,0,N,Blanc de plomb,Blanc de plomb,Lead white
+p066r_1,painting,1,0,N,Doubles couches,Doubles couches,Double layers
+p066r_6,painting,1,0,N,* Or mat,* Or mat,* Or mat
+p066r_2,painting,1,0,N,Umbres,Umbres,Shadows
+p066r_3,painting,1,0,N,Paindre a destrempe  sur bois,Paindre à destrempe          sur bois,Painting in distemper on wood
+p066r_4,painting;varnish,1,1,Y,Couleurs a huile qui semboivent,Couleurs à huile qui s’emboivent,Colors in oil that are imbibed
+p066r_5,varnish,0,1,N,Dorer mouleure de tableaulx dor mat,Dorer mouleure de tableaulx d’or mat,Gilding molding for panels with or mat
+p066v_4,painting,1,0,N,Pinceaulx,Pinceaulx,Paintbrushes
+p067r_1,varnish,0,1,N,Huile,Huile,Oil
+p067r_4,varnish,0,1,N,Vernis sur papier,Vernis sur papier,Varnish on paper
+p067v_3,painting;varnish,1,1,Y,Huiles dessence,Huiles d’essence,Essential oils
+p071v_1,varnish,0,1,N,Vernis,Vernis,Varnish
+p073v_2,varnish,0,1,N,Verny,Verny,Varnish
+p073v_3,varnish,0,1,N,Aultre recepte pour faire verny,Aultre recepte pour faire verny,Another recipe for making varnish
+p074r_2,painting;metal process,1,0,N,Pour faire vernilhon,Pour faire vernilhon,For making vermilion
+p074r_3,varnish,0,1,N,Pour faire verny,Pour faire verny,For making varnish
+p074v_1,varnish,0,1,N,Pour faire vernys Rouge,Pour faire vernys rouge,For making red varnish
+p074v_2,varnish,0,1,N,Pour faire vernys Jaulne,Pour faire vernys jaulne,For making yellow varnish
+p075r_5,painting;metal process,1,0,N,Or Moulu,Or moulu,Or moulu
+p077r_4,varnish,0,1,N,Recepte pour faire bronze et vernys de  plusieurs sortes,Recepte pour faire bronze et vernys de  plusieurs sortes,Recipe for making bronze and varnish of many sorts
+p077v_1,varnish,0,1,N,Aultre vernys aprouve,Aultre vernys aprouvé,Another approved varnish
+p077v_2,varnish,0,1,N,Aultre verny,Aultre verny,Another varnish
+p077v_3,varnish,0,1,N,Aultre verny,Aultre verny,Another varnish
+p078r_1,varnish,0,1,N,Aultre verny,Aultre verny,Another varnish
+p078r_2,varnish,0,1,N,Pour faire verny Rouge,Pour faire verny rouge,For making red varnish
+p078v_2,varnish,0,1,N,Pour faire bronze en  Couleur dor,Pour faire bronze en  couleur d’or,For making bronze in the color of gold
+p079v_1,varnish,0,1,N,Pour faire verny,Pour faire verny,For making varnish
+p085r_1,varnish;casting,0,1,N,Vernis vert pour les medailles de cuivre,Vernis vert pour les medailles de cuivre,Green varnish for medals of copper
+p088r_3,varnish,0,1,N,Vernis,Vernis,Varnish
+p093v_1,painting,1,0,N,Visaige a destrempe,Visaige à destrempe,Face in distemper
+p093v_2,painting,1,0,N,Azur,Azur,Azure
+p093v_3,painting,1,0,N,Violet et laque,Violet et laque,Violet and lake
+p096v_3,arms and armor;metal process;varnish,0,1,N,Vernis jaulne,Vernis jaulne,Yellow varnish
+p097r_1,arms and armor;metal process;varnish,0,1,N,Le vernis noir,Le vernis noir,Black varnish
+p097v_1,varnish,0,1,N,Vernis de mastic sec en demye  heure,Vernis de mastic sec en demye  heure,Mastic varnish dry in a half hour
+p097v_2,painting;medicine,1,0,N,Travailler daprest,Travailler d’aprest,Working on glass
+p098r_1,varnish,0,1,N,Vernis pour les luts,Vernis pour les luts,Varnish for lutes
+p098r_3,metal process;varnish,0,1,N,Sarrurier,Sarrurier,Locksmith
+p099v_4,painting,1,0,N,Dorer ta moleures de tableaux   sans or,Dorer ta moleures de tableaux   sans or,Gilding your moldings for panels without gold
+p099v_5,painting,1,0,N,Orenge dorpiment,Orenge d’orpiment,Orange from orpiment
+p099v_6,varnish,0,1,N,Vernis,Vernis,Varnish
+p100r_1,painting,1,0,N,Or couleur,Or couleur,Gold color
+p100r_2,painting,1,0,N,Pourtraire au naturel,Pourtraire au naturel,Portraying from nature
+p101v_3,varnish,0,1,N,Vernis,Vernis,Varnish
+p101v_4,painting,1,0,N,Gomme armoniac,Gomme armoniac,Gum ammoniac
+p102v_1,painting;glass process,1,0,N,Paindre sur cristal ou verre,Paindre sur cristal ou verre,Painting on crystal or glass
+p103v_3,painting,1,0,N,Pour fayre courre les  couleurs,Pour fayre courre les  couleurs,For making colors run
+p103v_5,painting;practical optics,1,0,N,Esmauls,Esmauls,Enamels
+p104r_3,painting;metal process,1,0,N,Bonne saulce a colorer lor,Bonne saulce a colorer l’or,Good mixture to color gold
+p104r_5,painting;stones,1,0,N,Esmailler une cornaline,Esmailler une cornaline,Enameling a cornaline
+p105r_2,painting,1,0,N,Seicher couleurs,Seicher couleurs,Drying colors
+p105r_3,painting,1,0,N,Painctre,Painctre,Painter
+p124v_1,painting;metal process,1,0,N,Esmail Rouge clair,Esmail rouge clair,Rouge clair  enamel
+p129r_1,painting,1,0,N,Paindre herbes de metal,Paindre herbes de metal,Painting plants of metal
+p129r_2,painting,1,0,N,Pour santonique,Pour santonique,For wormseed
+p157r_2,painting;metal process,1,0,N,Rouge cler,Rouge cler,Rouge clair
+p158v_1,painting,1,0,N,Couleurs pour les feuilles vertes,Couleurs pour les feuilles vertes,Colors for green leaves
+p165r_2,painting,1,0,N,Laque,Laque,Lake
+p165r_3,painting,1,0,N,Tendre un portrait en toile,Tendre un portrait en toile,Stretching a canvas picture
+p165r_5,painting;varnish,1,1,Y,Sang de dragon,Sang de dragon,Dragon’s blood
