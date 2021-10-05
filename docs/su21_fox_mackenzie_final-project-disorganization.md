@@ -1,8 +1,8 @@
 # Was Ms. Fr. 640 Intentionally Disorganized?
 _Mackenzie Fox_<br><br>_Summer 2021_
 
-When browsing through the wide range of how-to instructions in Ms. Fr.
-640, it is often frustratingly unclear why the author-practitioner chose
+When browsing through the wide range of how-to instructions in [BnF Ms. Fr.
+640](https://edition640.makingandknowing.org/), it is often frustratingly unclear why the author-practitioner chose
 to address such disparate topics in a single text, or why he chose to
 arrange them in such an apparently random way. Why, for instance, does
 he, in the space of a single page, give advice on how to prepare earth
