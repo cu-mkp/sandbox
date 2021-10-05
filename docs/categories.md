@@ -172,7 +172,7 @@ To ponder this question, it may help to consider the 13 entries categorized as b
 4. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "Purple"
 5. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "White bronzing"
 6. [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter"
-7. [fol. 59r](https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl), "Azure"
+7. [fol. 59r](https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl), "Shadows"
 8. [fol. 60r](https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl), "Oil"
 9. [fol. 60v](https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl), "Wood color"
 10. [fol. 61v](https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl), "Frames of the Germans"
@@ -185,10 +185,14 @@ To ponder this question, it may help to consider the 13 entries categorized as b
 > _As soon as the colors of panels are well dried, the Flemish varnish them so they do not die any more than they already have & remain in that state.<br/><br/>
 > The one who knows to work well in distemper will work well in oil. But, on the contrary, the one who knows how to work well in oil will not work in distemper._
 
-The other entry titled "Painter" on [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl) lists a number of notes about different techniques and paints, and also inlcudes a note about varnishing, suggesting that these notes are all connected in some larger way (treating the same topic).
+The other entry titled "Painter" on [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl) lists a number of notes about different techniques and paints, and also includes a note about varnishing, suggesting that these notes are all connected in some larger way (treating the same topic). [Fol. 59r](https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl), "Shadows," [fol. 60v](https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl), "Wood color," and [fol. 165r](https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl), "Dragon’s blood," do the same thing: they discuss applying varnish as the last layer on top of paint.
 
-using varnish as the binding media to create the paint - 7r
+A few entries do not follow this pattern. Instead, they dictate using painter's ingredients (here, painter's distemper glue) and then applying varnish , as seen in fols. [fol. 42v](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl) "White varnish on plaster", [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl) "Purple" and "White bronzing." Nonetheless, they seem to suggest using the layering of painter's glue and varnish to create a certain optical effect, as one would for painting.
 
-Using the painter's ingredients (in most cases, distemper glue) and then applying varnish, as seen in fols. [fol. 42v](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl) "White varnish on plaster", [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl) "Purple" and "White bronzing"
+Two recipes suggest using varnish as the binding media to create the paint rather than distemper glue or oil on its own: [fol. 7r](https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl), "For coloring stamped trunks," and [fol. 67v](https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl), "Essential oils."
 
+Because oil is used as a painting medium and as an ingredient in varnishes, "Oil" on [fol. 60r](https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl) discusses the properties that would be suitable for each application:
+> Walnut oil extracted like peeled almonds is very white. The one of palmachristi. And when the oil has a little body, the colors soften in it. For if the oil is too clear, the colors run & do not have bond, even those that hardly have any body. Fatty oil that is not easily imbibed is appropriate for varnish. The oil is desiccative enough when it dries out as quickly as common varnish._
 
+In "Colors in oil that are imbibed" on [fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl), the author-practitioner even offers a way to remedy paint in "fatty" oil with varnish:
+> _It is best that colors in oil are imbibed, that is to say they do not remain shiny after they are dry, for they do not die. But if in some places they are shiny, it is that the fattiness of the oil has remained in that part, which would make the colors die. The varnish mends all this & unites & renders it similar in one place as in another._
