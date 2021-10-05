@@ -165,7 +165,7 @@ You can use and/or download this data to do your own analysis!
 
 ### Why is This Interesting?
 
-Might we expect there to be more or less overlap between the two entries? 
+Might we expect there to be more or less overlap between the two categories? 
 
 To ponder this question, it may help to consider the 13 entries categorized as both "painting" and "varnish":
 1. [fol. 7r](https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl), "For coloring stamped trunks"
