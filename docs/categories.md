@@ -143,7 +143,7 @@ Varnishing was often the final step in the creation of the painting, covering th
 Cennini even notes that when you varnish your paintings or your colors more generally, 
 > "they then become very fresh and beautiful, and remain in pristine state forever." 
 
-### Why is This Interesting?
+### Painting and Varnish in Fr. 640
 
 In BnF Ms. Fr. 640, there are 189 entries categorized as "painting," "varnish," or both "painting" and "varnish." They account for approximately 13% of all entries in the manuscript.
 
@@ -162,6 +162,8 @@ The above pie chart was created using:
 - The processing and workup were done using Microsoft Excel, in an Excel spreadsheet, [entry_metadata_paint-varnish.xlsx](entry_metadata_paint-varnish.xlsx)
 
 You can use and/or download this data to do your own analysis!
+
+### Why is This Interesting?
 
 Might we expect there to be more or less overlap between the two entries? 
 
