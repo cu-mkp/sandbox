@@ -145,7 +145,7 @@ Cennini even notes that when you varnish your paintings or your colors more gene
 
 ### Why is This Interesting?
 
-In BnF Ms. Fr. 640, there are 189 entries categorized as "painting," "varnish," or both "painting" and "varnish."
+In BnF Ms. Fr. 640, there are 189 entries categorized as "painting," "varnish," or both "painting" and "varnish." They account for approximately 13% of all entries in the manuscript.
 
 | Category                | # entries   |
 |-------------------------|-------------|
