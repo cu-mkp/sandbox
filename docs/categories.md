@@ -166,19 +166,19 @@ You can use and/or download this data to do your own analysis!
 Might we expect there to be more or less overlap between the two entries? 
 
 To ponder this question, it may help to consider the 13 entries categorized as both "painting" and "varnish":
-[fol. 7r](https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl), "For coloring stamped trunks"
-[fol. 32r](https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl), "Painter"
-[fol. 42v](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl), "White varnish on plaster"
-[fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "White bronzing on plaster"
-[fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "Purple"
-[fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter"
-[fol. 59r](https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl), "Azure"
-[fol. 60r](https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl), "Oil"
-[fol. 60v](https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl), "Wood color"
-[fol. 61v](https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl), "Frames of the Germans"
-[fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl), "Colors in oil that are imbibed"
-[fol. 67v](https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl), "Essential oils"
-[fol. 165r](https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl), "Dragon’s blood"
+1. [fol. 7r](https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl), "For coloring stamped trunks"
+2. [fol. 32r](https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl), "Painter"
+3. [fol. 42v](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl), "White varnish on plaster"
+4. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "White bronzing on plaster"
+5. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "Purple"
+6. [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter"
+7. [fol. 59r](https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl), "Azure"
+8. [fol. 60r](https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl), "Oil"
+9. [fol. 60v](https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl), "Wood color"
+10. [fol. 61v](https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl), "Frames of the Germans"
+11. [fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl), "Colors in oil that are imbibed"
+12. [fol. 67v](https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl), "Essential oils"
+13. [fol. 165r](https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl), "Dragon’s blood"
 
 
 
