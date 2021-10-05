@@ -22,8 +22,8 @@ The raw data (the xml-encoded transcriptions and translations of the manuscript 
 - **Casting:** A large majority of casting recipes supports the theory that this is the author-practitioner's main focus and area of expertise. The casting entries are some of the longest and seen to contain the most first-hand observations and active experimentation.
      - From fol. 80v to 93r is an almost uninterrupted cluster of entries discussing the author-practitioner's first-hand experiments with sands and other molding materials for casting.
      - For example, see [fol. 84v-85r, "Sand for lead, the most excellent of all, for high and low reliefs"](https://edition640.makingandknowing.org/#/folios/84v/f/84v/tl), in which he records multiple trials, failures, and successes. The best method? Mix ceruse (lead carbonate) with egg white into the sand and oil the mold lightly with walnut oil.
-     - Interested in failure? Check out this video of Project Postdoc Tianna Uchacz discussing this further:
-     [![Recipes for Failure: Experimenting, Repairing, and Quitting in Renaissance Toulouse](../images/uchacz-failure.png?raw=true)](https://vimeo.com/487139383 "Recipes for Failure: Experimenting, Repairing, and Quitting in Renaissance Toulouse")
+     - Interested in failure? Check out this video of Project Postdoc Tianna Uchacz discussing this further:<br/>
+     <a href="https://vimeo.com/487139383"><img src="../images/uchacz-failure.png?raw=true" alt="Recipes for Failure: Experimenting, Repairing, and Quitting in Renaissance Toulouse" style="width:500px"></a>
 - **Alchemy:** While the manuscript was originally thought to contain alchemical writings, as was common for many "Books of Secrets" in the Renaissance that contained first-hand experimentation, the distribution of categories shows that "alchemy" is one of the least prevalent categories. In fact, there is only one entry that is "alchemical": [fol. 52r, "The work done in Algiers"](https://edition640.makingandknowing.org/#/folios/52r/f/52r/tl)
 
 ## Distribution of Entry Categories Across the Folios
@@ -38,7 +38,7 @@ Starting at the beginning of the manuscript on 1r and ending with the last page,
 
 One black vertical line = 1 entry.
 
-![categories-swarmplot-blank](https://github.com/cu-mkp/sandbox/blob/main/images/blank_swarmplot.png?raw=true)
+![categories-swarmplot-blank](../images/blank_swarmplot.png?raw=true)
 
 
 ### Why is This Interesting?
@@ -65,7 +65,7 @@ One black vertical line = 1 entry.
 While the great majority of the manuscript is written in one hand, there are a few instances of a different hand, including a number of sequential entries that begin on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) and end on [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl). The writing here is a semi-calligraphic French script and is most likely that of a scribe. The same hand appears again in a series of entries from [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) and from [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl).
 
 The sections are highlighted below in red.
-![categories-swarmplot-scribe](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe.png?raw=true)
+![categories-swarmplot-scribe](../images/entry-swarmplot-scribe.png?raw=true)
 
 ### Why is This Interesting?
 
@@ -73,7 +73,7 @@ The sections are highlighted below in red.
 
 These sections show that the author-practitioner may have employed a scribe to assist him in the gathering and recording of entries.
 The types of entries written by the scribe all fall within the same few categories, highlighted below in blue.
-![categories-swarmplot-scribe-categories](https://github.com/cu-mkp/sandbox/blob/main/images/entry-swarmplot-scribe-categories.png?raw=true)
+![categories-swarmplot-scribe-categories](../images/entry-swarmplot-scribe-categories.png?raw=true)
 
 The categories by section:
 - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as "painting," "varnish," and "arms and armor"
@@ -115,11 +115,39 @@ The categories by section:
 What clues in the text do we see to support the theory that the author-practitioner was working together with a scribe?
 
 - One example is an intervention on [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl). In the entry, *moullée* (grindings) is added in a hand that is most likely the author-practitioner's, to fill in a blank left by the scribe who wrote the rest of the page.
-![73r_facsimile_scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/73r_fac_scribe-ann.png?raw=true)
+![73r_facsimile_scribe-annotated](../images/73r_fac_scribe-ann.png?raw=true)
 - There is also evidence of dictation: perhaps the author-practitioner spoke out loud to the scribe who wrote his notes down. In multiple entries on fols. [77v](https://edition640.makingandknowing.org/#/folios/77v/f/77v/tl), [78r](https://edition640.makingandknowing.org/#/folios/78r/f/78r/tl), and [79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl), the scribe seems to have been confused by the word "sandarac," a type of resin used commonly in varnish recipes. He writes down words that sound similar, such as *sang* (blood) *de Drac* (of the dragon) or *da Rac* (the devil's shout), before ultimately correcting them.
-![79v_facsimile_scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/79v_fac_scribe-ann.png?raw=true)
+![79v_facsimile_scribe-annotated](../images/79v_fac_scribe-ann.png?raw=true)
 - In a longer entry that begins on [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter," the author-practitioner composes most of the entry, but a few sections in the middle are written by the scribe. Perhaps they were taking turns writing things down? Or writing at different times, adding to each other's sections?
-![57r-scribe-annotated](https://github.com/cu-mkp/sandbox/blob/main/images/57r-scribe-annotated.png?raw=true)
+![57r-scribe-annotated](../images/57r-scribe-annotated.png?raw=true)
+
+## Painting and Varnish Entries
+
+We often closely associate varnish recipes with painting recipes in the Renaissance. For example, in Cennino Cennini's _The Craftsman’s Handbook, ‘Il Libro dell’Arte’_, trans. by Daniel Thompson (New York: Dover, 1960), notes of varnish follow the sections on painting.
+
+**Cennini's Painting Sections**
+- "_II: The second section of this book: brining you to the working up of the colors_"
+- "_III: The method and system for working on a wall, that is, in fresco_"
+- "_IV: How to paint in oil on a wall, on panel, on iron, and where you please_"
+- "_V: The system by which you should prepare to acquire the skill to work on panel_"
+- "_VI: How you should start to work on panel or anconas_"
+
+**Cennini's Varnish Section**
+- "_Introduction to a short section on varnishing_"
+- "_When to varnish_"
+- "_How to apply varnish_"
+- "_How to make a painting look as if it were varnished_"
+
+Varnishing was often the final step in the creation of the painting, covering the layers of (usually) oil paint with a layer of varnish to help protect the paint underneath or to enhance the optical effect of the painting. Many painting treatises of this period include recipes for varnishes alongside pigment recipes and descriptions of painting techniques.  
+
+Cennini even notes that when you varnish your colors or paintings, 
+> "they then become very fresh and beautiful, and remain in pristine state forever." 
+
+In BnF Ms. Fr. 640, there are 189 entries categorized as "painting," "varnish," or both "painting" and "varnish."
+
+![painting-varnish-pie-chart](../images/painting-varnish-pie-chart.png?raw=true)
+
+### Why is This Interesting?
 
 
 
