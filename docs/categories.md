@@ -169,8 +169,8 @@ To ponder this question, it may help to consider the 13 entries categorized as b
 1. [fol. 7r](https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl), "For coloring stamped trunks"
 2. [fol. 32r](https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl), "Painter"
 3. [fol. 42v](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl), "White varnish on plaster"
-4. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "White bronzing on plaster"
-5. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "Purple"
+4. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "Purple"
+5. [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl), "White bronzing"
 6. [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl), "Painter"
 7. [fol. 59r](https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl), "Azure"
 8. [fol. 60r](https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl), "Oil"
@@ -180,5 +180,15 @@ To ponder this question, it may help to consider the 13 entries categorized as b
 12. [fol. 67v](https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl), "Essential oils"
 13. [fol. 165r](https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl), "Dragon’s blood"
 
+[Fol. 32r](https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl), "Painter," makes a similar point to Cennini about preserving the painting by applying varnish to the painting, and then makes a notes about the skills required for working with two different binding media, oil and distemper (glue).
+
+> _As soon as the colors of panels are well dried, the Flemish varnish them so they do not die any more than they already have & remain in that state.<br/><br/>
+> The one who knows to work well in distemper will work well in oil. But, on the contrary, the one who knows how to work well in oil will not work in distemper._
+
+The other entry titled "Painter" on [fol. 56v](https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl) lists a number of notes about different techniques and paints, and also inlcudes a note about varnishing, suggesting that these notes are all connected in some larger way (treating the same topic).
+
+using varnish as the binding media to create the paint - 7r
+
+Using the painter's ingredients (in most cases, distemper glue) and then applying varnish, as seen in fols. [fol. 42v](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl) "White varnish on plaster", [fol. 43r](https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl) "Purple" and "White bronzing"
 
 
