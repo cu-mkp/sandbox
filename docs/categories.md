@@ -123,7 +123,7 @@ What clues in the text do we see to support the theory that the author-practitio
 
 ## Painting and Varnish Entries
 
-We often closely associate varnish recipes with painting recipes in the Renaissance. For example, in Cennino Cennini's _The Craftsman’s Handbook, ‘Il Libro dell’Arte’_, trans. by Daniel Thompson (New York: Dover, 1960), notes of varnish follow the sections on painting.
+We often closely associate varnish recipes with painting recipes in the Renaissance. For example, in Cennino Cennini's _The Craftsman’s Handbook, ‘Il Libro dell’Arte’_, trans. by Daniel Thompson (New York: Dover, 1960), notes about varnish follow the sections on painting.
 
 **Cennini's Painting Sections**
 - "_II: The second section of this book: brining you to the working up of the colors_"
@@ -140,7 +140,7 @@ We often closely associate varnish recipes with painting recipes in the Renaissa
 
 Varnishing was often the final step in the creation of the painting, covering the layers of (usually) oil paint with a layer of varnish to help protect the paint underneath or to enhance the optical effect of the painting. Many painting treatises of this period include recipes for varnishes alongside pigment recipes and descriptions of painting techniques.  
 
-Cennini even notes that when you varnish your colors or paintings, 
+Cennini even notes that when you varnish your paintings or your colors more generally, 
 > "they then become very fresh and beautiful, and remain in pristine state forever." 
 
 ### Why is This Interesting?
