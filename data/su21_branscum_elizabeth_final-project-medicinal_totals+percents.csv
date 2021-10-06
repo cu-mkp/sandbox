@@ -1,4 +1,4 @@
-type,"Fr. 640, number","Fr. 640, percentage","Granville, number","Granville, percentage","Hall, number","Hall, percentage","Pudsey, number","Pudsey, percentage"
+type,"Fr. 640, count","Fr. 640, percentage","Granville, count","Granville, percentage","Hall, count","Hall, percentage","Pudsey, count","Pudsey, percentage"
 plant-matter,45,49.45,360,70.59,84,75.68,234,71.56
 chemical-mineral,20,21.98,64,12.55,6,5.41,36,11.01
 food-drink,8,8.79,23,4.51,5,4.50,21,6.42
