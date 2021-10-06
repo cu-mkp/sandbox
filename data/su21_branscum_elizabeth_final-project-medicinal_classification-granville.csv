@@ -1,0 +1,511 @@
+ingredient,type
+agaric,plant-matter
+agrimony,plant-matter
+agrimony,plant-matter
+agrimony,plant-matter
+agrimony,plant-matter
+agrimony,plant-matter
+agrimony,plant-matter
+alehoof (ground ivy),plant-matter
+alehoof (ground ivy),plant-matter
+alehoof (ground ivy),plant-matter
+alewort,plant-matter
+almond oil,plant-matter
+aloe,plant-matter
+angelica (celery),plant-matter
+angelica root ,plant-matter
+angelica water,plant-matter
+aniseed,plant-matter
+aniseed,plant-matter
+aniseed,plant-matter
+aniseed,plant-matter
+aniseed,plant-matter
+aniseed,plant-matter
+aristolochia,plant-matter
+ash key,plant-matter
+asparagus,plant-matter
+balm,plant-matter
+barley,plant-matter
+bay berry,plant-matter
+bay leaf,plant-matter
+bay leaves,plant-matter
+bay oil,plant-matter
+bay oil,plant-matter
+bdellium (bedelium),plant-matter
+benjamin,plant-matter
+betony,plant-matter
+betony,plant-matter
+betony,plant-matter
+betony,plant-matter
+betony,plant-matter
+bindweed,plant-matter
+bindweed,plant-matter
+birthworth (aristolochia),plant-matter
+bloodwort,plant-matter
+borage,plant-matter
+borage,plant-matter
+bramble,plant-matter
+bran,plant-matter
+brook lime,plant-matter
+brook lime,plant-matter
+brown sugar,plant-matter
+brown sugar,plant-matter
+bugloss,plant-matter
+bugloss,plant-matter
+bugloss,plant-matter
+campana,plant-matter
+camphor,plant-matter
+camphor,plant-matter
+camphor,plant-matter
+camphor,plant-matter
+camphor,plant-matter
+camphor powder,plant-matter
+camphor powder,plant-matter
+caraway,plant-matter
+caraway,plant-matter
+cardamom,plant-matter
+carduus benedictus (holy thistle),plant-matter
+carduus benedictus (holy thistle),plant-matter
+castor,plant-matter
+cedar oil,plant-matter
+celandine,plant-matter
+celandine,plant-matter
+celandine,plant-matter
+ceterach,plant-matter
+chamomile,plant-matter
+chamomile,plant-matter
+chamomile,plant-matter
+chamomile,plant-matter
+chamomile oil,plant-matter
+cherry,plant-matter
+china root,plant-matter
+cinnamon,plant-matter
+cinnamon,plant-matter
+cinnamon,plant-matter
+cinnamon,plant-matter
+cinnamon,plant-matter
+cinnamon,plant-matter
+cinquefoil (sincfield),plant-matter
+citron,plant-matter
+citron,plant-matter
+cloves,plant-matter
+cloves,plant-matter
+coltsfoot,plant-matter
+coltsfoot,plant-matter
+coltsfoot,plant-matter
+coltsfoot,plant-matter
+columbine (cullobine),plant-matter
+coriander,plant-matter
+cowslip,plant-matter
+cowslip,plant-matter
+cubeb (pepper),plant-matter
+cumin,plant-matter
+cumin,plant-matter
+currant,plant-matter
+currant,plant-matter
+damask powder,plant-matter
+damask rose,plant-matter
+dandelion (lyon tooth),plant-matter
+dandelion (lyon tooth),plant-matter
+date,plant-matter
+date,plant-matter
+date stone,plant-matter
+dill oil,plant-matter
+dittany,plant-matter
+dockroot,plant-matter
+dodder,plant-matter
+elder leaves,plant-matter
+elderflower,plant-matter
+endive,plant-matter
+featherfew,plant-matter
+featherfew,plant-matter
+fennell,plant-matter
+fennell,plant-matter
+fennell,plant-matter
+fennell,plant-matter
+fenugrek,plant-matter
+fig,plant-matter
+fig,plant-matter
+fig,plant-matter
+fig,plant-matter
+flax seed,plant-matter
+frankincense,plant-matter
+frankincense,plant-matter
+frankincense,plant-matter
+frankincense,plant-matter
+frankincense,plant-matter
+fumitory,plant-matter
+fumitory,plant-matter
+galbanum,plant-matter
+galingall,plant-matter
+gentian,plant-matter
+ginger,plant-matter
+ginger,plant-matter
+ginger,plant-matter
+ginger,plant-matter
+green onion,plant-matter
+ground ivy,plant-matter
+grumwall,plant-matter
+hartshorne,plant-matter
+hartstongue,plant-matter
+hartstongue,plant-matter
+hartstongue,plant-matter
+hops,plant-matter
+horsetail,plant-matter
+hyssop,plant-matter
+hyssop,plant-matter
+hyssop,plant-matter
+hyssop,plant-matter
+hyssop,plant-matter
+ivy leaves,plant-matter
+juniper berries,plant-matter
+juniper oil,plant-matter
+lady's smock,plant-matter
+lavender,plant-matter
+lavender,plant-matter
+lavender,plant-matter
+lavender,plant-matter
+lavender cotton (cypress),plant-matter
+lemon,plant-matter
+lemon,plant-matter
+lemon,plant-matter
+lettuce,plant-matter
+licorice,plant-matter
+lignum aloes,plant-matter
+lily of the valley,plant-matter
+linseed oil,plant-matter
+liquorice,plant-matter
+liquorice,plant-matter
+liquorice,plant-matter
+liquorice,plant-matter
+liverwort,plant-matter
+liverwort,plant-matter
+liverwort,plant-matter
+liverwort,plant-matter
+liverwort,plant-matter
+loaf sugar,plant-matter
+lungwort,plant-matter
+mace,plant-matter
+mace,plant-matter
+mace,plant-matter
+mace,plant-matter
+maidenshair,plant-matter
+maidenshair,plant-matter
+maidenshair,plant-matter
+maidenshair,plant-matter
+marigold,plant-matter
+marigold,plant-matter
+marjoram,plant-matter
+marjoram,plant-matter
+marjoram,plant-matter
+marshmallow,plant-matter
+marshmallow,plant-matter
+marshmallow,plant-matter
+mastic,plant-matter
+mayweed,plant-matter
+mint,plant-matter
+mugwort,plant-matter
+mugworth,plant-matter
+mulberry syrup,plant-matter
+mustard seed,plant-matter
+myrrh,plant-matter
+myrrh,plant-matter
+myrrh,plant-matter
+myrrh,plant-matter
+myrrh,plant-matter
+myrrh oil,plant-matter
+nutmeg,plant-matter
+nutmeg,plant-matter
+nutmeg,plant-matter
+nutmeg,plant-matter
+nutmeg,plant-matter
+nutmeg,plant-matter
+nutmeg,plant-matter
+oak bark,plant-matter
+olive oil,plant-matter
+olive oil,plant-matter
+onion,plant-matter
+opopanax,plant-matter
+orange,plant-matter
+orange,plant-matter
+orris powder,plant-matter
+parsley,plant-matter
+parsley root,plant-matter
+pellitory of the wall,plant-matter
+pennyroyal,plant-matter
+pennyroyal,plant-matter
+peony,plant-matter
+peony,plant-matter
+pepper,plant-matter
+peppercorn (grain of paradise),plant-matter
+pimpernel,plant-matter
+pimpernel,plant-matter
+plaintain,plant-matter
+plantain,plant-matter
+polypodium,plant-matter
+raisin,plant-matter
+raisin,plant-matter
+raisin,plant-matter
+raisin,plant-matter
+raisin,plant-matter
+red rose,plant-matter
+red rose leaf,plant-matter
+red rose water,plant-matter
+resin,plant-matter
+resin,plant-matter
+rhubarb,plant-matter
+rhubarb,plant-matter
+rosa solis (herb sundew),plant-matter
+rose,plant-matter
+rose oil,plant-matter
+rose oil,plant-matter
+rose oil,plant-matter
+rose oil,plant-matter
+rose oil,plant-matter
+rose oil,plant-matter
+rose water,plant-matter
+rosemary,plant-matter
+rosemary,plant-matter
+rosemary,plant-matter
+rosemary,plant-matter
+rosemary,plant-matter
+rosemary,plant-matter
+rosemary,plant-matter
+rosemary,plant-matter
+rosemary balm,plant-matter
+rosin,plant-matter
+rue,plant-matter
+rue,plant-matter
+rue,plant-matter
+rue,plant-matter
+rye,plant-matter
+saffron,plant-matter
+saffron,plant-matter
+saffron,plant-matter
+saffron,plant-matter
+saffron,plant-matter
+sage,plant-matter
+sage,plant-matter
+sage,plant-matter
+sage,plant-matter
+sage,plant-matter
+sage,plant-matter
+sage,plant-matter
+sage,plant-matter
+sage,plant-matter
+salad oil,plant-matter
+salad oil,plant-matter
+salad oil,plant-matter
+salad oil,plant-matter
+salad oil,plant-matter
+salad oil,plant-matter
+sandalwood,plant-matter
+sandalwood,plant-matter
+sassafras,plant-matter
+scabious,plant-matter
+scabious,plant-matter
+scabious,plant-matter
+scabious,plant-matter
+scordium,plant-matter
+scurvy grass,plant-matter
+senna,plant-matter
+senna,plant-matter
+smallage,plant-matter
+smallage,plant-matter
+sorrel,plant-matter
+southernwood (artemisia),plant-matter
+southernwood (artemisia),plant-matter
+spearmint,plant-matter
+spike,plant-matter
+spike oil,plant-matter
+spurrey,plant-matter
+St. John's wort,plant-matter
+St. John's wort,plant-matter
+storax,plant-matter
+strawberry,plant-matter
+succory,plant-matter
+sugar,plant-matter
+sugar,plant-matter
+sugar,plant-matter
+sugar,plant-matter
+sugar,plant-matter
+sugar,plant-matter
+sugar,plant-matter
+sugar,plant-matter
+tamarisk,plant-matter
+tansy water,plant-matter
+thyme,plant-matter
+thyme,plant-matter
+thyme,plant-matter
+tormentil,plant-matter
+tormentil,plant-matter
+violet,plant-matter
+wallflower,plant-matter
+walnut,plant-matter
+watercress,plant-matter
+watercress,plant-matter
+white sugar,plant-matter
+white sugar,plant-matter
+wood sorrel,plant-matter
+woodbine,plant-matter
+woodrose,plant-matter
+wormseed (artemisia),plant-matter
+wormwood,plant-matter
+wormwood,plant-matter
+wormwood,plant-matter
+wormwood,plant-matter
+wormwood,plant-matter
+wormwood,plant-matter
+yarrow,plant-matter
+yarrow,plant-matter
+zedoary (turmeric),plant-matter
+alum,minerals-chemicals
+alum,minerals-chemicals
+alum,minerals-chemicals
+alum,minerals-chemicals
+amber,minerals-chemicals
+amber,minerals-chemicals
+ammoniac (amoniacum),minerals-chemicals
+aqua vitae,minerals-chemicals
+aqua vitae,minerals-chemicals
+aqua vitae,minerals-chemicals
+bole armeniac,minerals-chemicals
+bole armeniac,minerals-chemicals
+bole armeniac,minerals-chemicals
+bole armeniac,minerals-chemicals
+ceruse,minerals-chemicals
+chalk,minerals-chemicals
+copper,minerals-chemicals
+fire oil,minerals-chemicals
+fire water,minerals-chemicals
+gold,minerals-chemicals
+gold powder,minerals-chemicals
+hartshorn (ammonium carbonate),minerals-chemicals
+hartshorn (ammonium carbonate),minerals-chemicals
+lapis caluminarus,minerals-chemicals
+lithridge of gold,minerals-chemicals
+lithridge of gold,minerals-chemicals
+lithridge of gold,minerals-chemicals
+lithridge of gold,minerals-chemicals
+lithridge of gold,minerals-chemicals
+lithridge of gold,minerals-chemicals
+manus Christi,minerals-chemicals
+oil,minerals-chemicals
+pitch,minerals-chemicals
+pitch,minerals-chemicals
+pomye stone,minerals-chemicals
+red lead,minerals-chemicals
+salt,minerals-chemicals
+Smarage (emerald),minerals-chemicals
+steel,minerals-chemicals
+sulfur,minerals-chemicals
+sulfur,minerals-chemicals
+tartar oil,minerals-chemicals
+turpentine,minerals-chemicals
+turpentine,minerals-chemicals
+turpentine,minerals-chemicals
+turpentine,minerals-chemicals
+tutty (zinc oxide),minerals-chemicals
+venice turpentine,minerals-chemicals
+venice turpentine,minerals-chemicals
+venice turpentine,minerals-chemicals
+vinegar,minerals-chemicals
+vitriol,minerals-chemicals
+vitriol,minerals-chemicals
+wax,minerals-chemicals
+white lead,minerals-chemicals
+white lead,minerals-chemicals
+white lead,minerals-chemicals
+white wax,minerals-chemicals
+white wine vinegar,minerals-chemicals
+white wine vinegar,minerals-chemicals
+white wine vinegar,minerals-chemicals
+wine vinegar,minerals-chemicals
+wine vinegar,minerals-chemicals
+yellow wax,minerals-chemicals
+ale,food-drink
+ale,food-drink
+alebury,food-drink
+bean flour,food-drink
+beer,food-drink
+beer,food-drink
+caudle,food-drink
+claret wine,food-drink
+claret wine,food-drink
+french claret,food-drink
+malmesy (wine),food-drink
+malmesy (wine),food-drink
+manchet bread,food-drink
+penny loaf,food-drink
+Rhenish whine,food-drink
+sack,food-drink
+sack,food-drink
+sack (canary),food-drink
+white wine,food-drink
+white wine,food-drink
+white wine,food-drink
+white wine,food-drink
+white wine,food-drink
+ambergris,animal-product
+ambergris,animal-product
+barrowes grease,animal-product
+barrowes grease,animal-product
+barrowes grease,animal-product
+beeswax,animal-product
+beeswax,animal-product
+beeswax,animal-product
+beeswax,animal-product
+beeswax,animal-product
+butter,animal-product
+butter,animal-product
+butter,animal-product
+cow dung,animal-product
+cow's milk,animal-product
+cuttlebone,animal-product
+deer suet,animal-product
+deer suet,animal-product
+deer suet,animal-product
+deer suet,animal-product
+egg white,animal-product
+egg yolk,animal-product
+goat's milk,animal-product
+hen dung,animal-product
+hogs soile,animal-product
+honey,animal-product
+honey,animal-product
+honey,animal-product
+honey,animal-product
+honey,animal-product
+honey,animal-product
+horse dung,animal-product
+milk,animal-product
+milk,animal-product
+milk,animal-product
+musk,animal-product
+musk,animal-product
+musk,animal-product
+mutton suet,animal-product
+pearl,animal-product
+pearl,animal-product
+pearl,animal-product
+pearl,animal-product
+red cow's milk,animal-product
+red cow's milk,animal-product
+rooster,animal-product
+snail,animal-product
+snail shells,animal-product
+snails,animal-product
+spermaceti ,animal-product
+veal,animal-product
+white honey,animal-product
+wool,animal-product
+confectio Alkermis,misc-medical
+confectio Alkermis,misc-medical
+confectio Alkermis,misc-medical
+diascordium,misc-medical
+dragon's blood,misc-medical
+Gascogne powder,misc-medical
+London treagle,misc-medical
+mithridate,misc-medical
+mithridate,misc-medical
+mithridate,misc-medical
