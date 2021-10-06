@@ -1,7 +1,7 @@
 # Medicine in Ms. Fr. 640 and Household Recipe Books
 _Elizabeth Branscum_<br><br>_Summer 2021_
 
-su21_macomber_sophie_final-project-figures.md
+
 ## Introduction
 As you know by now, the origin and purpose of [BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/) is still uncertain. Who is the mysterious author-practitioner who compiled these recipes, and what did he intend to do with them? Part of what makes this question so intriguing is the inclusion of recipes on such a wide variety of topics – craft, sleight of hand, and even medicine. The medical recipes in the manuscript are particularly curious. Out of over 900 entries, there are only 48 that explicitly detail medical recipes, and they are scattered throughout the manuscript with little apparent rhyme or reason. In this essay, I will look more closely at the medical entries in Ms. Fr. 640, and compare them briefly to medical recipes included in a household recipe book compiled in mid-seventeenth century England.[^1] This comparison, which places Ms. Fr. 640 alongside a text from a similar period whose purpose and genre is well-established, may shed light on the strategies and intent of the author-practitioner in compiling the medical recipes in Fr. 640, and raise fruitful questions for further study.[^2]
 
@@ -357,196 +357,27 @@ See data and its workup in the [SU21_Branscum_Making-and-Knowing-Recipe-Data spr
 </section>
 
 ### Medical Recipe Types in Ms. Fr. 640
+The table below summarizes the entries by recipe types, listing the entry's heading followed by its folio number in parentheses. 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 49%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>General Category</th>
-<th>Specific Recipe and Location</th>
-</tr>
-<tr class="odd">
-<th>Bodily Pain and Discomfort</th>
-<th><ul>
-<li><blockquote>
-<p>For loosening the belly (1v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against pains (2r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against windy colic (7v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Ears (15v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Toothache (15v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Clysters (19v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against winds (20v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against burn (20v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A form of regimen (20v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Medicine for the stomach which heats it and unstops the liver (37r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against nosebleed and for dyeing (38v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against wounds (55r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For preventing teats from swelling (66v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For making water for disease of the eyes (79r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against burns, excellent (103r)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-</blockquote></li>
-<li><blockquote>
-<p>Enema (103v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Crocum ferri (120v)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="header">
-<th>Disease</th>
-<th><ul>
-<li><blockquote>
-<p>For relieving the pain of G. (7v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against gonorrhea (7v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against Go. (16v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Excellent water against the plague of Monsieur de Montorsin (44v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against the falling sickness (46r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against cold gouts (46r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against falling sickness or vertigo (47r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against diarrhea and dysentery (47r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Curing dogs of mange (48r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against dogs’ mange (103r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against dogs’ mange (104v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against plague (170v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For preserving (170v)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="odd">
-<th>Cosmetic</th>
-<th><ul>
-<li><blockquote>
-<p>For getting rid of the redness of eyes or bruising (11v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For removing fine hair from the forehead (16v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For whitening the face (20v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For the teeth, oil of sulfur (46r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Wheat oil (46r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For teeth (47r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against bruising of the eyes (66v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Against redness of the face (77r)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="header">
-<th>Misc</th>
-<th><ul>
-<li><blockquote>
-<p>Toadstone (13v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>White soporific oil (44v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Onenev elbirro hcihw sllik fi eno spets no a draob ro a ueirse purrits (55r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Another for waters (55v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Medicine of the orientals against all maladies (77r)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Infusion of anthos or rosemary (102v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Earwax (103v)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="odd">
-<th>Craftmaking</th>
-<th><ul>
-<li><blockquote>
-<p>Antidote against the fumes of metals (79v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Working on glass (97v)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Toad (109v)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<section class="footnotes" role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1" role="doc-endnote"><p>This recipe for burns is attributed to a gunpowder maker, so I include it in my discussion of craft-focused remedies.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
+| Bodily Pain and Discomfort                                          | Disease                                                           | Cosmetic                                                 | Misc                                                                         | Craftmaking                                |
+|---------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------|
+| For loosening the belly (1v)                                        | For relieving the pain of G. (7v)                                 | For getting rid of the redness of eyes or bruising (11v) | Toadstone (13v)                                                              | Antidote against the fumes of metals (79v) |
+| Against pains (2r)                                                  | Against gonorrhea (7v)                                            | For removing fine hair from the forehead (16v)           | White soporific oil (44v)                                                    | Working on glass (97v)                     |
+| Against windy colic (7v)                                            | Against Go. (16v)                                                 | For whitening the face (20v)                             | Onenev elbirro hcihw sllik fi eno spets no a draob ro a ueirse purrits (55r) | Toad (109v)                                |
+| Ears (15v)                                                          | Excellent water against the plague of Monsieur de Montorsin (44v) | For the teeth, oil of sulfur (46r)                       | Another for waters (55v)                                                     |                                            |
+| Toothache (15v)                                                     | Against the falling sickness (46r)                                | Wheat oil (46r)                                          | Medicine of the orientals against all maladies (77r)                         |                                            |
+| Clysters (19v)                                                      | Against cold gouts (46r)                                          | For teeth (47r)                                          | Infusion of anthos or rosemary (102v)                                        |                                            |
+| Against winds (20v)                                                 | Against falling sickness or vertigo (47r)                         | Against bruising of the eyes (66v)                       | Earwax (103v)                                                                |                                            |
+| Against burn (20v)                                                  | Against diarrhea and dysentery (47r)                              | Against redness of the face (77r)                        |                                                                              |                                            |
+| A form of regimen (20v)                                             | Curing dogs of mange (48r)                                        |                                                          |                                                                              |                                            |
+| Medicine for the stomach which heats it and unstops the liver (37r) | Against dogs’ mange (103r)                                        |                                                          |                                                                              |                                            |
+| Against nosebleed and for dyeing (38v)                              | Against dogs’ mange (104v)                                        |                                                          |                                                                              |                                            |
+| Against wounds (55r)                                                | Against plague (170v)                                             |                                                          |                                                                              |                                            |
+| For preventing teats from swelling (66v)                            | For preserving (170v)                                             |                                                          |                                                                              |                                            |
+| For making water for disease of the eyes (79r)                      |                                                                   |                                                          |                                                                              |                                            |
+| Against burns, excellent (103r)                                     |                                                                   |                                                          |                                                                              |                                            |
+| Enema (103v)                                                        |                                                                   |                                                          |                                                                              |                                            |
+| Crocum ferri (120v)                                                 |                                                                   |                                                          |                                                                              |                                            |
 
 ## Bibliography
 
