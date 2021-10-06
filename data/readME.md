@@ -16,4 +16,4 @@ Charts: 'Ms. Fr. 640 Ingredients' and 'Granville' Ingredients
 - The calculations based upon that data: [su21_branscum_ingredients_totals+percents.csv](../data/su21_branscum_ingredients_totals+percents.csv)
 - Additional classification of two other manuscripts was undertaken, though the treatment presented here does not discuss them. I provide this data for future comparison work:
      - [su21_branscum_ingredients_pudsey.csv](su21_branscum_ingredients_pudsey.csv) for Ms. V.a.450: Cookery and Medical Receipt Book attributed to Lettice Pudsey, c. 1675-1700 (Folger Library)
-     -  [su21_branscum_ingredients_hall.csv](su21_branscum_ingredients_hall.csv) for Ms. V.a.20: Receipt Book attributed to Constance Hall, 1672 (Folger Library
+     -  [su21_branscum_ingredients_hall.csv](su21_branscum_ingredients_hall.csv) for Ms. V.a.20: Receipt Book attributed to Constance Hall, 1672 (Folger Library)
