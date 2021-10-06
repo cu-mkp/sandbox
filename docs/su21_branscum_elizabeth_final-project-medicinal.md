@@ -112,6 +112,9 @@ The table below summarizes the entries by recipe types, listing the entry's head
 | Captain William Webber’s recipe for the curing of most pains and aches (99-100) | Captain Felpes...his recipe…for stone experienced upon himself (122) |                                                                                      |                                                         |                                                |   |   |   |
 | A most excellent plaister for all kind of wounds or old sores                   | To make a water for a Squinancy (11)                                 |                                                                                      |                                                         |                                                |   |   |   |
 
+**Notes:**
+- _An excellent medicine for a sore breast with the ague (3)_: I’ve included this recipe in the “disease” category because it seems to refer to soreness within the chest, while the other recipes that mention a sore breast appear to refer to external pain. 
+
 ### Medical Recipe Types in Ms. Fr. 640
 The table below summarizes the entries by recipe types, listing the entry's heading followed by its folio number in parentheses. 
 
@@ -134,6 +137,9 @@ The table below summarizes the entries by recipe types, listing the entry's head
 | Against burns, excellent (103r)                                     |                                                                   |                                                          |                                                                              |                                            |
 | Enema (103v)                                                        |                                                                   |                                                          |                                                                              |                                            |
 | Crocum ferri (120v)                                                 |                                                                   |                                                          |                                                                              |                                            |
+
+**Notes:**
+- _Against burns, excellent (103r)_: This recipe for burns is attributed to a gunpowder maker, so I include it in my discussion of craft-focused remedies. 
 
 ## Bibliography
 
