@@ -75,286 +75,42 @@ However, examining these manuscripts side by side also highlights important diff
 See data and its workup in the [SU21_Branscum_Making-and-Knowing-Recipe-Data spreadsheet](SU21_Branscum_Making-and-Knowing-Recipe-Data.xlsx)
 
 ### Medical Recipe Types in the Granville recipe Book
+The table below summarizes the entries by recipe types, listing the entry's heading followed by its page number in parentheses.
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>General Type</th>
-<th>Specific Recipe (Page Number)</th>
-</tr>
-<tr class="odd">
-<th>Bodily Pain and Discomfort</th>
-<th><ul>
-<li><blockquote>
-<p>For purging rheum and phlegm from the head and stomach (1)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A medicine for a burn or scald (2)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A medicine for a searcloth (2)</p>
-</blockquote></li>
-<li><blockquote>
-<p>The white ointment for any itch (2)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A medicine for a sore breast (3)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make the green ointment (3-4)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A medicine for sore nipples (4)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Goodwife Lawrencer her salve (5)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make Balsamum (5)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A recipe of water for a sore throat or mouth (6)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make oil of St. John’s wort (6)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make an ointment for a bruise (7)</p>
-</blockquote></li>
-<li><blockquote>
-<p>The Wound Water (9)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make a water for a sore throat or mouth (15)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make a syrup of succory with rhubarb (16)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make a pretious drink good for the wind in the stomach (37)</p>
-</blockquote></li>
-<li><blockquote>
-<p>The manner of distilling a water of honey (38)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A very good ointment for a tetter or any itching (48)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make a Paracelsus plaister (59)</p>
-</blockquote></li>
-<li><blockquote>
-<p>An excellent recipe for a sore breast (89)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To cure a canker in the mouth or the mouth any way sore (90)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For aches Thomas Blother’s searcloth (91)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A recipe for any bruise an excellent thing (97)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Mrs. Rebekah Ash her powder for the eyes (96)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A recipe to cure any inflammation or swelling in the mouth (166b-168)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make the powder (169)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make the plaister (170)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make the ointment (171)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Mrs. Badge’s Plaister (180)</p>
-</blockquote></li>
-<li><blockquote>
-<p>The Head Pills, Mrs. Capel’s recipe (211)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Captain William Webber’s recipe for the curing of most pains and aches (99-100)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A most excellent plaister for all kind of wounds or old sores</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="header">
-<th>Disease</th>
-<th><ul>
-<li><blockquote>
-<p>To cure an ague (1)</p>
-</blockquote></li>
-<li><blockquote>
-<p>An excellent medicine for a sore breast with the ague<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> (3)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A medicine for the greensickness (8)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For the cough (10)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make poppy water (14)</p>
-</blockquote></li>
-<li><blockquote>
-<p>An excellent water for consumption (14-15)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For a consumption (15)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For a consumption (16)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make spleen ale (17)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make a hipocras for consumption (40)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make plague water (41)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Doctor Burges his direction against the plague (41)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A drink for the rickets (43)</p>
-</blockquote></li>
-<li><blockquote>
-<p>An ointment for the rickets (44)</p>
-</blockquote></li>
-<li><blockquote>
-<p>An excellent approved plaister for the spleen (46)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A recipe for consumption (48)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Doctor Butler’s recipe against a consumption (49)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A medicine for one that is in a desperate fit of the stone (60)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To cure a quartan or double ague (92)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A recipe for a cough (163)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To cure a flux invariably (164)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To cure deafness (164)</p>
-</blockquote></li>
-<li><blockquote>
-<p>The plague water (184)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Palsy water (193)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make a snail water for a consumption (194)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For worms in man, woman, or child (203)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A drink for the rickets (205)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Ointment for the rickets (205)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A recipe for the dropsie (238)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Lady Katharine Windham’s recipe Powder for the convulsion fits (239)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Captain Felpes...his recipe…for stone experienced upon himself (122)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make a water for a Squinancy (11)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="odd">
-<th>Cosmetic</th>
-<th><ul>
-<li><blockquote>
-<p>To take out the holes of the smallpox (15)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A recipe to take away the red spots out of the face after the smallpox are gone (47)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Another recipe (for removing marks from smallpox) (47)</p>
-</blockquote></li>
-<li><blockquote>
-<p>An ointment to take the spots out of the face after the smallpox (48)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To cleanse teeth well (88)</p>
-</blockquote></li>
-<li><blockquote>
-<p>A water to cure pimples in the face (17)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="header">
-<th>Misc</th>
-<th><ul>
-<li><blockquote>
-<p>To make one sleep (1)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make Doctor Chambers his water (10-11)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To make an admirable good water against melancholy (12)</p>
-</blockquote></li>
-<li><blockquote>
-<p>An approved medicine for the hiccups (59)</p>
-</blockquote></li>
-<li><blockquote>
-<p>To cause sleep in fevers or any other distempers (90)</p>
-</blockquote></li>
-<li><blockquote>
-<p>Walnut water or the water of life</p>
-</blockquote></li>
-</ul></th>
-</tr>
-<tr class="odd">
-<th>Reproduction</th>
-<th><ul>
-<li><blockquote>
-<p>A powder to be given to a woman in labor (158)</p>
-</blockquote></li>
-<li><blockquote>
-<p>For a woman as soon as brought to bed (305)</p>
-</blockquote></li>
-</ul></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<section class="footnotes" role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1" role="doc-endnote"><p>I’ve included this recipe in the “disease” category because it seems to refer to soreness within the chest, while the other recipes that mention a sore breast appear to refer to external pain.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
+| Bodily Pain and Discomfort                                                      | Disease                                                              | Cosmetic                                                                             | Misc                                                    | Reproduction                                   |   |   |   |
+|---------------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------|---|---|---|
+| For purging rheum and phlegm from the head and stomach (1)                      | To cure an ague (1)                                                  | To take out the holes of the smallpox (15)                                           | To make one sleep (1)                                   | A powder to be given to a woman in labor (158) |   |   |   |
+| A medicine for a burn or scald (2)                                              | An excellent medicine for a sore breast with the ague (3)            | A recipe to take away the red spots out of the face after the smallpox are gone (47) | To make Doctor Chambers his water (10-11)               | For a woman as soon as brought to bed (305)    |   |   |   |
+| A medicine for a searcloth (2)                                                  | A medicine for the greensickness (8)                                 | Another recipe (for removing marks from smallpox) (47)                               | To make an admirable good water against melancholy (12) |                                                |   |   |   |
+| The white ointment for any itch (2)                                             | For the cough (10)                                                   | An ointment to take the spots out of the face after the smallpox (48)                | An approved medicine for the hiccups (59)               |                                                |   |   |   |
+| A medicine for a sore breast (3)                                                | To make poppy water (14)                                             | To cleanse teeth well (88)                                                           | To cause sleep in fevers or any other distempers (90)   |                                                |   |   |   |
+| To make the green ointment (3-4)                                                | An excellent water for consumption (14-15)                           | A water to cure pimples in the face (17)                                             | Walnut water or the water of life                       |                                                |   |   |   |
+| A medicine for sore nipples (4)                                                 | For a consumption (15)                                               |                                                                                      |                                                         |                                                |   |   |   |
+| Goodwife Lawrencer her salve (5)                                                | For a consumption (16)                                               |                                                                                      |                                                         |                                                |   |   |   |
+| To make Balsamum (5)                                                            | To make spleen ale (17)                                              |                                                                                      |                                                         |                                                |   |   |   |
+| A recipe of water for a sore throat or mouth (6)                                | To make a hipocras for consumption (40)                              |                                                                                      |                                                         |                                                |   |   |   |
+| To make oil of St. John’s wort (6)                                              | To make plague water (41)                                            |                                                                                      |                                                         |                                                |   |   |   |
+| To make an ointment for a bruise (7)                                            | Doctor Burges his direction against the plague (41)                  |                                                                                      |                                                         |                                                |   |   |   |
+| The Wound Water (9)                                                             | A drink for the rickets (43)                                         |                                                                                      |                                                         |                                                |   |   |   |
+| To make a water for a sore throat or mouth (15)                                 | An ointment for the rickets (44)                                     |                                                                                      |                                                         |                                                |   |   |   |
+| To make a syrup of succory with rhubarb (16)                                    | An excellent approved plaister for the spleen (46)                   |                                                                                      |                                                         |                                                |   |   |   |
+| To make a pretious drink good for the wind in the stomach (37)                  | A recipe for consumption (48)                                        |                                                                                      |                                                         |                                                |   |   |   |
+| The manner of distilling a water of honey (38)                                  | Doctor Butler’s recipe against a consumption (49)                    |                                                                                      |                                                         |                                                |   |   |   |
+| A very good ointment for a tetter or any itching (48)                           | A medicine for one that is in a desperate fit of the stone (60)      |                                                                                      |                                                         |                                                |   |   |   |
+| To make a Paracelsus plaister (59)                                              | To cure a quartan or double ague (92)                                |                                                                                      |                                                         |                                                |   |   |   |
+| An excellent recipe for a sore breast (89)                                      | A recipe for a cough (163)                                           |                                                                                      |                                                         |                                                |   |   |   |
+| To cure a canker in the mouth or the mouth any way sore (90)                    | To cure a flux invariably (164)                                      |                                                                                      |                                                         |                                                |   |   |   |
+| For aches Thomas Blother’s searcloth (91)                                       | To cure deafness (164)                                               |                                                                                      |                                                         |                                                |   |   |   |
+| A recipe for any bruise an excellent thing (97)                                 | The plague water (184)                                               |                                                                                      |                                                         |                                                |   |   |   |
+| Mrs. Rebekah Ash her powder for the eyes (96)                                   | Palsy water (193)                                                    |                                                                                      |                                                         |                                                |   |   |   |
+| A recipe to cure any inflammation or swelling in the mouth (166b-168)           | To make a snail water for a consumption (194)                        |                                                                                      |                                                         |                                                |   |   |   |
+| To make the powder (169)                                                        | For worms in man, woman, or child (203)                              |                                                                                      |                                                         |                                                |   |   |   |
+| To make the plaister (170)                                                      | A drink for the rickets (205)                                        |                                                                                      |                                                         |                                                |   |   |   |
+| To make the ointment (171)                                                      | Ointment for the rickets (205)                                       |                                                                                      |                                                         |                                                |   |   |   |
+| Mrs. Badge’s Plaister (180)                                                     | A recipe for the dropsie (238)                                       |                                                                                      |                                                         |                                                |   |   |   |
+| The Head Pills, Mrs. Capel’s recipe (211)                                       | Lady Katharine Windham’s recipe Powder for the convulsion fits (239) |                                                                                      |                                                         |                                                |   |   |   |
+| Captain William Webber’s recipe for the curing of most pains and aches (99-100) | Captain Felpes...his recipe…for stone experienced upon himself (122) |                                                                                      |                                                         |                                                |   |   |   |
+| A most excellent plaister for all kind of wounds or old sores                   | To make a water for a Squinancy (11)                                 |                                                                                      |                                                         |                                                |   |   |   |
 
 ### Medical Recipe Types in Ms. Fr. 640
 The table below summarizes the entries by recipe types, listing the entry's heading followed by its folio number in parentheses. 
