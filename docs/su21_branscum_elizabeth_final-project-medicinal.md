@@ -72,18 +72,18 @@ However, examining these manuscripts side by side also highlights important diff
 
 ## Appendix
 
-All data and its original workup can be found in the [SU21_Branscum_Making-and-Knowing-Recipe-Data spreadsheet](SU21_Branscum_Making-and-Knowing-Recipe-Data.xlsx).
+All data and its original workup can be found in the [su21_branscum_final-project_recipe-data spreadsheet](../data/su21_branscum_final-project_recipe-data.xlsx).
 
 All data and analysis used to generate the charts are openly available:
 
 'Medical Recipe Types in Ms. Fr. 640' and 'Medical Recipe Types in Granville Receipt Book'
-- The raw data: 
+- The raw data:
      - [su21_branscum_recipe-types_fr-640.csv](../data/su21_branscum_recipe-types_fr-640.csv)
      - [su21_branscum_recipe-types_granville.csv](../data/su21_branscum_recipe-types_granville.csv)
 - The calculations based upon that data: [su21_branscum_recipe-types_totals+percents.csv](../data/su21_branscum_recipe-types_totals+percents.csv)
 
 'Ms. Fr. 640 Ingredients' and 'Granville' Ingredients
-- The raw data: 
+- The raw data:
      - [su21_branscum_ingredients_fr-640.csv](../data/su21_branscum_ingredients_fr-640.csv)
      - [su21_branscum_ingredients_granville.csv](../data/su21_branscum_ingredients_granville.csv)
 - The calculations based upon that data: [su21_branscum_ingredients_totals+percents.csv](../data/su21_branscum_ingredients_totals+percents.csv)
@@ -134,7 +134,7 @@ The data contained in this table is also provided in [su21_branscum_recipe-types
 | A most excellent plaister for all kind of wounds or old sores                   | To make a water for a Squinancy (11)                                 |                                                                                      |                                                         |                                                |
 
 **Notes:**
-- _An excellent medicine for a sore breast with the ague (3)_: I’ve included this recipe in the “disease” category because it seems to refer to soreness within the chest, while the other recipes that mention a sore breast appear to refer to external pain. 
+- _An excellent medicine for a sore breast with the ague (3)_: I’ve included this recipe in the “disease” category because it seems to refer to soreness within the chest, while the other recipes that mention a sore breast appear to refer to external pain.
 
 ### Medical Recipe Types in Ms. Fr. 640
 The table below summarizes the entries by recipe types, listing the entry's heading followed by its folio number in parentheses.
@@ -162,7 +162,7 @@ The data contained in this table is also provided in [su21_branscum_recipe-types
 | Crocum ferri (120v)                                                 |                                                                   |                                                          |                                                                              |                                            |
 
 **Notes:**
-- _Against burns, excellent (103r)_: This recipe for burns is attributed to a gunpowder maker, so I include it in my discussion of craft-focused remedies. 
+- _Against burns, excellent (103r)_: This recipe for burns is attributed to a gunpowder maker, so I include it in my discussion of craft-focused remedies.
 
 ## Bibliography
 

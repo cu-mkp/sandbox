@@ -49,10 +49,10 @@ p042v_1,painting;household and daily life,1,0,N,Poncis pour esgratigner sur le  
 p042v_2,painting,1,0,N,Toile pour paindre a huile  sans se rompre,Toile pour paindre à huile  sans se rompre,Canvas for painting in oil without breaking
 p042v_3,painting,1,0,N,paindre a huile sur taffetas qui,Paindre à huile sur taffetas qui,Painting in oil on taffeta which
 p042v_5,painting,1,0,N,Pour pourfiler un portraict,Pour pourfiler un portraict,For outlining a portrait
-p042v_6,varnish;painting,1,1,Y,Vernis blanc sur le plastre,Vernis blanc sur le plastre,White varnish on plaster
+p042v_6,varnish;painting,1,1,N,Vernis blanc sur le plastre,Vernis blanc sur le plastre,White varnish on plaster
 p043r_2,painting;varnish,1,1,Y,Bronzure blanche sur plastre,Bronzure blanche sur plastre,White bronzing on plaster
 p043r_3,painting;metal process;varnish,1,1,Y,Purpurine,Purpurine,Purple
-p043r_4,painting,1,0,N,Bronzure blanche,Bronzure blanche,White bronzing
+p043r_4,painting;varnish,1,1,Y,Bronzure blanche,Bronzure blanche,White bronzing
 p044r_4,painting,1,0,N,Laque,Laque,Lake
 p052v_2,painting,1,0,N,Couleurs,Couleurs,Colors
 p056r_2,varnish,0,1,N,Vernis pour destrempe,Vernis pour destrempe,Varnish for distemper
@@ -63,8 +63,8 @@ p058v_2,painting,1,0,N,Ombres,Ombres,Shadows
 p058v_3,painting,1,0,N,A fresc,A fresc,In fresco
 p058v_4,painting,1,0,N,Azur,Azur,Azure
 p058v_5,painting,1,0,N,Pinceaulx,Pinceaulx,Paintbrushes
-p059r_1,painting,1,0,N,Ombres,Ombres,Shadows
-p059r_2,varnish;painting,1,1,Y,Azur,Azur,Azure
+p059r_1,varnish;painting,1,1,Y,Ombres,Ombres,Shadows
+p059r_2,painting,1,0,N,Azur,Azur,Azure
 p059v_1,painting,1,0,N,Noir Paincture darmes,Noir Paincture d’armes,Black Painting of armor
 p059v_2,painting,1,0,N,Paincture de crespe,Paincture de crespe,Painting of crêpe
 p059v_3,painting,1,0,N,Plis de vestements,Plis de vestements,Folds in clothing
