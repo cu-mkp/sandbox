@@ -1,7 +1,7 @@
 # Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640
 
 The anonymous, 16th-century artisanal manuscript, BnF Ms. Fr. 640, is comprised of almost 1,000 "entries." In the Making and Knowing Project's [_Secrets of Craft and Nature
-in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), an entry is a unit of text under a title. These include instructions, recipes, descriptions, and observations on a wide range of topics, including casting, painting, and medicine. 
+in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), an entry is a unit of text under a title. These include instructions, recipes, descriptions, and observations on a wide range of topics, including casting, painting, and medicine.
 
 Each entry has been grouped into at least one (and up to three) descriptive categories. These are attributes of each entry `<div>`, and can be extracted from the xml of the manuscript pages.
 > For example, `<div id="p004v_1" categories="varnish;arms and armor">` for the entry on fol. 4v, "Black varnish for sword guard, bands for trunks, &c"
@@ -58,7 +58,7 @@ One black vertical line = 1 entry.
      - geographical practices: "The Italians soften by hatching with a large flattened paintbrush"
 - There is a section which appears in the continuation of this entry on fol. 57r that may provide further evidence that the author-practitioner's main focus, or perhaps his main area of expertise, is casting. Even in an entry about various painting techniques and materials, he draws immediate connection back to casting (bold has been added for emphasis and does not appear in the original):
      > "...Lake takes long to dry in oil and for that reason one must **grind some glass** with it. But one needs to choose cristallin because it is cleaner. And because it would be too difficult to grind by itself, one must redden it on the fire, then when entirely red throw it into cold water, & it will crumble & pulverize easily for grinding it afterward. Being well ground it with a lot of water, **it resembles ground lead white**, but for all this it has no body. **I think it would be good for casting**."
-- The clustering of painting entries also corresponds to a section with very few casting entries. Perhaps this is a general trend? 
+- The clustering of painting entries also corresponds to a section with very few casting entries. Perhaps this is a general trend?
 
 ## Use of a Scribe?
 
@@ -77,7 +77,7 @@ The types of entries written by the scribe all fall within the same few categori
 
 The categories by section:
 - [fol. 57r](https://edition640.makingandknowing.org/#/folios/57r/f/57r/tl) to [fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) are all categorized as "painting," "varnish," and "arms and armor"
-     
+
 | Category       | # entries |
 |----------------|-----------|
 | painting       | 2         |
@@ -85,7 +85,7 @@ The categories by section:
 | arms and armor | 1         |
 
 - [fol. 73r](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl) to [fol. 76v](https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl) are "wood and its coloring," "metal process," "wax processes," and "varnish"
-   
+
 | Category                | # entries |
 |-------------------------|-----------|
 | wood and its coloring   | 22        |
@@ -95,7 +95,7 @@ The categories by section:
 | painting                | 2         |
 | corrosives              | 1         |
 
-- [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl) are "wood and its coloring," "varnish," "metal process," and "medicine" 
+- [fol. 77r](https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl) to [fol. 79v](https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl) are "wood and its coloring," "varnish," "metal process," and "medicine"
 
 | Category                | # entries |
 |-------------------------|-----------|
@@ -106,8 +106,8 @@ The categories by section:
 
 - One category that seems to dominate is "wood and its coloring." Of the 32 entries in this category, 28 are written by the scribe - that's 87.5% of the category! Thus, the author-practitioner only wrote 4 of the entries treating this topic.
 - Notably, there are no entries categorized as "casting," the author-practitioner's main concern throughout the manuscript.
-- Want to do further analysis on these entries? 
-     - Use/download this [[CSV of scribe entry-metadata](docs/entry-metadata_scribe-hand-d.csv)]
+- Want to do further analysis on these entries?
+     - Use/download this [[CSV of scribe entry-metadata](../data/entry-metadata_scribe-hand-d.csv)]
      - Explore the [List of Entries](https://edition640.makingandknowing.org/#/entries) resource in *Secrets of Craft and Nature in Renaissance France*.
 
 **Evidence of the Scribe's Work**
@@ -123,7 +123,7 @@ What clues in the text do we see to support the theory that the author-practitio
 
 ## Painting and Varnish Entries
 
-We often closely associate varnish recipes with painting recipes in the Renaissance. For example, in Cennino Cennini's _The Craftsman’s Handbook, ‘Il Libro dell’Arte’_, trans. by Daniel Thompson (New York: Dover, 1960), notes about varnish follow the sections on painting.
+We often closely associate varnish recipes with painting recipes in the Renaissance. For example, in Cennino Cennini's _The Craftsman’s Handbook, ‘Il Libro dell’Arte’_, trans. by Daniel Thompson (New York: Dover, 1960), information about varnish follow the sections on painting.
 
 **Cennini's Painting Sections**
 - "_II: The second section of this book: brining you to the working up of the colors_"
@@ -140,8 +140,8 @@ We often closely associate varnish recipes with painting recipes in the Renaissa
 
 Varnishing was often the final step in the creation of the painting, covering the layers of (usually) oil paint with a layer of varnish to help protect the paint underneath or to enhance the optical effect of the painting. Many painting treatises of this period include recipes for varnishes alongside pigment recipes and descriptions of painting techniques.  
 
-Cennini even notes that when you varnish your paintings or your colors more generally, 
-> "they then become very fresh and beautiful, and remain in pristine state forever." 
+Cennini even notes that when you varnish your paintings or your colors more generally,
+> "they then become very fresh and beautiful, and remain in pristine state forever."
 
 ### Painting and Varnish in Fr. 640
 
@@ -157,15 +157,15 @@ In BnF Ms. Fr. 640, there are 189 entries categorized as "painting," "varnish," 
 ![painting-varnish-pie-chart](../images/painting-varnish-pie-chart.png?raw=true)
 
 The above pie chart was created using:
-- The raw data in [entry_metadata_paint-varnish_data.csv](entry_metadata_paint-varnish_data.csv)
-- The calculations based upon that data in [entry_metadata_paint-varnish_analysis.csv](entry_metadata_paint-varnish_analysis.csv)
-- The processing and workup were done using Microsoft Excel, in an Excel spreadsheet, [entry_metadata_paint-varnish.xlsx](entry_metadata_paint-varnish.xlsx)
+- The raw data in [entry_metadata_paint-varnish_data.csv](../data/entry_metadata_paint-varnish_data.csv)
+- The calculations based upon that data in [entry_metadata_paint-varnish_analysis.csv](../data/entry_metadata_paint-varnish_analysis.csv)
+- The processing and workup were done using Microsoft Excel, in an Excel spreadsheet, [entry_metadata_paint-varnish.xlsx](../data/entry_metadata_paint-varnish.xlsx)
 
 You can use and/or download this data to do your own analysis!
 
 ### Why is This Interesting?
 
-Might we expect there to be more or less overlap between the two categories? 
+Might we expect there to be more or less overlap between the two categories?
 
 To ponder this question, it may help to consider the 13 entries categorized as both "painting" and "varnish":
 1. [fol. 7r](https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl), "For coloring stamped trunks"
