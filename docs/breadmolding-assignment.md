@@ -79,6 +79,6 @@ If you have time, search in other sources for other uses are made of bread in th
 
 5. Theophilus, _The Various Arts: De Diversis Artibus_, ed. and trans. C. R. Dodwell (Oxford: Clarendon Press, 1986).
 
-6. Benvenuto Cellini, _Two Treatises_, trans. C. R. Ashbee (repr. 2006).
+6. Benvenuto Cellini and C. R. Ashbee, _The Treatises of Benvenuto Cellini on Goldsmithing and Sculpture_ (Kessinger Publishing, 2006).
 
 A downloadable version of this assignment: [[PDF](breadmolding_assignment_downloadable_2021.pdf)]
