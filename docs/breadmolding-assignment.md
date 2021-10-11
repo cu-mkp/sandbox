@@ -43,6 +43,18 @@ _Note: your experience with the Historical Recipe Reconstruction will be useful 
 - Start early with the experiment as it will take you some time to become adept at making bread, and you may need more than one try at the mold making. (You may also eat up some of your baking experiments!)
 - For the molding pattern for your one-sided or two-piece mold, you will need to choose a relatively uncomplicated object, such as a key, flat shell, a large medallion or necklace pendant, as a pattern.
 
+## Materials and Equipment for Casting into the Molds
+- Beeswax (M&K looks for natural beeswax pellets; in particular, products without any additives or preservatives)
+- Chopsticks or other utensil (to stir the wax)
+- Decanter (such as that for preparing coffee), a tin can, or an old pot (something to heat the beeswax in that you do not mind using for this purpose only)
+- A way to handle the hot container (oven mitt, tongs, etc.)
+- Hotplate or stovetop
+- Ceramic plate or other flat surface to hold your molds
+- Vegetable oil
+- Paintbrush (oil)
+- Mineral spirits (to clean the brush)
+- Optional: a way to repair flaws or leaks in your molds, such as masking tape or modeling clay like plasticine
+
 ## Helpful sources on making sixteenth-century bread:
 
 - [John Evelyn&#39;s bread recipes](breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
