@@ -17,3 +17,20 @@ Charts: 'Ms. Fr. 640 Ingredients' and 'Granville' Ingredients
 - Additional classification of two other manuscripts was undertaken, though the treatment presented here does not discuss them. I provide this data for future comparison work:
      - [su21_branscum_ingredients_pudsey.csv](su21_branscum_ingredients_pudsey.csv) for Ms. V.a.450: Cookery and Medical Receipt Book attributed to Lettice Pudsey, c. 1675-1700 (Folger Library)
      -  [su21_branscum_ingredients_hall.csv](su21_branscum_ingredients_hall.csv) for Ms. V.a.20: Receipt Book attributed to Constance Hall, 1672 (Folger Library)
+
+## Used in [categories.md](../docs/categories.md)
+
+Scribe information
+- The raw data:
+     - [entry-metadata_scribe-hand-d.csv](entry-metadata_scribe-hand-d.csv) 
+- Also used to create counts of categories for entries written by scribe
+
+Chart: 'Categorization of painting and varnish entries in Fr. 640' and accompanying table
+- The raw data: 
+     - [entry_metadata_paint-varnish_data.csv](entry_metadata_paint-varnish_data.csv) 
+- The calculations based upon that data: 
+     - [entry_metadata_paint-varnish_analysis.csv](entry_metadata_paint-varnish_analysis.csv)
+- The processing and workup were done using Microsoft Excel:
+     - [entry_metadata_paint-varnish.xlsx](entry_metadata_paint-varnish.xlsx)
+
+
