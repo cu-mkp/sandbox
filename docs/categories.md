@@ -142,6 +142,7 @@ Varnishing was often the final step in the creation of the painting, covering th
 
 Cennini even notes that when you varnish your paintings or your colors more generally,
 > "they then become very fresh and beautiful, and remain in pristine state forever."
+*pg. 99 (Thompson, 1960)*
 
 ### Painting and Varnish in Fr. 640
 
