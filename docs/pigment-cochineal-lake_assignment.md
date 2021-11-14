@@ -8,7 +8,7 @@ A downloadable version of this assignment: [[PDF](pigment-cochineal-lake_assignm
 ![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
 
 ## Lake pigments and natural colorants
-If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](docs/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
+If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
 
 See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
