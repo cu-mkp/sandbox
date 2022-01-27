@@ -1,4 +1,8 @@
-# About the MS
+# Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*
+Charlie Steinman
+Fall 2021
+
+## About the MS
 
 [<u>Columbia MS Gen.
 262</u>](https://archive.org/details/ldpd_11728201_000) is a collection
@@ -83,9 +87,9 @@ schema</u>](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-
 I have made changes mostly to reflect the differences in genre/context
 and language.
 
-# The Schema
+## The Schema
 
-## Genre/Context
+### Genre/Context
 
 Ms. Fr. 640 most closely resembles the early modern “book of secrets”;
 most of all it is a manuscript that clearly had its genesis in the
@@ -115,7 +119,7 @@ added a “citation” attribute and enabled it for the Psalm and
 incantation elements, as some of the incantations have sources I have
 been able to identify.
 
-## Language
+### Language
 
 The changes I made to the language elements in the M&K schema were quite
 basic, and speak to the portability of the schema. One can simply
@@ -162,7 +166,7 @@ incantations, for the most part. He occasionally adds it for
 Yiddish/German words as well. To aid in my analysis of the use of
 *nikud*, I created a \<voc/> tag.
 
-## Future Changes
+### Future Changes
 
 To most effectively use the schema, I would like to make more
 adaptations as I move forward with the project. Because it is mostly a
