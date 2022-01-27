@@ -49,7 +49,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*](docs/fa21_steinman_charlie_final-project-ms262.md) by Charlie Steinman
      - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data) 
 - [Oral Culture in Ms. Fr. 640] (docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
-- 
+- [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project_reds.md) by Allie Coutavas
 
 ## Resources
 ### Activity Sheets, Assignments, and Reconstruction Protocols
