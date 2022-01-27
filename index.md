@@ -55,7 +55,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [An Exploration of Humor in Ms. Fr. 640](docs/fa21_atkins+joyce-farley_charlotte+siobhan_pranks.md) by Charlotte Atkins and Siobhan Joyce-Farley
      - See their [VIDEO: Funniest Pranks of the 16th Century](https://youtu.be/BFK71x0bvuE)
 -  [The Natural History of Ms. Fr. 640: A Visual Exploration](docs/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
--  
+-  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop](docs/fa21_zayas+waters_elliot+mac_final-project-soundscape.md) by Elliot Zayas and Mac Waters
 
 ## Resources
 ### Activity Sheets, Assignments, and Reconstruction Protocols
