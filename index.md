@@ -51,6 +51,8 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Oral Culture in Ms. Fr. 640](docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
 - [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project_reds.md) by Allie Coutavas
 - [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](docs/fa21_jacobson_beah_final-project-know.md) by Beah Jacobson
+- [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](docs/fa21_weisgall_benjamin_final-project-architecture-workshop.md) by Benjamin Weisgall
+- 
 
 ## Resources
 ### Activity Sheets, Assignments, and Reconstruction Protocols
