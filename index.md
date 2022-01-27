@@ -50,6 +50,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
      - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data) 
 - [Oral Culture in Ms. Fr. 640](docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
 - [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project_reds.md) by Allie Coutavas
+- [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](docs/fa21_jacobson_beah_final-project-know.md) by Beah Jacobson
 
 ## Resources
 ### Activity Sheets, Assignments, and Reconstruction Protocols
