@@ -90,14 +90,14 @@ oral transmission (‘*yes’*) versus those which do not (‘*no’*).
 
 -   For a look at all collected data involving the word “say,” please
     > refer to the following
-    > [<u>spreadsheet</u>](https://docs.google.com/spreadsheets/d/1-cnhdw3eop4p83rZvYJBT9LXr4LH3WIffOdJcuPm1us/edit?usp=sharing).
+    > [<u>spreadsheet</u>](data/fa21_ghoneima_hana_final-project_tl_say.xlsx).
     > For a list of all instances of oral transmission of knowledge
     > using the word “say,” please refer to [<u>Appendix
     > 1</u>](#appendix-1-instances-of-oral-transmission-of-knowledge-using-the-word-say).
 
 -   For a look at all collected data involving the word “said,” please
     > refer to the following
-    > [<u>spreadsheet</u>](https://docs.google.com/spreadsheets/d/1qWTqB10FmO1rHqIRoNcmU8z-uZ_pbC0bNaWXCidw4jE/edit?usp=sharing).
+    > [<u>spreadsheet</u>](data/fa21_ghoneima_hana_final-project_tl_said.xlsx).
     > For a list of all instances of oral transmission of knowledge
     > using the word “say,” please refer to
     > [<u>Appendix 2.</u>](#appendix-2-instances-of-oral-transmission-of-knowledge-using-the-word-said)
@@ -191,7 +191,7 @@ profession categories, please refer to [<u>Appendix
 
 -   For a look at all collected data involving the tag “pro” please
     > refer to the following
-    > [<u>spreadsheet</u>](https://docs.google.com/spreadsheets/u/0/d/1LY47YisbB5tW2Lh1RUSFNqbctjQNFBZH4bAWY753Gkw/edit).
+    > [<u>spreadsheet</u>](data/fa21_ghoneima_hana_final-project_tl_pro.xlsx).
     > For a list of all instances of oral transmission of knowledge
     > using the tag “pro,” please refer to
     > [<u>Appendix 3.</u>](#appendix-3-instances-of-oral-transmission-of-knowledge-using-the-profession-tag)
@@ -201,7 +201,7 @@ profession categories, please refer to [<u>Appendix
 
 -   For a look at all collected data involving the tag “pl,” please
     > refer to the following
-    > [<u>spreadsheet</u>](https://docs.google.com/spreadsheets/d/1vCOKvIoPiCbjoD66bplm378wXCLRwEtE2oPkAkD9gUw/edit?usp=sharing).
+    > [<u>spreadsheet</u>](data/fa21_ghoneima_hana_final-project_tl_pl.xlsx).
     > For a list of all instances of oral transmission of knowledge
     > using the tag “pl,” please refer to
     > [<u>Appendix 5.</u>](#appendix-5-instances-of-oral-transmission-of-knowledge-using-the-place-tag)
@@ -295,105 +295,29 @@ the exchange and recording of work.
 ## Bibliography
 
 Anttonen, Pertti, Cecilia af Forselles, and Kirsti Salmi-Niklander, eds.
-*Oral Tradition and Book*
-
-> *Culture*. Studia Fennica, Folkloristica 24. Helsinki: Finnish
-> Literature Society (SKS), 2018.
+*Oral Tradition and Book Culture*. Studia Fennica, Folkloristica 24. Helsinki: FinnishLiterature Society (SKS), 2018.
 
 Beik William. *A Social and Cultural History of Early Modern France*.
-Cambridge: Cambridge
-
-University Press, 2009.
+Cambridge: Cambridge University Press, 2009.
 
 Camps, Celine and Margot Lyautey. “Ma\<r>king and Knowing: Encoding BnF
-Ms. Fr. 640.” In
+Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_335_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_335_ie_19).DOI: [<u>https://www.doi.org/10.7916/cjhd-wh90</u>](https://www.doi.org/10.7916/cjhd-wh90)
 
-> *Secrets of Craft and Nature in Renaissance France. A Digital Critical
-> Edition and English Translation of BnF Ms. Fr. 640*, edited by Making
-> and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena
-> Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-> Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano.
-> New York: Making and Knowing Project, 2020.
-> [<u>https://edition640.makingandknowing.org/#/essays/ann_335_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_335_ie_19).
-> DOI:
-> [<u>https://www.doi.org/10.7916/cjhd-wh90</u>](https://www.doi.org/10.7916/cjhd-wh90)
+DeVinney, Joslyn. “Smoke as Medicine.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_048_fa_16</u>](https://edition640.makingandknowing.org/#/essays/ann_048_fa_16). DOI: [<u>https://www.doi.org/10.7916/kfja-0v86</u>](https://www.doi.org/10.7916/kfja-0v86)
 
-DeVinney, Joslyn. “Smoke as Medicine.” In *Secrets of Craft and Nature
-in Renaissance France.*
+Folger Shakespeare Library. “The Food of Shakespeare’s World.” Last modified July 26, 2016. [<u>https://www.folger.edu/shakespeare-unlimited/food-wendy-wall</u>](https://www.folger.edu/shakespeare-unlimited/food-wendy-wall).
 
-> *A Digital Critical Edition and English Translation of BnF Ms. Fr.
-> 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi
-> Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge,
-> Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith,
-> and Terry Catapano. New York: Making and Knowing Project, 2020.
-> [<u>https://edition640.makingandknowing.org/#/essays/ann_048_fa_16</u>](https://edition640.makingandknowing.org/#/essays/ann_048_fa_16).
-> DOI:
-> [<u>https://www.doi.org/10.7916/kfja-0v86</u>](https://www.doi.org/10.7916/kfja-0v86)
+Gans, Sofia. “Circulation of Knowledge in Europe.” IIn *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_018_sp_15</u>](https://edition640.makingandknowing.org/#/essays/ann_018_sp_15). DOI: [<u>https://www.doi.org/10.7916/6zzw-s813</u>](https://www.doi.org/10.7916/6zzw-s813)
 
-Folger Shakespeare Library. “The Food of Shakespeare’s World.” Last
-modified July 26, 2016.
+Gurevich, Aaron J and Ann Shukman. “Oral and Written Culture of the Middle Ages: Two ‘Peasant Visions’ of the Late Twelfth-Early Thirteenth Centuries.” *New Literary History* 16, no. 1 (1984): 51–66. [<u>https://doi.org/10.2307/468775.</u>](https://doi.org/10.2307/468775.)
 
-[<u>https://www.folger.edu/shakespeare-unlimited/food-wendy-wall</u>](https://www.folger.edu/shakespeare-unlimited/food-wendy-wall).
+Kalpagam, U. “Oral History: Reconstructing Women’s Role.” *Economic and Political Weekly* 21, no. 38/39 (1986): 1683–87.
 
-Gans, Sofia. “Circulation of Knowledge in Europe.” In *Secrets of Craft
-and Nature in*
+Liu, Xiaomeng. “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17). DOI: [<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848)
 
-> *Renaissance France. A Digital Critical Edition and English
-> Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-> Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann
-> Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein,
-> Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and
-> Knowing Project, 2020.
-> [<u>https://edition640.makingandknowing.org/#/essays/ann_018_sp_15</u>](https://edition640.makingandknowing.org/#/essays/ann_018_sp_15).
-> DOI:
-> [<u>https://www.doi.org/10.7916/6zzw-s813</u>](https://www.doi.org/10.7916/6zzw-s813)
+Making and Knowing Project. “BnF Ms. Fr. 640 – Making and Knowing Project.” Accessed December 20, 2021. [<u>https://www.makingandknowing.org/bnf-ms-fr-640/</u>](https://www.makingandknowing.org/bnf-ms-fr-640/).
 
-Gurevich, Aaron J and Ann Shukman. “Oral and Written Culture of the
-Middle Ages: Two
-
-> ‘Peasant Visions’ of the Late Twelfth-Early Thirteenth Centuries.”
-> *New Literary History* 16, no. 1 (1984): 51–66.
-> [<u>https://doi.org/10.2307/468775.</u>](https://doi.org/10.2307/468775.)
-
-Kalpagam, U. “Oral History: Reconstructing Women’s Role.” *Economic and
-Political Weekly* 21,
-
-no. 38/39 (1986): 1683–87.
-
-Liu, Xiaomeng. “Collecting Cures in an Artisanal Manuscript: Practical
-Therapeutics and
-
-> Disease in Ms. Fr. 640.” In *Secrets of Craft and Nature in
-> Renaissance France. A Digital Critical Edition and English Translation
-> of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H.
-> Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément
-> Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak,
-> Marc Smith, and Terry Catapano. New York: Making and Knowing Project,
-> 2020.
-> [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17).
-> DOI:
-> [<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848)
-
-Making and Knowing Project. “BnF Ms. Fr. 640 – Making and Knowing
-Project.” Accessed
-
-December 20, 2021.
-[<u>https://www.makingandknowing.org/bnf-ms-fr-640/</u>](https://www.makingandknowing.org/bnf-ms-fr-640/).
-
-*Secrets of Craft and Nature in Renaissance France. A Digital Critical
-Edition and English*
-
-> *Translation of BnF Ms. Fr. 640*, edited by the Making and Knowing
-> Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz,
-> Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé,
-> Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: the
-> Making and Knowing Project, 2020),
-> [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org).
-
-Vansina, Jan. *Oral Tradition as History*. Madison: University of
-Wisconsin Press,
-
-1985\.
+Vansina, Jan. *Oral Tradition as History*. Madison: University of Wisconsin Press, 1985.
 
 ## Appendix 1: Instances of oral transmission of knowledge using the word “say”
 
