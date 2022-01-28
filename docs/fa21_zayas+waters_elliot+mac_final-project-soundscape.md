@@ -166,48 +166,20 @@ it together. Once this is done, the final product will be complete!
 | Water                               | water         | \-                   |
 | Fire burning                        | fire          | \-                   |
 
-## 
 
 ## Bibliography: 
 
-> Bijsterveld, Karin.
-> [<u>“Introduction.”</u>](https://www-jstor-org.ezproxy.cul.columbia.edu/stable/pdf/j.ctv1xxsqf.4.pdf?refreqid=excelsior%3A675eb21d0da6fc0ccaa4a6aaf8edbd4c)
-> In *Soundscapes of the Urban Past: Staged Sound as Mediated Cultural
-> Heritage*. transcript Verlag, 2013.
->
-> Cockayne, Emily. “Noisy.” In *Hubbub: Filth, Noise, and Stench in
-> England, 1600-1770*. Yale University Press, 2008:
->
-> Chiostrini, Giulia and Jef Palframan. “Molding a Rose.” In *Secrets of
-> Craft and Nature in Renaissance France. A Digital Critical Edition and
-> English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing
-> Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz,
-> Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé,
-> Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York:
-> Making and Knowing Project, 2020.
-> [<u>https://edition640.makingandknowing.org/#/essays/ann_022_sp_15</u>](https://edition640.makingandknowing.org/#/essays/ann_022_sp_15).
-> DOI: <https://www.doi.org/10.7916/17zd-7y45>
->
-> Galloway, Kate. [<u>"Making and Learning with Environmental Sound:
-> Maker Culture, Ecomusicology, and the Digital Humanities in Music
-> History
-> Pedagogy."</u>](https://www.ams-net.org/ojs/index.php/jmhp/article/view/216)
-> J. Music Hist. Pedagogy 8 (2017): 45-71.
->
-> Sterne, Jonathan Edward. “Introduction” In *The Audible past:
-> Modernity, Technology, and the Cultural History of Sound*. University
-> of Illinois at Urbana-Champaign, 1999.
->
-> Taape, Tillmann. “The Body and the Senses in Ms. Fr. 640: Towards a
-> ‘Material Sensorium.’” In Secrets of Craft and Nature in Renaissance
-> France. A Digital Critical Edition and English Translation of BnF Ms.
-> Fr. 640, edited by Making and Knowing Project, Pamela H. Smith, Naomi
-> Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge,
-> Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith,
-> and Terry Catapano. New York: Making and Knowing Project, 2020.
-> [<u>https://edition640.makingandknowing.org/#/essays/ann_302_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_302_ie_19).
-> DOI:
-> [<u>https://www.doi.org/10.7916/027y-d055</u>](https://www.doi.org/10.7916/027y-d055)
->
-> “Virtual Paul's Cross Website.” Virtual Paul's Cross Website,
-> [<u>https://vpcp.chass.ncsu.edu/</u>](https://vpcp.chass.ncsu.edu/).
+Bijsterveld, Karin. [<u>“Introduction.”</u>](https://www-jstor-org.ezproxy.cul.columbia.edu/stable/pdf/j.ctv1xxsqf.4.pdf?refreqid=excelsior%3A675eb21d0da6fc0ccaa4a6aaf8edbd4c) In *Soundscapes of the Urban Past: Staged Sound as Mediated Cultural Heritage*. transcript Verlag, 2013.
+
+Cockayne, Emily. “Noisy.” In *Hubbub: Filth, Noise, and Stench in England, 1600-1770*. Yale University Press, 2008.
+
+Chiostrini, Giulia and Jef Palframan. “Molding a Rose.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé,  Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_022_sp_15</u>](https://edition640.makingandknowing.org/#/essays/ann_022_sp_15). DOI: <https://www.doi.org/10.7916/17zd-7y45>
+
+Galloway, Kate. [<u>"Making and Learning with Environmental Sound: Maker Culture, Ecomusicology, and the Digital Humanities in Music History Pedagogy."</u>](https://www.ams-net.org/ojs/index.php/jmhp/article/view/216) J. Music Hist. Pedagogy 8 (2017): 45-71.
+
+Sterne, Jonathan Edward. “Introduction” In *The Audible past: Modernity, Technology, and the Cultural History of Sound*. University of Illinois at Urbana-Champaign, 1999.
+
+Taape, Tillmann. “The Body and the Senses in Ms. Fr. 640: Towards a ‘Material Sensorium.’” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge,
+> Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_302_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_302_ie_19). DOI [<u>https://www.doi.org/10.7916/027y-d055</u>](https://www.doi.org/10.7916/027y-d055)
+
+“Virtual Paul's Cross Website.” Virtual Paul's Cross Website, [<u>https://vpcp.chass.ncsu.edu/</u>](https://vpcp.chass.ncsu.edu/).
