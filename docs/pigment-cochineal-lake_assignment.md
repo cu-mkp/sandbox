@@ -93,7 +93,8 @@ There are two modernized versions of this recipe:
 - Add potash and bag of cochineal to 300ml water in the 1000ml beaker
 - Bring to a boil and boil for 15-20 min
 - Using heat, dissolve 10g alum in 50 ml water in the 100ml beaker
-- Warm the colored solution to about 50 ˚C and add alum solution very gradually, stirring constantly 
+- Remove the drawstring bag containing the cochineal from the beaker. It can now be discarded
+- Add the alum solution very gradually, stirring constantly to the cochineal+potash solution
      - Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
 - Allow the solution to settle for at least 15min (ideally overnight)
 - Pour solution through filter in a funnel
@@ -126,7 +127,8 @@ There are two modernized versions of this recipe:
 - Add alum and bag of cochineal to 300ml water in the 1000ml beaker
 - Bring to a boil and boil for 15-20 min
 - Using heat, dissolve 10g potash in 50 ml water in the 100ml beaker
-- Warm the colored solution to about 50 ˚C and add potash solution very gradually, stirring constantly
+- Remove the drawstring bag containing the cochineal from the beaker. It can now be discarded
+- Add the potash solution very gradually, stirring constantly to the cochineal+alum solution
      - Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
 - Allow the solution to settle for at least 15min (ideally overnight)
 - Pour solution through filter in a funnel
@@ -155,4 +157,3 @@ If you do not have access to hotplates and heat-safe glass beakers, an alternati
 - You will know the baths have approximately reached the desired temperature range of 80-100 °C when the water in the pot is beginning to simmer
 - Because water boils and begins to evaporate at 100 °C, your solutions will never exceed 100 °C, the temperature at which the colorants can begin to degrade. This is an easy way to prepare solutions without a thermometer and ensure you are not reaching high temperature levels
 - If the water in the pot begins to boil or simmer violently, your jars will start to shake and move around the pot. If this happens, it is a sign to turn your heat down
-
