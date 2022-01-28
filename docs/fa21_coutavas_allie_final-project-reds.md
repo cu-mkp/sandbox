@@ -1875,41 +1875,13 @@ with the high usage of the word in the descriptive context of red-hot).
 
 ## Bibliography
 
-Kirby, Jo, Susie Nash, and Joanna Cannon, eds. *Trade in Artists’
-Materials: Markets and*
+Kirby, Jo, Susie Nash, and Joanna Cannon, eds. *Trade in Artists’ Materials: Markets and Commerce in Europe to 1700*. London: Archetype Publications Ltd., 2010.
 
-*Commerce in Europe to 1700*. London: Archetype Publications Ltd., 2010.
+Kirby, Jo, Maarten Van Bommel, and André Verhecken. *Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and Their Historical Sources*. London: Archetype Publications Ltd., 2014.
 
-Kirby, Jo, Maarten Van Bommel, and André Verhecken. *Natural Colorants
-for Dyeing and Lake*
-
-*Pigments: Practical Recipes and Their Historical Sources*. London:
-Archetype
-
-Publications Ltd., 2014.
-
-Pascal Brioist, “Artillery in 1590s France”; Carl Garris, “What is
-*Azur* in Ms. Fr. 640?”; Jo Kirby
-
-and Marika Spring, “Ms. Fr. 640 in the World of Pigments in
-Sixteenth-Century Europe”;
-
-Robin Reich, “Dragon’s Blood”; and Yuanxie Shi and Amy Chang “Rouge
-Clair: Glass
-
-or Paint?” in *Secrets of Craft and Nature in Renaissance France. A
-Digital Critical*
-
-*Edition and English Translation of BnF Ms. Fr. 640*. Making and Knowing
-Project,
-
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément
-
-Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc
-Smith, and
-
-Terry Catapano, eds. New York: Making and Knowing Project, 2020.
+Pascal Brioist, “Artillery in 1590s France”; Carl Garris, “What is *Azur* in Ms. Fr. 640?”; Jo Kirby and Marika Spring, “Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe”; Robin Reich, “Dragon’s Blood”; and Yuanxie Shi and Amy Chang “Rouge Clair: Glass or Paint?” in *Secrets of Craft and Nature in Renaissance France. A
+Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
+Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds. New York: Making and Knowing Project, 2020.
 
 [1] ​​Carl Garris, “What is *Azur* in Ms. Fr. 640,” in *Secrets of Craft
 and Nature in Renaissance France. A Digital Critical Edition and English
