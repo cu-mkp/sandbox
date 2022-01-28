@@ -127,64 +127,31 @@ present, to be a field of possibility.
 
 Week 1 / Intermediary objects and historical study
 
--   Mark Jarzombek, [<u>“Prolegomena to Critical
-    > Historiography,”</u>](https://www.jstor.org/stable/1425409)
-    > *Journal of Architectural Education* 52, no. 4 (1999):
-    > 197-206.[12]
+-   Mark Jarzombek, [<u>“Prolegomena to Critical Historiography,”</u>](https://www.jstor.org/stable/1425409) *Journal of Architectural Education* 52, no. 4 (1999): 197-206.[12]
 
--   Michael Cole, [<u>“Cellini’s
-    > Blood,”</u>](https://doi.org/10.2307/3050690) *The Art Bulletin*
-    > 81, no. 2 (1999): 215-235.
+-   Michael Cole, [<u>“Cellini’s Blood,”</u>](https://doi.org/10.2307/3050690) *The Art Bulletin* 81, no. 2 (1999): 215-235.
 
--   Lawrence Principe, [<u>“Chymical Exotica in the Seventeenth Century,
-    > or, How to Make the Bologna
-    > Stone,”</u>](https://doi.org/10.1080/00026980.2016.1213011)
-    > *Ambix* 63 (2016): 118-144.
+-   Lawrence Principe, [<u>“Chymical Exotica in the Seventeenth Century, or, How to Make the Bologna Stone,”</u>](https://doi.org/10.1080/00026980.2016.1213011) *Ambix* 63 (2016): 118-144.
 
 Week 2 / Introduction to casting through Ms. Fr. 640
 
--   [<u>Entries</u>](https://edition640.makingandknowing.org/#/entries)
-    > from the manuscript on casting
+-   [<u>Entries</u>](https://edition640.makingandknowing.org/#/entries) from the manuscript on casting
 
--   Rozemarijn Landsman and Jonah Rowen, [<u>“Uses of Sulfur for
-    > Casting,”</u>](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
-    > in *Secrets of Craft and Nature in Renaissance France. A Digital
-    > Critical Edition and English Translation of BnF Ms. Fr. 640*,
-    > edited by Making and Knowing Project (2020)
+-   Rozemarijn Landsman and Jonah Rowen, [<u>“Uses of Sulfur for Casting,”</u>](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14) in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project (2020)
 
--   Emma Le Pouésard, [<u>“Bread as a Mediating Material: Tactile Memory
-    > and
-    > Touch,”</u>](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
-    > in *Secrets of Craft and Nature in Renaissance France. A Digital
-    > Critical Edition and English Translation of BnF Ms. Fr. 640*,
-    > edited by Making and Knowing Project (2020)
+-   Emma Le Pouésard, [<u>“Bread as a Mediating Material: Tactile Memory and Touch,”</u>](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16) in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project (2020)
 
 <!-- -->
 
--   Assignment: [<u>molding with
-    > bread</u>](https://cu-mkp.github.io/sandbox/docs/breadmolding-assignment.html),
-    > [<u>casting with
-    > stucco</u>](https://cu-mkp.github.io/sandbox/docs/stucco-assignment.html)
+-   Assignment: [<u>molding with bread</u>](https://cu-mkp.github.io/sandbox/docs/breadmolding-assignment.html), [<u>casting with stucco</u>](https://cu-mkp.github.io/sandbox/docs/stucco-assignment.html)
 
 Week 3 / Modeling as a technique
 
--   Matthew Hunter, “Modeling: a secret history of following,” in
-    > [*<u>Design Technics: archaeologies of architectural
-    > practice</u>*](https://clio.columbia.edu/catalog/15121527?counter=2),
-    > eds. Zeynep Çelik Alexander and John May (University of Minnesota
-    > Press, 2020), 45-70.
+-   Matthew Hunter, “Modeling: a secret history of following,” in [*<u>Design Technics: archaeologies of architectural practice</u>*](https://clio.columbia.edu/catalog/15121527?counter=2), eds. Zeynep Çelik Alexander and John May (University of Minnesota Press, 2020), 45-70.
 
--   Nancy Cartwright, “Models: Parables v. Fables,” in [*<u>Beyond
-    > Mimesis and Convention: Representation in Art and
-    > Science</u>*](https://clio.columbia.edu/catalog/15222116), eds.
-    > Roman Frigg and Matthew Hunter (Springer, 2010), 19-31.
+-   Nancy Cartwright, “Models: Parables v. Fables,” in [*<u>Beyond Mimesis and Convention: Representation in Art and Science</u>*](https://clio.columbia.edu/catalog/15222116), eds. Roman Frigg and Matthew Hunter (Springer, 2010), 19-31.
 
--   Eckart Marchand, “Material Distinctions: Plaster, Terracotta, and
-    > Wax in the Renaissance Artist’s Workshop,” in [*<u>The Matter of
-    > Art: Materials, Practices, Cultural Logics, c.
-    > 1250-1750</u>*](https://clio.columbia.edu/catalog/10972585), ed.
-    > Christy Anderson, Anne Dunlop and Pamela Smith (Manchester
-    > University Press, 2015)
+-   Eckart Marchand, “Material Distinctions: Plaster, Terracotta, and Wax in the Renaissance Artist’s Workshop,” in [*<u>The Matter of Art: Materials, Practices, Cultural Logics, c. 1250-1750</u>*](https://clio.columbia.edu/catalog/10972585), ed. Christy Anderson, Anne Dunlop and Pamela Smith (Manchester University Press, 2015)
 
 <!-- -->
 
@@ -192,15 +159,9 @@ Week 3 / Modeling as a technique
 
 Week 4 / Indirect casting, part 1
 
--   Selections on casting from Cennino Cennini, [*<u>Il libro dell’Arte
-    > (The Craftsman’s
-    > Handbook)</u>*](https://archive.org/details/craftsmanshandbo00cenn/mode/2up).
-    > Translated by Daniel V. Thompson, Jr. (New York: Dover, 1960)
+-   Selections on casting from Cennino Cennini, [*<u>Il libro dell’Arte (The Craftsman’s Handbook)</u>*](https://archive.org/details/craftsmanshandbo00cenn/mode/2up).  Translated by Daniel V. Thompson, Jr. (New York: Dover, 1960)
 
--   Richard Stone, [<u>“Antico and the Development of Bronze Casting in
-    > Italy at the End of the
-    > Quattrocento,”</u>](https://doi.org/10.2307/1512771) *Metropolitan
-    > Museum Journal* 16 (1981): 87-116.
+-   Richard Stone, [<u>“Antico and the Development of Bronze Casting in Italy at the End of the Quattrocento,”</u>](https://doi.org/10.2307/1512771) *Metropolitan Museum Journal* 16 (1981): 87-116.
 
 <!-- -->
 
@@ -216,20 +177,9 @@ Week 5 / Indirect casting, part 2
 
 Week 6 / Between reproduction and innovation
 
--   Hélène Vérin, "Rédiger et réduire en art: un projet de
-    > rationalisation des pratiques,” in [*<u>Réduire en art: La
-    > technologie de la Renaissance aux
-    > Lumières</u>*](https://clio.columbia.edu/catalog/7031831?counter=1),
-    > eds. Pascal Dubourg Glatigny et Hélène Vérin (Éditions de la
-    > Maison des sciences de l’homme, 2008), 17-58
+-   Hélène Vérin, "Rédiger et réduire en art: un projet de rationalisation des pratiques,” in [*<u>Réduire en art: La technologie de la Renaissance aux Lumières</u>*](https://clio.columbia.edu/catalog/7031831?counter=1), eds. Pascal Dubourg Glatigny et Hélène Vérin (Éditions de la Maison des sciences de l’homme, 2008), 17-58
 
--   Vera Keller, [<u>“Everything depends on the trial (“Le tout gist à
-    > l’essay”): Four manuscripts between the Recipe and the
-    > Experimental
-    > Essay,”</u>](http://edition640.makingandknowing.org/#/essays/ann_300_ie_19)
-    > in *Secrets of Craft and Nature in Renaissance France. A Digital
-    > Critical Edition and English Translation of BnF Ms. Fr. 640*,
-    > edited by Making and Knowing Project (2020)
+-   Vera Keller, [<u>“Everything depends on the trial (“Le tout gist à l’essay”): Four manuscripts between the Recipe and the Experimental Essay,”</u>](http://edition640.makingandknowing.org/#/essays/ann_300_ie_19) in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project (2020)
 
 <!-- -->
 
