@@ -49,7 +49,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*](docs/fa21_steinman_charlie_final-project-ms262.md) by Charlie Steinman
      - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data) 
 - [Oral Culture in Ms. Fr. 640](docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
-- [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project_reds.md) by Allie Coutavas
+- [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project-reds.md) by Allie Coutavas
 - [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](docs/fa21_jacobson_beah_final-project-know.md) by Beah Jacobson
 - [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](docs/fa21_weisgall_benjamin_final-project-architecture-workshop.md) by Benjamin Weisgall
 - [An Exploration of Humor in Ms. Fr. 640](docs/fa21_atkins+joyce-farley_charlotte+siobhan_pranks.md) by Charlotte Atkins and Siobhan Joyce-Farley
