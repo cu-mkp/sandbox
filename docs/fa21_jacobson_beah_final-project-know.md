@@ -455,7 +455,7 @@ Project, 2020.
 <https://edition640.makingandknowing.org/#/essays/ann_043_sp_16>. DOI:
 <https://www.doi.org/10.7916/rfq6-0k88>.
 
-Kaufman, Roni. “Understanding and Analyzing the Categories of the
+Rosenkranz, Naomi. “Understanding and Analyzing the Categories of the
 Entries in BnF Ms. Fr. 640,” *Making and Knowing Sandbox*, 2021.
 [<u>https://cu-mkp.github.io/sandbox/docs/categories.html</u>](https://cu-mkp.github.io/sandbox/docs/categories.html)
 
