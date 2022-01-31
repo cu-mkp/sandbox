@@ -14,6 +14,22 @@ directly with a binding medium and therefore cannot be used as a pigment. These 
 
 The recipes provided here are adapted from the ones provided by Kirby et. al.
 
+## Madder Roots
+
+![madder-roots](../images/madder-roots.jpg?raw=true)
+Photo credit: Felicity Ford, 2011, Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. [http://thedomesticsoundscape.com/wordpress/?attachment_id=3451](http://thedomesticsoundscape.com/wordpress/?attachment_id=3451)
+
+
+Botanical name: Rubia tinclorum L.
+
+Chemical class: alizarin (anthraquinone)
+
+Region: Native to Middle East and east Mediterranean, then spread to Europe.
+
+Dye type: Mordant dye. 
+
+Range of red-orange-brown dyes obtained from the roots of a bedstraw.
+
 ## Modernized recipes, adapted for the laboratory (or kitchen) 
 
 From the late 14<sup>th</sup> century to the 17<sup>th</sup> century, madder lakes seem to be most commonly extracted from madder-dyed wool and not the roots (raw dyestuffs). Recipes from before (antiquity) and after (18<sup>th</sup> and 19<sup>th</sup> centuries) tend to extract from the roots directly. Thus, the modern recipes adapted here are from this later period.
