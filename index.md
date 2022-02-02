@@ -56,6 +56,9 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
      - See their [VIDEO: Funniest Pranks of the 16th Century](https://youtu.be/BFK71x0bvuE)
 -  [The Natural History of Ms. Fr. 640: A Visual Exploration](docs/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
 -  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop](docs/fa21_zayas+waters_elliot+mac_final-project-soundscape.md) by Elliot Zayas and Mac Waters
+     - Listen to [Soundscape 1: Creating the Mold](https://vimeo.com/672477385)
+     - Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
+     - Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
 ## Resources
 ### Activity Sheets, Assignments, and Reconstruction Protocols
