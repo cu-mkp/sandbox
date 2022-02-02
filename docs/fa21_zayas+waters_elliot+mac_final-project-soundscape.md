@@ -124,6 +124,8 @@ and he is left with a hardened mold ready for casting.
 | Drying of the mold (crackling, etc)                                                                                     | mold                                     |                                             |
 | Blowing (out the ashes of the rose)                                                                                     | air, mouth                               |                                             |
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/672477385?h=dd3bf8a2fe" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 ## Casting the metal 
 
 Now it is time to cast the metal into the prepared mold. The artisan
@@ -140,6 +142,8 @@ settles, filling the workshop with sounds of crackling and sizzling.
 | Various clanking sounds of metal tools          | metal tools                             | \-                   |
 | Dripping of excess metal                        | metal                                   | \-                   |
 | Liquid metal cooling, solidifying, and settling | metal                                   | \-                   |
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/672823504?h=2b58f0a685" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## Recovering the final product
 
