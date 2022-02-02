@@ -156,6 +156,8 @@ it together. Once this is done, the final product will be complete!
 | Breaking of clay mold                    | mold, hammer/mallet       | \-                   |
 | Soldering (separated components of cast) | sprues, heat source, cast | 155v                 |
 
+<iframe src="https://player.vimeo.com/video/672823543?h=e7d5b43da4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ## General sounds throughout 
 
 | **Sound**                           | **Materials** | **Folio Referenced** |
