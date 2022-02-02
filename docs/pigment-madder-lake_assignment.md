@@ -17,7 +17,8 @@ The recipes provided here are adapted from the ones provided by Kirby et. al.
 ## Madder Roots
 
 ![madder-roots](../images/madder-roots.jpg?raw=true)
-Photo credit: Felicity Ford, 2011, Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. [http://thedomesticsoundscape.com/wordpress/?attachment_id=3451](http://thedomesticsoundscape.com/wordpress/?attachment_id=3451)
+
+> Photo credit: Felicity Ford, 2011, Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. [http://thedomesticsoundscape.com/wordpress/?attachment_id=3451](http://thedomesticsoundscape.com/wordpress/?attachment_id=3451)
 
 
 Botanical name: Rubia tinclorum L.
