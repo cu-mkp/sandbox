@@ -90,6 +90,17 @@ This Laboratory Seminar is a re-working of the graduate-level *GR8906: Craft and
 - [Fall 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/1j7CNhD3fzsmBP3sYKqyoUo5ldmymIYLXbcIWuLFnmt8/edit?usp=sharing)
 - Spring 2022 HIST GU4962: Hands-on History Syllabus (TBD)
 
+_**HIST GR8975: What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment**_
+
+Columbia University, History Department, graduate-level "Digital Seminar"
+
+Using the English translation of Ms. Fr. 640 as the basic data set, students collaboratively created a minimal (i.e., limited, basic feature) digital edition by the end of the semester, effectively prototyping a design for the Project’s final digital critical edition. Additionally, the course introduced students both theoretically and practically to the concepts and tools relevant to the creation of a digital edition, such as image and text capture; metadata, tracking, and data management; data curation; transformations to, representations of, and interfaces of digital resources; and archiving, licensing, persistence, and re-usability. The seminar thus equipped participating students with identifiable, measurable, and repurposable digital skills while furthering the Project goals.
+- [Spring 2017: What is a Book? Syllabus](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf)
+- The students' resulting [Minimal digital edition of the working English translation of BnF Ms. Fr. 640](https://cu-mkp.github.io/GR8975-edition/)
+- See the [Course Github Repository](https://github.com/cu-mkp/GR8975)
+- In collaboration with Columbia's Center for Teaching and Learning, this course also resulted in the creation of the [Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing) and the [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/).
+
+
 ### Activity Sheets, Assignments, and Reconstruction Protocols
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
 - [Activity Sheet: Breadmolding Reconstruction](docs/breadmolding-assignment.md) - assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
@@ -99,3 +110,8 @@ This Laboratory Seminar is a re-working of the graduate-level *GR8906: Craft and
 - Making Lake Pigments from Natural Colorants:
      - [Activity Sheet: Making Lake Pigment from Cochineal](docs/pigment-cochineal-lake_assignment.md) - assignment sheet for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
      - [Activity Sheet: Making Lake Pigment from Madder](docs/pigment-madder-lake_assignment.md) - assignment sheet for transforming natural colorants in madder roots into a pigment (2022-01-29)
+
+### Assessment and Evaluation Tools
+- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) described above. 
+     - See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing).
+     - The [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/)
