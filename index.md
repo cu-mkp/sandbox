@@ -61,6 +61,16 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
      - Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
 ## Resources
+
+### Syllabi
+- Columbia University, History Department, graduate-level "Lab Seminar": Students pair laboratory reconstructions with contextual research to gain insight into historical techniques and materials. Hands-on research into, and reconstruction of, the materials and techniques described in the BnF Ms. Fr. 640 are carried out through seminars held in a laboratory at Columbia University, led by Seth Low Professor of History Pamela Smith. The laboratory seminar HIST G8906: Craft and Science: Making Objects in the Early Modern World is offered to humanities, social science, and science advanced undergraduate and graduate students. The course combines historical research on fifteenth- and sixteenth-century sources with hands-on work in the laboratory carrying out historical reconstruction research.
+
+The Laboratory Seminar is open to advanced undergradute and graduate students from Columbia and its consortial partners. The course includes discussions of primary and secondary sources drawn from material culture studies, anthropology, history of science and technology, and art history, as well as hands-on work in the laboratory.
+
+Using the transcription and translation produced in the Paleography Workshops, the Laboratory Seminars focus each year on a set of related techniques described in the manuscript. In 2014-15, the focus was on Moldmaking and Metalworking (e.g., portrait medal casting, sand casting, and box molding); in 2015-16, it was on Colormaking (including dyes, pigments, artificial gems, coloring woods and metals, and varnish making); in 2016-17, Practical Knowledge: Vernacular Natural History, Practical Perspective, Optics, Mechanics, and Medicine; in 2017-2018, the theme was Ephemeral Art; in 2018-2019, the theme was Printmaking, Inscription and Impression.
+- *HIST GU8906: 
+- Fall 2014
+
 ### Activity Sheets, Assignments, and Reconstruction Protocols
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
 - [Activity Sheet: Breadmolding Reconstruction](docs/breadmolding-assignment.md) - complete assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
