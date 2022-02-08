@@ -63,13 +63,25 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 ## Resources
 
 ### Syllabi
-- Columbia University, History Department, graduate-level "Lab Seminar": Students pair laboratory reconstructions with contextual research to gain insight into historical techniques and materials. Hands-on research into, and reconstruction of, the materials and techniques described in the BnF Ms. Fr. 640 are carried out through seminars held in a laboratory at Columbia University, led by Seth Low Professor of History Pamela Smith. The laboratory seminar HIST G8906: Craft and Science: Making Objects in the Early Modern World is offered to humanities, social science, and science advanced undergraduate and graduate students. The course combines historical research on fifteenth- and sixteenth-century sources with hands-on work in the laboratory carrying out historical reconstruction research.
 
-The Laboratory Seminar is open to advanced undergradute and graduate students from Columbia and its consortial partners. The course includes discussions of primary and secondary sources drawn from material culture studies, anthropology, history of science and technology, and art history, as well as hands-on work in the laboratory.
+_**HIST GR8906: Craft and Science: Making Objects in the Early Modern World**_
+Columbia University, History Department, graduate-level "Lab Seminar"
+This Lab Seminar course studies the materials, techniques, settings, and meanings of skilled craft and artistic practices in the early modern period (1350-1750), in order to reflect upon a series of issues, including craft knowledge and artisanal epistemology; the intersections between craft and science; and questions of historical methodology and evidence in the reconstruction of historical experience. The course will be run as a “Laboratory Seminar,” with discussions of primary and secondary materials, as well as text- and object-based research and hands-on work in a laboratory. One component of the Making and Knowing Project of the Center for Science and Society, this course contributes to the collective production of a transcription, English translation, and critical edition of a late sixteenth-century manuscript in French, BnF Ms. Fr. 640. The Laboratory Seminar is open to advanced undergradute and graduate students from Columbia and its consortial partners.
+The course was offered from 2014-18, guided by a different theme each year to help focus research on related techniques described in the manuscript:
+- Moldmaking and Metalworking (e.g., portrait medal casting, sand casting, and box molding)
+     - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/1ICnngRjiyrQt_6F9iSrcVopdkn3tf1RJ2kifVbkUWPE/edit?usp=sharing)
+     - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/1zxkcwaU9wWvNOpZZiK9_SNkxHyU6a8NqAJbTGXjFro4/edit?usp=sharing)
+- Colormaking (including dyes, pigments, artificial gems, coloring woods and metals, and varnish making)
+     - [Fall 2015 HIST GR8906: Colormaking Syllabus](https://docs.google.com/document/d/1olUUMo-db5zl1kXF28aOEF64IlE0ohTlv1o9hYo6414/edit?usp=sharing)
+     - [Spring 2016 HIST GR8906: Colormaking Syllabus](https://docs.google.com/document/d/1oI1_kb5bx5C0BtIwLEMg3GmFZyD1joUBFJfVkFOLEXU/edit?usp=sharing)
+- Practical Knowledge: Vernacular Natural History, Practical Perspective, Optics, Mechanics, and Medicine
+     - [Fall 2016 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/1xBR6Tu7wpQnv8x9mvqJJjEuDj_P55yvxV4M93amZRI8/edit?usp=sharing)
+     - [Spring 2017 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/1Jfwt7v4KRB2YrvvEew2rBBMpl07J1C1kD4dWd8xN40U/edit?usp=sharing)
+- Ephemeral Art (such as the creation of artworks that were intended to stand outside (like banners) or that aimed to create the visual effect of a more permanent (and expensive) work of art)
+     - [Fall 2017 HIST GR8906: Ephemeral Art Syllabus](https://docs.google.com/document/d/1N2D1jUgoH32eThwcUDv12SX6SfyYLscSlDhBsq_TSB4/edit?usp=sharing)
+- Printmaking, Inscription and Impression
+     - [Fall 2018 HIST GR8906: Impression Syllabus](https://docs.google.com/document/d/1M10GN9_j3pM-P9dYrkwzCVyZdYWgwYYPx6dr5K1RKTc/edit?usp=sharing)
 
-Using the transcription and translation produced in the Paleography Workshops, the Laboratory Seminars focus each year on a set of related techniques described in the manuscript. In 2014-15, the focus was on Moldmaking and Metalworking (e.g., portrait medal casting, sand casting, and box molding); in 2015-16, it was on Colormaking (including dyes, pigments, artificial gems, coloring woods and metals, and varnish making); in 2016-17, Practical Knowledge: Vernacular Natural History, Practical Perspective, Optics, Mechanics, and Medicine; in 2017-2018, the theme was Ephemeral Art; in 2018-2019, the theme was Printmaking, Inscription and Impression.
-- *HIST GU8906: 
-- Fall 2014
 
 ### Activity Sheets, Assignments, and Reconstruction Protocols
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
