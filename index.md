@@ -100,6 +100,12 @@ Using the English translation of Ms. Fr. 640 as the basic data set, students col
 - See the [Course Github Repository](https://github.com/cu-mkp/GR8975)
 - In collaboration with Columbia's Center for Teaching and Learning, this course also resulted in the creation of the [Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing) and the [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/).
 
+_**ENGL84031 / HISTGU4031 / COMS4495: Transforming Texts: Textual Analysis, Literary Modeling, and Visualization**_
+
+Columbia University, cross-listed in the Departments of English, History, and Computer Science, advanced undergraduate- / intro graduate-level "Digital Seminar"
+
+Designed for graduate and advanced undergraduate students in the social sciences, humanities, and computer science, this Spring 2019 hybrid course was situated at the crossroads of historical exploration and computer sciences. Students were exposed to digital literacy tools and computational skills through the lens of the Making and Knowing Project. This course built off the [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) course described above. For the final project, students collaborated to investigate linguistic features of Ms. Fr. 640 using natural language processing and text mining techniques. These projects shed light on topics of interest within the manuscript and uncover connections within the textual data.
+- [Spring 2019: Transforming Texts Syllabus](https://docs.google.com/document/d/1gmx-w2Ot5KE-eIFiOzo3y3tMS73UgLZawn-7Dp1iCWA/edit)
 
 ### Activity Sheets, Assignments, and Reconstruction Protocols
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
