@@ -33,7 +33,7 @@ terms\]
 
 <img src="./media-alberts/image1.png" style="width:6.375in;height:4.2638in" />
 
-Photo Credit: ThoughtCo / Grace Kim,
+> Photo Credit: ThoughtCo / Grace Kim,
 [<u>https://www.thoughtco.com/definition-of-ph-in-chemistry-604605</u>](https://www.thoughtco.com/definition-of-ph-in-chemistry-604605)
 
 ## pH Questions:
@@ -51,8 +51,8 @@ Photo Credit: ThoughtCo / Grace Kim,
 ## Pre Lab Reading and Questions:
 
 **Reading**: Anna Marie Roos, “The Saline Chymistry of Color in
-Seventeenth-Century English Natural History” in Early Science and
-Medicine 20 (2015): 562-588, doi:
+Seventeenth-Century English Natural History” in *Early Science and
+Medicine* 20 (2015): 562-588,
 [<u>https://doi.org/10.1163/15733823-02046p11</u>](https://doi.org/10.1163/15733823-02046p11).
 
 1.  What are some of the different views expressed in the reading regarding color and its cause?
@@ -161,7 +161,7 @@ follow the same instructions.
 
 ### Transformation:
 
-\*\*At this point, one may choose to ask students to take the pH of the
+\*\* At this point, one may choose to ask students to take the pH of the
 “wine.” Additionally, now would be a good time to make observations
 about the physical properties of the “wine.” \*\*
 
