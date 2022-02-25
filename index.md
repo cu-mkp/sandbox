@@ -51,6 +51,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](docs/fa21_weisgall_benjamin_final-project-architecture-workshop.md) by Benjamin Weisgall
 - [The Natural History of Ms. Fr. 640: A Visual Exploration](docs/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
 - [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”](docs/fa21_alberts_naomi_final-project_ph-lesson.md) by Naomi Alberts
+- [Global Ingredients: The Diverse Origins of Natural Materials in Ms. Fr. 640](https://catapanoth.com/omandka/exhibits/show/global-ingredients--the-divers) (Omeka exhibit with gallery and map) by Elia Zhang and Helena Seo
 - [An Exploration of Humor in Ms. Fr. 640](docs/fa21_atkins+joyce-farley_charlotte+siobhan_pranks.md) by Charlotte Atkins and Siobhan Joyce-Farley
      - See their [VIDEO: Funniest Pranks of the 16th Century](https://youtu.be/BFK71x0bvuE)
 -  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop](docs/fa21_zayas+waters_elliot+mac_final-project-soundscape.md) by Elliot Zayas and Mac Waters
