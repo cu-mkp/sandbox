@@ -7,7 +7,7 @@ The Sandbox presents experimental, provisional, and in-progress work that expand
 
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools, where others can add and create their own tools, case studies, and resources presented here. This is also a space for sharing teaching resources, exploring methods and processes across disciplines and levels of expertise, and engaging in knowledge exchange wherever possible.
 
-**Editors:** Pamela Smith, [Naomi Rosenkranz](https://github.com/njr2128), [Terry Catapano](https://github.com/tcatapano), [Gregory Schare](https://github.com/gschare), and [Sophia Qureshi](https://github.com/swq2101).
+**Editors:** [Pamela Smith](https://github.com/ps2270), [Naomi Rosenkranz](https://github.com/njr2128), [Terry Catapano](https://github.com/tcatapano), [Caroline Surman](https://github.com/caro27), [Gregory Schare](https://github.com/gschare), and [Sophia Qureshi](https://github.com/swq2101).
 
 ## Digital Projects
 - [Interacting with the Manuscript object in Python](docs/manuscript-object-tutorial.md) (2020-11-02)
