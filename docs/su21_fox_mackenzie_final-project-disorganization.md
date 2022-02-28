@@ -43,7 +43,7 @@ contain a wide range of information and yet lack clear thematic
 structure or categorization of that information. In the context of the
 European Renaissance, the historian Neil Kenny has suggested that
 miscellanies were, as a category, defined in contrast to a more
-prestigious and prevalent genre: the encyclopedia. [^2] Renaissance
+prestigious and prevalent genre: the encyclopedia.[^2] Renaissance
 encyclopedias were not the alphabetical reference texts that we are
 familiar with today (let alone the searchable, digital counterparts of
 such texts like Wikipedia); instead, they were intended, as their name
@@ -90,22 +90,13 @@ but the workshop represents all things active,”[^7] suggesting that he
 rejected its placement of philosophy atop all other forms of knowledge,
 including the practical sort with which he was chiefly concerned.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image1.jpg" style="width:6.35417in;height:4.27778in" /></p>
-<p>Fig. 2. <em>Tabula Cebetis (The Tabula of Cebes or The Journey of Human Life)</em>, Netherlandish, 1573. Oil on panel, 119.5 x 177 cm. Rijksmuseum, Amsterdam, SK-A-2372. Vera Keller describes the image as follows: “This Christianized version of the <em>Tablet of Cebes</em> shows the temple of divine wisdom towering over the landscape. In this version, the mechanical arts (<em>artes mechanicae</em>), symbolized by figures spinning, chopping wood, and working at a forge, are located surprisingly deep within the structure of learning, within the second wall to the right. They have not yet begun the ascent to more abstract knowledge, however.”
-<p>Permalink: <a href="http://hdl.handle.net/10934/RM0001.COLLECT.4688"><u>http://hdl.handle.net/10934/RM0001.COLLECT.4688</u></a> (<a href="https://creativecommons.org/publicdomain/zero/1.0/"><u>CC0 1.0</u></a>).</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image1.jpg" style="width:6.35417in;height:4.27778in" />
 
-[^8] To reject the hierarchy of knowledge represented by the *Tablet of
+> Fig. 2. <em>Tabula Cebetis (The Tabula of Cebes or The Journey of Human Life)</em>, Netherlandish, 1573. Oil on panel, 119.5 x 177 cm. Rijksmuseum, Amsterdam, SK-A-2372.Permalink: <a href="http://hdl.handle.net/10934/RM0001.COLLECT.4688"><u>http://hdl.handle.net/10934/RM0001.COLLECT.4688</u></a> (<a href="https://creativecommons.org/publicdomain/zero/1.0/"><u>CC0 1.0</u></a>).<br>
+Vera Keller describes the image as follows: “This Christianized version of the <em>Tablet of Cebes</em> shows the temple of divine wisdom towering over the landscape. In this version, the mechanical arts (<em>artes mechanicae</em>), symbolized by figures spinning, chopping wood, and working at a forge, are located surprisingly deep within the structure of learning, within the second wall to the right. They have not yet begun the ascent to more abstract knowledge, however.”[^8]<br>
+
+
+To reject the hierarchy of knowledge represented by the *Tablet of
 Cebes* is not the same, however, as objecting to the systematization of
 knowledge characteristic of encyclopedism. It does not seem to be the
 case that the author-practitioner harbors the same sort of resentment
@@ -155,22 +146,14 @@ past they had governed; they are: The Book of Changes 易經, The Book of
 Odes 詩經, The Book of Documents 書經, The Book of Rites 禮記, and The
 Spring and Autumn Annals 春秋.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image3.jpg" style="width:6.35417in;height:5.77778in" /></p>
-<p>Fig. 3. Above are two pages from a 16th century printed edition of the semi-canonical <em>Zuo Commentary</em> 左傳 on <em>The Spring and Autumn Annals</em>. The <em>Annals</em> recorded the history of the state of <em>Lu</em> 魯 from 722 to 481 BCE in extremely sparse detail, but, as it was traditionally thought to have been compiled by Confucius, was believed to contain his judgments on politics and morality, if in very oblique ways. The ambiguity left by the extremely sparse text spawned an enormous commentarial tradition that sought to explain its significance, within which the <em>Zuo</em> commentary, first written around the 4th century BCE, came to be revered nearly as much as the <em>Annals</em> itself, as it described the events recorded in the <em>Annals</em> in far more detail than the original text.
-<p>(Reminder: Traditional Chinese texts are read from top to bottom and then from right to left) On the right page and in the first three lines of the left page, all of the large-format characters are taken from the original text of the <em>Annals</em>. (This beginning of this section is marked with the character 經 [classic] against a black background) The large-format characters seen on remainder of the left page (i.e., everything after the character 傳 [tradition; here short for <em>zuozhuan</em> 左傳 or the <em>Zuo Commentary</em>] against a black background) are from the <em>Zuo</em> commentary. The small, half-width characters on each page are commentary written by a later writer, Lin Yaosou 林堯叟 (ND). The format of the text is quite typical; the original text of the classic (including the <em>Zuo Commentary</em> in this case, given its semi-canonical status) appears in larger, darker characters, while the commentary appears in half-sized characters after it. This is an extreme example given that there are essentially two layers of commentary present, but it gives a sense of how much more verbose commentaries could be than the classical texts they were interpreting. Du, Yu, 222-284, Yaosou Lin, Quan Yang, and Chinese Rare Book Collection. <em>Chun qiu Zuo zhuan: san shi juan.</em> Chengdu fu zhi fu: yang quan, ming jiajing, between 1523 and 1566, 1523. Image. https://www.loc.gov/item/00510379/.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image3.jpg" style="width:6.35417in;height:5.77778in" />
 
-[^12] *Biji*, in contrast to the prestigious classical commentary, were rarely
+> Fig. 3. Du, Yu, 222-284, Yaosou Lin, Quan Yang, and Chinese Rare Book Collection. <em>Chun qiu Zuo zhuan: san shi juan.</em> Chengdu fu zhi fu: yang quan, ming jiajing, between 1523 and 1566, 1523. Image. [https://www.loc.gov/item/00510379/](https://www.loc.gov/item/00510379/).<br>
+Above are two pages from a 16th century printed edition of the semi-canonical <em>Zuo Commentary</em> 左傳 on <em>The Spring and Autumn Annals</em>. The <em>Annals</em> recorded the history of the state of <em>Lu</em> 魯 from 722 to 481 BCE in extremely sparse detail, but, as it was traditionally thought to have been compiled by Confucius, was believed to contain his judgments on politics and morality, if in very oblique ways. The ambiguity left by the extremely sparse text spawned an enormous commentarial tradition that sought to explain its significance, within which the <em>Zuo</em> commentary, first written around the 4th century BCE, came to be revered nearly as much as the <em>Annals</em> itself, as it described the events recorded in the <em>Annals</em> in far more detail than the original text.[^12]<br>
+> (Reminder: Traditional Chinese texts are read from top to bottom and then from right to left) On the right page and in the first three lines of the left page, all of the large-format characters are taken from the original text of the <em>Annals</em>. (This beginning of this section is marked with the character 經 [classic] against a black background) The large-format characters seen on remainder of the left page (i.e., everything after the character 傳 [tradition; here short for <em>zuozhuan</em> 左傳 or the <em>Zuo Commentary</em>] against a black background) are from the <em>Zuo</em> commentary. The small, half-width characters on each page are commentary written by a later writer, Lin Yaosou 林堯叟 (ND). The format of the text is quite typical; the original text of the classic (including the <em>Zuo Commentary</em> in this case, given its semi-canonical status) appears in larger, darker characters, while the commentary appears in half-sized characters after it. This is an extreme example given that there are essentially two layers of commentary present, but it gives a sense of how much more verbose commentaries could be than the classical texts they were interpreting.
+
+
+*Biji*, in contrast to the prestigious classical commentary, were rarely
 the sites where authors chose to discuss their views on such lofty
 matters as learning and government; instead, they were an informal
 context in which intellectuals could record and circulate their thoughts
@@ -212,19 +195,9 @@ of the evidence considered; this tentative tone, leaving open the
 possibility that further information could alter a preliminary judgment
 is also quite common. *Biji* often stop short of definitive judgments.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image2.jpg" style="width:6.35417in;height:3.48611in" /></p>
-<p>Fig. 4. A pufferfish in a tank at a restaurant in Nagoya, Japan. Wikimedia Commons contributors, "File:Fugu in Tank.jpg," <em>Wikimedia Commons, the free media repository,</em> <a href="https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013"><u>https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013</u></a> (accessed June 21, 2021).</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image2.jpg" style="width:6.35417in;height:3.48611in" />
+
+> Fig. 4. A pufferfish in a tank at a restaurant in Nagoya, Japan. Wikimedia Commons contributors, "File:Fugu in Tank.jpg," <em>Wikimedia Commons, the free media repository,</em> <a href="https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013"><u>https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013</u></a> (accessed June 21, 2021).
 
 Zhang’s dependence on what he had personally seen or heard (*wenjian*
 聞見) in evaluating the claim that *hetun* are poisonous is typical of
@@ -244,19 +217,9 @@ that address philological problems, discussions of physiognomy, tales of
 the supernatural, musings on where the best wine in the country is to be
 found, etc.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image4.jpg" style="width:6.35417in;height:6.26389in" /></p>
-<p>Fig. 5. Two pages from a 17th-century <em>biji</em>; the entry-based structure typical of the genre is clearly visible here. Wang, Shizhen, Tinglun Zhi, and Chinese Rare Book Collection. Chi Bei Ou Tan: Er Shi Liu Juan. [Fujian Tingzhou fu: Zhi Tinglun, Qing Kangxi 30 nian, i.e, 1691] Image. https://www.loc.gov/item/2012402038/.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image4.jpg" style="width:6.35417in;height:6.26389in" />
+
+> Fig. 5. Two pages from a 17th-century <em>biji</em>; the entry-based structure typical of the genre is clearly visible here. Wang, Shizhen, Tinglun Zhi, and Chinese Rare Book Collection. Chi Bei Ou Tan: Er Shi Liu Juan. [Fujian Tingzhou fu: Zhi Tinglun, Qing Kangxi 30 nian, i.e, 1691] Image. [https://www.loc.gov/item/2012402038/](https://www.loc.gov/item/2012402038/).
 
 In their free-ranging, unsystematic attention to a wide range of
 subjects — and especially their interest in the particular rather than
@@ -273,7 +236,7 @@ tentatively:
 > An-shih’s great plans for political reform \[i.e., the grand,
 > systematic approaches that characterized the mainstream of 11th
 > century thought\] but that it represents a very different stream. It
-> stands against philosophical systems and authority from above.” [^14]
+> stands against philosophical systems and authority from above.”[^14]
 >
 > “The *pi-chi* is a work as much from the bottom up as the top down,
 > but it is not really a work of persuasion at all. Instead, it draws
