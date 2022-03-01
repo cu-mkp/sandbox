@@ -297,74 +297,36 @@ comparative research.
 
 [^1]: Folio [41r](https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl).
 
-[^2]: Neil Kenny, *The Palace of Secrets: Béroalde de Verville and
-Renaissance Conceptions of Knowledge* (Oxford: Clarendon Press, 1991), 43.
+[^2]: Neil Kenny, *The Palace of Secrets: Béroalde de Verville and Renaissance Conceptions of Knowledge* (Oxford: Clarendon Press, 1991), 43.
 
 [^3]: Ibid., 1.
 
-[^4]: Olivia Branscum, “Necessary Particulars: Philosophical Reflections
-on Making and Knowing with Ms. Fr. 640,” In *Secrets of Craft and Nature
-in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, Pamela
-H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing
-Project, 2020),
-[<u>https://edition640.makingandknowing.org/#/essays/ann_069_fa_18</u>](https://edition640.makingandknowing.org/#/essays/ann_069_fa_18).
-DOI:
-[<u>https://www.doi.org/10.7916/2ap7-d967</u>](https://www.doi.org/10.7916/2ap7-d967)
+[^4]: Olivia Branscum, “Necessary Particulars: Philosophical Reflections on Making and Knowing with Ms. Fr. 640,” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_069_fa_18</u>](https://edition640.makingandknowing.org/#/essays/ann_069_fa_18). DOI: [<u>https://www.doi.org/10.7916/2ap7-d967</u>](https://www.doi.org/10.7916/2ap7-d967).
 
-[^5]: “As small peddlers lay open small wares in order to buy richer ones
-& to profit more and more, so I, from a desire to learn, am exposing
-what little is in my workshop to have it receive, through a common
-commerce of letters, much rarer secrets from my benevolent readers” -
-BnF Ms. Fr. 640, fol. [162r](https://edition640.makingandknowing.org/#/folios/162r/f/162r/tl), “For the workshop.”
+[^5]: “As small peddlers lay open small wares in order to buy richer ones & to profit more and more, so I, from a desire to learn, am exposing what little is in my workshop to have it receive, through a common commerce of letters, much rarer secrets from my benevolent readers” - BnF Ms. Fr. 640, fol. [162r](https://edition640.makingandknowing.org/#/folios/162r/f/162r/tl), “For the workshop.”
 
-[^6]: Vera Keller, “An Active Form of Education: The Boutique and the
-Tablet of Cebes,” In *Secrets of Craft and Nature in Renaissance France.
-A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
-edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
-Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
-Catapano (New York: Making and Knowing Project, 2020)
-[<u>https://edition640.makingandknowing.org/#/essays/ann_330_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_330_ie_19).
-DOI:
-[<u>https://www.doi.org/10.7916/dy3g-xm85</u>](https://www.doi.org/10.7916/dy3g-xm85)
+[^6]: Vera Keller, “An Active Form of Education: The Boutique and the Tablet of Cebes,” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020) [<u>https://edition640.makingandknowing.org/#/essays/ann_330_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_330_ie_19). DOI: [<u>https://www.doi.org/10.7916/dy3g-xm85</u>](https://www.doi.org/10.7916/dy3g-xm85).
 
 [^7]: Fol. [166r](https://edition640.makingandknowing.org/#/folios/166r/f/166r/tl).
 
 [^8]: Image, citation, and caption are from Keller, “An Active Form of Education.”
 
-[^9]: It is, however, possible that this concentration of content on a
-single set of closely-related topics was the result of the
-author-practitioner having consulted another text dealing with or a
-practitioner of the craft in question.
+[^9]: It is, however, possible that this concentration of content on a single set of closely-related topics was the result of the author-practitioner having consulted another text dealing with or a practitioner of the craft in question.
 
 [^10]: Branscum, “Necessary Particulars.”
 
-[^11]: *Biji* were already being written more than half a millennium
-before the Song, though they became much more common over time and also
-changed significantly in character. The miscellany-like character of
-many Song *biji* is not as apparent in pre-Song examples of the genre;
-an interest in the material world, in particular, seems to have been
-new.
+[^11]: *Biji* were already being written more than half a millennium before the Song, though they became much more common over time and also changed significantly in character. The miscellany-like character of many Song *biji* is not as apparent in pre-Song examples of the genre; an interest in the material world, in particular, seems to have been new.
 
 [^12]: For more information on the textual history and significance of the <em>Zuo</em> commentary, see the introduction to the text by Durrant, Li, and Schaberg in their recent translation. Stephen W. Durrant, Wai-yee Li, and David Schaberg, trans., <em>Zuo Tradition / Zuozhuan : Commentary on the “Spring and Autumn Annals.”</em> 3 vols., Classics of Chinese Thought (Seattle: University of Washington Press, 2016).
 
-[^13]: “明道雜誌,” Chinese Text Project, accessed June 20, 2021,
-https://ctext.org/wiki.pl?if=gb&chapter=865185.
+[^13]: “明道雜誌,” Chinese Text Project, accessed June 20, 2021, https://ctext.org/wiki.pl?if=gb&chapter=865185.
 
-[^14]: Peter Bol, “A Literati Miscellany and Sung Intellectual History:
-The Case of Chang Lei’s *Ming-tao tsa-chih*,” *Journal of Sung-Yuan
-Studies* 25 (1995), 148.
+[^14]: Peter Bol, “A Literati Miscellany and Sung Intellectual History: The Case of Chang Lei’s *Ming-tao tsa-chih*,” *Journal of Sung-Yuan Studies* 25 (1995), 148.
 
 [^15]: Ibid., 150-1.
 
 [^16]: Ibid., 125.
 
-[^17]: Far more, of course, could be said about the authors of *biji* and
-their reasons for writing them, but fuller consideration of the
-similarities and differences between European miscellanies and Chinese
-*biji* must, for the time being, be left for future work.
+[^17]: Far more, of course, could be said about the authors of *biji* and their reasons for writing them, but fuller consideration of the similarities and differences between European miscellanies and Chinese *biji* must, for the time being, be left for future work.
 
 [^18]: Branscum, “Necessary Particulars.”
