@@ -294,6 +294,7 @@ have triggered such a shift in such remarkably similar directions in
 times and places as far removed as these is a question worthy of further
 comparative research.
 
+
 [^1]: Folio [41r](https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl).
 
 [^2]: Neil Kenny, *The Palace of Secrets: Béroalde de Verville and
