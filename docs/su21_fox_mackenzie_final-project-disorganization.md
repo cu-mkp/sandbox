@@ -220,9 +220,9 @@ that address philological problems, discussions of physiognomy, tales of
 the supernatural, musings on where the best wine in the country is to be
 found, etc.
 
-<th><p><img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image4.jpg" style="width:6.35417in;height:6.26389in" />
+<img src="./media-fox/su21_fox_mackenzie_final-project-disorganization_image4.jpg" style="width:6.35417in;height:6.26389in" />
 
-> Fig. 5. Two pages from a 17th-century <em>biji</em>; the entry-based structure typical of the genre is clearly visible here. Wang, Shizhen, Tinglun Zhi, and Chinese Rare Book Collection. Chi Bei Ou Tan: Er Shi Liu Juan. [Fujian Tingzhou fu: Zhi Tinglun, Qing Kangxi 30 nian, i.e, 1691] Image. [https://www.loc.gov/item/2012402038/](https://www.loc.gov/item/2012402038/).
+> Fig. 5. Two pages from a 17th-century <em>biji</em>; the entry-based structure typical of the genre is clearly visible here. Wang, Shizhen, Tinglun Zhi, and Chinese Rare Book Collection. Chi Bei Ou Tan: Er Shi Liu Juan. \[Fujian Tingzhou fu: Zhi Tinglun, Qing Kangxi 30 nian, i.e, 1691\] Image. [https://www.loc.gov/item/2012402038/](https://www.loc.gov/item/2012402038/).
 
 In their free-ranging, unsystematic attention to a wide range of
 subjects — and especially their interest in the particular rather than
