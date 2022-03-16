@@ -57,7 +57,7 @@ its instructions on lifecasting.[^1]
 <thead>
 <tr class="header">
 <th><p><img src="./media-christensen/image5.png" style="width:5.88021in;height:4.04867in" /></p>
-<p>Attributed to Bernard Palissy (French, about 1510 - 1590), <em>Oval Basin</em>, about 1550, Lead-glazed earthenware, 47.9 × 36.8 cm (18 7/8 × 14 1/2 in.), 88.DE.63, The J. Paul Getty Museum, Los Angeles</p></th>
+<p>Attributed to Bernard Palissy (French, about 1510 - 1590), <em>Oval Basin</em>, about 1550, Lead-glazed earthenware, 47.9 × 36.8 cm (18 7/8 × 14 1/2 in.), 88.DE.63, The J. Paul Getty Museum, Los Angeles.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -109,7 +109,7 @@ have been captured or killed.
 <thead>
 <tr class="header">
 <th><p><img src="./media-christensen/image1.jpg" style="width:6.35417in;height:4.31944in" /></p>
-<p>Snake, lizard, frog and mouse, anonymous, c. 1550 - c. 1599 via Rijksmuseum database, http://hdl.handle.net/10934/RM0001.COLLECT.474284</p></th>
+<p>Snake, lizard, frog and mouse, anonymous, c. 1550 - c. 1599 via Rijksmuseum database, <a href="http://hdl.handle.net/10934/RM0001.COLLECT.474284">http://hdl.handle.net/10934/RM0001.COLLECT.474284</a></p></th>
 </tr>
 </thead>
 <tbody>
