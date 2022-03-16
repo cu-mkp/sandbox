@@ -211,19 +211,10 @@ displayed.
 
 ## Bibliography
 
-[^1]: Pamela H. Smith, “In the Workshop of History: Making, Writing, and
-Meaning,” *West 86th 19*, no. 1 (2012): 4-31.
+[^1]: Pamela H. Smith, “In the Workshop of History: Making, Writing, and Meaning,” *West 86th 19*, no. 1 (2012): 4-31.
 
-[^2]: Martin Kemp, “‘Wrought by No Artist’s Hand’: The Natural, the
-Artificial, the Exotic, and the Scientific in Some Artifacts from the
-Renaissance,” in *Reframing the Renaissance: Visual Culture in Europe
-and Latin America, 1450-1650*, ed. Claire Farago (New Haven: Yale
-University Press, 1995).
+[^2]: Martin Kemp, “‘Wrought by No Artist’s Hand’: The Natural, the Artificial, the Exotic, and the Scientific in Some Artifacts from the Renaissance,” in *Reframing the Renaissance: Visual Culture in Europe and Latin America, 1450-1650*, ed. Claire Farago (New Haven: Yale University Press, 1995).
 
-[^3]: Dániel Margócsy, “The Camel's Head: Representing Unseen Animals in
-Sixteenth-century Europe,” in Nederlands *Kunsthistorisch Jaarboek (NKJ)
-/ Netherlands Yearbook for History of Art 61* (2011): 61-85.
+[^3]: Dániel Margócsy, “The Camel's Head: Representing Unseen Animals in Sixteenth-century Europe,” in Nederlands *Kunsthistorisch Jaarboek (NKJ) / Netherlands Yearbook for History of Art 61* (2011): 61-85.
 
-[^4]: Pamela H. Smith and Tonny Beentjes, “Nature and Art, Making and
-Knowing: Reconstructing Sixteenth-Century Life-Casting Techniques,”
-*Renaissance Quarterly 63*, no. 1 (2010): 128-79.
+[^4]: Pamela H. Smith and Tonny Beentjes, “Nature and Art, Making and Knowing: Reconstructing Sixteenth-Century Life-Casting Techniques,” *Renaissance Quarterly 63*, no. 1 (2010): 128-79.
