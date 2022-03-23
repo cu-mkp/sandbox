@@ -8,26 +8,26 @@ This Lab Seminar course studies the materials, techniques, settings, and meaning
 
 The course was offered from 2014-18, guided by a different theme each year to help focus research on related techniques described in the manuscript:
 - Moldmaking and Metalworking (e.g., portrait medal casting, sand casting, and box molding)
-     - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/1ICnngRjiyrQt_6F9iSrcVopdkn3tf1RJ2kifVbkUWPE/edit?usp=sharing)
-     - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/1zxkcwaU9wWvNOpZZiK9_SNkxHyU6a8NqAJbTGXjFro4/edit?usp=sharing)
+     - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/e/2PACX-1vT7See-Ba9a_RleKzJF65ucAyQBOHyanuXDYTtQ4CIVGQmCHaWpULYhvyOiFUUUyH6lDokCQOtwJ907/pub)
+     - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/e/2PACX-1vQBhcm7nzcjq-fnpeu2FNVSFvr7dye6jf1YE_ORgu6RLc-Suk-C36Qvvk2BAMo6BXXpO63OpG_ZYhLs/pub)
 - Colormaking (including dyes, pigments, artificial gems, coloring woods and metals, and varnish making)
-     - [Fall 2015 HIST GR8906: Colormaking Syllabus](https://docs.google.com/document/d/1olUUMo-db5zl1kXF28aOEF64IlE0ohTlv1o9hYo6414/edit?usp=sharing)
-     - [Spring 2016 HIST GR8906: Colormaking Syllabus](https://docs.google.com/document/d/1oI1_kb5bx5C0BtIwLEMg3GmFZyD1joUBFJfVkFOLEXU/edit?usp=sharing)
+     - [Fall 2015 HIST GR8906: Colormaking Syllabus](https://docs.google.com/document/d/e/2PACX-1vR77RXxNNfNA4lyT4c9s1VMgEpqo4oM_xAv8nrUi4TBqwSE3wOE96I3CnxmXUhGXgvDI9_zc9fDGwGe/pub)
+     - [Spring 2016 HIST GR8906: Colormaking Syllabus](https://docs.google.com/document/d/e/2PACX-1vQ3yUhTLMGkUYU2VH-kczSWOegBvhAKYUr69oF1UK6beqIOkJ-VMFnRmD0D3ib6Oh6U6Cc5kAhVpCmb/pub)
 - Practical Knowledge: Vernacular Natural History, Practical Perspective, Optics, Mechanics, and Medicine
-     - [Fall 2016 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/1xBR6Tu7wpQnv8x9mvqJJjEuDj_P55yvxV4M93amZRI8/edit?usp=sharing)
-     - [Spring 2017 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/1Jfwt7v4KRB2YrvvEew2rBBMpl07J1C1kD4dWd8xN40U/edit?usp=sharing)
+     - [Fall 2016 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/e/2PACX-1vTzLSf_qzMiLKAr4ay8vKzBAHjjZaetENhK-ITmg18rblEbal7hfuUXpUKgFt9NtLW8W29g9KuIX8_8/pub)
+     - [Spring 2017 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/e/2PACX-1vTfqF4UNMaSLjX-FmXA6vOz6calSfPMMUfGaUpw8CjcUFcBtXXj7b1XLOOSHMVKUDljAcXGzDSCrevx/pub)
 - Ephemeral Art (such as the creation of artworks that were intended to stand outside (like banners) or that aimed to create the visual effect of a more permanent (and expensive) work of art)
-     - [Fall 2017 HIST GR8906: Ephemeral Art Syllabus](https://docs.google.com/document/d/1N2D1jUgoH32eThwcUDv12SX6SfyYLscSlDhBsq_TSB4/edit?usp=sharing)
+     - [Fall 2017 HIST GR8906: Ephemeral Art Syllabus](https://docs.google.com/document/d/e/2PACX-1vRvNiZIaubDG_Cb1F8KOF8gV0sFBiGr01W3iXmDJV3yTFgeGp1teBwg2MkwUZ4TCGRglJ6Y1bK3XUMv/pub)
 - Printmaking, Inscription and Impression
-     - [Fall 2018 HIST GR8906: Impression Syllabus](https://docs.google.com/document/d/1M10GN9_j3pM-P9dYrkwzCVyZdYWgwYYPx6dr5K1RKTc/edit?usp=sharing)
+     - [Fall 2018 HIST GR8906: Impression Syllabus](https://docs.google.com/document/d/e/2PACX-1vQoa_ox8PAc99ebdx4wxFPULy7aLHSJIyltikSRo7CsNocqS8EfIfCCl9qDIUpaxn0iqsfdmjg9lbpX/pub)
 
 ## _**HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History**_
 
 Columbia University, History Department, advanced undergraduate- / intro graduate-level "Lab Seminar"
 
 This Laboratory Seminar is a re-working of the graduate-level *GR8906: Craft and Science*, tailored to advanced undergradute and graduate students. This course introduces students to the materials, techniques, contexts, and meanings of skilled craft and artistic practices in early modern Europe (1350-1750). The course will be run as a “Laboratory Seminar,” with discussions of primary and secondary materials, as well as hands-on work in the M&K laboratory. This course tests the use of [*Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*](https://edition640.makingandknowing.org/) in a higher education classroom to inform the development of the Making and Knowing Project's Research and Teaching Companion. Students’ final projects (exploratory and experimental work in the form of digital/textual analysis of Ms. Fr. 640, reconstruction insight reports, videos for the Companion, or a combination) will be published as part of the Companion or the Sandbox.
-- [Summer 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/19f4BoRrj4pwhxMQi58fZ2wL2Gj_zCQ502VXrZGVbbHA/edit?usp=sharing) (NOTE: this was a six-week intensive course, instructed virtually)
-- [Fall 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/1j7CNhD3fzsmBP3sYKqyoUo5ldmymIYLXbcIWuLFnmt8/edit?usp=sharing)
+- [Summer 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub) (NOTE: this was a six-week intensive course, instructed virtually)
+- [Fall 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)
 - Spring 2022 HIST GU4962: Hands-on History Syllabus (TBD)
 
 ## _**HIST GR8975: What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment**_
@@ -45,4 +45,4 @@ Using the English translation of Ms. Fr. 640 as the basic data set, students col
 Columbia University, cross-listed in the Departments of English, History, and Computer Science, advanced undergraduate- / intro graduate-level "Digital Seminar"
 
 Designed for graduate and advanced undergraduate students in the social sciences, humanities, and computer science, this Spring 2019 hybrid course was situated at the crossroads of historical exploration and computer sciences. Students were exposed to digital literacy tools and computational skills through the lens of the Making and Knowing Project. This course built off the [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) course described above. For the final project, students collaborated to investigate linguistic features of Ms. Fr. 640 using natural language processing and text mining techniques. These projects shed light on topics of interest within the manuscript and uncover connections within the textual data.
-- [Spring 2019: Transforming Texts Syllabus](https://docs.google.com/document/d/1gmx-w2Ot5KE-eIFiOzo3y3tMS73UgLZawn-7Dp1iCWA/edit)
+- [Spring 2019: Transforming Texts Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)
