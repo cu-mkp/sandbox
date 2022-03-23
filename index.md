@@ -21,8 +21,17 @@ The Making and Knowing Project hopes to create an online environment for student
 - [ms-text-analysis: Files and tools for performing textual analysis of BnF Ms Fr 640](https://cu-mkp.github.io/ms-text-analysis/guide_to_searching) (2020-02-04)
 - [Visualizing Semantic Markup in BnF Ms. Fr. 640](https://www.clementgodbarge.com/post/visualization/) by Making and Knowing Postdoctoral Scholar Clément Godbarge (2021-03-09)
 
+## Edition Prototypes
+In preparation and development of [_Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/), M&K explored and created various wireframes, mockups, and prototypes.
+- [2017 Minimal Digital Edition of the Transcriptions and Translations of Ms. Fr. 640](https://cu-mkp.github.io/2017-workshop-edition/), published through the Jekyll theme [Ed](https://elotroalex.github.io/ed/) and presents the diplomatic transcription, normalized transcription, and working English translation of BnF Ms. Fr. 640 as of the Fall 2017.
+- [Minimal Digital Edition of the Working English Translation of BnF Ms. Fr. 640](https://cu-mkp.github.io/GR8975-edition/), prepared by students in “HIST GR8975: What is a Book in the 21st Century?” Spring 2017 course.
+
 ## Course Projects
-### Spring 2019 Final Projects from the course, ENGL84031 / HISTGU4031 / COMS4495: *Transforming Texts: Textual Analysis, Literary Modeling, and Visualization* (2021-05-06)
+
+### ENGL84031 / HISTGU4031 / COMS4495: *Transforming Texts*
+The Spring 2019 course *Transforming Texts: Textual Analysis, Literary Modeling, and Visualization* built upon M&K's previous Digital and Lab Seminars. Geared towards students from the humanities and computer science, the course encouraged the disciplines to work together to analyze, explore, and understand historical texts.
+
+#### Spring 2019 Final Student Projects (2021-05-06)
 - [Ontologies of Ms. Fr. 640](docs/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
 - [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/docs/SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
 - [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/docs/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf) by Sandra Goldstein Lehnert, Laura Elizabeth Hand, and Greg Alton Houser
