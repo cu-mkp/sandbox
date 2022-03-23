@@ -31,7 +31,7 @@ In preparation and development of [_Secrets of Craft and Nature in Renaissance F
 ### ENGL84031 / HISTGU4031 / COMS4495: *Transforming Texts*
 The Spring 2019 course *Transforming Texts: Textual Analysis, Literary Modeling, and Visualization* built upon M&K's previous Digital and Lab Seminars. Geared towards students from the humanities and computer science, the course encouraged the disciplines to work together to analyze, explore, and understand historical texts.
 
-#### Spring 2019 Final Student Projects (2021-05-06)
+#### Spring 2019 Final Student Projects (2021-05-06) [Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)
 - [Ontologies of Ms. Fr. 640](docs/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
 - [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/docs/SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
 - [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/docs/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf) by Sandra Goldstein Lehnert, Laura Elizabeth Hand, and Greg Alton Houser
@@ -44,16 +44,14 @@ The Spring 2019 course *Transforming Texts: Textual Analysis, Literary Modeling,
 ### GU4962: *Hands-on History*
 The Final Project in the undergraduate/graduate lab seminar *Making and Knowing in Early Modern Europe: Hands-on History* are intended to serve as companion pieces to the Digital Critical Edition, *Secrets of Craft and Nature*, or form a part of the Making and Knowing Project’s Research and Teaching Companion to *Secrets of Craft and Nature*. These exploratory and experimental projects are meant to help brainstorm, design, and implement alternative paths by which to access the material in the Edition and/or provide other forms of disseminating and engaging with the themes.
 
-#### Summer 2021 Final Student Projects (2021-07-08)
-[Summer 2021 Hands-on History Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)
+#### Summer 2021 Final Student Projects (2021-07-08) [Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)
 - [Cures in Context: Medicine in Ms. Fr. 640 and Household Recipe Books](docs/su21_branscum_elizabeth_final-project-medicinal.md) by Elizabeth Branscum
 - [Was Ms. Fr. 640 Intentionally Disorganized?](docs/su21_fox_mackenzie_final-project-disorganization.md) by Mackenzie Fox
 - [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640](docs/su21_macomber_sophie_final-project-figures.md) by Sophie Macomber
 - [Understanding Natural Things in the World and the Workshop](docs/su21_christensen_anna_final-project-natural-things.md) by Anna Christensen
 - [Foraging for Pigments: A Making and Knowing Project](docs/su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder (PDF), [[PPTX](docs/su21_snyder_mellon_final-project-pigments.pptx)]
 
-#### Fall 2021 Final Student Projects (2022-01-27)
-[Fall 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/1j7CNhD3fzsmBP3sYKqyoUo5ldmymIYLXbcIWuLFnmt8/edit?usp=sharing)
+#### Fall 2021 Final Student Projects (2022-01-27) [Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)
 - [Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*](docs/fa21_steinman_charlie_final-project-ms262.md) by Charlie Steinman
      - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data) 
 - [Oral Culture in Ms. Fr. 640](docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
