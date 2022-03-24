@@ -28,7 +28,7 @@ In preparation and development of [_Secrets of Craft and Nature in Renaissance F
 
 ## Course Projects
 
-### ENGL84031 / HISTGU4031 / COMS4495: *Transforming Texts*
+### ENGL84031 / HISTGU4031 / COMS4495: *Transforming Texts* (Spring 2019)
 The Spring 2019 course *Transforming Texts: Textual Analysis, Literary Modeling, and Visualization* built upon M&K's previous Digital and Lab Seminars. Geared towards students from the humanities and computer science, the course encouraged the disciplines to work together to analyze, explore, and understand historical texts.
 
 #### Spring 2019 Final Student Projects (2021-05-06) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)]
@@ -41,7 +41,7 @@ The Spring 2019 course *Transforming Texts: Textual Analysis, Literary Modeling,
 - [Augmented Reality Group (ARGroup)](docs/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also:
   - PowerPoint presentation [[PDF](docs/SP19_ARGroup-Presentation.pdf)] [[PPTX](docs/SP19_ARGroup-Presentation.pptx)]
 
-### GU4962: *Hands-on History*
+### GU4962: *Hands-on History* (2021- )
 The Final Project in the undergraduate/graduate lab seminar *Making and Knowing in Early Modern Europe: Hands-on History* are intended to serve as companion pieces to the Digital Critical Edition, *Secrets of Craft and Nature*, or form a part of the Making and Knowing Project’s Research and Teaching Companion to *Secrets of Craft and Nature*. These exploratory and experimental projects are meant to help brainstorm, design, and implement alternative paths by which to access the material in the Edition and/or provide other forms of disseminating and engaging with the themes.
 
 #### Summer 2021 Final Student Projects (2021-07-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
