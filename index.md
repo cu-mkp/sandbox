@@ -25,6 +25,9 @@ The Making and Knowing Project hopes to create an online environment for student
 In preparation and development of [_Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/), M&K explored and created various wireframes, mockups, and prototypes.
 - [2017 Minimal Digital Edition of the Transcriptions and Translations of Ms. Fr. 640](https://cu-mkp.github.io/2017-workshop-edition/), published through the Jekyll theme [Ed](https://elotroalex.github.io/ed/) and presents the diplomatic transcription, normalized transcription, and working English translation of BnF Ms. Fr. 640 as of the Fall 2017.
 - [Minimal Digital Edition of the Working English Translation of BnF Ms. Fr. 640](https://cu-mkp.github.io/GR8975-edition/), prepared by students in “HIST GR8975: What is a Book in the 21st Century?” Spring 2017 course.
+- [2015 xpmethods prototypes](docs/prototypes-xpmethods.md), created in collaboration with Columbia's xpmethods group.
+- [2015 side-by-side Prototype](docs/prototypes-bingyan.md), created by student Bingyan Hu as an early study of side-by-side viewing panes.
+- [2015 Wireframe Mockups](docs/prototypes-wireframes.md), created by M&K researchers to brainstorm Edition elements.
 
 ## Course Projects
 
@@ -53,7 +56,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 
 #### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
 - [Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*](docs/fa21_steinman_charlie_final-project-ms262.md) by Charlie Steinman
-     - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data) 
+     - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data)
 - [Oral Culture in Ms. Fr. 640](docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
 - [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project-reds.md) by Allie Coutavas
 - [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](docs/fa21_jacobson_beah_final-project-know.md) by Beah Jacobson
@@ -78,12 +81,12 @@ Course descriptions and syllabi are listed in [Syllabi](docs/syllabi.md).
 - [Activity Sheet: Breadmolding Reconstruction](docs/breadmolding-assignment.md) - assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
 - [Activity Sheet: "Growing" Verdigris Pigment Reconstruction](docs/verdigris-assignment.md) - assignment sheet for producing verdigris, a blue-green pigment, using historical techniques (2021-09-22)
 - [Activity Sheet: Making Paints from Pigments and Painting Them Out](docs/painting-assignment.md) - assignment sheet for making paints by combining historical pigments and binding media (2021-09-22)
-- [Activity Sheet: Stucco for Molding](docs/stucco-assignment.md) - assignment sheet for creating molded stucco object from rye flour or chalk (2021-09-24) 
+- [Activity Sheet: Stucco for Molding](docs/stucco-assignment.md) - assignment sheet for creating molded stucco object from rye flour or chalk (2021-09-24)
 - Making Lake Pigments from Natural Colorants:
      - [Activity Sheet: Making Lake Pigment from Cochineal](docs/pigment-cochineal-lake_assignment.md) - assignment sheet for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
      - [Activity Sheet: Making Lake Pigment from Madder](docs/pigment-madder-lake_assignment.md) - assignment sheet for transforming natural colorants in madder roots into a pigment (2022-01-29)
 
 ### Assessment and Evaluation Tools
-- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) described above. 
+- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) described above.
      - See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing).
      - The [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/)
