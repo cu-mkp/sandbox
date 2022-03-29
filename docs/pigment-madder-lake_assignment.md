@@ -21,7 +21,7 @@ The recipes provided here are adapted from the ones provided by Kirby et. al.
 > Photo credit: Felicity Ford, 2011, Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. [http://thedomesticsoundscape.com/wordpress/?attachment_id=3451](http://thedomesticsoundscape.com/wordpress/?attachment_id=3451)
 
 
-Botanical name: Rubia tinclorum L.
+Botanical name: *Rubia tinclorum L.*
 
 Chemical class: alizarin (anthraquinone)
 
