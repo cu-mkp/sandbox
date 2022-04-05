@@ -37,17 +37,17 @@ From the late 14<sup>th</sup> century to the 17<sup>th</sup> century, madder lak
 
 There are three modernized versions of the historical recipes:
 
-1.  **“Standard”**
+1.  **“Standard”** - [Code: ML-Std in _Natural Colorants_]
 
     1.  Extract madder in water, then add alum, precipitation of pigment with potash
 
-2.  **“Standard Reversed”**
+2.  **“Standard Reversed”** - [Code: ML-EBAl in _Natural Colorants_]
 
     1.  Extract madder in water, then add potash, precipitation of pigment with alum
 
     2.  Color is said to be a very slightly redder, less brown than Standard
 
-3.  **“Standard with Alum Extraction”**
+3.  **“Standard with Alum Extraction”** - [Code: ML-Std in _Natural Colorants_]
 
     1.  Extraction of madder in alum, precipitation of pigment with potash
 
@@ -99,8 +99,7 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 ### Materials and Equipment (Recipe 1)
 - Mortar & pestle
 - Hot plate
-- 1 Beaker (at least 600ml)
-- 1 Beaker (at least 100ml)
+- 2 Beakers (at least 600ml)
 - Pair of chopsticks or other stirring device
 - Thermometer 
 - Funnel
@@ -123,7 +122,7 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 -   Keep at this temperature for 30 minutes to extract the dye
 -   Remove the drawstring bag, which can now be discarded
 -   Add 5g alum to the solution and bring to 80°
--   In the 100ml beaker, dissolve 1.88g potash in 50ml water over heat
+-   In the other 600ml beaker, dissolve 1.88g potash in 50ml water over heat
 -   Pour the madder+alum solution into the potash solution VERY GRADUALLY and STIRRING CONSTANTLY
     -   Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
 -   Allow the solution to settle for at least 15min (ideally overnight)
@@ -136,14 +135,15 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 ### Materials and Equipment (Recipe 2)
 - Mortar & pestle
 - Hot plate
-- 2 Beakers (at least 600ml)
+- 1 Beaker (at least 600ml)
+- 1 Beaker (at least 1000ml)
 - Pair of chopsticks or other stirring device
 - Thermometer 
 - Funnel
 - Filter (such as a basket coffee filter) or filter paper
 - pH strips
 - 300ml - Water for madder
-- 60ml - Water for alum
+- 30ml - Water for alum
 - Drawstring bag (muslin or polyester netting is best)
 - 10g Madder roots (the Making and Knowing Project typically sources this from Kremer Pigments, [Kremer #37201-madder-roots](https://shop.kremerpigments.com/us/shop/dyes-vegetable-color-paints/37201-madder-roots-ground-with-pieces.html))
 - 5g Alum (aluminum potassium sulfate, [Kremer #64100-potash-alum](https://shop.kremerpigments.com/us/shop/solvents-chemicals-additives/chemicals/64100-potash-alum.html))
@@ -159,7 +159,7 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 -   Keep at this temperature for 30 minutes to extract the dye
 -   Remove the drawstring bag, which can now be discarded
 -   Add 1.88g potash to the solution and bring to 80°
--   In the other 600ml beaker, dissolve 5g alum in 60ml water over heat
+-   In the 100ml beaker, dissolve 5g alum in 30ml water over heat
 -   Pour alum solution into the madder+potash solution VERY GRADUALLY and STIRRING CONSTANTLY
     -   Do this slowly and incrementally until there is no further effervescence, and precipitation of the lake pigment appears to be complete. Check the pH of the solution, which should be about 6
 -   Allow the solution to settle for at least 15min (ideally overnight)
