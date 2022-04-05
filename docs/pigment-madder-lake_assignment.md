@@ -196,7 +196,7 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 -   Heat the madder+alum to 70°
 -   Keep at this temperature for 30 minutes to extract the dye
 -   Remove the drawstring bag, which can now be discarded
--   In the 1000ml beaker, dissolve 1.88g potash in 50ml water over heat
+-   In the other 600ml beaker, dissolve 1.88g potash in 50ml water over heat
 -   Pour madder+alum solution into the potash solution VERY GRADUALLY and STIRRING CONSTANTLY
     -   Do this slowly and incrementally until there is no further effervescence, and precipitation of the lake pigment appears to be complete. Check the pH of the solution, which should be about 6
     -   Make sure both solutions are still hot (at least 70-80°) when combined because the dye may begin to precipitate out below this temperature
