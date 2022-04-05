@@ -118,7 +118,7 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 -   Using a small utensil, add madder to the drawstring bag. Close the bag tightly, but make sure there is enough room in the bag for the madder to move around freely. Use multiple bags if necessary
 -   Add 300ml water and bag of madder to 600ml beaker and leave to soak overnight
     -   NOTE: soaking overnight can be skipped for time constraints, but the amount of colorant extracted will be affected, possibly changing the the final pigment
--   After soaking overnight (if doing so), heat the madder+water to 70°
+-   After soaking overnight (if doing so), add alum and heat the madder+water+alum to 70°
 -   Keep at this temperature for 30 minutes to extract the dye
 -   Remove the drawstring bag, which can now be discarded
 -   Add 5g alum to the solution and bring to 80°
