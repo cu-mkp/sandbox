@@ -170,84 +170,24 @@ Kowalchuk, Kristine, ed., *Preserving on Paper: Seventeenth-Century Englishwomen
 
 Leong, Elaine. *Recipes and Everyday Knowledge: Medicine, Science, and the Household in Early Modern England.* Chicago: University of Chicago Press, 2018.
 
-Liu, Xiaomeng. “Collecting Cures in an Artisanal Manuscript: Practical
-Therapeutics and Disease in Ms. Fr. 640.” In *Secrets of Craft and
-Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing
-Project, 2020.
-<https://edition640.makingandknowing.org/#/essays/ann_057_sp_17>. DOI:
-<https://www.doi.org/10.7916/wq5p-p848>
+Liu, Xiaomeng. “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640.” In *Secrets of Craft and
+Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_057_sp_17>. DOI: <https://www.doi.org/10.7916/wq5p-p848>.
 
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
-Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano,
-eds., *Secrets of Craft and Nature in Renaissance France. A Digital
-Critical Edition and English Translation of BnF Ms. Fr. 640*. New York:
-Making and Knowing Project, 2020**,**
-[<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/)**.**
+Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. New York: Making and Knowing Project, 2020, [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
 
-Rankin, Alisha. *Panaceia’s Daughters: Noblewomen as Healers in Early
-Modern Germany.* Chicago: Chicago University Press, 2013.
+Rankin, Alisha. *Panaceia’s Daughters: Noblewomen as Healers in Early Modern Germany.* Chicago: Chicago University Press, 2013.
 
-Smith, Lisa. “Women’s Health Care in England and France (1660-1775)”.
-Unpublished doctoral dissertation for the Department of History at the
-University of Essex. October 2001.
+Smith, Lisa. “Women’s Health Care in England and France (1660-1775)”. Unpublished doctoral dissertation for the Department of History at the University of Essex. October 2001.
 
-[^1]: I have determined which recipes to focus on for this essay by using
-the entries in the “Medicine” category, rather than those which include
-terms tagged with “Medical” tag, to narrow my focus to those recipes
-that deal explicitly with some medical substance, therapy, or advice.
-See the List of Entries,
-[<u>https://edition640.makingandknowing.org/#/entries</u>](https://edition640.makingandknowing.org/#/entries).
+[^1]: I have determined which recipes to focus on for this essay by using the entries in the “Medicine” category, rather than those which include terms tagged with “Medical” tag, to narrow my focus to those recipes that deal explicitly with some medical substance, therapy, or advice. See the List of Entries, [<u>https://edition640.makingandknowing.org/#/entries</u>](https://edition640.makingandknowing.org/#/entries).
 
-[^2]: I have chosen to compare Ms. Fr. 640 with a seventeenth-century
-English household recipe book. Although this source was compiled later
-and in England, there is good reason to believe that it offers a
-fruitful point for comparison. Historians of medicine generally consider
-the mid-sixteenth to early-eighteenth century as a period when medical
-knowledge and practice remained relatively stable. Characterizing this
-period in both England and France was the importance of domestic
-medicine and the household as a crucial site for medical practice
-(though medical practice was more centralized and hierarchical in France
-during this time, and a wealthy person would have been perhaps more
-likely to seek out a doctor’s advice for certain ailments in France than
-in England). Men and women both had a hand in overseeing this kind of
-domestic medical practice. For a comparison of domestic medicine in
-England and France, see Lisa Smith, “Women’s Health Care in England and
-France (1660-1775),” unpublished doctoral dissertation for the
-Department of History at the University of Essex (October 2001). For
-more on early modern household recipe books, see Elaine Leong, *Recipes
-and Everyday Knowledge: Medicine, Science, and the Household in Early
-Modern England* (Chicago: University of Chicago Press, 2018), Kristine
-Kowalchuk, ed., *Preserving on Paper: Seventeenth-Century Englishwomen’s
-recipe Books,* “Historical Introduction,” (Toronto: University of
-Toronto Press, 2017), and Alisha Rankin, *Panaceia’s Daughters:
-Noblewomen as Healers in Early Modern Germany*, “Introduction: Pharmacy
-for Princesses,” (Chicago: University of Chicago Press, 2013).
+[^2]: I have chosen to compare Ms. Fr. 640 with a seventeenth-century English household recipe book. Although this source was compiled later and in England, there is good reason to believe that it offers a fruitful point for comparison. Historians of medicine generally consider the mid-sixteenth to early-eighteenth century as a period when medical knowledge and practice remained relatively stable. Characterizing this period in both England and France was the importance of domestic medicine and the household as a crucial site for medical practice (though medical practice was more centralized and hierarchical in France during this time, and a wealthy person would have been perhaps more likely to seek out a doctor’s advice for certain ailments in France than in England). Men and women both had a hand in overseeing this kind of domestic medical practice. For a comparison of domestic medicine in England and France, see Lisa Smith, “Women’s Health Care in England and France (1660-1775),” unpublished doctoral dissertation for the Department of History at the University of Essex (October 2001). For more on early modern household recipe books, see Elaine Leong, *Recipes and Everyday Knowledge: Medicine, Science, and the Household in Early Modern England* (Chicago: University of Chicago Press, 2018), Kristine Kowalchuk, ed., *Preserving on Paper: Seventeenth-Century Englishwomen’s recipe Books,* “Historical Introduction,” (Toronto: University of Toronto Press, 2017), and Alisha Rankin, *Panaceia’s Daughters: Noblewomen as Healers in Early Modern Germany*, “Introduction: Pharmacy for Princesses,” (Chicago: University of Chicago Press, 2013).
 
-[^3]: This analysis is based on the 2020 English translation of the
-edition. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
-Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
-Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A
-Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-(New York: Making and Knowing Project, 2020),
-[<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
+[^3]: This analysis is based on the 2020 English translation of the edition. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
 
-[^4]: These categories are not entirely satisfying - it’s not always easy
-to draw the line between bodily discomfort and full-blown disease, as
-symptoms in the early modern period were often considered ailments all
-their own. Nevertheless, I’ve tried to make the distinction based on
-categories familiar to modern readers. See the appendix for the full
-breakdown of recipes and how I categorized them.
+[^4]: These categories are not entirely satisfying - it’s not always easy to draw the line between bodily discomfort and full-blown disease, as symptoms in the early modern period were often considered ailments all their own. Nevertheless, I’ve tried to make the distinction based on categories familiar to modern readers. See the appendix for the full breakdown of recipes and how I categorized them.
 
-[^5]: This analysis is based on the transcription and annotation of the
-Granville book in Kowalchuk, *Preserving on Paper*. When quoting from
-the manuscript, I have chosen to regularize the spelling to align with
-the English translation of Ms. Fr. 640.
+[^5]: This analysis is based on the transcription and annotation of the Granville book in Kowalchuk, *Preserving on Paper*. When quoting from the manuscript, I have chosen to regularize the spelling to align with the English translation of Ms. Fr. 640.
 
 [^6]: Kowalchuk, *Preserving on Paper,* 75.
 
@@ -257,31 +197,6 @@ the English translation of Ms. Fr. 640.
 
 [^9]: Ibid., 103.
 
-[^10]: This categorization does not, of course, necessarily imply
-materials not common in the household - salt and vinegar are both
-included in the chemical/mineral category. But so are alum, lead,
-sulfur, quicklime, and gemstones, all of which appear in the medical
-recipes in Ms. Fr. 640.
+[^10]: This categorization does not, of course, necessarily imply materials not common in the household - salt and vinegar are both included in the chemical/mineral category. But so are alum, lead, sulfur, quicklime, and gemstones, all of which appear in the medical recipes in Ms. Fr. 640.
 
-[^11]: This somewhat contradicts the conclusion Xiaomeng Liu seems to make
-in his companion essay, “Collecting Cures in an Artisanal Manuscript:
-Practical Therapeutics and Disease in Ms. Fr. 640,” where he ends with a
-reflection on the prevailing interest in self-medication in early modern
-France, where “everyone is a physician.” Liu based his analysis on forty
-recipes that he identified as medical in their purpose, excluding the
-Toadstone recipe (13v), “For removing fine hair from the forehead”
-(16v), “Against nosebleed and for dyeing” (38v), the recipe “Against
-wounds” on 55r, both of the mysterious recipes for poison, and all of
-the recipes against mange. This more narrow understanding of what
-constitutes a medical recipe may account for the difference in focus of
-our conclusions, but I see no reason why any of these recipes ought to
-be excluded from this analysis. See Xiaomeng Liu, “Collecting Cures in
-an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr.
-640.” In *Secrets of Craft and Nature in Renaissance France. A Digital
-Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making
-and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena
-Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New
-York: Making and Knowing Project, 2020,
-<https://edition640.makingandknowing.org/#/essays/ann_057_sp_17>. DOI:
-<https://www.doi.org/10.7916/wq5p-p848>.
+[^11]: This somewhat contradicts the conclusion Xiaomeng Liu seems to make in his companion essay, “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640,” where he ends with a reflection on the prevailing interest in self-medication in early modern France, where “everyone is a physician.” Liu based his analysis on forty recipes that he identified as medical in their purpose, excluding the Toadstone recipe (13v), “For removing fine hair from the forehead” (16v), “Against nosebleed and for dyeing” (38v), the recipe “Against wounds” on 55r, both of the mysterious recipes for poison, and all of the recipes against mange. This more narrow understanding of what constitutes a medical recipe may account for the difference in focus of our conclusions, but I see no reason why any of these recipes ought to be excluded from this analysis. See Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020, <https://edition640.makingandknowing.org/#/essays/ann_057_sp_17>. DOI: <https://www.doi.org/10.7916/wq5p-p848>.
