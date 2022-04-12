@@ -136,7 +136,7 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 - Mortar & pestle
 - Hot plate
 - 1 Beaker (at least 600ml)
-- 1 Beaker (at least 1000ml)
+- 1 Beaker (at least 100ml)
 - Pair of chopsticks or other stirring device
 - Thermometer 
 - Funnel
@@ -172,8 +172,7 @@ This recipe is based on the same as recipe 2 above from C. de Massoul, *A Treati
 ### Materials and Equipment (Recipe 3)
 - Mortar & pestle
 - Hot plate
-- 1 Beaker (at least 600ml)
-- 1 Beaker (at least 1000ml)
+- 2 Beakers (at least 600ml)
 - Pair of chopsticks or other stirring device
 - Thermometer 
 - Funnel
