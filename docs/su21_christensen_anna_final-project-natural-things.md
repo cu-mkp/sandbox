@@ -209,7 +209,6 @@ author-practitioner’s observations of life become melded with the art of
 the human hand, by which evidence of both nature and craft are
 displayed.
 
-## Bibliography
 
 [^1]: Pamela H. Smith, “In the Workshop of History: Making, Writing, and Meaning,” *West 86th 19*, no. 1 (2012): 4-31.
 
