@@ -6,7 +6,7 @@ Fall 2021, Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Introduction
 
-A google search of the word “cosmetic” yields many meanings, including
+A Google search of the word “cosmetic” yields many meanings, including
 anything related to beautification, correcting defects, decorating, and
 clearing one’s complexion. We are also immediately reminded of beauty
 models, or the scores of beauty products that line the aisles of
