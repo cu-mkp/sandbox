@@ -523,7 +523,7 @@ Wecker, Johann Jacob, and Nicholas Culpeper. *Arts Master-Piece, or, the Beautif
 
 [^5]: Issa Tapsoba et al., “Finding out Egyptian Gods’ Secret Using Analytical Chemistry: Biomedical Properties of Egyptian Black Makeup Revealed by Amperometry at Single Cells,” *Analytical Chemistry* 82, no. 2 (2009): pp. 457–460, [<u>https://doi.org/10.1021/ac902348g</u>](https://doi.org/10.1021/ac902348g).
 
-[^6]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17). DOI: [^<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848).
+[^6]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17). DOI: [<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848).
 
 [^7]: Ibid.
 
