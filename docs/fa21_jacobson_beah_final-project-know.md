@@ -21,19 +21,19 @@ knowledge-making?
 
 The 170 folios of Ms. Fr. 640 provide an extraordinary record of late
 sixteenth-century techniques, materials, experiments, and artisanal
-processes.[1] The manuscript’s “recipes” span a wide variety of
+processes.[^1] The manuscript’s “recipes” span a wide variety of
 subjects: drawing, casting, painting, dyeing, molding, arms and armor,
 cultivation, preservation, distillation, and much more. Such range makes
 Ms. Fr. 640 a tantalizing repository of craft and artisanal knowledge at
 a moment of substantial change in European knowledge production. Ms. Fr.
 640 serves as a testament to increasing legitimacy of practice,
 experience, and experiment as viable and trustworthy sources of
-knowledge.[2]
+knowledge.[^2]
 
 Though the Making & Knowing Project has paid substantial attention to
 the author-practitioner’s attitudes toward knowledge and knowledge
 production, less attention has been paid to the textual mechanics of
-“knowing” itself.[3] This essay therefore examines the
+“knowing” itself.[^3] This essay therefore examines the
 author-practitioner’s knowledge-making practices through quantitative
 and qualitative assessment of the verb “to know” and its related forms:
 “know,” “knowing,” “knew,” “knowledge,” “known,” and “unknown.” In doing
@@ -91,7 +91,7 @@ casting, painting, and varnish. Though casting takes up the most real
 estate here, it is not actually overrepresented when compared to its
 frequency across the manuscript itself. 34% of recipes in Ms. Fr. 640
 are tagged as casting, and 34.4% of recipes within the *diagnostic know*
-are tagged as casting.[4] Painting (14.3% of Ms. Fr. 640 recipes) and
+are tagged as casting.[^4] Painting (14.3% of Ms. Fr. 640 recipes) and
 varnish (4.8% of Ms. Fr. 640 recipes) are both overrepresented in this
 category, each at 17.24 percent of the *diagnostic know* bucket.
 
@@ -133,7 +133,7 @@ refer back to particular entries?
 As Fig. 2 demonstrates, by far the most common recipe tag for this type
 of “know” is casting. In fact, though casting only makes up 34% of the
 recipes in the manuscript, it describes a whopping 55% of instances (15
-tags out of 27 different recipes).[5] Such overrepresentation suggests a
+tags out of 27 different recipes).[^5] Such overrepresentation suggests a
 higher degree of familiarity or “experience” with casting from the
 author-practitioner, and perhaps a higher expectation of familiarity
 amongst his readers. Varnish, arms and armor, and stones are the next
@@ -252,7 +252,7 @@ him something you did not know, and neither did he.”
 
 Also occurring in da Vinci’s *Codex Atlanticus,* this particular joke
 links humor and entertainment with broader epistemological questions
-around knowability and unknowability.[6]
+around knowability and unknowability.[^6]
 
 ## Know of Recognition
 
@@ -499,24 +499,24 @@ Knowing Project, 2020.
 <https://edition640.makingandknowing.org/#/essays/ann_303_ie_19>. DOI:
 <https://www.doi.org/10.7916/njnq-6q58>.
 
-[1] Making and Knowing Project, *Secrets of Craft and Nature in
+[^1]: Making and Knowing Project, *Secrets of Craft and Nature in
 Renaissance France. A Digital Critical Edition and English Translation
 of BnF Ms. Fr. 640*,
 [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
 
-[2] Keller (2020).
+[^2]: Keller (2020).
 
-[3] See, for instance, Taape (2020) for an excellent breakdown of the
+[^3]: See, for instance, Taape (2020) for an excellent breakdown of the
 manuscript’s terms *experience*, *experimenter*, *essayer*, *esprouver*,
 and *cognoistre.*
 
-[4] Data for recipe tag frequency across the manuscript as a whole are
+[^4]: Data for recipe tag frequency across the manuscript as a whole are
 found in the [<u>M&K
 Sandbox</u>](https://cu-mkp.github.io/sandbox/docs/categories.html).
 
-[5] For frequency and tag distribution throughout the manuscript, see
+[^5]: For frequency and tag distribution throughout the manuscript, see
 “Understanding and Analyzing the Categories of the Entries in BnF Ms.
 Fr. 640” in the [<u>Making and Knowing
 Sandbox</u>](https://cu-mkp.github.io/sandbox/docs/categories.html).
 
-[6] For more on tricks and sleight of hand, see Barwich (2020).
+[^6]: For more on tricks and sleight of hand, see Barwich (2020).

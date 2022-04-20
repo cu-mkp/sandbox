@@ -25,7 +25,7 @@ They often testified to the social networks that undergirded practices
 of recipe exchanges, patronage, and community interactions. In fact,
 Mary Fissell, a historian of medicine, has argued that this might be one
 of the critical explanations for the “wide array of recipes” that can be
-found in a single manuscript collection.[1]With the advent of the
+found in a single manuscript collection.[^1] With the advent of the
 printing world, recipe books became a market of their own, based on the
 success of certain well-known individuals or even compiled by printers
 and published for a dedicated audience. Often, printed compilations of
@@ -41,7 +41,7 @@ vernacular frames of understanding the relationship between nature and
 the human body. Montserrat Cabré argues that it is important to
 investigate “the presence of beauty recipes and the earlier traditions
 they belong to” in order to understand the social and epistemological
-milieu that these recipes were a product of.[2] Rather than approach
+milieu that these recipes were a product of.[^2] Rather than approach
 cosmetic recipes as given facts, or trace their emergence, we must pause
 to reflect on their presence at different moments and in differing
 forms.
@@ -88,9 +88,9 @@ cure for a person afflicted by a skin irritation.
 A closer look at the ingredients might offer us a window into their
 shared medical/therapeutic uses. Famously, puffballs have been
 documented for their styptic function and were widely used in North
-America by indigenous peoples.[3] In Europe as well, puffballs have been
+America by indigenous peoples.[^3] In Europe as well, puffballs have been
 known for their ability to help cauterize wounds and internal
-hemorrhages.[4] Lead compounds, on the other hand, had some of the most
+hemorrhages.[^4] Lead compounds, on the other hand, had some of the most
 diverse uses, most of which would be shocking to today’s readers. From
 being used as a sweetener in wine by the Romans to being employed as a
 glaze in pottery, lead compounds—such as lead carbonate, lead oxide, and
@@ -101,22 +101,22 @@ composed of lead carbonate). The use of lead compounds as beauty
 enhancers was always tied closely to notions of luxury, religion, and
 health. Ancient Egyptians applied lead-based eye makeup with the
 understanding that it offered protections to the eyes and the skin
-around it.[5] In medieval and early modern Europe, iatrochemistry
+around it.[^5] In medieval and early modern Europe, iatrochemistry
 practitioners such as Paracelsus advocated for preparing medicines using
 ingredients known to be toxic, such as mercury, lead, and arsenic.
 Interestingly, new research confirms some of this historical reasoning:
 limited use of and exposure to lead compounds does in fact promote an
 immunological response and can help treat eye and skin related
-illnesses.[6]
+illnesses.[^6]
 
 What does the blurring between toxicity and health tell us about how
 early modern Europeans perceived health and well-being? Historian
 Xiaomeng Liu has argued that recipe books from this period reflect
 “quotidian” ideas of the range of bodily suffering and human efforts to
-overcome, prevent, and better them.[7] These quotidian ideas were
+overcome, prevent, and better them.[^7] These quotidian ideas were
 dominantly governed by the humoral theory. Mary Lindemann tells us that
 in the humoral theory, “health rested in the balance of four
-humors—black bile, yellow (or red bile), blood and phlegm.”[8]
+humors—black bile, yellow (or red bile), blood and phlegm.”[^8]
 Essentially, each of the humors corresponded to qualities and
 temperaments of humans and cures that could potentially heal them. This
 was combined with a belief that the environment could affect and cause a
@@ -135,11 +135,11 @@ achieve bodily well-being. Cennino Cennini’s fourteenth-century Italian
 manuscript provides panel painters with information about the art of
 makeup, speaking to the overlap between the representation of nature and
 the human body, and elements of counterfeit and make-believe that went
-into achieving this semblance.[9] Similar materials (such as egg yolk,
+into achieving this semblance.[^9] Similar materials (such as egg yolk,
 resin, and lead white) were used to paint panels and to mix pigments to
 stain the human face. In her study of Ms. Fr. 640, Cleo Nisse points to
 the author-practitioner’s differential treatment for painting shadows of
-men and women.[10] Women were considered to be cooler and wetter than
+men and women.[^10] Women were considered to be cooler and wetter than
 men and thus phlegmatic and pale in complexion. Accordingly, artists
 were directed to paint a women’s body and face with white lead,
 vermillion, and Parisian red as opposed to using yellow ocher to depict
@@ -147,7 +147,7 @@ men’s faces. Makeup containing lead white (lead carbonate) was
 especially used as part of face masks and powder upon which tints and
 stains were applied. In medieval and early modern Europe, women aspired
 for whitened faces, demonstrating how the prevailing aesthetic
-preoccupation was informed by the humoral theory.[11] Not only does this
+preoccupation was informed by the humoral theory.[^11] Not only does this
 underscore the medical conventions that undergirded representations of
 human flesh and skin, but also explains how the exterior was to reflect
 the internal balance of the humors. Seen in this light, recipes and
@@ -190,10 +190,10 @@ At the outset, both these recipes seem to speak overwhelmingly to
 cosmetic concerns. Although tooth decay was not as highly prevalent due
 to lower sugar content in the diet of early modern Europe, the presence
 of multiple recipes for teeth whitening speaks to anxieties about the
-appearance and well-being of teeth.[12] Liu argues that even in cases
+appearance and well-being of teeth.[^12] Liu argues that even in cases
 where cosmetic use seems to dominate the purpose of the regimen, a
 closer look at the ingredients will help us approach this in a holistic
-sense.[13] Clove oil, for example, was—and still continues to
+sense.[^13] Clove oil, for example, was—and still continues to
 be—commonly prescribed to lessen and soothe toothaches. In one of the
 two recipes from Ms. Fr. 640, clove oil is mentioned alongside a range
 of ingredients used to treat teeth more broadly. Moreover, the two
@@ -206,7 +206,7 @@ to something more. In the mid-sixteenth century manuscript *Cosmetic or,
 The Beautifying Part of Physick* compiled by Mr. Nicholas Culpeper and
 acknowledged to having been “extracted” from the works of Johannes Jacob
 Wecker, a Swiss physician, we come across a range of recipes for “waters
-that whiten the teeth:”[14]
+that whiten the teeth:”[^14]
 
 > Take of salt Arabick, salt Gem, each half a pound, sugar'd Allom three
 > ounces, powder and distil them, and rub the teeth with a scarlet cloth
@@ -240,15 +240,15 @@ range of remedial substances alongside tooth extraction. The ingredients
 they used had less to do with the teeth per se and more to do with a
 practical knowledge informed by how “oils for cold humors” could protect
 the teeth and gum (which by virtue of being close to another, could be
-treated similarly).[15]In Alessio Piemontese’s *Secreti*, a
+treated similarly).[^15] In Alessio Piemontese’s *Secreti*, a
 sixteenth-century manuscript penned in early modern Italy, we encounter
 several examples of recipes that combine efforts to “cleane the teeth,”
-“make them fast and white,” and conserve the gums.[16] In one telling
+“make them fast and white,” and conserve the gums.[^16] In one telling
 example of how the humoral theory was enacted, the author of *Secreti*
 directs the reader to follow three important lessons to ensure the teeth
 are white and uncorrupted: to wash one’s mouth after eating one’s meals,
 to not sleep with one’s mouth closed and to “purge well the breaste and
-throte, spitting out all that is gathered together that nighte.”[17]
+throte, spitting out all that is gathered together that nighte.”[^17]
 According to the author, following these lessons is also particularly
 good for the well-being of the stomach and the head, an allusion to how
 the seemingly separate body parts were seen to be interconnected by
@@ -567,47 +567,47 @@ Beautifying Part of Physick.* London: Printed for Nath. Brook at the
 Angel in Cornhil, 1660.
 [<u>http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226</u>](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226).
 
-[1] Mary E. Fissell, “Introduction: Women, Health, and Healing in Early
+[^1] Mary E. Fissell, “Introduction: Women, Health, and Healing in Early
 Modern Europe,” *Bulletin of the History of Medicine* 82, no. 1 (2008):
 [<u>https://doi.org/10.1353/bhm.2008.0024</u>](https://doi.org/10.1353/bhm.2008.0024),
 9.
 
-[2] Montserrat Cabré, “Keeping Beauty Secrets in Early Modern Iberia,”
+[^2] Montserrat Cabré, “Keeping Beauty Secrets in Early Modern Iberia,”
 in *Secrets and Knowledge in Medicine and Science, 1500-1800*, ed.
 Elaine Leong and Alisha Rankin (Burlington: Ashgate, 2016): 179–202.
 [<u>https://doi.org/10.4324/9781315608006-16</u>](https://doi.org/10.4324/9781315608006-16).
 
-[3] Paul Stamets and Heather Zwickey, “Medicinal Mushrooms: Ancient
+[^3] Paul Stamets and Heather Zwickey, “Medicinal Mushrooms: Ancient
 Remedies Meet Modern Science,” *Integrative medicine* (Encinitas,
 Calif.) vol. 13, no. 1 (2014): 46–7. PMC4684114.
 
-[4] Ibid.
+[^4] Ibid.
 
-[5] Issa Tapsoba et al., “Finding out Egyptian Gods’ Secret Using
+[^5] Issa Tapsoba et al., “Finding out Egyptian Gods’ Secret Using
 Analytical Chemistry: Biomedical Properties of Egyptian Black Makeup
 Revealed by Amperometry at Single Cells,” *Analytical Chemistry* 82, no.
 2 (2009): pp. 457–460,
 [<u>https://doi.org/10.1021/ac902348g</u>](https://doi.org/10.1021/ac902348g).
 
-[6] Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
+[^6] Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
 Practical Therapeutics and Disease in Ms. Fr. 640,” in *Secrets of Craft
 and Nature in Renaissance France. A Digital Critical Edition and English
 Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al.
 (New York: Making and Knowing Project, 2020),
 [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17).
 DOI:
-[<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848).
+[^<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848).
 
-[7] Ibid.
+[^7] Ibid.
 
-[8] Mary Lindemann, *Medicine and Society in Early Modern Europe*
+[^8] Mary Lindemann, *Medicine and Society in Early Modern Europe*
 (Cambridge: Cambridge University Press, 2013).
 
-[9] Marjolijn Bol, “Medieval Makeup 'Artists'. Painting Wood and Skin,”
+[^9] Marjolijn Bol, “Medieval Makeup 'Artists'. Painting Wood and Skin,”
 The Recipes Project, February 18, 2014,
 [<u>https://recipes.hypotheses.org/3344</u>](https://recipes.hypotheses.org/3344).
 
-[10] Cleo Nisse, “Shadows Beneath the Skin: How to Paint Faces in
+[^10] Cleo Nisse, “Shadows Beneath the Skin: How to Paint Faces in
 Distemper,” in *Secrets of Craft and Nature in Renaissance France. A
 Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
 ed. Making and Knowing Project, et al. (New York: Making and Knowing
@@ -616,24 +616,15 @@ Project, 2020),
 DOI:
 [<u>https://www.doi.org/10.7916/a6bs-0765</u>](https://www.doi.org/10.7916/a6bs-0765).
 
-Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript: Practical
-Therapeutics and Disease in Ms. Fr. 640,” in *Secrets of Craft and
-Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al.
-(New York: Making and Knowing Project, 2020),
-[<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17).
-DOI:
-[<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848)
-
-[11] Kimberly Poitevin, “Inventing Whiteness: Cosmetics, Race, and Women
+[^11] Kimberly Poitevin, “Inventing Whiteness: Cosmetics, Race, and Women
 in Early Modern England,” *Journal for Early Modern Cultural Studies*
 11, no. 1 (2011): pp. 59-89,
 [<u>https://doi.org/10.1353/jem.2011.0009</u>](https://doi.org/10.1353/jem.2011.0009).
 
-[12] Mary Lindemann, *Medicine and Society in Early Modern Europe*
+[^12] Mary Lindemann, *Medicine and Society in Early Modern Europe*
 (Cambridge: Cambridge University Press, 2013).
 
-[13] Xiaomeng Liu, “Acid as Dental Cleanser and Tooth-Whitening
+[^13] Xiaomeng Liu, “Acid as Dental Cleanser and Tooth-Whitening
 Practices,” in *Secrets of Craft and Nature in Renaissance France. A
 Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
 ed. Making and Knowing Project, et al. (New York: Making and Knowing
@@ -642,18 +633,18 @@ Project, 2020),
 DOI:
 [<u>https://www.doi.org/10.7916/6ccz-7c74</u>](https://www.doi.org/10.7916/6ccz-7c74).
 
-[14] Johann Jacob Wecker and Nicholas Culpeper, *Arts Master-Piece, or,
+[^14] Johann Jacob Wecker and Nicholas Culpeper, *Arts Master-Piece, or,
 the Beautifying Part of Physick* (London: Printed for Nath. Brook at the
 Angel in Cornhil, 1660).
 [<u>http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226</u>](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226).
 
-[15] David Gentilcore, in *Medical Charlatanism in Early Modern Italy*
+[^15] David Gentilcore, in *Medical Charlatanism in Early Modern Italy*
 (Oxford: Oxford Univ. Press, 2006), pp. 190-191.
 
-[16] Alexis Piemontese, *The secretes of the reverende Maister Alexis of
+[^16] Alexis Piemontese, *The secretes of the reverende Maister Alexis of
 Piemount: containing excellent remedies agaynste divers diseases,
 woundes, and other accidents, with the manner to make distillations,
 parfumes, confitures, dyings, colors, fusions, and meltings*, trans.
 William Warde (London, 1568).
 
-[17] Ibid.
+[^17] Ibid.
