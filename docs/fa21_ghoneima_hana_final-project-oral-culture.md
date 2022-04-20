@@ -6,21 +6,21 @@ Making and Knowing Project, Fall 2021
 
 BnF Ms. Fr. 640 stands at the intersection of a pivotal moment in
 history, in which craftspeople who were previously illiterate began
-recording their procedures and trade in writing.[1] Within this context,
+recording their procedures and trade in writing.[^1] Within this context,
 Ms. Fr. 640 is an illuminating document not only for its content on
 craft techniques, but for the historical milestones and trends it
 embodies. One of those is oral culture, and its intersection with the
 written one. Oral culture is defined as a form of communication in which
 knowledge is transmitted orally from one person to another. According to
 the historian Jan Vansina, within oral culture "there must be
-transmission by word of mouth over at least a generation."[2]
+transmission by word of mouth over at least a generation."[^2]
 Importantly, oral culture can be interpreted as “Any situation in which
 people speak generates messages, some of which may be repeated and hence
 start a process of transmission,” and it includes both the process of
-oral transmission itself as well as its products.[3] Similarly, oral
+oral transmission itself as well as its products.[^3] Similarly, oral
 culture can also be thought of as “a reconstruction of the past from
 oral sources…which will throw light on the particular aspect of social
-life under study.”[4] As such, oral culture is understood as the shared
+life under study.”[^4] As such, oral culture is understood as the shared
 transmission of vernacular experience, and is an important tool for the
 study of historical eras in which masses were largely illiterate and
 access to written work limited.
@@ -33,7 +33,7 @@ the two sheds light on topics such as authenticity and representation.
 According to Susan Stewart, “when oral forms are transformed into
 ‘evidence’ and ‘artefacts,’ they acquire all the characteristics of
 fragmentation, symbolic meaning, and literariness that are most valued
-by the literary culture.”[5] In this light, studying the written
+by the literary culture.”[^5] In this light, studying the written
 material of BnF Ms. Fr. 640 is an important tool for understanding the
 oral transmission of craft knowledge and production techniques passed
 over generations.
@@ -107,7 +107,7 @@ oral transmission (‘*yes’*) versus those which do not (‘*no’*).
 To investigate the presence of oral culture through a different lens, I
 went through the profession (“pro”) and place (“pl”) tags within Ms. Fr.
 640. These editorial tags are encoded within the digital manuscript to
-describe certain words, phrases, and features of the text.[6] The “pro”
+describe certain words, phrases, and features of the text.[^6] The “pro”
 tag denotes instances where the author-practitioner references another
 recognized trade, such as a painter, while the “pl” tag highlights
 specific places that are mentioned in the text, such as France. In my
@@ -170,7 +170,7 @@ where he is less explicit about hearing the information include a
 citation or reference to another text or written work, making it likely
 that he is transcribing knowledge that he acquired not from another text
 but rather through the transmission of knowledge via oral methods or
-experience.[7]
+experience.[^7]
 
 Within the tags that were categorized as ‘yes’ for indicating a specific
 reference to how something is done in another place or profession, I
@@ -212,11 +212,11 @@ Oral culture was heavily propagated by women and lower-class members of
 society. In fact, at the time of the manuscript, books and other written
 documents were still largely connected to the upper and elite classes.
 As such, women and peasants, many of whom were illiterate, relied on
-transmission of knowledge through vernacular modes.[8] At the same time,
+transmission of knowledge through vernacular modes.[^8] At the same time,
 these groups of people were also highly involved in the handiwork of the
 time. For example, fields were predominantly worked by the lower
 classes, and French peasants were hired by merchants to process
-harvested grains for importation to urban artisans.[9] As such, it is
+harvested grains for importation to urban artisans.[^9] As such, it is
 likely that peasants held wide-ranging knowledge about various skills
 and practices, many of which would have been transferred through
 experience and word of mouth. Yet, in Ms. Fr. 640, there are only two
@@ -230,9 +230,9 @@ he mentions the type of bowls which peasants eat their soup from.
 Similarly, women were highly involved in many of the practices described
 in Ms. Fr. 640, including gardening and food storage and preparation,
 meaning they were also very knowledgeable in the cultivation and uses of
-a variety of plants.[10] Women were also commonly responsible for the
+a variety of plants.[^10] Women were also commonly responsible for the
 creation of medicine, and many of these recipes were collected by the
-women and traded via networks of oral transmission.[11] Yet, despite
+women and traded via networks of oral transmission.[^11] Yet, despite
 this, women have very little presence within Ms. Fr. 640, and none of
 the medicinal recipes included are linked to women. In fact, of the
 seven mentions of women in the manuscript, only brief references are
@@ -260,9 +260,9 @@ describes. For example, many of the medicinal recipes he recounts
 include a place of origin. Given that it’s highly unlikely that the
 author-practitioner visited those places, it is probable that he
 acquired this information orally from others, such as artisans or
-travelers.[12] Sometimes, he is more explicit about how he came about
+travelers.[^12] Sometimes, he is more explicit about how he came about
 his knowledge, and he often states that he learned of a technique or
-recipe from a place or a specific profession.[13] For example, when
+recipe from a place or a specific profession.[^13] For example, when
 describing a salve for burns in fol.
 [<u>103r</u>](https://edition640.makingandknowing.org/#/folios/102v/f/103r/tl),
 he details that “A gunpowder maker who had almost completely burnt
@@ -670,48 +670,48 @@ Vansina, Jan. *Oral Tradition as History*. Madison: University of Wisconsin Pres
 | \<ab>In \<pl>Spain\</pl>, one lays them bare at the roots \<ms>\<tmp>during                                                                                              | 162v      | Spain                  | Spain        |
 | others from \<pl>Tyana\</pl> learned by their travels the disciplines of which they called themselves \<pro>inventors\</pro>                                             | 166r      | tyana                  | Turkey       |
 
-[1] “BnF Ms. Fr. 640 – Making and Knowing Project,” Accessed December
+[^1]: “BnF Ms. Fr. 640 – Making and Knowing Project,” Accessed December
 20, 2021,
 [<u>https://www.makingandknowing.org/bnf-ms-fr-640/</u>](https://www.makingandknowing.org/bnf-ms-fr-640/).
 
-[2] Jan Vansina, *Oral Tradition as History* (Madison: University of
+[^2]: Jan Vansina, *Oral Tradition as History* (Madison: University of
 Wisconsin Press, 1985), 3.
 
-[3] Vansina, *Oral Tradition as History*, 3.
+[^3]: Vansina, *Oral Tradition as History*, 3.
 
-[4] U Kalpagam, “Oral History: Reconstructing Women’s Role.” *Economic
+[^4]: U Kalpagam, “Oral History: Reconstructing Women’s Role.” *Economic
 and Political Weekly* 21, no. 38/39 (1986): 1683.
 
-[5] Pertti Anttonen, Cecilia af Forselles, and Kirsti Salmi-Niklander,
+[^5]: Pertti Anttonen, Cecilia af Forselles, and Kirsti Salmi-Niklander,
 eds. *Oral Tradition and Book Culture*. Studia Fennica, Folkloristica
 24. (Helsinki: Finnish Literature Society), 2018), 7-8.
 
-[6] Celine Camps and Margot Lyautey, “Ma\<r>king and Knowing: Encoding
+[^6]: Celine Camps and Margot Lyautey, “Ma\<r>king and Knowing: Encoding
 BnF Ms. Fr. 640,” 2020,
 [<u>https://doi.org/10.7916/CJHD-WH90</u>](https://doi.org/10.7916/CJHD-WH90).
 
-[7] Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
+[^7]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
 Practical Therapeutics and Disease in Ms. Fr. 640,” 2020,
 [<u>https://doi.org/10.7916/WQ5P-P848</u>](https://doi.org/10.7916/WQ5P-P848).
 
-[8] Aaron J Gurevich and Ann Shukman. “Oral and Written Culture of the
+[^8] Aaron J Gurevich and Ann Shukman. “Oral and Written Culture of the
 Middle Ages: Two ‘Peasant Visions’ of the Late Twelfth-Early Thirteenth
 Centuries.” *New Literary History* 16, no. 1 (1984): 51–66.
 [<u>https://doi.org/10.2307/468775</u>](https://doi.org/10.2307/468775).
 
-[9] William Beik, *A Social and Cultural History of Early Modern France*
+[^9]: William Beik, *A Social and Cultural History of Early Modern France*
 (Cambridge: Cambridge University Press, 2009), 21.
 
-[10] “The Food of Shakespeare’s World,” Folger Shakespeare Library, last
+[^10]: “The Food of Shakespeare’s World,” Folger Shakespeare Library, last
 modified July 26, 2016.
 [<u>https://www.folger.edu/shakespeare-unlimited/food-wendy-wall</u>](https://www.folger.edu/shakespeare-unlimited/food-wendy-wall).
 
-[11] Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
+[^11]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
 Practical Therapeutics and Disease in Ms. Fr. 640,” 2020,
 [<u>https://doi.org/10.7916/WQ5P-P848</u>](https://doi.org/10.7916/WQ5P-P848).
 
-[12] Joslyn DeVinney, “Smoke as Medicine,” 2016,
+[^12]: Joslyn DeVinney, “Smoke as Medicine,” 2016,
 [<u>https://www.doi.org/10.7916/kfja-0v86</u>](https://www.doi.org/10.7916/kfja-0v86).
 
-[13] Sofia Gans, “Circulation of Knowledge in Europe,” 2015,
+[^13]: Sofia Gans, “Circulation of Knowledge in Europe,” 2015,
 [<u>https://doi.org/10.7916/6ZZW-S813</u>](https://doi.org/10.7916/6ZZW-S813).

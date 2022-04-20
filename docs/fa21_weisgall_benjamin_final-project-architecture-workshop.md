@@ -20,7 +20,7 @@ will follow the author-practitioner and his interlocutors into an
 intensive study of early modern molding and casting. This unit adopts
 the M&K Project’s dual pedagogical approach of conceptual articulation
 alongside material fabrication, with the ultimate goal of developing
-research skills in the history of techniques.[1] Student-participants
+research skills in the history of techniques.[^1] Student-participants
 will not only learn how to work through actual historical “recipes” for
 [<u>patternmaking</u>](https://edition640.makingandknowing.org/#/folios/139v/f/139v/tl)
 and
@@ -48,7 +48,7 @@ Casting recipes even refer to a category of models known as
 conception and the final product. Intermediary objects afford the
 fabricator the opportunity to adjust,
 [<u>repair</u>](https://doi.org/10.7916/8je7-1124), and critique the
-design prior to beginning work on its final form.[2] Intermediates are
+design prior to beginning work on its final form.[^2] Intermediates are
 positive models that are made to imitate the final product, much like
 the final product is often meant to
 [<u>imitate</u>](https://edition640.makingandknowing.org/#/folios/141r/f/141r/tl)
@@ -57,38 +57,38 @@ the thing they are imitating. That said, the contemporary discourse on
 art making, including Ms. Fr. 640, suggested that imitation could be
 anticipatory and not just reactive. For instance, the argument was made
 that finely made art objects, aside from looking like the real thing,
-could actually reveal the “nature” of that thing.[3] In the late
+could actually reveal the “nature” of that thing.[^3] In the late
 sixteenth and seventeenth centuries, this kind of hands-on
 knowledge-making, which had hitherto been largely ignored by an
 Aristotelian tradition that held artistic production in low regard,
-blossomed.[4] The contention of this unit is that the imitation
+blossomed.[^4] The contention of this unit is that the imitation
 performed by intermediary objects vis-à-vis final products entails an
 analogous kind of knowledge-making. If art can capture the “essence” of
 natural objects, then intermediates can be understood to convey the
-“technical essence” of art objects.[5] Whereas something’s essence has
+“technical essence” of art objects.[^5] Whereas something’s essence has
 to do with “what it is,” its technical essence pertains instead to “how
 it is.” In the case of art objects, technical definitions are concerned
 primarily with the ways in which things are made. This focus on
 technique reflects the M&K Project’s emphasis on “process over product.”
 However, intermediates are themselves objects — durable, recognizable
-and thing-like.[6] Therefore, they call into question any description of
+and thing-like.[^6] Therefore, they call into question any description of
 technical essence that maintains a hard distinction between processes as
 actions and products as things. In short, intermediates are objects
 coming into being.
 
 The primary difference between an intermediate and its corresponding
-final product is material composition.[7] In the sixteenth-century
+final product is material composition.[^7] In the sixteenth-century
 workshop, intermediate models were often made of clay or wax, which
 allow for extended or infinite working time but are vulnerable to decay.
 This type of model was almost always destroyed or lost in the course of
 producing the final cast, meaning the final form could only be produced
 once. However, if more than one copy or more than one version of a model
-was desired, the premiere material was plaster.[8] Although it is
+was desired, the premiere material was plaster.[^8] Although it is
 usually associated with the rise of archaeological science and public
 museums, casting with plaster was an ancient technique for reproducing
-artifacts and working iteratively.[9] During the sixteenth century,
+artifacts and working iteratively.[^9] During the sixteenth century,
 molding with plaster became another crucial technique for reproducing
-objects through a process known as indirect casting.[10] Initially
+objects through a process known as indirect casting.[^10] Initially
 developed as a means of making multiples in bronze, this method of
 making multipart plaster molds without destroying the original object
 laid the foundation for the explosion during the eighteenth and
@@ -97,7 +97,7 @@ secondary focus of this unit is on plaster as a paradigmatic
 intermediary material. Compared to wax or clay, plaster can more easily
 be made to imitate other materials. Not only could plaster be painted to
 look like stone or even bronze, but unfinished plaster was often
-construed as a stand-in for white marble.[11]
+construed as a stand-in for white marble.[^11]
 
 The first half of the syllabus is a fast-paced introduction to early
 modern casting through relevant entries in Ms. Fr. 640 and research
@@ -127,7 +127,7 @@ present, to be a field of possibility.
 
 Week 1 / Intermediary objects and historical study
 
--   Mark Jarzombek, [<u>“Prolegomena to Critical Historiography,”</u>](https://www.jstor.org/stable/1425409) *Journal of Architectural Education* 52, no. 4 (1999): 197-206.[12]
+-   Mark Jarzombek, [<u>“Prolegomena to Critical Historiography,”</u>](https://www.jstor.org/stable/1425409) *Journal of Architectural Education* 52, no. 4 (1999): 197-206.[^12]
 
 -   Michael Cole, [<u>“Cellini’s Blood,”</u>](https://doi.org/10.2307/3050690) *The Art Bulletin* 81, no. 2 (1999): 215-235.
 
@@ -185,7 +185,7 @@ Week 6 / Between reproduction and innovation
 
 -   Assignment: technical writing, or, the genre of how-to
 
-[1] For a statement about the pedagogical possibilities that exist
+[^1]: For a statement about the pedagogical possibilities that exist
 alongside this type of historical research, see Pamela H. Smith, “Making
 the Edition of Ms. Fr. 640.” In *Secrets of Craft and Nature in
 Renaissance France. A Digital Critical Edition and English Translation
@@ -207,7 +207,7 @@ d’histoire économique et sociale* 6 (1934): 606-630. One must include
 the work of paleo-anthropologist André Leroi-Gourhan in this
 bibliography, for instance his *Milieu et Techniques* (1945).
 
-[2] Without making too rigid of a distinction, it would be useful here
+[^2]: Without making too rigid of a distinction, it would be useful here
 to distinguish between an intermediate object and an unfinished, or *non
 finito*, artwork. Whereas the latter simply needs more work or at least
 is made to look like it needs more work, an intermediary object, such as
@@ -217,7 +217,7 @@ Unfinished.” In *Unfinished: Thoughts Left Visible*, edited by Kelly
 Baum, Andrea Bayer, and Sheena Wagstaff. New York: The Metropolitan
 Museum of Art, 2016.
 
-[3] For an analysis of this perspective in the recipe for “counterfeit
+[^3]: For an analysis of this perspective in the recipe for “counterfeit
 jasper” in Ms. Fr. 640, see Isabella Lores-Chavez, “Imitating Raw
 Nature.” In *Secrets of Craft and Nature in Renaissance France. A
 Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
@@ -233,24 +233,24 @@ The Material Culture of Empirical Knowledge*, edited by Pamela H. Smith,
 Amy R. W. Meyers, and Harold J. Cook. Ann Arbor: University of Michigan
 Press, 2014.
 
-[4] See Pamela H. Smith, *The Body of the Artisan: Art and Experience in
+[^4]: See Pamela H. Smith, *The Body of the Artisan: Art and Experience in
 the Scientific Revolution*. Chicago: University of Chicago Press, 2004;
 and Pamela Long, *Artisan Practitioners and the Rise of the New
 Sciences, 1400-1600*. Corvallis: Oregon State University Press, 2011.
 
-[5] On technical essence, or “technicity,” see the work of another
+[^5]: On technical essence, or “technicity,” see the work of another
 French philosopher of techniques, Gilbert Simondon, especially chapter 2
 of his *On the Mode of Existence of Technical Objects*. Translated by
 Cecile Malaspina and John Rogove. University of Minnesota Press, 2017.
 
-[6] Again, without drawing too stark of a contrast, intermediates can be
+[^6]: Again, without drawing too stark of a contrast, intermediates can be
 distinguished from work which might be called [<u>ephemeral
 art</u>](https://www.doi.org/10.7916/vgj0-yh50). This category includes
 objects for theater, banquets, and ceremonies. Unlike intermediary
 objects, ephemeral works, despite their short life, were intended as
 final products.
 
-[7] Another important difference was size, but for the purposes of this
+[^7]: Another important difference was size, but for the purposes of this
 unit, size is an issue that correlates strongly with material via the
 question of weight. For the most important contemporary discourse on the
 relation between size and material, which in fact takes as its starting
@@ -258,7 +258,7 @@ point the question of a model’s relation to nature, see the First Day of
 Galileo Galilei, *Dialogues Concerning Two New Sciences*. Translated by
 Alfonso de Salvio and Henry Crew. New York: Dover Publications, 1914.
 
-[8] There were at least two broad categories of plaster in the
+[^8]: There were at least two broad categories of plaster in the
 Renaissance: *gesso*, or plaster made of gypsum and used primarily by
 painters; and *calcina*, or plaster made of lime and used by sculptors
 and builders. This latter category is sometimes referred to as *stucco*
@@ -266,7 +266,7 @@ but inconsistently so. Although material distinctions are certainly an
 important issue for this unit, this short essay uses the English term
 plaster rather indiscriminately.
 
-[9] On early modern plaster casting as a practice that grew out of
+[^9]: On early modern plaster casting as a practice that grew out of
 medieval traditions and was adapted by the new humanistic concerns of
 the Renaissance, see Eckart Marchand’s chapter on “Plaster and Plaster
 Casts in Renaissance Italy,” in *Plaster casts: making, collecting, and
@@ -280,13 +280,13 @@ before photography. For an example of this, see the [<u>cast courts at
 the V&A
 Museum</u>](https://collections.vam.ac.uk/search/?id_gallery=THES49798).
 
-[10] Unlike lost wax casting, an indirect casting method preserves the
+[^10]: Unlike lost wax casting, an indirect casting method preserves the
 original model by breaking the mold into pieces which can be removed
 from the pattern without destroying it. For an example of a plaster mold
 being made for a plaster cast, see the [<u>how-to video on plaster
 casting</u>](https://youtu.be/PHgEcPmCPUA) from the V&A Museum.
 
-[11] For a succinct discussion of intermediary materials, see Eckert
+[^11]: For a succinct discussion of intermediary materials, see Eckert
 Marchand, “Material distinctions: Plaster, Terracotta, and Wax in the
 Renaissance Artist’s Workshop,” in *The Matter of Art: Materials,
 Practices, Cultural Logics, c. 1250-1750*, ed. Christy Anderson, Anne
@@ -304,7 +304,7 @@ describe complex geometry. For a collection of photographs of these
 models, see Gerd Fischer, *Mathematical Models: from the collections of
 Universities and Museums* (Wiesbaden: Springer, 2017).
 
-[12] This essay discusses the history of historical studies within
+[^12]: This essay discusses the history of historical studies within
 schools of architecture and argues that a critical mode of
 historiography is needed alongside the productions of art, architecture,
 and history. He adds that “it is possible to envision an art or

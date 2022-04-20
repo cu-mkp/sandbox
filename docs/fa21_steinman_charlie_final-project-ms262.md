@@ -46,9 +46,9 @@ written in several different hands, so it is likely the different
 sections were produced at different times. Finally, I tried to track
 down the origin of the seventeenth-century date. The catalog cites the
 section of the *Verzeichnis der orientalischen Handschriften in
-Deutschland* dedicated to Hebrew manuscripts, published in 1982.[1] The
+Deutschland* dedicated to Hebrew manuscripts, published in 1982.[^1] The
 entry for the Frankfurt manuscript cites Rafael Rabbinowicz’s 1888
-Hebrew manuscript catalog,[2] and indicates that there is no evidence
+Hebrew manuscript catalog,[^2] and indicates that there is no evidence
 for the 1626 date that Rabbinowicz provides. As such, both I and
 Michelle Chesner believe that Zucker’s fifteenth-century dating is more
 reliable.
@@ -186,8 +186,8 @@ for its rough state. Please see the [<u>github
 repository</u>](https://github.com/cu-mkp/ms-262-data) for my project to
 look at the markup.
 
-[1] Ernst Róth and Leo Prijs, *Hebräische Handschriften*, (Stuttgart:
+[^1]: Ernst Róth and Leo Prijs, *Hebräische Handschriften*, (Stuttgart:
 Steiner, 1982) 1A:185-187.
 
-[2] Raphael Nata Rabbinowicz, *Ohel Avraham: Reshimat Ha-Sefarim Asher
+[^2]: Raphael Nata Rabbinowicz, *Ohel Avraham: Reshimat Ha-Sefarim Asher
 Asaf ve-Kibez* (Munich: E. Hover, 1888), 6.
