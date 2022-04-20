@@ -1,4 +1,4 @@
-# Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe
+# Regimens, Recipes, and Remedies: Understanding the “Cosmetic” in Early Modern Europe
 
 Danli Lin and Anusha Sundar
 
