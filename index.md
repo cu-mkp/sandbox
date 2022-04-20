@@ -62,6 +62,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Oral Culture in Ms. Fr. 640](docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
 - [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project-reds.md) by Allie Coutavas
 - [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](docs/fa21_jacobson_beah_final-project-know.md) by Beah Jacobson
+- [Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe](docs/fa21_lin+sundar_danli+anusha_final-project_regimens-remedies.md) by Danli Lin and Anusha Sundar
 - [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](docs/fa21_weisgall_benjamin_final-project-architecture-workshop.md) by Benjamin Weisgall
 - [The Natural History of Ms. Fr. 640: A Visual Exploration](docs/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
 - [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”](docs/fa21_alberts_naomi_final-project_ph-lesson.md) by Naomi Alberts
