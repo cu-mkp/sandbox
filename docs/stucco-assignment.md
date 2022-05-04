@@ -80,7 +80,7 @@ The reconstruction of this recipe has been adapted for two variations: stucco fr
 ![stucco-molded](../images/stucco-molded.jpg?raw=true)
 
 ## Further reading:
-- Elizondo-Garza, Nina. "Stucco for Molding." In Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org/#/essays/ann_064_fa_17](https://edition640.makingandknowing.org/#/essays/ann_064_fa_17). DOI: [https://www.doi.org/10.7916/1n6h-5f69](https://www.doi.org/10.7916/1n6h-5f69).
+- Elizondo-Garza, Nina. "Stucco for Molding." In _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org/#/essays/ann_064_fa_17](https://edition640.makingandknowing.org/#/essays/ann_064_fa_17). DOI: [https://www.doi.org/10.7916/1n6h-5f69](https://www.doi.org/10.7916/1n6h-5f69).
 
 __________________________________________________________________________________________________________________________________
 
