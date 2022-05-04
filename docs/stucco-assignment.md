@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 A downloadable version of this assignment: [[PDF](stucco_assignment_downloadable_2021.pdf)]
 
-**NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves.A "student handout" is available:
+**NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves. A "student handout" is available:
 - [webpage (student handout)](stucco_assignment_student-handout.md)
 - [PDF (student handout)](stucco_assignment_student-handout.pdf)
 
