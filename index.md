@@ -79,6 +79,10 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 ### Syllabi
 Course descriptions and syllabi are listed in [Syllabi](docs/syllabi.md).
 
+### Presentations and Reference Materials
+- [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf) - an introduction to the concepts and methods of making pigments and paints, the classification of different types of colorants (organic, mineral, and earth), and historical recipe examples (2022-06-14)
+- [Presentation: Cochineal Lake: History, Chemistry, and Preparation](docs/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) - an overview of historical natural colorants and dyes, details about common red colorants, a deep-dive into the history of cochineal insects as a dye and pigment source, the preparation of "lake" pigments, and explanation of the chemistry of these natural colorants (2022-06-14)
+
 ### Activity Sheets, Assignments, and Reconstruction Protocols
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
 - [Activity Sheet: Breadmolding Reconstruction](docs/breadmolding-assignment.md) - assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
