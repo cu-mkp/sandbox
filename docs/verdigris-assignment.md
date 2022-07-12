@@ -47,7 +47,7 @@ For more information about verdigris, please also see these scientific articles:
 | --- | --- |
 | ½ pint glass mason jar &amp; metal lid | This can always be scaled up or down. There are two important elements: 1) a jar large enough to accommodate suspending the copper above the vinegar without being submerged in it, and 2) a tight-fitting lid and a container that can withstand the corrosive vapors of the vinegar and eventually the copper acetate crystals. |
 | Copper sheet, about 2&quot;X2&quot; ([Blick 60503 -8110 - Maid-o&#39;-Metal, St Louis Crafts Inc](https://www.dickblick.com/items/60503-8110/)) | Any small piece of copper metal can be used, such as copper piping from a hardware store (cut to size that will fit inside the jar, about an inch or so in diameter and an inch or two in length). Make sure that whatever you use is 100% and not an alloy or only copper-coated. |
-| ~5&quot; piece of cotton twine | This is what you will use to suspend the copper above the vinegar in the jar. Any piece of twine or string that will fit across the diameter of the jar with some extra length to hang over the sides will work |
+| ~5&quot; piece of cotton twine | This is what you will use to suspend the copper above the vinegar in the jar. Any piece of twine or string that will fit across the diameter of the jar with some extra length to hang over the sides will work. |
 | About 50ml vinegar
 (or urine) | Try experimenting with different types of vinegar and make a note of their acetic acid concentration (most are diluted to 5% - check the label). Apple cider vinegar with the &quot;mother&quot; is likely the most similar to historical vinegar. |
 | **To harvest the verdigris:**<br> nitrile or latex gloves, table covering (such as a sheet of newspaper or paper bag, plastic sheeting), ceramic or glass plate (or other flat surface), palette knife (or other sturdy flat instrument such as a butter knife or metal spoon - just make sure not to use it for anything else after!)|
@@ -61,7 +61,7 @@ Below is a basic recipe designed to be a straightforward version of a historical
 3. Suspend the copper about an inch or more above the vinegar with the string hanging over the top and sides of the jar (you can tape the string in place on the sides of the jar so the copper does not fall into the liquid). Do not allow the copper to touch the vinegar
 4. Screw the jar lid on tightly, making sure that the copper is held above the liquid
 5. Put the jar in a warm spot where it will not be disturbed
-6. Observe your verdigris every few days and keep records and photos in your fieldnotes of what you observe. Take photos.
+6. Observe your verdigris every few days and keep records and photos in your fieldnotes of what you observe. Take photos
 
 _**Make sure to keep the jar closed and do not let the liquid touch the copper.**_
 
@@ -87,12 +87,12 @@ Verdigris is a basic copper acetate, a material which can pose some safety risks
 - P261 avoid breathing dust/fumes;
 - P270 do not eat, drink or smoke when using this product;
 - P273 avoid release to the environment;
-- P280 Wear protective gloves/protective clothing/eye protection/face protection.
+- P280 Wear protective gloves/protective clothing/eye protection/face protection
 
 **Waste management**
 - Do not wash down the sink or throw away in household or regular trash
 - Any items that have come in contact with verdigris or that have any verdigris residue must be disposed of in hazardous waste containers
-- In the Making and Knowing labat Columbia University: verdigris is "hazardous waste" (we follow the recommendations of [Columbia Environmental Health & Safety](https://research.columbia.edu/environmental-health-safety)
+- In the Making and Knowing lab at Columbia University: verdigris is "hazardous waste" (we follow the recommendations of [Columbia Environmental Health & Safety](https://research.columbia.edu/environmental-health-safety))
   - Solid/Liquid, non-oil, hazardous; or
   - Solid/Liquid, oil, hazardous
 
@@ -105,15 +105,15 @@ Ensure the setting you are working in is equipped to prevent harmful ingestion t
 The longer you keep the jar closed, the more verdigris &quot;growth&quot; you will have. After a few weeks, you should have enough to yield a good amount with which to paint.
 
 1. Secure the ends of the string hanging down the sides of the jar. You may wish to tape them in place to ensure the copper will not drop down into the vinegar when you open the jar
-2. Carefully remove the jar lid, making sure that the liquid does not come in contact with the copper pipe.
-3. **Using latex or nitrile gloves** , carefully remove the copper from the jar and place copper into a ziptop plastic bag or other sealable container. Bring the bag/container into the lab.
+2. Carefully remove the jar lid, making sure that the liquid does not come in contact with the copper pipe
+3. **Using latex or nitrile gloves**, carefully remove the copper from the jar and place copper into a ziptop plastic bag or other sealable container. Bring the bag/container into the lab
   1. Do not try to transport the verdigris while still suspended in the vinegar jar - the liquid will splash up and you can easily lose your crystal growth!
 4. Using a stainless steel butter knife or spoon, scrape the crystal growth onto the plate. Using a palette knife, a butter knife, or the back of a stainless steel spoon, scrape the green crystals from the copper. Gently crush the crystals to a fine powder
-  1. **NOTE: Never carry this out in a setting other than a lab or approved studio where safety precautions can be followed to avoid hazard to you or the environment.**
-  2. Be sure to cover the surface you use with old newspaper or paper bags (which you discard immediately after use).
-  3. Do not touch your mouth or eyes while doing this.
-  4. When complete, thoroughly clean all surfaces with which the verdigris came into contact.
-  5. Remember to avoid disposing of verdigris down the drain or into household trash.
+  1. **NOTE: Never carry this out in a setting other than a lab or approved studio where safety precautions can be followed to avoid hazard to you or the environment**
+  2. Be sure to cover the surface you use with old newspaper or paper bags (which you discard immediately after use)
+  3. Do not touch your mouth or eyes while doing this
+  4. When complete, thoroughly clean all surfaces with which the verdigris came into contact
+  5. Remember to avoid disposing of verdigris down the drain or into household trash
 
 Once crystals have been scraped off of the copper, you can return it to your jar-and-vinegar setup to grow further. This can be repeated until the copper is too degraded to hold its shape. 
 
