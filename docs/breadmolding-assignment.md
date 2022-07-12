@@ -44,6 +44,12 @@ _Note: your experience with the Historical Recipe Reconstruction will be useful 
 - Sourdough starter: Best to keep the portion you are saving in the refrigerator between bread baking sessions. Do not use the entire starter for a single loaf of bread, but instead feed and divide it, always saving a cup or so for your next loaf. 
 - Start early with the experiment as it will take you some time to become adept at making bread, and you may need more than one try at the mold making. (You may also eat up some of your baking experiments!)
 - For the molding pattern for your one-sided or two-piece mold, you will need to choose a relatively uncomplicated object, such as a key, flat shell, a large medallion or necklace pendant, as a pattern.
+- To prepare your molds, you will need to choose an object (also known as the "model" or the "pattern") to press into your bread. The manuscript's entries on fol. 140v (Links to an external site.) can be interpreted in many ways, so how you choose to do this is up to you.
+- We recommend that you make more than one mold and it is always interesting to try different models.
+- You can make one-piece, two-piece, or multi-piece molds, depending on the size and shape of your pattern/model (i.e., the object you are pressing into your bread) and the size of your loaf (or your ball of pith, depending on how you interpret the author-practitioner’s instructions). Have a look at how previous cohorts of Making and Knowing students interpreted them by consulting the fieldnotes linked in the Breadmolding Assignment (Links to an external site.) Sheet. Or, just experiment on your own.
+- You should make your molds by the day before you are signed up to do casting in the lab. You should press your model into your bread (if that’s your technique) and take it out fairly soon, otherwise your model can get stuck in the bread. If you have bread and time enough, try different techniques.
+- If you make your molds some days before bringing them to the lab, you should probably keep them wrapped in plastic in the fridge, if possible, so they do not get moldy.
+- Bring your molds (and your model, if transportable) to the lab on the day of casting. Breadmolds can be fragile, so you might want to transport them in a rigid container.
 
 ## Materials and Equipment for Casting into the Molds
 - Beeswax (M&K looks for natural beeswax pellets; in particular, products without any additives or preservatives)
