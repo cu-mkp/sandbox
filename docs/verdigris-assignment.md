@@ -20,7 +20,7 @@ There are a number of recipes for &quot;growing&quot; verdigris across Medieval 
 
 - Cennino Cennini, _The Craftsman&#39;s Handbook, &#39;Il Libro dell&#39;Arte&#39;_, trans. by Daniel Thompson (New York: Dover, 1960).
 - Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations_ (Courier Dover Publications, 2012).
-- _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_, edited by the Making and Knowing Project, et. al. (New York: the Making and Knowing Project, 2020),[https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
+- _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_, edited by the Making and Knowing Project, et. al. (New York: the Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
 
 One particularly illuminating recipe is from the &quot;Bolognese Manuscript&quot; of Jehan le Begue (late 14th or early 15th century) in _Medieval and Renaissance Treatises on the Art of Painting_.
 
