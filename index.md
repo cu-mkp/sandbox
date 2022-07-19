@@ -76,6 +76,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 
 ### Other Projects
 - [Dyeing with Onion Skins](docs/su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
+- [Making Pigment from Madder: a Trio of Recipes](docs/pigment-madder-lake_assignment.md) by Naomi Rosenkranz (2022-07-19) (WIP)
 
 ## Resources
 
