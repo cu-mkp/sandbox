@@ -15,21 +15,21 @@
   - Additionally, I want to try using red onions to see if/how that changes the color
 - I ended up heating the onion and water for 1hr and 20 minutes, but again there was no magic number for how long to heat the onions so I think anything over an hour would work
 
-![overhead shot of a pot full of onion skins and water on the stovetop](https://user-images.githubusercontent.com/109160462/179555679-3c22cbb4-98b3-4273-8672-187d6e8c6f85.jpeg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52218380934/in/album-72177720300558025/" title="20220707_cunningham_onion-skin-dyeing_001"><img src="https://live.staticflickr.com/65535/52218380934_6e635831a4.jpg" width="375" height="500" alt="overhead shot of a pot full of onion skins and water on the stovetop"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 - I also prepared my mordant, alum, just using the information from the sandbox, I used the standard ratios and followed the general mordant and dye process
   - [DYE AND MORDANT RECIPES](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)
   - [Activity Sheet: Mordant Dyeing General Procedure](rosenkranz_2019_dyes_handout_general-mordant-and-dye-processes.pdf)
 
-![Two beakers, each filled to about the 88 ml mark with a translucent reddish liquid](https://user-images.githubusercontent.com/109160462/179557134-65e7b269-e4e0-4132-874e-40d7e3e465a2.jpeg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52218380984/in/album-72177720300558025/" title="20220707_cunningham_onion-skin-dyeing_002"><img src="https://live.staticflickr.com/65535/52218380984_5f157189fa.jpg" width="375" height="500" alt="Two beakers, each filled to about the 88 ml mark with a translucent reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-![Overhead shot of two beakers with water inside them, positioned in a pot that is half full of water. The pot is on a stovetop which has its burner on. The left beaker is labeled "ALUM" ](https://user-images.githubusercontent.com/109160462/179557227-f6e72c61-cda9-46c7-8c95-826c49712971.jpeg)
-
-![Same two beakers, still in pot of water which is now boiling. Beakers are full of water and yarn](https://user-images.githubusercontent.com/109160462/179557242-07ad1b57-22db-4ea8-88ae-e12eb1e7386d.jpeg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52217102902/in/album-72177720300558025/" title="20220707_cunningham_onion-skin-dyeing_003"><img src="https://live.staticflickr.com/65535/52217102902_a82c707fb5.jpg" width="500" height="375" alt="Overhead shot of two beakers with water inside them, positioned in a pot that is half full of water. The pot is on a stovetop which has its burner on. The left beaker is labeled ALUM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52218590150/in/album-72177720300558025/" title="20220707_cunningham_onion-skin-dyeing_004"><img src="https://live.staticflickr.com/65535/52218590150_5f7aedc5ab.jpg" width="500" height="375" alt="Same two beakers, still in pot of water which is now boiling. Beakers are full of water and yarn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 - I only used a mordant for half of my textiles, while the alum definitely gave the textiles (a wool sample and a cotton blend sample) a bunch brighter and vibrant orange/yellow color, the textiles without mordant picked up color well, leaving a pale brown/yellow
 
-![Two bunches of textile are laid out on a paper towel, the higher bunch is a vibrant orange/yellow and the lower is a paler brpwn/yellow](https://user-images.githubusercontent.com/109160462/179556285-c53231f6-1893-411c-8b54-47a799974ba0.jpeg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52218590230/in/album-72177720300558025/" title="20220707_cunningham_onion-skin-dyeing_005"><img src="https://live.staticflickr.com/65535/52218590230_d72a827298.jpg" width="375" height="500" alt="Two bunches of textile are laid out on a paper towel, the higher bunch is a vibrant orange/yellow and the lower is a paler brpwn/yellow"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 - In total I had about 150 mL of the onion skin dye bath, even with a small amount, it dyes the textiles well
 - Overall this was a very successful attempt at dying, there are definitely things I want to keep exploring, but all things considered it worked very well. One thing that's great about the onions is that there is a lot of forgiveness throughout the process. The vague and very different ratios and processes I was reading about were a little confusing at first, but I think ultimately show precision is not a necessary component for this process, which makes it a perfect starting point for people who want to try natural dyes
