@@ -54,19 +54,100 @@ There are three modernized versions of the historical recipes:
 
 -   Coarsely grind madder roots in mortar and pestle
 -   Using a small utensil, add madder to the drawstring bag. Close the bag tightly, but make sure there is enough room in the bag for the madder to move around freely. Use multiple bags if necessary
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032277498/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_005"><img src="https://live.staticflickr.com/65535/52032277498_a4b52441eb.jpg" width="500" height="375" alt="Drawstring bag in beaker labeled Standard 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Add 300ml water and bag of madder to 600ml beaker and leave to soak overnight
     -   NOTE: soaking overnight can be skipped for time constraints, but the amount of colorant extracted will be affected, possibly changing the the final pigment
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032275943/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_009"><img src="https://live.staticflickr.com/65535/52032275943_a0b17c883c.jpg" width="375" height="500" alt="Madder bag soaking in beaker filled halfway with water and labeled Standard 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   After soaking overnight (if doing so), add alum and heat the madder+water+alum to 70°
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032243261/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_010"><img src="https://live.staticflickr.com/65535/52032243261_06a4708c82.jpg" width="375" height="500" alt="Beaker labeled Standard 1 is on the stovetop, still has madder bag inside"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032761105/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_016"><img src="https://live.staticflickr.com/65535/52032761105_94d22c5926.jpg" width="375" height="500" alt="Beaker labeled Standard 1 is on the stovetop, still has madder bag inside, thermometer shows temperature at 73 degrees F"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Keep at this temperature for 30 minutes to extract the dye
 -   Remove the drawstring bag, which can now be discarded
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032495864/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_032"><img src="https://live.staticflickr.com/65535/52032495864_27ec2b85a7.jpg" width="375" height="500" alt="Hand removes bag from Standard 1 beaker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Add 5g alum to the solution and bring to 80°
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031203107/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_034"><img src="https://live.staticflickr.com/65535/52031203107_666f734b5c.jpg" width="375" height="500" alt="Small cup containing white grainy substance is held near Standard 1 beaker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032279678/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_035"><img src="https://live.staticflickr.com/65535/52032279678_029165a43a.jpg" width="375" height="500" alt="Standard 1 beaker on heat, small cup nearby is now empty"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   In the other 600ml beaker, dissolve 1.88g potash in 50ml water over heat
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032278828/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_026"><img src="https://live.staticflickr.com/65535/52032278828_e6d2a08688.jpg" width="375" height="500" alt="Beaker containing potash and water is on scale showing 52.08g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032279828/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_037"><img src="https://live.staticflickr.com/65535/52032279828_61851f89b8.jpg" width="500" height="375" alt="Two beakers on stovetop, left labeled Standard Potash and Water and right labeled Standard 1 and Alum"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Pour the madder+alum solution into the potash solution VERY GRADUALLY and STIRRING CONSTANTLY
     -   Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032246396/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_046"><img src="https://live.staticflickr.com/65535/52032246396_73a031bb97.jpg" width="375" height="500" alt="Reddish liquid in one beaker is poured into another, the contents of which are also reddish"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031204487/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_047"><img src="https://live.staticflickr.com/65535/52031204487_ecab0a5c80.jpg" width="375" height="500" alt="Beaker labeled Standard Potash and Water is full to around 125ml with red liquid and to around 550ml with pink foam"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031200817/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_048"><img src="https://live.staticflickr.com/31337/52031200817_f6eb037be1.jpg" width="375" height="500" alt="Video of a hand using a stick to vigorously stir the contents of the Standard Potash and Water beaker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032280873/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_049"><img src="https://live.staticflickr.com/65535/52032280873_4abae658f3.jpg" width="375" height="500" alt="Overhead shot of Standard Potash and Water beaker, which is full of reddish liquid and pinkish foam"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032763925/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_050"><img src="https://live.staticflickr.com/65535/52032763925_efc7b3ddcf.jpg" width="375" height="500" alt="Standard Potash and Water beaker full to about 325ml with reddish liquid and 500ml with pinkish foam"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032764410/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_054"><img src="https://live.staticflickr.com/65535/52032764410_8eef1c5573.jpg" width="375" height="500" alt="Used pH strip lying next to pH color chart, strip color not discernable"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032247106/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_055"><img src="https://live.staticflickr.com/65535/52032247106_9c20f3e112.jpg" width="500" height="375" alt="Used pH strip lying next to pH color chart and strip color mark, color mark is greenish and labeled 6-7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Allow the solution to settle for at least 15min (ideally overnight)
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032281008/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_051"><img src="https://live.staticflickr.com/65535/52032281008_45e78cd77c.jpg" width="375" height="500" alt="Overhead shot of Standard Potash and Water beaker with much less foam than in last picture"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032246806/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_052"><img src="https://live.staticflickr.com/65535/52032246806_4bea121807.jpg" width="375" height="500" alt="Standard Potash and Water beaker full to about 325ml with reddish liquid with hardly any pinkish foam atop"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Pour solution through filter in a funnel
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032249506/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_081"><img src="https://live.staticflickr.com/65535/52032249506_5a5ceb9e3b.jpg" width="375" height="500" alt="Funnel containing filter is positioned over an empty glass jar labeled Standard Maddar Lake"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032249636/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_083"><img src="https://live.staticflickr.com/65535/52032249636_1613a44bb7.jpg" width="375" height="500" alt="Reddish contents of Standard Potash and Water beaker are poured into the funnel's filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031207957/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_084"><img src="https://live.staticflickr.com/65535/52031207957_13136c6926.jpg" width="500" height="375" alt="Overhead shot of reddish liquid draining in filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032500809/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_085"><img src="https://live.staticflickr.com/65535/52032500809_20650371d8.jpg" width="375" height="500" alt="Reddish liquid drained through filter into Standard Maddar Lake jar"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032285718/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_102"><img src="https://live.staticflickr.com/65535/52032285718_2aea519e7e.jpg" width="375" height="500" alt="Overhead shot of reddish liquid draining in filter, now less full"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032251456/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_101"><img src="https://live.staticflickr.com/65535/52032251456_de376ce4af.jpg" width="375" height="500" alt="Reddish liquid drained through filter into Standard Maddar Lake jar, now more full"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Once the liquid has drained through, wash the pigment: discard the filtrate and place funnel+filter over a clean container. Pour 100ml of clean water through the filter. Repeat until the filtrate is clear
 -   Allow the pigment to dry on the filter (at least overnight), then scrape off and use
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031210277/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_002"><img src="https://live.staticflickr.com/65535/52031210277_8987a28251.jpg" width="375" height="500" alt="Reddish liquid drained through filter into Standard Maddar Lake jar, now much more full"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032252381/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_003"><img src="https://live.staticflickr.com/65535/52032252381_123aaf8220.jpg" width="375" height="500" alt="Overhead shot of dried and cracked pigment on filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032504304/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_019"><img src="https://live.staticflickr.com/65535/52032504304_6b3823b902.jpg" width="375" height="500" alt="Overhead shot of hand holding WASH 1 sign next to wet pigment in wet filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032504419/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_020"><img src="https://live.staticflickr.com/65535/52032504419_e08a282e87.jpg" width="375" height="500" alt="Hand holds WASH 1 sign next to glass jar filled with clear water, atop which are the funnel and the filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032771395/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_028"><img src="https://live.staticflickr.com/65535/52032771395_2f3bfd77db.jpg" width="375" height="500" alt="Overhead shot of hand holding WASH 2 sign next to wet pigment in wet filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032288963/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_029"><img src="https://live.staticflickr.com/65535/52032288963_472cc153fc.jpg" width="375" height="500" alt="Hand holds WASH 2 sign next to glass jar filled with clear water, atop which are the funnel and the filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032255841/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_012"><img src="https://live.staticflickr.com/65535/52032255841_efa16dfabc.jpg" width="375" height="500" alt="Filter is inside plastic bag labeled Standard Maddar Lake"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032492489/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_013"><img src="https://live.staticflickr.com/65535/52032492489_20ec557a74.jpg" width="500" height="375" alt="Dry filter containing reddish pigment"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032290343/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_014"><img src="https://live.staticflickr.com/65535/52032290343_fa21f290b9.jpg" width="500" height="375" alt="Zoomed-in photo of dry filter containing reddish pigment"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032290388/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_015"><img src="https://live.staticflickr.com/65535/52032290388_bf0624bc49.jpg" width="500" height="375" alt="Reddish pigment from filter is removed and now on paper"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032506784/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_016"><img src="https://live.staticflickr.com/65535/52032506784_a9ab66d50d.jpg" width="500" height="375" alt="Leftover filter with pigment removed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032290583/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_017"><img src="https://live.staticflickr.com/65535/52032290583_a7d692c60c.jpg" width="375" height="500" alt="Pigment in vial"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## RECIPE 2: “Standard Reversed”
 
