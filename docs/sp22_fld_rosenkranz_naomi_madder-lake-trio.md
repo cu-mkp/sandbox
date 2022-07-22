@@ -299,13 +299,39 @@ There are three modernized versions of the historical recipes:
 
 -   Coarsely grind madder roots in mortar and pestle
 -   Using a small utensil, add madder to the drawstring bag. Close the bag tightly, but make sure there is enough room in the bag for the madder to move around freely. Use multiple bags if necessary
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031201582/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_013"><img src="https://live.staticflickr.com/65535/52031201582_84222667fd.jpg" width="500" height="375" alt="Ground powder in bag on scale that reads 501g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031201647/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_014"><img src="https://live.staticflickr.com/65535/52031201647_e335f833df.jpg" width="500" height="375" alt="Ground powder in bag on scale that reads 509g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Add 300ml water and bag of madder to 600ml beaker and leave to soak overnight
     -   NOTE: soaking overnight can be skipped for time constraints, but the amount of colorant extracted will be affected, possibly changing the the final pigment
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031201717/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_015"><img src="https://live.staticflickr.com/65535/52031201717_fc26920ac0.jpg" width="375" height="500" alt="Madder bag soaking in beaker filled halfway with water and labeled Standard Alum Extrc 3, beaker is on scale that reads 306.28g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   After soaking overnight (if doing so), add 5g alum
 -   Heat the madder+alum to 70°
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032494834/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_021"><img src="https://live.staticflickr.com/65535/52032494834_08f8e9f85e.jpg" width="375" height="500" alt="Beaker labeled Standard Alum Extrc 3 is on the stovetop, still has madder bag inside"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031202317/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_024"><img src="https://live.staticflickr.com/65535/52031202317_5760fd0680.jpg" width="375" height="500" alt="Overhead shot of beaker labeled Standard Alum Extrc 3 on the stovetop, still with madder bag inside"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Keep at this temperature for 30 minutes to extract the dye
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032244631/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_030"><img src="https://live.staticflickr.com/65535/52032244631_e0e9ba4f4f.jpg" width="500" height="375" alt="Beaker labeled Standard Alum Extrc 3 on the stovetop, still with madder bag inside and condensation along rim"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032498949/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_066"><img src="https://live.staticflickr.com/65535/52032498949_36c25ae648.jpg" width="375" height="500" alt="Standard Alum Extrc 3 beaker is off the heat and on a cooling pad"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Remove the drawstring bag, which can now be discarded
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032499054/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_067"><img src="https://live.staticflickr.com/65535/52032499054_3f299d96f6.jpg" width="375" height="500" alt="Hand removes drawstring bag from Standard Alum Extrc 3 beaker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032248291/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_068"><img src="https://live.staticflickr.com/65535/52032248291_76a3d19fe1.jpg" width="375" height="500" alt="Standard Alum Extrc 3 beaker after drawstring bag removal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   In the other 600ml beaker, dissolve 1.88g potash in 50ml water over heat
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032278953/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_028"><img src="https://live.staticflickr.com/65535/52032278953_091f09e825.jpg" width="375" height="500" alt="Beaker containing potash and water is on scale showing 51.79g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Pour madder+alum solution into the potash solution VERY GRADUALLY and STIRRING CONSTANTLY
     -   Do this slowly and incrementally until there is no further effervescence, and precipitation of the lake pigment appears to be complete. Check the pH of the solution, which should be about 6
     -   Make sure both solutions are still hot (at least 70-80°) when combined because the dye may begin to precipitate out below this temperature
