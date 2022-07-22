@@ -55,12 +55,16 @@ There are three modernized versions of the historical recipes:
 -   Coarsely grind madder roots in mortar and pestle
 -   Using a small utensil, add madder to the drawstring bag. Close the bag tightly, but make sure there is enough room in the bag for the madder to move around freely. Use multiple bags if necessary
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031201157/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_003"><img src="https://live.staticflickr.com/65535/52031201157_6656d5841c.jpg" width="500" height="375" alt="Ground powder in bag on scale that reads 512g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032277458/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_004"><img src="https://live.staticflickr.com/65535/52032277458_ed532d26fc.jpg" width="500" height="375" alt="Ground powder in bag on scale that reads 493g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032277498/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_005"><img src="https://live.staticflickr.com/65535/52032277498_a4b52441eb.jpg" width="500" height="375" alt="Drawstring bag in beaker labeled Standard 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 -   Add 300ml water and bag of madder to 600ml beaker and leave to soak overnight
     -   NOTE: soaking overnight can be skipped for time constraints, but the amount of colorant extracted will be affected, possibly changing the the final pigment
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032275943/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_009"><img src="https://live.staticflickr.com/65535/52032275943_a0b17c883c.jpg" width="375" height="500" alt="Madder bag soaking in beaker filled halfway with water and labeled Standard 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032275943/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_009"><img src="https://live.staticflickr.com/65535/52032275943_a0b17c883c.jpg" width="375" height="500" alt="Madder bag soaking in beaker filled halfway with water and labeled Standard 1, beaker is on scale that reads 298.96g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 -   After soaking overnight (if doing so), add alum and heat the madder+water+alum to 70°
 
@@ -172,15 +176,54 @@ There are three modernized versions of the historical recipes:
 
 -   Coarsely grind madder roots in mortar and pestle
 -   Using a small utensil, add madder to the drawstring bag. Close the bag tightly, but make sure there is enough room in the bag for the madder to move around freely. Use multiple bags if necessary
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031201297/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_006"><img src="https://live.staticflickr.com/65535/52031201297_d8853df64a.jpg" width="500" height="375" alt="Ground powder in bag on scale that reads 506g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032760620/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_007"><img src="https://live.staticflickr.com/65535/52032760620_b57a6e0051.jpg" width="500" height="375" alt="Ground powder in bag on scale that reads 511g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032494194/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_008"><img src="https://live.staticflickr.com/65535/52032494194_32cd86c4c7.jpg" width="500" height="375" alt="Drawstring bag in beaker labeled Standard 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Add 300ml water and bag of madder to 600ml beaker and leave to soak overnight
     -   NOTE: soaking overnight can be skipped for time constraints, but the amount of colorant extracted will be affected, possibly changing the the final pigment
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032760755/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_011"><img src="https://live.staticflickr.com/65535/52032760755_3ba89e76da.jpg" width="375" height="500" alt="Madder bag soaking in beaker filled halfway with water and labeled Standard Reversed 2, beaker is on scale that reads 304.47g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   After soaking overnight (if doing so), heat the madder+water to 70°
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032277778/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_012"><img src="https://live.staticflickr.com/65535/52032277778_37d33879e6.jpg" width="375" height="500" alt="Beaker labeled Standard Reversed 2 is on the stovetop, still has madder bag inside"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Keep at this temperature for 30 minutes to extract the dye
 -   Remove the drawstring bag, which can now be discarded
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032279883/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_038"><img src="https://live.staticflickr.com/65535/52032279883_3cf032508b.jpg" width="375" height="500" alt="Hand removes bag from Standard Reversed 2 beaker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031203632/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_039"><img src="https://live.staticflickr.com/65535/52031203632_530b66f0e0.jpg" width="375" height="500" alt="Standard Reversed 2 beaker is on stovetop, halfway full of reddish liquid and no drawstring bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Add 1.88g potash to the solution and bring to 80°
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031203987/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_041"><img src="https://live.staticflickr.com/65535/52031203987_6fb881ddbf.jpg" width="375" height="500" alt="Standard Reversed 2 and Potash beaker is on stovetop, is full to about 300ml with reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032763230/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_042"><img src="https://live.staticflickr.com/65535/52032763230_e445eb27f1.jpg" width="375" height="500" alt="Overhead shot of Standard Reversed 2 and Potash beaker, which contains reddish liquid and no foam"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   In the 100ml beaker, dissolve 5g alum in 30ml water over heat
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032761740/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_027"><img src="https://live.staticflickr.com/65535/52032761740_1617e27173.jpg" width="375" height="500" alt="Beaker labeled 2 Standard Reverse Alum and Water is on scale showing 35.55g"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031205312/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_056"><img src="https://live.staticflickr.com/65535/52031205312_041ca00cdb.jpg" width="375" height="500" alt="Two beakers on stovetop, left labeled 2 Standard Reverse Alum and Water and right labeled Standard Reversed 2 and Potash"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Pour alum solution into the madder+potash solution VERY GRADUALLY and STIRRING CONSTANTLY
     -   Do this slowly and incrementally until there is no further effervescence, and precipitation of the lake pigment appears to be complete. Check the pH of the solution, which should be about 6
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032493744/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_060"><img src="https://live.staticflickr.com/31337/52032493744_8b5cda010c.jpg" width="375" height="500" alt="Clear liquid in Alum beaker is poured into Standard Reversed 2 and Potash beaker, the contents of which are reddish"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032764995/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_061"><img src="https://live.staticflickr.com/65535/52032764995_251d5f0138.jpg" width="375" height="500" alt="Beaker labeled Standard Reversed 2 and Potash is full to around 150ml with red liquid and to around 500ml with pink foam"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032242041/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_062"><img src="https://live.staticflickr.com/31337/52032242041_876ba5127e.jpg" width="375" height="500" alt="Hand stirs Standard Reversed 2 and Potash beaker vigorously with stick"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032498649/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_063"><img src="https://live.staticflickr.com/65535/52032498649_b8816052ec.jpg" width="375" height="500" alt="Beaker sits on cooling pad, contains mostly reddish liquid and some foam"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032765235/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_064"><img src="https://live.staticflickr.com/65535/52032765235_8c29dd30c6.jpg" width="375" height="500" alt="Used pH strip labeled 5-6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 -   Allow the solution to settle for at least 15min (ideally overnight)
 -   Pour solution through filter in a funnel
 -   Once the liquid has drained through, wash the pigment: discard the filtrate and place funnel+filter over a clean container. Pour 100ml of clean water through the filter. Repeat until the filtrate is clear
