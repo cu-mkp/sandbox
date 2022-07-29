@@ -396,6 +396,30 @@ There are three modernized versions of the historical recipes:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032291158/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_024"><img src="https://live.staticflickr.com/65535/52032291158_eb8e95c446.jpg" width="375" height="500" alt="On the left lies a plastic bag labeled 3 Standard Alum Extracted Madder Lake Filter Paper containing emptied filter paper, on the right lies a clear vial filled with reddish pigment"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## A Visual Comparison of Recipes 1, 2, and 3
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032243881/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_020"><img src="https://live.staticflickr.com/65535/52032243881_93981cab0f.jpg" width="500" height="375" alt="Three beakers on hotplates, each beaker halfway full of reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Heating solutions to extract dye
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032761925/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_029"><img src="https://live.staticflickr.com/65535/52032761925_e9a5d1d482.jpg" width="500" height="375" alt="Three beakers on hotplates, each beaker halfway full of reddish liquid that is now darker in color"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Solutions after heating for half hour
+
+(question -- do I add comparison photos that don't have all three in the same shot? photos while adding alum, ph, etc)
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031207387/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_079"><img src="https://live.staticflickr.com/65535/52031207387_1e4c1bf150.jpg" width="500" height="375" alt="Three labeled beakers after foam has settled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032500279/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_080"><img src="https://live.staticflickr.com/65535/52032500279_e941facf48.jpg" width="500" height="375" alt="Overhead shot of three labeled beakers after foam has settled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Beakers after solutions have been combined and foam has settled
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032250981/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_097"><img src="https://live.staticflickr.com/65535/52032250981_1333dec997.jpg" width="500" height="375" alt="Three jars with funnels and filters, each draining reddish liquid into the jar below"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032768250/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_098"><img src="https://live.staticflickr.com/65535/52032768250_b0c3e8205f.jpg" width="500" height="375" alt="Overhear shot of three jars with funnels and filters, each draining reddish liquid into the jar below"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Solutions poured through filters
+
 ## An Alternative Method To Using Hotplates and Beakers
 If you do not have access to hotplates and heat-safe glass beakers, an alternative method uses a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries).
 
