@@ -382,6 +382,20 @@ There are three modernized versions of the historical recipes:
 
 -   Allow the pigment to dry on the filter (at least overnight), then scrape off and use
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032289913/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_008"><img src="https://live.staticflickr.com/65535/52032289913_6776c729d7.jpg" width="375" height="500" alt="Dried 3 Standard Alum Extracted Madder Lake filter dried after second wash"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032773460/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_019"><img src="https://live.staticflickr.com/65535/52032773460_5da5886e24.jpg" width="375" height="500" alt="Filter is inside plastic bag labeled 3 Standard Alum Extracted Madder Lake"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032290768/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_020"><img src="https://live.staticflickr.com/65535/52032290768_d5471933c2.jpg" width="375" height="500" alt="Filter removed from bag, pigment is spilling out"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032507184/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_021"><img src="https://live.staticflickr.com/65535/52032507184_712c600dc9.jpg" width="375" height="500" alt="Reddish pigment on paper"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032773700/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_022"><img src="https://live.staticflickr.com/65535/52032773700_a4cd2bce40.jpg" width="500" height="375" alt="Open filter with pigment removed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032256746/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_023"><img src="https://live.staticflickr.com/65535/52032256746_6a37a5ffbc.jpg" width="500" height="375" alt="Reddish pigment in clear vial"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032291158/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_024"><img src="https://live.staticflickr.com/65535/52032291158_eb8e95c446.jpg" width="375" height="500" alt="On the left lies a plastic bag labeled 3 Standard Alum Extracted Madder Lake Filter Paper containing emptied filter paper, on the right lies a clear vial filled with reddish pigment"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## An Alternative Method To Using Hotplates and Beakers
 If you do not have access to hotplates and heat-safe glass beakers, an alternative method uses a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries).
 
