@@ -420,6 +420,39 @@ Beakers after solutions have been combined and foam has settled
 
 Solutions poured through filters
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032286133/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_107"><img src="https://live.staticflickr.com/65535/52032286133_f3e7b1dcea.jpg" width="500" height="375" alt="Three jars with funnels and filters, each containing reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032252056/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_108"><img src="https://live.staticflickr.com/65535/52032252056_3f9c72052c.jpg" width="500" height="375" alt="Same three jars and filters, now covered in clear wrap"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Solutions three days later
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032769180/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_001"><img src="https://live.staticflickr.com/65535/52032769180_ac814c1b5a.jpg" width="500" height="375" alt="Same three jars still covered, now much more full of reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032252926/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_008"><img src="https://live.staticflickr.com/65535/52032252926_4259209af7.jpg" width="500" height="375" alt="Overhead shot of three jars"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032253021/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_009"><img src="https://live.staticflickr.com/65535/52032253021_074ff21a44.jpg" width="500" height="375" alt="Three jars now without clear wrap covering"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032287203/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_010"><img src="https://live.staticflickr.com/65535/52032287203_a810ee40fc.jpg" width="500" height="375" alt="Overhead shot of three jars"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Pigments during wash
+1 and 3 in wash 1, 2 in wash 1
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032254786/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_001"><img src="https://live.staticflickr.com/65535/52032254786_4d09bf3c16.jpg" width="500" height="375" alt="Three plastic-covered jars with funnels and filters, each jar contains clearish water"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032505609/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_002"><img src="https://live.staticflickr.com/65535/52032505609_d094cc556a.jpg" width="500" height="375" alt="Overhead shot of plastic-covered funnels, each containing a used filter full of pigment"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Lake Painting
+
+04/22/2022 (format??)
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032292383/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_001"><img src="https://live.staticflickr.com/65535/52032292383_98b99b4705.jpg" width="375" height="500" alt="Comparison of pigments painted with gum arabic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032258306/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_002"><img src="https://live.staticflickr.com/65535/52032258306_d6e2cecc9c.jpg" width="375" height="500" alt="Comparison of more pigments painted with gum arabic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+04/25/2022
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031216432/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_003"><img src="https://live.staticflickr.com/65535/52031216432_85ca88e0b5.jpg" width="375" height="500" alt="Comparison of pigments painted with gum arabic, colors have lightened slightly"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## An Alternative Method To Using Hotplates and Beakers
 If you do not have access to hotplates and heat-safe glass beakers, an alternative method uses a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries).
 
