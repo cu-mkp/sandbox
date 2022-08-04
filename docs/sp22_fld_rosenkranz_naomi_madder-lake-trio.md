@@ -398,33 +398,31 @@ There are three modernized versions of the historical recipes:
 
 ## A Visual Comparison of Recipes 1, 2, and 3
 
+### Heating solutions to extract dye
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032243881/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_020"><img src="https://live.staticflickr.com/65535/52032243881_93981cab0f.jpg" width="500" height="375" alt="Three beakers on hotplates, each beaker halfway full of reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Heating solutions to extract dye
+### Solutions after heating for half hour
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032761925/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_029"><img src="https://live.staticflickr.com/65535/52032761925_e9a5d1d482.jpg" width="500" height="375" alt="Three beakers on hotplates, each beaker halfway full of reddish liquid that is now darker in color"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Solutions after heating for half hour
-
-(question -- do I add comparison photos that don't have all three in the same shot? photos while adding alum, ph, etc)
+### Beakers after solutions have been combined and foam has settled
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031207387/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_079"><img src="https://live.staticflickr.com/65535/52031207387_1e4c1bf150.jpg" width="500" height="375" alt="Three labeled beakers after foam has settled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032500279/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_080"><img src="https://live.staticflickr.com/65535/52032500279_e941facf48.jpg" width="500" height="375" alt="Overhead shot of three labeled beakers after foam has settled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Beakers after solutions have been combined and foam has settled
+### Solutions poured through filters
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032250981/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_097"><img src="https://live.staticflickr.com/65535/52032250981_1333dec997.jpg" width="500" height="375" alt="Three jars with funnels and filters, each draining reddish liquid into the jar below"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032768250/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_098"><img src="https://live.staticflickr.com/65535/52032768250_b0c3e8205f.jpg" width="500" height="375" alt="Overhear shot of three jars with funnels and filters, each draining reddish liquid into the jar below"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Solutions poured through filters
-
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032286133/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_107"><img src="https://live.staticflickr.com/65535/52032286133_f3e7b1dcea.jpg" width="500" height="375" alt="Three jars with funnels and filters, each containing reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032252056/in/album-72177720298419908/" title="20220405_Rosenkranz_madder-lake_108"><img src="https://live.staticflickr.com/65535/52032252056_3f9c72052c.jpg" width="500" height="375" alt="Same three jars and filters, now covered in clear wrap"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Solutions three days later
+### Solutions three days later
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032769180/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_001"><img src="https://live.staticflickr.com/65535/52032769180_ac814c1b5a.jpg" width="500" height="375" alt="Same three jars still covered, now much more full of reddish liquid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -434,22 +432,23 @@ Solutions three days later
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032287203/in/album-72177720298419908/" title="20220408_Rosenkranz_madder-lake_010"><img src="https://live.staticflickr.com/65535/52032287203_a810ee40fc.jpg" width="500" height="375" alt="Overhead shot of three jars"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Pigments during wash
-1 and 3 in wash 1, 2 in wash 1
+### Pigments during wash
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032254786/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_001"><img src="https://live.staticflickr.com/65535/52032254786_4d09bf3c16.jpg" width="500" height="375" alt="Three plastic-covered jars with funnels and filters, each jar contains clearish water"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032505609/in/album-72177720298419908/" title="20220411_Rosenkranz_madder-lake_002"><img src="https://live.staticflickr.com/65535/52032505609_d094cc556a.jpg" width="500" height="375" alt="Overhead shot of plastic-covered funnels, each containing a used filter full of pigment"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Recipes 1 and 3 are shown in wash #2, Recipe 2 is shown in wash #1
+
 ## Lake Painting
 
-04/22/2022 (format??)
+### 22/04/2022
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032292383/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_001"><img src="https://live.staticflickr.com/65535/52032292383_98b99b4705.jpg" width="375" height="500" alt="Comparison of pigments painted with gum arabic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032258306/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_002"><img src="https://live.staticflickr.com/65535/52032258306_d6e2cecc9c.jpg" width="375" height="500" alt="Comparison of more pigments painted with gum arabic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-04/25/2022
+### 25/04/2022
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031216432/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_003"><img src="https://live.staticflickr.com/65535/52031216432_85ca88e0b5.jpg" width="375" height="500" alt="Comparison of pigments painted with gum arabic, colors have lightened slightly"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
