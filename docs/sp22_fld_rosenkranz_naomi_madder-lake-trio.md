@@ -446,8 +446,6 @@ Recipes 1 and 3 are shown in wash #2, Recipe 2 is shown in wash #1
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032292383/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_001"><img src="https://live.staticflickr.com/65535/52032292383_98b99b4705.jpg" width="375" height="500" alt="Comparison of pigments painted with gum arabic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52032258306/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_002"><img src="https://live.staticflickr.com/65535/52032258306_d6e2cecc9c.jpg" width="375" height="500" alt="Comparison of more pigments painted with gum arabic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ### 25/04/2022
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52031216432/in/album-72177720298419908/" title="20220422_Rosenkranz_madder-lake_003"><img src="https://live.staticflickr.com/65535/52031216432_85ca88e0b5.jpg" width="375" height="500" alt="Comparison of pigments painted with gum arabic, colors have lightened slightly"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
