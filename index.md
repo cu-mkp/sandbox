@@ -74,7 +74,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
      - Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
      - Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
-### Other Projects
+### Making Color! Projects
 - [Dyeing with Onion Skins](docs/su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
 - [Making Pigment from Madder: a Trio of Recipes](docs/sp22_fld_rosenkranz_naomi_madder-lake-trio.md) by Naomi Rosenkranz (2022-07-19) (WIP)
 
