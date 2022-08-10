@@ -212,7 +212,7 @@ apprentices, in his work.
 
 <img src="./media-arocho/image3.png" style="width:2.60938in;height:3.70043in" />
 
-> 166r
+> 166r<br/>
 > Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
 Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
 Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano,
