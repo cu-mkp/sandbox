@@ -1,17 +1,13 @@
 # Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner
 
-Alejandra Quintana Arocho
-
-Professor Pamela Smith \| Naomi Rosenkranz \| Caroline Surman
-
-Making and Knowing in Early Modern Europe: Hands-on History
-
+> Alejandra Quintana Arocho<br/>
+Professor Pamela Smith \| Naomi Rosenkranz \| Caroline Surman<br/>
+Making and Knowing in Early Modern Europe: Hands-on History<br/>
 10 May 2022
 
-<img src="./media/image1.jpg" style="width:3.03646in;height:4.14387in" />
+<img src="./media-arocho/image1.jpg" style="width:3.03646in;height:4.14387in" />
 
-"Illuminated border in Herodotus: Historiae" by University of Glasgow
-Library is marked with CC BY-NC-SA 2.0.
+> "Illuminated border in Herodotus: Historiae" by University of Glasgow Library is marked with CC BY-NC-SA 2.0.
 
 ## Introduction
 
@@ -109,18 +105,15 @@ values most in his text: experimentation.
 
 ## Folio 162r, “For the workshop”
 
-<img src="./media/image2.png" style="width:2.60938in;height:3.70043in" />
+<img src="./media-arocho/image2.png" style="width:2.60938in;height:3.70043in" />
 
-162r
-
+> 162r<br/>
 Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
 Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
 Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano,
 eds., *Secrets of Craft and Nature in Renaissance France. A Digital
 Critical Edition and English Translation of BnF Ms. Fr. 640* (New York:
-Making and Knowing Project, 2020),
-
-[<u>https://edition640.makingandknowing.org/#/folios/162r</u>](https://edition640.makingandknowing.org/#/folios/162r).
+Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/folios/162r</u>](https://edition640.makingandknowing.org/#/folios/162r).
 
 “It can be gathered from the words of Herodotus,” so proclaims our
 author-practitioner at the outset of this entry, “that the navigation of
@@ -194,7 +187,8 @@ everyone, even in the most underappreciated of arts: craftwork.
 > As the hen carefully searches the garbage thrown out of a house for a
 > crumb or a grain that she divides among her chicks, thus one
 > distributes to orphans that which has been sought among the arts
-> considered vile & abject. 166r
+> considered vile & abject. 
+> 166r
 
 Even though Herodotus never explicitly refers to what he might have
 omitted from his enquiries, he does recognize his role in curating
@@ -216,9 +210,10 @@ approach towards writing history, there are, perhaps, lessons to be
 shared, spread, and expanded upon by his readers, or potential
 apprentices, in his work.
 
-166r
+<img src="./media-arocho/image3.png" style="width:2.60938in;height:3.70043in" />
 
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
+> 166r
+> Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
 Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
 Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano,
 eds., *Secrets of Craft and Nature in Renaissance France. A Digital
@@ -321,129 +316,42 @@ his trials, failures, and successes (Herodotus 1.5).
 
 ## Works Cited
 
-13r. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz,
+- 13r. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
+Tianna Helena Uchacz,Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
+Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
+Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020),
+[<u>https://edition640.makingandknowing.org/#/folios/13r/f/13r/tc</u>](https://edition640.makingandknowing.org/#/folios/13r/f/13r/tc).
 
-Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
-Klein, Donna Bilak,
+- 120v. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
+Tianna Helena Uchacz,Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
+Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
+Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020),
+[<u>https://edition640.makingandknowing.org/#/folios/120v/f/120v/tc</u>](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tc).
 
-Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
-Renaissance France. A*
+- 162r. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
+Tianna Helena Uchacz,Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
+Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
+Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020),
+[<u>https://edition640.makingandknowing.org/#/folios/162r</u>](https://edition640.makingandknowing.org/#/folios/162r).
 
-*Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-(New York: Making and
-
-Knowing Project, 2020),
-[<u>https://edition640.makingandknowing.org/#/folios/13r/f/13r/tc</u>](https://edition640.makingandknowing.org/#/folios/13r/f/13r/tc)
-
-120v. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz,
-
-Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
-Klein, Donna Bilak,
-
-Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
-Renaissance France. A*
-
-*Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-(New York: Making and
-
-Knowing Project, 2020),
-[<u>https://edition640.makingandknowing.org/#/folios/120v/f/120v/tc</u>](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tc)
-
-162r. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz,
-
-Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
-Klein, Donna Bilak,
-
-Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
-Renaissance France. A*
-
-> *Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-> (New York: Making and Knowing Project, 2020),
-> [<u>https://edition640.makingandknowing.org/#/folios/162r</u>](https://edition640.makingandknowing.org/#/folios/162r).
-
-166r. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz,
-
-Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
-Klein, Donna Bilak,
-
-Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
-Renaissance France. A*
-
-*Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-(New York: Making and
-
-Knowing Project, 2020),
+- 166r. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
+Tianna Helena Uchacz,Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
+Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in
+Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020),
 [<u>https://edition640.makingandknowing.org/#/folios/166r/f/166r/tc</u>](https://edition640.makingandknowing.org/#/folios/166r/f/166r/tc).
 
-Cennini, Cennino d’Andrea. *The Craftsman’s Handbook, ‘Il Libro
-dell’Arte’*, trans. by Daniel Thompson
+- Cennini, Cennino d’Andrea. *The Craftsman’s Handbook, ‘Il Libro dell’Arte’*, trans. by Daniel Thompson (New York: Dover, 1960).
 
-(New York: Dover, 1960).
+- Dewald, Carolyn. “Introduction.” In *The Histories*. Oxford World’s Classics. (Oxford: OUP Oxford, 2008).[<u>https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site).
 
-Dewald, Carolyn. “Introduction.” In *The Histories*. Oxford World’s
-Classics. (Oxford: OUP Oxford,
+Herodotus. *The Histories*. Oxford World’s Classics. (Oxford: OUP Oxford, 2008). [<u>[https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&d](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site)</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site).
 
-2008).[<u>https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site)
+Keller, Vera. “Everything depends upon the trial ("Le tout gist à l’essay"): Four Manuscripts between the Recipe and the Experimental Essay.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_320_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19).
 
-[<u>=ip&db=e025xna&AN=437288&site=ehost-live&scope=site</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site).
+- Smith, Pamela. “An Introduction to Ms. Fr. 640 and Its Author-Practitioner.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_300_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19)
 
-Herodotus. *The Histories*. Oxford World’s Classics. (Oxford: OUP
-Oxford, 2008).
-
-[<u>https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&d</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site)
-
-[<u>b=e025xna&AN=437288&site=ehost-live&scope=site</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site).
-
-Keller, Vera. “Everything depends upon the trial ("Le tout gist à
-l’essay"): Four Manuscripts between the
-
-Recipe and the Experimental Essay.” In *Secrets of Craft and Nature in
-Renaissance France. A*
-
-*Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
-edited by Making and
-
-Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena
-Uchacz, Tillmann Taape,
-
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and
-
-> Terry Catapano. New York: Making and Knowing Project, 2020.
-> [<u>https://edition640.makingandknowing.org/#/essays/ann_320_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19)
-
-Smith, Pamela. “An Introduction to Ms. Fr. 640 and Its
-Author-Practitioner.” In *Secrets of Craft and*
-
-*Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr.*
-
-*640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi
-Rosenkranz, Tianna
-
-Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-Boulboullé, Joel
-
-Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and
-Knowing Project,
-
-2020\.
-[<u>https://edition640.makingandknowing.org/#/essays/ann_300_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19)
-
-\_\_\_\_\_\_\_\_\_\_\_\_. [<u>“Collecting Nature and Art: Artisans and
-Knowledge in the
-Kunstkammer</u>](https://drive.google.com/open?id=0B25oBcRXnBbJN3AzMnZwRWVBXzg),”
-in *Engaging*
-
-*With Nature: Essays on the Natural World in Medieval and Early Modern
-Europe*, ed. Barbara
-
-Hannawalt and Lisa Kiser (University of Notre Dame Press, 2008),
-115-136.
+- Smith, Pamela. [<u>“Collecting Nature and Art: Artisans and Knowledge in the Kunstkammer</u>](https://drive.google.com/open?id=0B25oBcRXnBbJN3AzMnZwRWVBXzg),”
+in *Engaging With Nature: Essays on the Natural World in Medieval and Early Modern Europe*, ed. Barbara Hannawalt and Lisa Kiser (University of Notre Dame Press, 2008), 115-136.
 
 [1] A series of wars fought between various Greek states and the Persian
 empire, during which Persia invaded Greece twice, and the latter ended
