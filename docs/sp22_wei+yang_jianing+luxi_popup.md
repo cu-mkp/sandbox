@@ -38,7 +38,7 @@ thirst for practical knowledge.
 
 ### Making and Knowing Project
 
-([The Making and Knowing Project](https://www.makingandknowing.org/))
+[The Making and Knowing Project](https://www.makingandknowing.org/)
 is a research and pedagogical initiative in the [Center for Science and
 Society](http://scienceandsociety.columbia.edu/) at Columbia University
 that explores the intersections between artistic making and scientific
@@ -65,7 +65,7 @@ Below is the table of contents for the pop-up book, with links to the
 folios represented from the Edition of BnF Ms .Fr. 640. Because of the
 form of our final project, the way these contents are displayed will be
 different from the “step-by-step” instructions found in Fr. 640. Also,
-since our book is 3D and the [Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf)is “flat,” we spend more than one page in the Presentation
+since our book is 3D and the [Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf) is “flat,” we spend more than one page in the Presentation
 showing the pages “before and after” they have “popped up” or interacted
 with.
 
