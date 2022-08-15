@@ -50,3 +50,6 @@
 - The copper sulfate made the textiles without alum and the textiles with alum basically the same color, I wonder if this is because they were in the same beaker or if copper had the same effect on the onion dye regardless of the alum
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52223776962/in/album-72177720300558025/" title="20220715_cunningham_onion-skin-dyeing_001"><img src="https://live.staticflickr.com/65535/52223776962_87d264bf1c.jpg" width="500" height="376" alt="Bundles of yarn dyed different colors, each bundle labeled with material of yarn and material of dye"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Video embed test
+<iframe src="https://player.vimeo.com/video/710444936?h=b9508dad89" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
