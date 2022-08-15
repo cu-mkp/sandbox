@@ -8,7 +8,7 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History<br/>
 width="640" height="564" frameborder="0" allow="autoplay; fullscreen"
 allowfullscreen>\</iframe>
 
-A Visual Presentation of the Pop-up Book \[PDF\]
+[A Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf)
 
 <img src="./media-wei+yang/image1.png" style="width:6.47396in;height:3.42807in" />
 
@@ -38,8 +38,7 @@ thirst for practical knowledge.
 
 ### Making and Knowing Project
 
-The Making and Knowing Project
-([<u>https://www.makingandknowing.org/</u>](https://www.makingandknowing.org/))
+([The Making and Knowing Project](https://www.makingandknowing.org/))
 is a research and pedagogical initiative in the [Center for Science and
 Society](http://scienceandsociety.columbia.edu/) at Columbia University
 that explores the intersections between artistic making and scientific
@@ -47,8 +46,7 @@ knowing.
 
 From 2014 through 2020, the Project’s focus was the creation of a
 digital critical edition of an intriguing anonymous sixteenth-century
-French artisanal and technical manuscript, [BnF Ms. Fr.
-640](http://gallica.bnf.fr/ark:/12148/btv1b10500001g.r=fr.%20640?rk=150215;2).
+French artisanal and technical manuscript, [BnF Ms. Fr. 640](http://gallica.bnf.fr/ark:/12148/btv1b10500001g.r=fr.%20640?rk=150215;2).
 
 ### BnF Ms. Fr. 640
 
@@ -67,8 +65,7 @@ Below is the table of contents for the pop-up book, with links to the
 folios represented from the Edition of BnF Ms .Fr. 640. Because of the
 form of our final project, the way these contents are displayed will be
 different from the “step-by-step” instructions found in Fr. 640. Also,
-since our book is 3D and the Visual Presentation of the Pop-up Book
-\[PDF\] is “flat,” we spend more than one page in the Presentation
+since our book is 3D and the [Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf)is “flat,” we spend more than one page in the Presentation
 showing the pages “before and after” they have “popped up” or interacted
 with.
 
@@ -78,32 +75,28 @@ with.
 
 -   Kunstkammer
 
--   [<u>How to make Ms. Fr.
-    > 640</u>](https://edition640.makingandknowing.org/#/essays/ann_328_ie_19)
+-   [How to make Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_328_ie_19)
 
--   [<u>How to make a
-    > paintbrush</u>](https://edition640.makingandknowing.org/#/folios/58v/f/58v/tl)
+-   [How to make a paintbrush](https://edition640.makingandknowing.org/#/folios/58v/f/58v/tl)
 
 ### Chapter 2. Life and Nature
 
--   [<u>Fountain</u>](https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl)
+-   [Fountain](https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl)
 
--   [<u>Hourglass</u>](https://edition640.makingandknowing.org/#/folios/10r/f/10r/tl)
+-   [Hourglass](https://edition640.makingandknowing.org/#/folios/10r/f/10r/tl)
 
--   [<u>Clock</u>](https://edition640.makingandknowing.org/#/folios/82r/f/82r/tl)
+-   [Clock](https://edition640.makingandknowing.org/#/folios/82r/f/82r/tl)
 
 ### Chapter 3. Nature and Imagination
 
--   [<u>Animal Dried in an
-    > Oven</u>](https://edition640.makingandknowing.org/#/essays/ann_502_ad_20)
+-   [Animal Dried in an Oven](https://edition640.makingandknowing.org/#/essays/ann_502_ad_20)
 
--   [<u>Flower</u>](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl)
+-   [Flower](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl)
 
--   [<u>Casting in
-    > Sulfur</u>](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
+-   [<u>Casting in Sulfur](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
 
--   [<u>Jasper</u>](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)
+-   [Jasper](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)
 
 ### Chapter 4. Against Nature
 
--   [<u>Alchemy</u>](https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl)
+-   [Alchemy](https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl)
