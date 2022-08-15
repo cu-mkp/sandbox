@@ -74,6 +74,12 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
      - Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
      - Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
+#### Spring 2022 Final Student Projects (2022-08-15) [Syllabus to come]
+- [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner](docs/sp22_arocho_alejandra_herodotus-workshop.md) by Alejandra Quintana Arocho
+- [Discarded Cartographies: Orienting Process Through Waste](docs/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
+- [Counterproofing: Reproduction and Theft in Early Modern Print Culture](docs/sp22_lang_theodora_counterproofing.md) by Theodora Bocanegra Lang
+- [Making and Knowing Pop-up Book](docs/sp22_wei+yang_jianing+luxi_popup.md) by Luxi Yang and Jianing Wei
+
 ### Making Colors!
 - [Dyeing with Onion Skins](docs/su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
 - [Making Pigment from Madder: a Trio of Recipes](docs/sp22_fld_rosenkranz_naomi_madder-lake-trio.md) by Naomi Rosenkranz (2022-07-19) (WIP)
