@@ -350,7 +350,7 @@ Renaissance France. A Digital Critical Edition and English Translation of BnF Ms
 
 - Smith, Pamela. “An Introduction to Ms. Fr. 640 and Its Author-Practitioner.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_300_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19)
 
-- Smith, Pamela. [<u>“Collecting Nature and Art: Artisans and Knowledge in the Kunstkammer</u>](https://drive.google.com/open?id=0B25oBcRXnBbJN3AzMnZwRWVBXzg),”
+- Smith, Pamela. “Collecting Nature and Art: Artisans and Knowledge in the Kunstkammer,”
 in *Engaging With Nature: Essays on the Natural World in Medieval and Early Modern Europe*, ed. Barbara Hannawalt and Lisa Kiser (University of Notre Dame Press, 2008), 115-136.
 
 [1] A series of wars fought between various Greek states and the Persian
