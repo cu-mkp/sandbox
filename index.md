@@ -3,7 +3,7 @@
 
 The “Sandbox” makes available a number of resources that utilize and explore the data underlying [_Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/) created by the [Making and Knowing Project](https://www.makingandknowing.org/) at Columbia University.
 
-The Sandbox presents experimental, provisional, and in-progress work that expands upon the engagement and analyses with the data, topics, and content of _Secrets of Craft and Nature_ and with the manuscript, BnF Ms. Fr. 640.
+The Sandbox presents experimental, provisional, and in-progress work that expands upon the engagement and analyses with the data, topics, and content of _Secrets of Craft and Nature_, with the manuscript, BnF Ms. Fr. 640, and the larger themes explored by the Making and Knowing Project.
 
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools, where others can add and create their own tools, case studies, and resources presented here. This is also a space for sharing teaching resources, exploring methods and processes across disciplines and levels of expertise, and engaging in knowledge exchange wherever possible.
 
@@ -92,21 +92,17 @@ Course descriptions and syllabi are listed in [Syllabi](docs/syllabi.md).
 ### Collaborator Pilot Courses
 Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with M&K.
 
-#### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World
-[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)
+#### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World [Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)
 
-Oberlin College
-
-Professor Christina Neilson, Associate Professor of Art History
-
-**Course description:** This course investigates what it meant to make things and work with materials, including featherwork, imitation gems, color making, and metal casting, in Europe and colonial Latin America between around 1350 and 1650. We will follow historical descriptions and recipes to reconstruct methods of making, and learn from expert practitioners who are holders of traditional techniques and meanings, including indigenous makers. We will consider how a wide range of practitioners developed hands-on knowledge in workshops, laboratories, marketplaces, gardens, etc. and we will explore how making was and is a form of knowledge, how there are different systems of knowledge, and the intersections between art making and science.
-
-**Sample student portfolio reports:**
+- Spring 2022
+- Oberlin College
+- Professor Christina Neilson, Associate Professor of Art History
+- **Course description:** This course investigates what it meant to make things and work with materials, including featherwork, imitation gems, color making, and metal casting, in Europe and colonial Latin America between around 1350 and 1650. We will follow historical descriptions and recipes to reconstruct methods of making, and learn from expert practitioners who are holders of traditional techniques and meanings, including indigenous makers. We will consider how a wide range of practitioners developed hands-on knowledge in workshops, laboratories, marketplaces, gardens, etc. and we will explore how making was and is a form of knowledge, how there are different systems of knowledge, and the intersections between art making and science.
+- **Sample student portfolio reports:**
 Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these portfolios document the students' hands-on activities, which included [Stucco for Molding](docs/stucco-assignment.md), "Keeping Dry Flowers in the Same State all Year" from the bottom of [folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl), and making and painting [cochineal lake](docs/pigment-cochineal-lake_assignment.md) and [verdigris](docs/verdigris-assignment.md) pigments.
-- [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
-- [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
-- [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
-
+     - [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
+     - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
+     - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
 
 ### Presentations and Reference Materials
 - [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf) - an introduction to the concepts and methods of making pigments and paints, the classification of different types of colorants (organic, mineral, and earth), and historical recipe examples (2022-06-14)
