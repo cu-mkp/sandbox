@@ -89,20 +89,39 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 ### Syllabi
 Course descriptions and syllabi are listed in [Syllabi](docs/syllabi.md).
 
+### Collaborator Pilot Courses
+Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with M&K.
+
+#### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World
+[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)
+
+Oberlin College
+
+Professor Christina Neilson, Associate Professor of Art History
+
+**Course description:** This course investigates what it meant to make things and work with materials, including featherwork, imitation gems, color making, and metal casting, in Europe and colonial Latin America between around 1350 and 1650. We will follow historical descriptions and recipes to reconstruct methods of making, and learn from expert practitioners who are holders of traditional techniques and meanings, including indigenous makers. We will consider how a wide range of practitioners developed hands-on knowledge in workshops, laboratories, marketplaces, gardens, etc. and we will explore how making was and is a form of knowledge, how there are different systems of knowledge, and the intersections between art making and science.
+
+**Sample student portfolio reports:**
+Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these portfolios document the students' hands-on activities, which included [Stucco for Molding](docs/stucco-assignment.md), "Keeping Dry Flowers in the Same State all Year" from the bottom of [folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl), and making and painting [cochineal lake](docs/pigment-cochineal-lake_assignment.md) and [verdigris](docs/verdigris-assignment.md) pigments.
+- [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
+- [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
+- [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
+
+
 ### Presentations and Reference Materials
 - [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf) - an introduction to the concepts and methods of making pigments and paints, the classification of different types of colorants (organic, mineral, and earth), and historical recipe examples (2022-06-14)
 - [Presentation: Cochineal Lake: History, Chemistry, and Preparation](docs/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) - an overview of historical natural colorants and dyes, details about common red colorants, a deep-dive into the history of cochineal insects as a dye and pigment source, the preparation of "lake" pigments, and explanation of the chemistry of these natural colorants (2022-06-14)
 - **Presentations on Natural Dyes** - different variations of presentations given by the Making and Knowing Project on dyeing with natural colorants with a particular focus on red. While most of these presentations pay particular attention to cochineal, the chemistry and preparation of dyes is more widely applicable to most natural colorants used in the early modern period. The following presentations contain some of the same slides, but each has additional information or a different focus based on the context in which it was given. Given the close connection dyes have to lake pigments, see also the presentation above on Cochineal Lake.
      - [Presentation: Cochineal Dye: History, Chemistry, and Preparation](docs/rosenkranz_2019-april_dyes_cochineal-history-chem-prep.pdf) - an overview of historical natural colorants and dyes, details about common red colorants, a deep-dive into the history of cochineal insects as a dye and pigment source, the preparation of mordant dyes, and explanation of the chemistry of these natural colorants (2022-06-17)
-     - [Presentation: Reconstruction Exchange: Case Study in 16th Century Red Dyes](docs/rosenkranz_2019_dyes_reconstruction-exchange-case-study-in-16th-century-red-dyes.pdf) - created as part of a reconstruction exchange workshop with [Refashioning the Renaissance](http://refashioningrenaissance.eu/) in March 2019 on dyes. The Making and Knowing Project and Refashioning the Renaissance experimented with materials commonly used in the early modern period for dyeing red, including the widespread madder, the expensive kermes, and the potent cochineal. This presentation provides an overview of natural dyes as well as discusses the materials, chemistry, recipes, and processes for dyeing in early modern Europe. (2022-06-17)
+     - [Presentation: Reconstruction Exchange: Case Study in 16th Century Red Dyes](docs/rosenkranz_2019_dyes_reconstruction-exchange-case-study-in-16th-century-red-dyes.pdf) - created as part of a reconstruction exchange workshop with [Refashioning the Renaissance](http://refashioningrenaissance.eu/) in March 2019 on dyes. The Making and Knowing Project and Refashioning the Renaissance experimented with materials commonly used in the early modern period for dyeing red, including the widespread madder, the expensive kermes, and the potent cochineal. This presentation provides an overview of natural dyes as well as discusses the materials, chemistry, recipes, and processes for dyeing in early modern Europe. See also Refashioning the Renaissance's [Red Dyes Experiment Page](https://refashioningrenaissance.eu/experiments/red-dyes-with-making-knowing/) and [Worksop Blog Post](https://refashioningrenaissance.eu/refashioning-workshop-in-toronto-and-nyc/) (2022-06-17)
      - [Presentation: Dyeing: Step-by-Step Instructions](docs/rosenkranz_2018_dyes_cochineal-step-by-step.pdf) with information about sourcing materials (2022-06-17)
 
 ### Activity Sheets, Assignments, and Reconstruction Protocols
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](docs/burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
 - [Activity Sheet: Breadmolding Reconstruction](docs/breadmolding-assignment.md) - assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
-- [Activity Sheet: "Growing" Verdigris Pigment Reconstruction](docs/verdigris-assignment.md) - assignment sheet for producing verdigris, a blue-green pigment, using historical techniques (2021-09-22)
-- [Activity Sheet: Making Paints from Pigments and Painting Them Out](docs/painting-assignment.md) - assignment sheet for making paints by combining historical pigments and binding media (2021-09-22)
 - [Activity Sheet: Stucco for Molding](docs/stucco-assignment.md) - assignment sheet for creating molded stucco object from rye flour or chalk (2021-09-24)
+- [Activity Sheet: Making Paints from Pigments and Painting Them Out](docs/painting-assignment.md) - assignment sheet for making paints by combining historical pigments and binding media (2021-09-22)
+- [Activity Sheet: "Growing" Verdigris Pigment Reconstruction](docs/verdigris-assignment.md) - assignment sheet for producing verdigris, a blue-green pigment, using historical techniques. See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/) (2021-09-22)
 - Making Lake Pigments from Natural Colorants:
      - [Activity Sheet: Making Lake Pigment from Cochineal](docs/pigment-cochineal-lake_assignment.md) - assignment sheet for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
      - [Activity Sheet: Making Lake Pigment from Madder](docs/pigment-madder-lake_assignment.md) - assignment sheet for transforming natural colorants in madder roots into a pigment (2022-01-29)
