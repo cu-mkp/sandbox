@@ -1883,80 +1883,22 @@ Pascal Brioist, “Artillery in 1590s France”; Carl Garris, “What is *Azur* 
 Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
 Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds. New York: Making and Knowing Project, 2020.
 
-[^1]: ​​Carl Garris, “What is *Azur* in Ms. Fr. 640,” in *Secrets of Craft
-and Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project et
-al. (New York: Making and Knowing Project, 2020),
-[<u>https://edition640.makingandknowing.org/#/essays/ann_060_fa_17</u>](https://edition640.makingandknowing.org/#/essays/ann_060_fa_17).
+[^1]: Carl Garris, “What is *Azur* in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_060_fa_17</u>](https://edition640.makingandknowing.org/#/essays/ann_060_fa_17).
 
-[^2]: See Jo Kirby and Marika Spring, “Ms. Fr. 640 in the World of
-Pigments in Sixteenth-Century Europe,” in *Secrets of Craft and Nature
-in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project et
-al. (New York: Making and Knowing Project, 2020),
-[<u>https://edition640.makingandknowing.org/#/essays/ann_321_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19).
-On Dragon’s Blood, see Robin Reich, “Dragon's Blood,” in *Secrets of
-Craft and Nature in Renaissance France. A Digital Critical Edition and
-English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing
-Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz,
-Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
-Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and
-Knowing Project, 2020.
-[<u>https://edition640.makingandknowing.org/#/essays/ann_037_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_037_sp_16).
+[^2]: See Jo Kirby and Marika Spring, “Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_321_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19). On Dragon’s Blood, see Robin Reich, “Dragon's Blood,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_037_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_037_sp_16).
 
-[^3]: *Trade in Artists’ Materials: Markets and Commerce in Europe to
-1700*, eds. Jo Kirby, Susie Nash, and Joanna Cannon (London: Archetype
-Publications, 2010), 449. Kirby et al. note that the word minium (used
-for red lead, q.v.) was occasionally referred to as cinnabar/vermilion.
+[^3]: *Trade in Artists’ Materials: Markets and Commerce in Europe to 1700*, eds. Jo Kirby, Susie Nash, and Joanna Cannon (London: Archetype Publications, 2010), 449. Kirby et al. note that the word minium (used for red lead, q.v.) was occasionally referred to as cinnabar/vermilion.
 
-[^4]: ​​On metal, arms, and gunpowder weapons in BnF Ms. Fr. 640, see
-Pascal Brioist, “Artillery in 1590s France,” in *Secrets of Craft and
-Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing
-Project, 2020.
-[<u>https://edition640.makingandknowing.org/#/essays/ann_309_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_309_ie_19).
+[^4]: On metal, arms, and gunpowder weapons in BnF Ms. Fr. 640, see Pascal Brioist, “Artillery in 1590s France,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_309_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_309_ie_19).
 
-[^5]: *Trade in Artists’ Materials: Markets and Commerce in Europe to
-1700*, 457.
+[^5]: *Trade in Artists’ Materials: Markets and Commerce in Europe to 1700*, 457.
 
-[^6]: Kirby and Spring, “Ms. Fr. 640 in the World of Pigments in
-Sixteenth-Century Europe,”
-[<u>https://edition640.makingandknowing.org/#/essays/ann_321_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19).
+[^6]: Kirby and Spring, “Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe,” [<u>https://edition640.makingandknowing.org/#/essays/ann_321_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19).
 
-[^7]: Jo Kirby, “Recipes and Making Lake Pigments from Natural Dyes,” in
-*Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and
-Their Historical Sources*, Jo Kirby, Maarten van Bommel, and André
-Verhecken. (London: Archetype Publications Ltd, 2014), 69–105. See p. 69
-for a table with names for red lake pigments. Lakes were manufactured by
-precipitating or adsorbing a dye onto a substrate; the most common
-reagent to form a substrate was potash alum, potassium aluminum sulfate,
-AlK(SO4)2·12H2O. The main characteristic of lakes is their translucency,
-which made them ideal pigments for use in oil paint to depict faint
-coloring in a face or depth and shadow in drapery when built up over
-opaque pigments.
+[^7]: Jo Kirby, “Recipes and Making Lake Pigments from Natural Dyes,” in *Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and Their Historical Sources*, Jo Kirby, Maarten van Bommel, and André Verhecken. (London: Archetype Publications Ltd, 2014), 69–105. See p. 69 for a table with names for red lake pigments. Lakes were manufactured by precipitating or adsorbing a dye onto a substrate; the most common reagent to form a substrate was potash alum, potassium aluminum sulfate, AlK(SO4)2·12H2O. The main characteristic of lakes is their translucency, which made them ideal pigments for use in oil paint to depict faint coloring in a face or depth and shadow in drapery when built up over opaque pigments.
 
-[^8]: On *rouge clair*, see Yuanxie Shi and Amy Chang, “Rouge Clair: Glass
-or Paint?” in *Secrets of Craft and Nature in Renaissance France. A
-Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
-edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
-Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
-Catapano. New York: Making and Knowing Project, 2020.
-[<u>https://edition640.makingandknowing.org/#/essays/ann_034_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_034_sp_16).
+[^8]: On *rouge clair*, see Yuanxie Shi and Amy Chang, “Rouge Clair: Glass or Paint?” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_034_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_034_sp_16).
 
-[^9]: I have separated these as follows: 1) material/place: *cuivre
-rouge*; *esmail rouge*; *estain rouge*; *goume rouge*; *mer Rouge*;
-*pavot rouge*; *quarreau rouge*; *rouge commun*; *rouge d’Allemaigne*;
-*rouge clair*; *rouge cler*; *rouge d’escaille*; *rouges de mine*;
-*rouge de sanguine; terre grasse rouge*; *vené de rouge*; 2) *noir
-rougeastre*; *rose rouge*; *rouge*; *rougeastre*; *rouges*; *rouget*;
-*rougeur*; *rougeurs*; *rougi*; *rougie*; *rougies*; *rougir*;
-*rougira*; *rougiras*; *rougis*; *rougissant*; *rougisse*; *rougissent*;
-*rougist*; *rougy*.
+[^9]: I have separated these as follows: 1) material/place: *cuivre rouge*; *esmail rouge*; *estain rouge*; *goume rouge*; *mer Rouge*; *pavot rouge*; *quarreau rouge*; *rouge commun*; *rouge d’Allemaigne*; *rouge clair*; *rouge cler*; *rouge d’escaille*; *rouges de mine*; *rouge de sanguine; terre grasse rouge*; *vené de rouge*; 2) *noir rougeastre*; *rose rouge*; *rouge*; *rougeastre*; *rouges*; *rouget*; *rougeur*; *rougeurs*; *rougi*; *rougie*; *rougies*; *rougir*; *rougira*; *rougiras*; *rougis*; *rougissant*; *rougisse*; *rougissent*; *rougist*; *rougy*.
 
-[^10]: I acknowledge that this is subjective, as the designation was
-sometimes difficult to determine and certain instances could be argued
-to fit into both categories.
+[^10]: I acknowledge that this is subjective, as the designation was sometimes difficult to determine and certain instances could be argued to fit into both categories.
