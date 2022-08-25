@@ -5,7 +5,7 @@ Spring 2022<br/>
 Making and Knowing in Early Modern Europe: Hands-On History<br/>
 
 In an entry of BnF Ms. Fr. 640 entitled “Counterproofing” ([<u>folio
-51r</u>](https://edition640.makingandknowing.org/#/folios/51r)), the
+51r</u>](https://edition640.makingandknowing.org/#/folios/51r/f/51r/tl), the
 author-practitioner provides the reader with instructions on how to copy
 a print using a method of the same name that entails wetting the print
 and pressing it onto a fresh piece of paper in an attempt to dampen the
@@ -88,7 +88,7 @@ cm). The Metropolitan Museum of Art, New York, Rogers Fund, 1918.
 18.65.12,
 [<u>https://www.metmuseum.org/art/collection/search/387875</u>](https://www.metmuseum.org/art/collection/search/387875)
 
-# Right: Marcantonio Raimondi, *Christ Taking Leave of His Mother, from The Life of the Virgin, after Albrecht Dürer,* c. 1506. Engraving. 292 x 211mm. Christchurch Art Gallery Te Puna o Waiwhetū, Christchurch, New Zealand. Sir Joseph Kinsey bequest. 69/279, [<u>https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of</u>](https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of).
+Right: Marcantonio Raimondi, *Christ Taking Leave of His Mother, from The Life of the Virgin, after Albrecht Dürer,* c. 1506. Engraving. 292 x 211mm. Christchurch Art Gallery Te Puna o Waiwhetū, Christchurch, New Zealand. Sir Joseph Kinsey bequest. 69/279, [<u>https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of</u>](https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of).
 
 Though there is no evidence that Raimondi used counterproofing here (in
 fact, many sources applaud him for his painstaking detail in copying
@@ -191,10 +191,12 @@ his covert copies, it certainly seems he was capable of getting away
 with it.
 
 <img src="./media-lang/image6.jpg" style="width:4.32137in;height:4.20313in" />  
+
 Results of counterproofing test. On the left, the new print, and on the
 right, the original drawing used here.
 
 <img src="./media-lang/image4.jpg" style="width:5.10566in;height:3.67188in" />  
+
 A corner of the back of the original drawing after burnishing, with the
 round indentations of the muller I used visible.
 
@@ -203,7 +205,7 @@ round indentations of the muller I used visible.
 The same corner after wetting it and letting it dry. As is clear, the
 indentations are no longer visible.
 
- # Bibliography
+## Bibliography
 
 Bertozzi, Nicole. “Transferring Images.” In *Secrets of Craft and Nature
 in Renaissance France. A Digital Critical Edition and English
