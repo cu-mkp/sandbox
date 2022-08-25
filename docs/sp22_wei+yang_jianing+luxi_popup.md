@@ -4,9 +4,7 @@
 Spring 2022<br/>
 HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History<br/>
 
-\<iframe src="https://player.vimeo.com/video/710444936?h=b9508dad89"
-width="640" height="564" frameborder="0" allow="autoplay; fullscreen"
-allowfullscreen>\</iframe>
+[Making and Knowing Pop-up Book](https://player.vimeo.com/video/710444936?h=b9508dad89)
 
 [A Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf)
 
@@ -19,9 +17,9 @@ Europe: Hands-On History" at Columbia University was created by Luxi
 Yang and Jianing Wei.
 
 This pop-up book contains both a selection of entries from Ms. Fr. 640
-and a miniaturized *Kunstkammer*. Its four chapters: "Tools and the
+and a miniaturized *Kunstkammer*. Its four chapters "Tools and the
 Book," "Life and Nature," "Nature and Imagination," and "Against
-Nature," emphasize the first-person and experimental nature of Ms. Fr.
+Nature" emphasize the first-person and experimental nature of Ms. Fr.
 640. The book as a whole reveals how Naturalia (natural things),
 Artificialia (artifacts - human-made things), and Scientifica
 (measuring/mathematical objects) were brought together in Renaissance
@@ -29,7 +27,7 @@ France to form intriguing collections.
 
 ### Kunstkammer
 
-*Kunstkammer* is German for “Chamber of Art.” Since the medieval period,
+*Kunstkammer* is German for “Chamber of Art.” Since the medieval period
 wealthy Europeans collected objects that combined natural materials and
 artistic virtuosity, as well as monstrous, unique, and exotic objects.
 The building of a *Kunstkammer* is more than a collecting activity: it
@@ -61,12 +59,12 @@ technical points.
 
 ## Pop-up Book and Collection of Miniatures: Table of Contents
 
-Below is the table of contents for the pop-up book, with links to the
-folios represented from the Edition of BnF Ms .Fr. 640. Because of the
+Below is the table of contents for the pop-up book with links to the
+folios represented from the Edition of BnF Ms. Fr. 640. Because of the
 form of our final project, the way these contents are displayed will be
 different from the “step-by-step” instructions found in Fr. 640. Also,
 since our book is 3D and the [Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf) is “flat,” we spend more than one page in the Presentation
-showing the pages “before and after” they have “popped up” or interacted
+showing the pages “before and after” they have “popped up” or been interacted
 with.
 
 ### Chapter 1. Tools and the Book
@@ -93,7 +91,7 @@ with.
 
 -   [Flower](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl)
 
--   [<u>Casting in Sulfur](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
+-   [Casting in Sulfur](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
 
 -   [Jasper](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)
 
