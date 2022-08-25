@@ -13,7 +13,7 @@ This project is directed toward Columbia College students who have taken the cou
 
 ## Introduction
 
-In his account of the Greco-Persian wars,[1] Herodotus doesn’t string
+In his account of the Greco-Persian wars,[^1] Herodotus doesn’t string
 together a series of events into a narrative like we would expect a
 historian to do nowadays (Dewald xxx). Rather, as you readers of the
 *Histories*, might already know, Herodotus acts as a modern-day
@@ -144,7 +144,7 @@ mentions of Herodotus using more subheadings, “Galleys”, “Gold vases”,
 and “Iron vase joined and soldered”, that seem to offer insight into the
 kinds of knowledge he was most interested in or identified as worthy of
 reproducing or storing in his manuscript (162r). It is interesting that
-the subheadings[2] refer to specific objects but the main text
+the subheadings[^2] refer to specific objects but the main text
 associated with each one of them simply provides the page and context in
 which these objects appear in (what could have been his own copy of) the
 *Histories* with no further commentary, as if he meant to go back to
@@ -229,7 +229,7 @@ as a repository of actions past and present. It is through repeated
 actions, multiple attempts, that his recipes arise, and particularly by
 actively “rediscover\[ing\]” experiments “picked up & taken from others”
 (166r). He writes in Latin that “\[n\]othing is said now that has not
-been said or done before,[3]” implying that what we might think of as
+been said or done before,[^3]” implying that what we might think of as
 copying texts “from those who preceded you” coukd actually 
 imbue the texts with new meanings for “those who come after”, just as
 his references to Herodotus in the manuscript might be doing (166r). And
@@ -343,9 +343,9 @@ Renaissance France. A Digital Critical Edition and English Translation of BnF Ms
 
 - Cennini, Cennino d’Andrea. *The Craftsman’s Handbook, ‘Il Libro dell’Arte’*, trans. by Daniel Thompson (New York: Dover, 1960).
 
-- Dewald, Carolyn. “Introduction.” In *The Histories*. Oxford World’s Classics. (Oxford: OUP Oxford, 2008).[<u>https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site).
+- Dewald, Carolyn. “Introduction.” In *The Histories*. Oxford World’s Classics. (Oxford: OUP Oxford, 2008).[https://global.oup.com/ukhe/product/the-histories-9780199535668?cc=us&lang=en&](https://global.oup.com/ukhe/product/the-histories-9780199535668?cc=us&lang=en&).
 
-- Herodotus. *The Histories*. Oxford World’s Classics. (Oxford: OUP Oxford, 2008). [<u>[https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&d](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site)</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=437288&site=ehost-live&scope=site).
+- Herodotus. *The Histories*. Oxford World’s Classics. (Oxford: OUP Oxford, 2008). [https://global.oup.com/ukhe/product/the-histories-9780199535668?cc=us&lang=en&](https://global.oup.com/ukhe/product/the-histories-9780199535668?cc=us&lang=en&).
 
 - Keller, Vera. “Everything depends upon the trial ("Le tout gist à l’essay"): Four Manuscripts between the Recipe and the Experimental Essay.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_320_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19).
 
@@ -353,8 +353,8 @@ Renaissance France. A Digital Critical Edition and English Translation of BnF Ms
 
 - Smith, Pamela. “Collecting Nature and Art: Artisans and Knowledge in the Kunstkammer,” in *Engaging With Nature: Essays on the Natural World in Medieval and Early Modern Europe*, ed. Barbara Hannawalt and Lisa Kiser (University of Notre Dame Press, 2008), 115-136.
 
-[1] A series of wars fought between various Greek states and the Persian empire, during which Persia invaded Greece twice, and the latter ended up victorious.
+[^1]: A series of wars fought between various Greek states and the Persian empire, during which Persia invaded Greece twice, and the latter ended up victorious.
 
-[2] This entry seems to be the only one that contains subheadings of this type in the entire manuscript.
+[^2]: This entry seems to be the only one that contains subheadings of this type in the entire manuscript.
 
-[3] Per a note in the critical edition of Ms. Fr. 640, the author-practitioner here seems to be borrowing from Carthaginian playwright Terence, who, in his comedy *Eunuchus*, writes the following: "Nothing is said now that has not been said before” (166r). The author-practitioner adds the part about nothing being “done before,” another potential intervention of his own in the text and in ongoing scholarly conversations on the production of knowledge.
+[^3]: Per a note in the critical edition of Ms. Fr. 640, the author-practitioner here seems to be borrowing from Carthaginian playwright Terence, who, in his comedy *Eunuchus*, writes the following: "Nothing is said now that has not been said before” (166r). The author-practitioner adds the part about nothing being “done before,” another potential intervention of his own in the text and in ongoing scholarly conversations on the production of knowledge.
