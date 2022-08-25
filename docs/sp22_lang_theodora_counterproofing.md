@@ -9,11 +9,10 @@ In an entry of BnF Ms. Fr. 640 entitled “Counterproofing” ([<u>folio
 author-practitioner provides the reader with instructions on how to copy
 a print using a method of the same name that entails wetting the print
 and pressing it onto a fresh piece of paper in an attempt to dampen the
-ink and ultimately transfer the image. Part of the process that the
-author-practitioner recommends involves burnishing the back of the page
+ink and ultimately transfer the image. Part of the author-practitioner's
+recommended process involves burnishing the back of the page
 with a tooth or glass, which can leave indentations or marks on the
-paper. In this entry, among fixes for yellowing and changing
-orientations, there is a particularly curious sentence: “And if you want
+paper. In this entry there is a particularly curious sentence: “And if you want
 this not to be known, if by chance, you borrowed the piece, moisten the
 paper, and the polishing that the burnisher has made on the back, which
 shows what has been done, will not be known.” Not only is the
@@ -123,8 +122,8 @@ Art historian Hannah Friedman examines another motivation for copying:
 teaching. In her lecture “Modern Michelangelos? Copies, Fakes, and New
 Economies of Taste in the Early Seicento,” she describes a print of a
 study of legs by printer Luca Ciamberlano (1580–1641), done after a
-drawing by artist Agostino Carracci (1557–1602).[^11] This, and similar
-prints, were made as educational tools, often compiled in books.[^12] The
+drawing by artist Agostino Carracci (1557–1602).[^11] This and similar
+prints were made as educational tools and often compiled in books.[^12] The
 purpose of these books, often referred to as “drawing books,” was to
 teach life drawing skills outside of the typical artist workshop
 environment.[^13] As Friedman indicates, images from certain artists, such
@@ -159,13 +158,13 @@ writes,
 > those who disseminated it) by patrons.[^15]
 
 Ms. Fr. 640 is one such text on technical knowledge; perhaps the theft
-technique is included merely to entice a reader, or assert expertise.
+technique is included merely to entice a reader, or to assert expertise.
 Neilson continues, “But to keep their patron–and other
 visitors–interested, artists often withheld information to add to the
 mystique of their work.”[^16] This oscillation between openness and
 secrecy, remaining irreplaceable to patrons while advertising to new
 audiences (or new patrons), coupled with emerging questions of
-authorship provide insights into why the author-practitioner may have
+authorship provides insights into why the author-practitioner may have
 seen value in secretly copying imagery. Perhaps he wanted to reproduce
 another’s work and sell it as his own, or innocently wanted to learn
 from another artist whose prints were in demand, possibly at the request
@@ -173,7 +172,7 @@ of a patron. Inclusion of the method could have served as a means of
 flaunting his skill in order to promote himself to possible students,
 apprentices, other artisans, or customers. He may have wanted a copy of
 an image to use as a reference, such as Raimondi’s prints after Raphael.
-It could have even been a cost-saving solution, to acquire new prints
+It could have even been a cost-saving solution to acquire new prints
 without paying for them.
 
 Though I did not have the exact materials that the author-practitioner
@@ -239,7 +238,7 @@ Hosington, Brenda M. “Introduction: Translation and Print Culture in
 Early Modern Europe.” *Renaissance Studies* 29, no. 1 (2015): 5–18.
 [<u>http://www.jstor.org/stable/26631746</u>](http://www.jstor.org/stable/26631746).
 
-Long, Pamela O.. *Openness, Secrecy, Authorship: Technical Arts and the
+Long, Pamela O. *Openness, Secrecy, Authorship: Technical Arts and the
 Culture of Knowledge From Antiquity to the Renaissance*. Baltimore:
 Johns Hopkins University Press. 2001.
 
