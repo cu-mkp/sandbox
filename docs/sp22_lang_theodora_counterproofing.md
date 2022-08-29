@@ -272,71 +272,36 @@ Wilkinson, Catherine. “The Engravings of Marcantonio Raimondi.” *Art
 Journal* 42, no. 3 (1982): 236–39.
 [<u>https://doi.org/10.2307/776586</u>](https://doi.org/10.2307/776586).
 
-[^1]: Ad Stijnman, *Engraving and Etching, 1400–2000: A History of the
-Development of Manual Intaglio Printmaking* (London: Archetype
-Publications, 2012), p. 159.
 
-[^2]: Nicole Bertozzi, “Transferring Images,” in *Secrets of Craft and
-Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing
-Project, 2020).
-<https://edition640.makingandknowing.org/#/essays/ann_067_fa_18>. DOI:
-[https://www.doi.org/10.7916/qmcq-ce66.](https://www.doi.org/10.7916/qmcq-ce66)
+[^1]: Ad Stijnman, *Engraving and Etching, 1400–2000: A History of the Development of Manual Intaglio Printmaking* (London: Archetype Publications, 2012), p. 159.
 
-[^3]: Brenda M. Hosington, “Introduction: Translation and Print Culture in
-Early Modern Europe,” *Renaissance Studies* 29, no. 1 (2015): 5–18. p.
-7.
-[<u>http://www.jstor.org/stable/26631746</u>](http://www.jstor.org/stable/26631746).
+[^2]: Nicole Bertozzi, “Transferring Images,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020). <https://edition640.makingandknowing.org/#/essays/ann_067_fa_18>. DOI: [https://www.doi.org/10.7916/qmcq-ce66.](https://www.doi.org/10.7916/qmcq-ce66)
 
-[^4]: Lisa Pon, “Prints and Privileges: Regulating the Image in
-16th-Century Italy,” *Harvard University Art Museums Bulletin* 6, no. 2
-(1998): 40–64. p. 41.
-[<u>http://www.jstor.org/stable/4301572</u>](http://www.jstor.org/stable/4301572).
+[^3]: Brenda M. Hosington, “Introduction: Translation and Print Culture in Early Modern Europe,” *Renaissance Studies* 29, no. 1 (2015): 5–18. p.7. [<u>http://www.jstor.org/stable/26631746</u>](http://www.jstor.org/stable/26631746).
 
-[^5]: Quoted by Pon, quoting Joseph Koerner's translation from *The Moment
-of Self-Portraiture in German Renaissance Art* (Chicago, 1993), p. 213.
+[^4]: Lisa Pon, “Prints and Privileges: Regulating the Image in 16th-Century Italy,” *Harvard University Art Museums Bulletin* 6, no. 2 (1998): 40–64. p. 41. [<u>http://www.jstor.org/stable/4301572</u>](http://www.jstor.org/stable/4301572).
 
-[^6]: Noah Charney, *The Art of Forgery: The Minds, Motives and Methods of
-the Master Forgers* (London: Phaidon Press Limited, 2015), p. 12.
+[^5]: Quoted by Pon, quoting Joseph Koerner's translation from *The Moment of Self-Portraiture in German Renaissance Art* (Chicago, 1993), p. 213.
 
-[^7]: Noah Charney, *The Devil in the Gallery: How Scandal, Shock, and
-Rivalry Shaped the Art World* (Blue Ridge Summit: Rowman & Littlefield
-Publishers, 2021), p. 84. Accessed May 13, 2022. ProQuest Ebook Central.
+[^6]: Noah Charney, *The Art of Forgery: The Minds, Motives and Methods of the Master Forgers* (London: Phaidon Press Limited, 2015), p. 12.
 
-[^8]: Catherine Wilkinson, “The Engravings of Marcantonio Raimondi,” *Art
-Journal* 42, no. 3 (1982): 236–39. p. 237.
-[<u>https://doi.org/10.2307/776586</u>](https://doi.org/10.2307/776586).
+[^7]: Noah Charney, *The Devil in the Gallery: How Scandal, Shock, and Rivalry Shaped the Art World* (Blue Ridge Summit: Rowman & Littlefield Publishers, 2021), p. 84. Accessed May 13, 2022. ProQuest Ebook Central.
+
+[^8]: Catherine Wilkinson, “The Engravings of Marcantonio Raimondi,” *Art Journal* 42, no. 3 (1982): 236–39. p. 237. [<u>https://doi.org/10.2307/776586</u>](https://doi.org/10.2307/776586).
 
 [^9]: Ibid. p. 239.
 
 [^10]: Ibid. p. 238.
 
-[^11]: Hannah Friedman, “Modern Michelangelos? Copies, Fakes, and New
-Economies of Taste in the Early Seicento.” Paper presented at “When
-Michelangelo Was Modern: The Art Market and Collecting in Italy,
-1450–1650” organized by the Center for the History of Collecting, Frick
-Art Reference Library, New York. April 13, 2019.
-[<u>https://www.youtube.com/watch?v=VuB9EtQ8DeY</u>](https://www.youtube.com/watch?v=VuB9EtQ8DeY).
+[^11]: Hannah Friedman, “Modern Michelangelos? Copies, Fakes, and New Economies of Taste in the Early Seicento.” Paper presented at “When Michelangelo Was Modern: The Art Market and Collecting in Italy, 1450–1650” organized by the Center for the History of Collecting, Frick Art Reference Library, New York. April 13, 2019. [<u>https://www.youtube.com/watch?v=VuB9EtQ8DeY</u>](https://www.youtube.com/watch?v=VuB9EtQ8DeY).
 
-[^12]: For an excellent digital reproduction of one such book, see this
-link to one in the collection of the Biblioteca Nacional de España:
-[<u>http://bdh-rd.bne.es/viewer.vm?id=bdh0000251828</u>](http://bdh-rd.bne.es/viewer.vm?id=bdh0000251828).
+[^12]: For an excellent digital reproduction of one such book, see this link to one in the collection of the Biblioteca Nacional de España: [<u>http://bdh-rd.bne.es/viewer.vm?id=bdh0000251828</u>](http://bdh-rd.bne.es/viewer.vm?id=bdh0000251828).
 
-[^13]: Lauren Moya Ford, “How Europe Learned to Draw,” *Hyperallergic*,
-January 1, 2020. Accessed May 13, 2022.
-[<u>https://hyperallergic.com/526880/how-europe-learned-to-draw/</u>](https://hyperallergic.com/526880/how-europe-learned-to-draw/).
+[^13]: Lauren Moya Ford, “How Europe Learned to Draw,” *Hyperallergic*, January 1, 2020. Accessed May 13, 2022. [<u>https://hyperallergic.com/526880/how-europe-learned-to-draw/</u>](https://hyperallergic.com/526880/how-europe-learned-to-draw/).
 
-[^14]: Pamela O. Long, *Openness, Secrecy, Authorship: Technical Arts and
-the Culture of Knowledge From Antiquity to the Renaissance*. (Baltimore:
-Johns Hopkins University Press, 2001).[<u>https://www.press.jhu.edu/books/title/2083/openness-secrecy-authorship</u>](https://www.press.jhu.edu/books/title/2083/openness-secrecy-authorship).
+[^14]: Pamela O. Long, *Openness, Secrecy, Authorship: Technical Arts and the Culture of Knowledge From Antiquity to the Renaissance*. (Baltimore: Johns Hopkins University Press, 2001). [<u>https://www.press.jhu.edu/books/title/2083/openness-secrecy-authorship</u>](https://www.press.jhu.edu/books/title/2083/openness-secrecy-authorship).
 
-[^15]: Christina Neilson, “Demonstrating Ingenuity: The Display and
-Concealment of Knowledge in Renaissance Artists’ Workshops,” *I Tatti
-Studies in the Italian Renaissance* 19, no. 1 (2016): 63–91. p. 78.
-[<u>https://www.jstor.org/stable/26558270</u>](https://www.jstor.org/stable/26558270).
+[^15]: Christina Neilson, “Demonstrating Ingenuity: The Display and Concealment of Knowledge in Renaissance Artists’ Workshops,” *I Tatti Studies in the Italian Renaissance* 19, no. 1 (2016): 63–91. p. 78 [<u>https://www.jstor.org/stable/26558270</u>](https://www.jstor.org/stable/26558270).
 
 [^16]: Ibid. p. 78.
 
