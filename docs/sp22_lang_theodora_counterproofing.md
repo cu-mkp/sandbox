@@ -331,8 +331,7 @@ January 1, 2020. Accessed May 13, 2022.
 
 [^14]: Pamela O. Long, *Openness, Secrecy, Authorship: Technical Arts and
 the Culture of Knowledge From Antiquity to the Renaissance*. (Baltimore:
-Johns Hopkins University Press, 2001).
-[<u>https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=75587&site=ehost-live&scope=site</u>](https://search-ebscohost-com.ezproxy.cul.columbia.edu/login.aspx?direct=true&AuthType=ip&db=e025xna&AN=75587&site=ehost-live&scope=site).
+Johns Hopkins University Press, 2001).[<u>https://www.press.jhu.edu/books/title/2083/openness-secrecy-authorship</u>](https://www.press.jhu.edu/books/title/2083/openness-secrecy-authorship).
 
 [^15]: Christina Neilson, “Demonstrating Ingenuity: The Display and
 Concealment of Knowledge in Renaissance Artists’ Workshops,” *I Tatti
