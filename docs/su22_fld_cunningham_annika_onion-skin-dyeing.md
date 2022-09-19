@@ -2,7 +2,9 @@
 
 ## (NJR introductory section here!)
 
-[Annika's Flickr Ablum](https://www.flickr.com/photos/128418753@N06/albums/72177720300558025)
+## Notes and pictures - raw data
+- Template and notes used during dyeing processes for calculations and record keeping: [[XLSX](../data/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx)] [[PDF](../data/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
+- [Flickr Ablum](https://www.flickr.com/photos/128418753@N06/albums/72177720300558025) with all photos
 
 ## First round - 07/07/22 - prepping the onion skins and using alum as a mordant
 - Based off the recipes I found, there was no consistent ratio between onion skins to amount of textile to water
