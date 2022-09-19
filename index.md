@@ -92,7 +92,9 @@ Course descriptions and syllabi are listed in [Syllabi](docs/syllabi.md).
 ### Collaborator Pilot Courses
 Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with M&K.
 
-#### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World \[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)\]
+#### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World
+
+**Syllabus:** \[[PDF](docs/sp22_nielson_christina_syllabus-arth-295_ingenious-making_web-version.pdf)\] \[[DOCX](docs/sp22_nielson_christina_syllabus-arth-295_ingenious-making_web-version.docx)\]
 
 Spring 2022
 Oberlin College
