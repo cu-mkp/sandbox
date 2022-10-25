@@ -79,6 +79,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Discarded Cartographies: Orienting Process Through Waste](docs/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 - [Counterproofing: Reproduction and Theft in Early Modern Print Culture](docs/sp22_lang_theodora_counterproofing.md) by Theodora Bocanegra Lang
 - [Making and Knowing Pop-up Book](docs/sp22_wei+yang_jianing+luxi_popup.md) by Luxi Yang and Jianing Wei
+- [Animal Rationality in Ms. Fr. 640](docs/sp22_nebolsin_victoria_final-project_animal-rationality.md) by Victoria Nebolsin
 
 ### Making Colors!
 - [Dyeing with Onion Skins](docs/su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
