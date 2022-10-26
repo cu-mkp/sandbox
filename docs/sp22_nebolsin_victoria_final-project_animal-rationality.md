@@ -487,113 +487,55 @@ sixteenth-century views of the relationships between human and beast.
 
 ## Works Cited
 
-Billault, Alain. “Plutarch’s *Lives*.” In *The Classical Heritage in
-France*. Leiden: Brill Publishers, 2002.
+Billault, Alain. “Plutarch’s *Lives*.” In *The Classical Heritage in France*. Leiden: Brill Publishers, 2002.
 
-Boas, George. *The Happy Beast in French Thought of the Seventeenth
-Century*. Baltimore: The John Hopkins Press, 1933.
+Boas, George. *The Happy Beast in French Thought of the Seventeenth Century*. Baltimore: The John Hopkins Press, 1933.
 
-Bondeson, Jan. “Animals on Trial.” In *The Feejee Mermaid and Other
-Essays in Natural and Unnatural History*. Ithaca: Cornell University
-Press, 2014.
+Bondeson, Jan. “Animals on Trial.” In *The Feejee Mermaid and Other Essays in Natural and Unnatural History*. Ithaca: Cornell University Press, 2014.
 
-Fissell, Mary. “Imagining Vermin in Early Modern England.” *History
-Workshop Journal*, no. 47 (1999): 1–29.
-[https://www.jstor.org/stable/4289600](https://www.jstor.org/stable/4289600).
+Fissell, Mary. “Imagining Vermin in Early Modern England.” *History Workshop Journal*, no. 47 (1999): 1–29. [https://www.jstor.org/stable/4289600](https://www.jstor.org/stable/4289600).
 
-Gelli, Giovanni Battista. *The Circe of Giovanni Battista Gelli of the
-Academy of Florence.* Translated by Thomas Brown Gelli. London: J.N.
-Publishers, 1710.
+Gelli, Giovanni Battista. *The Circe of Giovanni Battista Gelli of the Academy of Florence.* Translated by Thomas Brown Gelli. London: J.N. Publishers, 1710.
 
-Grafit, Sasha. “Silkworms and the Work of Algiers.” In *Secrets of Craft
-and Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing
-Project, 2020.
-[https://edition640.makingandknowing.org/#/essays/ann_059_sp_17](https://edition640.makingandknowing.org/#/essays/ann_059_sp_17).
+Grafit, Sasha. “Silkworms and the Work of Algiers.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org/#/essays/ann_059_sp_17](https://edition640.makingandknowing.org/#/essays/ann_059_sp_17).
 
-Hutton, James. “The Classics in Sixteenth Century France.” *The
-Classical Weekly* 43, no. 9 (1950): 131–139.
-[https://www.jstor.org/stable/4342690](https://www.jstor.org/stable/4342690).
+Hutton, James. “The Classics in Sixteenth Century France.” *The Classical Weekly* 43, no. 9 (1950): 131–139. [https://www.jstor.org/stable/4342690](https://www.jstor.org/stable/4342690).
 
-Josselin, Ralph. *The Diary of Ralph Josselin, 1616–1683*. London: The
-British Academy, 1976.
+Josselin, Ralph. *The Diary of Ralph Josselin, 1616–1683*. London: The British Academy, 1976.
 
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
-Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano,
-editors. *Secrets of Craft and Nature in Renaissance France. A Digital
-Critical Edition and English Translation of BnF Ms. Fr. 640*. New York:
-Making and Knowing Project, 2020.
-[https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
+Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, editors. *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
 
-Meijer, Eva. *When Animals Speak: Toward an Interspecies Democracy.* New
-York: New York University Press, 2019.
+Meijer, Eva. *When Animals Speak: Toward an Interspecies Democracy.* New York: New York University Press, 2019.
 
-Newmyer, Stephen T. “Just Beasts? Plutarch and Modern Science On the
-Sense of Fair Play in Animals.” *The Classical Outlook* 74, no. 3
-(1997): 85–88.
-[http://www.jstor.org/stable/43937959](http://www.jstor.org/stable/43937959).
+Newmyer, Stephen T. “Just Beasts? Plutarch and Modern Science On the Sense of Fair Play in Animals.” *The Classical Outlook* 74, no. 3 (1997): 85–88.[http://www.jstor.org/stable/43937959](http://www.jstor.org/stable/43937959).
 
-Plutarch. “On Talkativeness.” In *Moralia*. Translated by Frank Cole
-Babbitt. London: Loeb Classical Library, 1939.
-[https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate\*.html](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate*.html).
+Plutarch. “On Talkativeness.” In *Moralia*. Translated by Frank Cole Babbitt. London: Loeb Classical Library, 1939. [https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate\*.html](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate*.html).
 
-Plutarch. *The Parallel Lives*. Translated by Frank Cole Babbitt.
-London: Loeb Classical Library, 1918.
-[https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion*.html).
+Plutarch. *The Parallel Lives*. Translated by Frank Cole Babbitt. London: Loeb Classical Library, 1918.[https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion*.html).
 
-Plutarch. “Whether Beasts are Rational.” In *Moralia.* Translated by
-Frank Cole Babbitt. London: Loeb Classical Library: 1957.
-[https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus*.html).
+Plutarch. “Whether Beasts are Rational.” In *Moralia.* Translated by Frank Cole Babbitt. London: Loeb Classical Library: 1957. [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus*.html).
 
-Raber, Karen. *Animal Bodies, Renaissance Culture.* Philadelphia:
-University of Pennsylvania Press, 2013.
+Raber, Karen. *Animal Bodies, Renaissance Culture.* Philadelphia: University of Pennsylvania Press, 2013.
 
-Smith, Pamela. *The Body of the Artisan.* Chicago: University of Chicago
-Press, 2004.
+Smith, Pamela. *The Body of the Artisan.* Chicago: University of Chicago Press, 2004.
 
-Smith, Pamela H.. “Lifecasting in Ms. Fr. 640.” In *Secrets of Craft and
-Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing
-Project, 2020.
-[https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
+Smith, Pamela H.. “Lifecasting in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
 
-Thomas, Keith. *Man and the Natural World: Changing Attitudes in England
-1500–*1800 (Oxford: Oxford University Press, 1996), 95.
+Thomas, Keith. *Man and the Natural World: Changing Attitudes in England 1500–*1800 (Oxford: Oxford University Press, 1996), 95.
 
-[^1]: Pamela H. Smith, “Lifecasting in Ms. Fr. 640,” in *Secrets of Craft
-and Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing
-Project, 2020),
-[https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
+[^1]: Pamela H. Smith, “Lifecasting in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
 
-[^2]: Smith, “Lifecasting in Ms. Fr. 640,”
-[https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
+[^2]: Smith, “Lifecasting in Ms. Fr. 640,” [https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
 
-[^3]: Pamela Smith, *The Body of the Artisan* (Chicago: University of
-Chicago Press, 2004), 121.
+[^3]: Pamela Smith, *The Body of the Artisan* (Chicago: University of Chicago Press, 2004), 121.
 
 [^4]: Ibid.
 
-[^5]: Stephen T. Newmyer, “Just Beasts? Plutarch and Modern Science On the
-Sense of Fair Play in Animals,” *The Classical Outlook* 74, no. 3
-(1997): 85–88,
-[http://www.jstor.org/stable/43937959](http://www.jstor.org/stable/43937959).
+[^5]: Stephen T. Newmyer, “Just Beasts? Plutarch and Modern Science On the Sense of Fair Play in Animals,” *The Classical Outlook* 74, no. 3 (1997): 85–88, [http://www.jstor.org/stable/43937959](http://www.jstor.org/stable/43937959).
 
-[^6]: Karen Raber, *Animal Bodies, Renaissance Culture* (Philadelphia:
-University of Pennsylvania Press, 2013), 121.
+[^6]: Karen Raber, *Animal Bodies, Renaissance Culture* (Philadelphia: University of Pennsylvania Press, 2013), 121.
 
-[^7]: Mary Fissell, “Imagining Vermin in Early Modern England,” *History
-Workshop Journal*, 47 (1999): 3.
+[^7]: Mary Fissell, “Imagining Vermin in Early Modern England,” *History Workshop Journal*, 47 (1999): 3.
 
 [^8]: As cited in ibid., 5.
 
@@ -603,56 +545,35 @@ Workshop Journal*, 47 (1999): 3.
 
 [^11]: Fissell, “Imagining Vermin in Early Modern England,” 14–15.
 
-[^12]: Eva Meijer, *When Animals Speak: Towards an Interspecies View of
-Democracy* (New York: New York University Press, 2019),
-[https://doi-org.ezproxy.cul.columbia.edu/10.18574/nyu/9781479859351.001.0001](https://doi-org.ezproxy.cul.columbia.edu/10.18574/nyu/9781479859351.001.0001).
+[^12]: Eva Meijer, *When Animals Speak: Towards an Interspecies View of Democracy* (New York: New York University Press, 2019), [https://doi-org.ezproxy.cul.columbia.edu/10.18574/nyu/9781479859351.001.0001](https://doi-org.ezproxy.cul.columbia.edu/10.18574/nyu/9781479859351.001.0001).
 
-[^13]: Jan Bondeson, “Animals on Trial,” In *The Feejee Mermaid and Other
-Essays in Natural and Unnatural History* (Ithaca: Cornell University
-Press, 2014), 132.
+[^13]: Jan Bondeson, “Animals on Trial,” In *The Feejee Mermaid and Other Essays in Natural and Unnatural History* (Ithaca: Cornell University Press, 2014), 132.
 
 [^14]: Ibid.
 
-[^15]: Plutarch, “On Talkativeness,” In *Moralia* (London: Loeb Classical
-Library, 1939), translated by Frank Cole Babbitt,
-[https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate\*.html](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate*.html).
+[^15]: Plutarch, “On Talkativeness,” In *Moralia* (London: Loeb Classical Library, 1939), translated by Frank Cole Babbitt, [https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate\*.html](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/de_garrulitate*.html).
 
-[^16]: Plutarch, *The Parallel Lives*, translated by Frank Cole Babbitt
-(London: Loeb Classical Library, 1918),
-[https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion*.html).
+[^16]: Plutarch, *The Parallel Lives*, translated by Frank Cole Babbitt (London: Loeb Classical Library, 1918), [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Dion*.html).
 
-[^17]: Newmyer, “Just Beasts?” 85,
-[http://www.jstor.org/stable/43937959](http://www.jstor.org/stable/43937959).
+[^17]: Newmyer, “Just Beasts?” 85, [http://www.jstor.org/stable/43937959](http://www.jstor.org/stable/43937959).
 
-[^18]: Alain Billault, “Plutarch’s *Lives*,” in *The Classical Heritage in
-France* (Leiden: Brill Publishers, 2002), 220.
+[^18]: Alain Billault, “Plutarch’s *Lives*,” in *The Classical Heritage in France* (Leiden: Brill Publishers, 2002), 220.
 
-[^19]: James Hutton,“The Classics in Sixteenth Century France,” *The
-Classical Weekly* 43, no. 9 (1950): 137.
-[https://www.jstor.org/stable/4342690](https://www.jstor.org/stable/4342690).
+[^19]: James Hutton,“The Classics in Sixteenth Century France,” *The Classical Weekly* 43, no. 9 (1950): 137. [https://www.jstor.org/stable/4342690](https://www.jstor.org/stable/4342690).
 
 [^20]: Ibid.
 
-[^21]: Plutarch, “Whether Beasts are Rational,” in *Moralia*, translated
-by Frank Cole Babbitt (London: Loeb Classical Library: 1957),
-[<u>https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus\*.html</u>](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus*.html).
+[^21]: Plutarch, “Whether Beasts are Rational,” in *Moralia*, translated by Frank Cole Babbitt (London: Loeb Classical Library: 1957), [<u>https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus\*.html</u>](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus*.html).
 
-[^22]: Sasha Grafit, “Silkworms and the Work of Algiers,”
-[https://edition640.makingandknowing.org/#/essays/ann_059_sp_17](https://edition640.makingandknowing.org/#/essays/ann_059_sp_17).
+[^22]: Sasha Grafit, “Silkworms and the Work of Algiers,” [https://edition640.makingandknowing.org/#/essays/ann_059_sp_17](https://edition640.makingandknowing.org/#/essays/ann_059_sp_17).
 
-[^23]: Keith Thomas, *Man and the Natural World: Changing Attitudes in
-England 1500–*1800 (Oxford: Oxford University Press, 1996), 95.
+[^23]: Keith Thomas, *Man and the Natural World: Changing Attitudes in England 1500–*1800 (Oxford: Oxford University Press, 1996), 95.
 
-[^24]: Ralph Josselin, *The Diary of Ralph Josselin, 1616–1683* (London:
-The British Academy, 1976), 209.
+[^24]: Ralph Josselin, *The Diary of Ralph Josselin, 1616–1683* (London: The British Academy, 1976), 209.
 
-[^25]: Plutarch, “Whether Beasts are Rational,”
-[https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus*.html).
+[^25]: Plutarch, “Whether Beasts are Rational,” [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Gryllus*.html).
 
-[^26]: George Boas gathers this from fragments cited by Saint-Marc
-Girardin in *La Fontaine et les Fabulistes* of Fuselier’s *Les Animaux
-Raisonables*. George Boas, *The Happy Beast in French Thought of the
-Seventeenth Century* (Baltimore: The John Hopkins Press, 1933), 35.
+[^26]: George Boas gathers this from fragments cited by Saint-Marc Girardin in *La Fontaine et les Fabulistes* of Fuselier’s *Les Animaux Raisonables*. George Boas, *The Happy Beast in French Thought of the Seventeenth Century* (Baltimore: The John Hopkins Press, 1933), 35.
 
 [^27]: Ibid.
 
@@ -662,15 +583,11 @@ Seventeenth Century* (Baltimore: The John Hopkins Press, 1933), 35.
 
 [^30]: Raber, *Animal Bodies, Renaissance Culture*, 3.
 
-[^31]: Giovanni Battista Gelli, *The Circe of Giovanni Battista Gelli of
-the Academy of Florence* (London: J.N. Publishers, 1710), 42.
-[https://hdl.handle.net/2027/mdp.39015023171559](https://hdl.handle.net/2027/mdp.39015023171559).
+[^31]: Giovanni Battista Gelli, *The Circe of Giovanni Battista Gelli of the Academy of Florence* (London: J.N. Publishers, 1710), 42. [https://hdl.handle.net/2027/mdp.39015023171559](https://hdl.handle.net/2027/mdp.39015023171559).
 
 [^32]: Boas, *The Happy Beast*, 30.
 
-[^33]: Gelli, *The Circe,*
-[https://hdl.handle.net/2027/mdp.39015023171559](https://hdl.handle.net/2027/mdp.39015023171559),
-79.
+[^33]: Gelli, *The Circe*, [https://hdl.handle.net/2027/mdp.39015023171559](https://hdl.handle.net/2027/mdp.39015023171559), 79.
 
 [^34]: Ibid., 52–56.
 
