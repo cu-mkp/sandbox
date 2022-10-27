@@ -155,7 +155,7 @@ crayfish
 for the purposes of lifecasting. We can speculate that the
 author-practitioner hunted his rat as well, and in portraying him as
 Dionysius, an animal rationality emerges: the rat is a worthy opponent,
-mobilizing her greed and cunning to conquer the cupboard’s treasures.
+mobilizing his greed and cunning to conquer the cupboard’s treasures.
 
 While the author-practitioner explicitly compares the rat to a dictator,
 the vermin-killing manuals are not as harsh. *The Compleat English and
