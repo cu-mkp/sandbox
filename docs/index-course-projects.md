@@ -25,7 +25,8 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Understanding Natural Things in the World and the Workshop](su21_christensen_anna_final-project-natural-things.md) by Anna Christensen
 - [Foraging for Pigments: A Making and Knowing Project](su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder (PDF), [[PPTX](su21_snyder_mellon_final-project-pigments.pptx)]
 
-### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
+### Fall 2021 Final Student Projects (2022-01-27) 
+[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
 - [Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*](fa21_steinman_charlie_final-project-ms262.md) by Charlie Steinman
      - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data)
 - [Oral Culture in Ms. Fr. 640](fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
