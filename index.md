@@ -36,14 +36,14 @@ From Fall 2014 onwards, syllabi for all courses taught by M&K at Columbia. These
 - HIST GR8975: What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment (2017)
 - ENGL84031 / HISTGU4031 / COMS4495: Transforming Texts: Textual Analysis, Literary Modeling, and Visualization (2019)
 
-### [Collaborator Pilot Courses](index-collaborator-courses.md)
+### [Collaborator Pilot Courses](docs/index-collaborator-courses.md)
 Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with M&K.
 
-### [Presentations and Reference Materials](index-presentations-reference.md)
+### [Presentations and Reference Materials](docs/index-presentations-reference.md)
 Presentations, handouts, and other reference materials for teaching or research.
 
-### [Activity Sheets, Skillbuilding Assignments, and Reconstruction Protocols](index-activity-assignments.md)
+### [Activity Sheets, Skillbuilding Assignments, and Reconstruction Protocols](docs/index-activity-assignments.md)
 Assignment sheets and resources for hands-on reconstruction in the classroom, laboratory, studio, or kitchen.
 
-### [Assessment and Evaluation Tools](index-assessment-tools.md)
+### [Assessment and Evaluation Tools](docs/index-assessment-tools.md)
 Tools for assessing digital literacy, developed in collaboration with Columbia's Center for Teaching and Learning.
