@@ -19,7 +19,7 @@
      - "milk," 
      - "horse,” 
      - “earwax”
-- Browse the results and select **one** of the occurrences in the manuscript that you find interesting. Please note the page number (e.g., fol. 76v) and URL (e.g.,<https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl>) from which you viewed the recipe or entry containing the term. **Keep notes for discussion.**
+- Browse the results and select **one** of the occurrences in the manuscript that you find interesting. Please note the page number (e.g., fol. 76v) and URL (e.g., <https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl>) from which you viewed the recipe or entry containing the term. **Keep notes for discussion.**
  - What is the recipe for? Is it a recipe at all? If not, how would you characterize it? How is the relevant object/material/animal used in the recipe? Was this use or the material surprising to you? How does this manuscript entry relate to the study of material culture, art history, or the history of science? Could you reconstruct this object/material?
 - Is there an essay associated with this entry in the manuscript (click on the beaker icon on the right of the entry)? Does it provide new insights or answer your questions about this recipe?
 
