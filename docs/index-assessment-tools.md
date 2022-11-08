@@ -1,0 +1,4 @@
+# Assessment and Evaluation Tools
+- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) described above.
+     - See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing).
+     - The [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/)
