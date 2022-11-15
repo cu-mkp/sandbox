@@ -15,7 +15,7 @@ Projects showcasing textual analysis, data visualization, explorations of M&K's 
 ## [Edition Prototypes](docs/index-edition-prototypes.md)
 In the development of _Secrets of Craft and Nature_, a number of iterations, mockups, wireframes, and prototype editions were created and deployed.
 
-## [Course Projects](docs/index-course-projects.md)
+## [M&K Student Projects](docs/index-course-projects.md)
 From 2019 onwards, M&K's courses at Columbia University have asked students to create exploratory final projects. These have included:
 
 **ENGL84031 / HISTGU4031 / COMS4495: *Transforming Texts* (Spring 2019)**
