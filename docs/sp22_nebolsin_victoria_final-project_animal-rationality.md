@@ -14,7 +14,7 @@ display language that sings with metaphor. Snakes are explicitly
 compared to Satan (fol.
 [109v](https://edition640.makingandknowing.org/#/folios/109v/tl)),
 rats are compared to the tyrant of Syracuse
-(152r](https://edition640.makingandknowing.org/#/folios/152r/f/152r/tl)),
+[152r](https://edition640.makingandknowing.org/#/folios/152r/f/152r/tl)),
 and pigs can understand Greek
 ([13v](https://edition640.makingandknowing.org/#/folios/13v/f/13v/tl)).
 The attention that the author-practitioner allots to animals only
