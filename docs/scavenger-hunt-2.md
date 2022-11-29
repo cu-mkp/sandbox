@@ -1,6 +1,6 @@
 # *Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)
 
-A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](scavenger-hunt-recon_downloadable_2022.pdf)]
 
 BnF Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks. This is an exercise with two activities to help become familiar with the online Edition and Translation of Ms. Fr. 640: [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org).
 
@@ -42,7 +42,4 @@ For an account of how the Making and Knowing Project created the edition through
 
 For more context on Ms. Fr. 640, see Pamela H. Smith, “[An Introduction to Ms. Fr. 640 and its Author-Practitioner](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19),” in *Secrets of Craft and Nature*.
 
-Explore the syllabi, student projects, and assignments for hands-on activities on
-- **The [Sandbox](https://cu-mkp.github.io/sandbox/)**
-     - See the sections "Syllabi" and "Course Projects," particularly those for the course, *GU4962: Hands-on History (2021- )*.
-     -  You’ll find lesson plans for hands-on activities at the subheading, *Activity Sheets, Assignments, and Reconstruction Protocols*
+Explore the student projects, resoures, and assignments for hands-on activities on the [Sandbox](https://cu-mkp.github.io/sandbox/).
