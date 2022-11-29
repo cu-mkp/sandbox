@@ -1,5 +1,7 @@
 # *Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)
 
+A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
+
 BnF Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks. This is an exercise with two activities to help become familiar with the online Edition and Translation of Ms. Fr. 640: [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org).
 
 ## Activity 1: Explore the manuscript folios
@@ -20,11 +22,11 @@ Suggested folios:
 
 ## Activity 2: Explore the [List of Entries](https://edition640.makingandknowing.org/#/entries), which is an index of the 900+ entries of the manuscript
 <a href="https://edition640.makingandknowing.org/#/entries"><img src="../images/scavenger-hunt-2_listofentries.JPG?raw=true" alt="List of Entries webpage of the Secrets of Craft and Nature" style="width:750px"></a>
-- Choose a Category on left hand side. 
+- Choose a **Category** on left hand side. 
      - How many entries do you see?
 - Click on one of the entries in the list. 
      - What kinds of tags are present?
-- Unclick your Category and instead pick a Tag to filter the list by (you may need to collapse the Category list). 
+- Unclick your **Category** and instead pick a **Tag** to filter the list by (you may need to collapse the Category list). 
      - How many entries do you see? 
      - What categories are they?
      - What other tags seem to co-occur frequently?
