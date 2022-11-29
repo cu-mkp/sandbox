@@ -1,5 +1,6 @@
 # Activity Sheets, Assignments, and Reconstruction Protocols
 - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*](scavenger-hunt_secrets-of-craft.md) - a great way to get started! Get to know the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
+- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt]()
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe](burnsalve.md) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
 - [Activity Sheet: Breadmolding Reconstruction](breadmolding-assignment.md) - assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
 - [Activity Sheet: Stucco for Molding](stucco-assignment.md) - assignment sheet for creating molded stucco object from rye flour or chalk (2021-09-24)
