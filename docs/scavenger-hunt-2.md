@@ -3,7 +3,7 @@
 Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks.
 
 ## Activity 1: Explore the manuscript folios
-<a href="https://vimeo.com/487139383"><img src="../images/uchacz-failure.png?raw=true" alt="Recipes for Failure: Experimenting, Repairing, and Quitting in Renaissance Toulouse" style="width:750px"></a>
+<a href="https://vimeo.com/487139383"><img src="../images/scavenger-hunt-2_3r.JPG?raw=true" alt="Recipes for Failure: Experimenting, Repairing, and Quitting in Renaissance Toulouse" style="width:750px"></a>
 
 Choose a linked folio from below and find:
 - 2 features you think are important to note or are useful
@@ -19,7 +19,7 @@ Suggested folios:
 
 
 ## Activity 2: Explore the [List of Entries](https://edition640.makingandknowing.org/#/entries), which is an index of the 900+ entries of the manuscript
-<a href="https://edition640.makingandknowing.org/#/entries"><img src="../images/scavenger-hunt-2_listofentries.JPG" alt="List of Entries webpage of the Secrets of Craft and Nature" style="width:750px"></a>
+<a href="https://edition640.makingandknowing.org/#/entries"><img src="../images/scavenger-hunt-2_listofentries.JPG?raw=true" alt="List of Entries webpage of the Secrets of Craft and Nature" style="width:750px"></a>
 - Choose a Category on left hand side. 
      - How many entries do you see?
 - Click on one of the entries in the list. 
