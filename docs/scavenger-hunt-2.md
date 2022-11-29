@@ -1,6 +1,6 @@
-# Directed Scavenger Hunt: Get to know *Secrets of Craft and Nature*
+# *Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)
 
-Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks.
+BnF Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks. This is an exercise with two activities to help become familiar with the online Edition and Translation of Ms. Fr. 640: [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org).
 
 ## Activity 1: Explore the manuscript folios
 <a href="https://vimeo.com/487139383"><img src="../images/scavenger-hunt-2_3r.JPG?raw=true" alt="Recipes for Failure: Experimenting, Repairing, and Quitting in Renaissance Toulouse" style="width:750px"></a>
@@ -28,3 +28,19 @@ Suggested folios:
      - How many entries do you see? 
      - What categories are they?
      - What other tags seem to co-occur frequently?
+
+
+## Further Explorations
+
+For additional resources found in the Edition, see the 100+ [Research Essays](https://edition640.makingandknowing.org/#/essays) and other [Resources](https://edition640.makingandknowing.org/#/content/resources).
+
+For an account of how the Making and Knowing Project created the edition through courses and workshops:
+- **Explore** [the Making and Knowing Project Website](http://www.makingandknowing.org/), especially the tab “Project Components.”
+- **Read** Pamela H. Smith, “[Making the Edition](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19),” in *Secrets of Craft and Nature*.
+
+For more context on Ms. Fr. 640, see Pamela H. Smith, “[An Introduction to Ms. Fr. 640 and its Author-Practitioner](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19),” in *Secrets of Craft and Nature*.
+
+Explore the syllabi, student projects, and assignments for hands-on activities on
+- **The [Sandbox](https://cu-mkp.github.io/sandbox/)**
+     - See the sections "Syllabi" and "Course Projects," particularly those for the course, *GU4962: Hands-on History (2021- )*.
+     -  You’ll find lesson plans for hands-on activities at the subheading, *Activity Sheets, Assignments, and Reconstruction Protocols*
