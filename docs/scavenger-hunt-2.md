@@ -4,7 +4,7 @@ A downloadable version of this assignment: [[PDF](scavenger-hunt-recon_downloada
 
 BnF Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks. This is an exercise with two activities to help become familiar with the online Edition and Translation of Ms. Fr. 640: [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org).
 
-## Activity 1: Explore the manuscript folios
+## Activity 1: Explore the [Manuscript Folios](https://edition640.makingandknowing.org/#/folios)
 <a href="https://edition640.makingandknowing.org/#/folios"><img src="../images/scavenger-hunt-2_3r.JPG?raw=true" alt="Dual-pane display of folio 3r of Ms. Fr. 640" style="width:750px"></a>
 
 Choose a linked folio from below and find:
