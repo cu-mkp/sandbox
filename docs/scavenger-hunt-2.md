@@ -3,7 +3,7 @@
 BnF Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks. This is an exercise with two activities to help become familiar with the online Edition and Translation of Ms. Fr. 640: [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org).
 
 ## Activity 1: Explore the manuscript folios
-<a href="https://vimeo.com/487139383"><img src="../images/scavenger-hunt-2_3r.JPG?raw=true" alt="Recipes for Failure: Experimenting, Repairing, and Quitting in Renaissance Toulouse" style="width:750px"></a>
+<a href="https://edition640.makingandknowing.org/#/folios"><img src="../images/scavenger-hunt-2_3r.JPG?raw=true" alt="Dual-pane display of folio 3r of Ms. Fr. 640" style="width:750px"></a>
 
 Choose a linked folio from below and find:
 - 2 features you think are important to note or are useful
