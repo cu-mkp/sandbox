@@ -8,9 +8,12 @@ A downloadable version of this assignment: [[PDF](azurite_assignment_downloadabl
 
 ![azurite in shells](../images/azurite-shells.jpg?raw=true)
 
-## Paint = Pigment + Binding Media
+## Introduction
 
-Refer to [Presentation: Introduction to Pigments &amp; Paints](docs/introduction-paints-pigments_njr_2021.pdf)
+Refer to [Presentation: Preparing and painting blue pigment in the renaissance](fa22_skillbuilding-azurite-presentation-full.pdf) for full information
+- See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf)
+
+
 
 ![painting-pigment+binding-media](../images/painting-pigment+binding-media.png?raw=true)
 
