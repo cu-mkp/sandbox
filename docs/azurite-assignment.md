@@ -21,7 +21,19 @@ Azurite is a basic copper carbonate pigment \[2CuCO3-Cu(OH)2\], a common blue co
  <img src="../images/tres-riches-heures-folio-2r-february.png?raw=true" alt="tres-riches-heures-folio-2r-february" style="width:500px"></a><br/>
  > *Très Riches Heures du duc de Berry* (1412-1416), Folio 2 verso: February.
  
+### Other Blue Pigments
+
+Azurite is only one of the most common blue pigments in the Renassaince palette. Other pigments include the very costly lapis lazuli (also known as ultramarine), the cobalt blue glass smalt, and the organic indigo. A "synthetic" blue copper carbonate blue, known both as bice and verditer, has the same chemical makeup as azurite but is made by an artisan rather than sourced as a natural ore (for example, by combining copper nitrate and calcium carbonate). For more information:
+- [The Traveling Scriptorium Pigment Sampler](https://travelingscriptorium.com/2012/03/20/an-online-version-of-the-ink-pigment-sampler-set/)
+- [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
+
+ <img src="../images/blue-pigments.png?raw=true" alt="blue-pigments" style="width:500px"></a><br/>
  
+## Pigments and Paints
+ 
+ See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
+ 
+
 
 ![painting-pigment+binding-media](../images/painting-pigment+binding-media.png?raw=true)
 
