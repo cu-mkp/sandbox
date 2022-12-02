@@ -24,7 +24,7 @@ It is important to remember that there is a difference between pigments and pain
 - [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf)
 - [Assignment: Making Paints from Pigments and Painting Them Out](painting-assignment.md)
 
- <img src="../images/painting-pigment+binding-media.png?raw=true" alt="pigment and binding media equals paint" style="width:500px"></a>
+ <img src="../images/painting-pigment+binding-media.png?raw=true" alt="pigment and binding media equals paint" style="width:500px">
 
 ## Azurite
 
@@ -33,7 +33,7 @@ Azurite is a basic copper carbonate pigment \[2CuCO3-Cu(OH)2\], a common blue co
  <img src="../images/lippi-virgin-child-st-john.png?raw=true" alt="lippi-virgin-child-st-john" style="width:500px"></a><br/>
 > *The Virgin and Child with Saint John* (~1480), Filippino Lippi, The National Gallery. Azurite has been found in this painting. See Dunkerton, *The Materials of a Group of Late Fifteenth-century Florentine Panel Paintings*.
 
- <img src="../images/tres-riches-heures-folio-2r-february.png?raw=true" alt="tres-riches-heures-folio-2r-february" style="width:500px"></a><br/>
+ <img src="../images/tres-riches-heures-folio-2r-february.png?raw=true" alt="tres-riches-heures-folio-2r-february" style="width:500px"><br/>
  > *Très Riches Heures du duc de Berry* (1412-1416), Folio 2 verso: February.
  
 ### Other Blue Pigments
@@ -42,7 +42,7 @@ Azurite is only one of the most common blue pigments in the Renaissance palette.
 - [The Traveling Scriptorium Pigment Sampler](https://travelingscriptorium.com/2012/03/20/an-online-version-of-the-ink-pigment-sampler-set/)
 - [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
 
- <img src="../images/blue-pigments.png?raw=true" alt="blue-pigments" style="width:500px"></a>
+ <img src="../images/blue-pigments.png?raw=true" alt="blue-pigments" style="width:500px">
  
  ## Blue Pigments in BnF Ms. Fr. 640
  
