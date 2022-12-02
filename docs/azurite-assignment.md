@@ -57,11 +57,113 @@ There are a few notes on various blue pigments in BnF Ms. Fr. 640 (the sixteenth
 ## Folio 11r: "Painting *esmail d’azur* in oil"
 
 On [folio 11r](https://edition640.makingandknowing.org/#/folios/11r/f/11r/tl) of Ms. Fr. 640, there is an entry that describes a way to prepare a blue pigment called *esmail d'azur*. It is unclear exactly which blue pigment it refers to, and the processes described could be applied to the preparation of smalt, azurite, something else...? 
-
- <img src="../images/11r.png?raw=true" alt="folio 11r in Fr. 640" style="width:500px"></a>
  
- > This is a secret that is hardly known to common painters. Some take the most delicate they can & grind it with ceruse, which binds it, and next prick with an awl in several places the area they want to paint with *azur d’esmail*, in order that the oil enters & leaks in, & does not cause the azure, which in itself is heavy, to run. Others lay the panel flat & put down the azure on it, which is also done in distemper. The main thing is to grind it well on marble, and before that, to have washed it thoroughly. Some grind it <del>with</del> thoroughly with an egg yolk & then wash it in five or six waters and lay it on not with a paintbrush, which would be too soft, but with a brush thoroughly softened & crimped, & layering it thickly as if one were putting it down with a trowel; settling down it evens out and flattens. I have experienced that grinding *azur d’esmail* with egg yolk & next washing it in several waters is good. However, it loses a little of its vividness in the grinding of it. I have also washed it in several waters &, when it had settled a little, I removed the water, still <del>q</del> blue, with a sponge and squeezed it into another vessel <del>thus</del> where it settled, & from the residue I had the ash, flower, and subtlest part of the azure without grinding it, which is the best, for in the grinding of it, it loses some of its tint. Those who make it in Germany compound it like enamel, in large pieces which they pestle, & pass through several sieves & wash.<br/>
-> To make azures beautiful, they wash or soak them in a rock water, as they call it; it is a water distilled from mines where azure or vert d’azur is found, which distills naturally through the veins of the mountain or is distilled through an alembic <del>*par*</del> from mineral stones of azure or copper.<br/>
-> Azure ashes are only good for landscapes because they die in oil. Only true azure holds on. Azur d’esmail cannot be worked if it is too coarse. Try it, therefore, on the fingernail or the oil palette. If it <del>[*illegible*]<del> happens to be sandy, do not grind it except with the egg yolk or, better yet, wash it in clear water & with a sponge remove the colored water after it starts to go to the bottom, and in this manner you will extract the very delicate flower, which will be easy to work with.
+ > This is a secret that is hardly known to common painters. Some take the most delicate they can & grind it with ceruse, which binds it, and next prick with an awl in several places the area they want to paint with *azur d’esmail*, in order that the oil enters & leaks in, & does not cause the azure, which in itself is heavy, to run. Others lay the panel flat & put down the azure on it, which is also done in distemper. The main thing is to grind it well on marble, and before that, to have washed it thoroughly. Some grind it <del>with</del> thoroughly with an egg yolk & then wash it in five or six waters and lay it on not with a paintbrush, which would be too soft, but with a brush thoroughly softened & crimped, & layering it thickly as if one were putting it down with a trowel; settling down it evens out and flattens. I have experienced that grinding *azur d’esmail* with egg yolk & next washing it in several waters is good. However, it loses a little of its vividness in the grinding of it. I have also washed it in several waters &, when it had settled a little, I removed the water, still <del>q</del> blue, with a sponge and squeezed it into another vessel <del>thus</del> where it settled, & from the residue I had the ash, flower, and subtlest part of the azure without grinding it, which is the best, for in the grinding of it, it loses some of its tint. Those who make it in Germany compound it like enamel, in large pieces which they pestle, & pass through several sieves & wash.<br/><br/>
+> To make azures beautiful, they wash or soak them in a rock water, as they call it; it is a water distilled from mines where azure or vert d’azur is found, which distills naturally through the veins of the mountain or is distilled through an alembic <del>*par*</del> from mineral stones of azure or copper.<br/><br/>
+> Azure ashes are only good for landscapes because they die in oil. Only true azure holds on. Azur d’esmail cannot be worked if it is too coarse. Try it, therefore, on the fingernail or the oil palette. If it <del>[*illegible*]</del> happens to be sandy, do not grind it except with the egg yolk or, better yet, wash it in clear water & with a sponge remove the colored water after it starts to go to the bottom, and in this manner you will extract the very delicate flower, which will be easy to work with.
 
-[Fieldnotes by Naomi Rosenkranz, SU17 Azurite](su17_rosenkranz_azurite-preparation-cambridge.md)
+If we consider the way that azurite is prepared by separating out the different grades of the pigment, we can focus on certain passages from fol. 11r to inform our reconstruction of the recipe with azurite: 
+
+> ... The main thing is to grind it well on marble, and before that, to have washed it thoroughly...<br/><br/>
+> ... Wash it in clear water & with a sponge remove the colored water after it starts to go to the bottom, and in this manner you will extract the very delicate flower, which will be easy to work with...
+
+## Reconstruction: Preparing Azurite 
+
+To prepare azurite from the mineral ore, one uses water to remove impuritites and to separate the different sizes of particles and obtain different grades of pigment. Any small containers that would allow successive pouring off of water can be used, but one historical tool - that is incredibly effective! - is a mussell shell. During the Renaissance, shells were also used to mix and store small amounts of paint similar to wells in an artist's paint palette.
+
+### Materials
+
+- azurite ore, e.g., Kremer #102005 “azurite stone”
+- mortar and pestle (or another way to crush the stone, such as a hammer and plastic bags to contain the pieces)
+- glass plates & mullers
+- on the side (optional): ceramic plates and plastic palettes
+- for pouring/separatin: mussell shells or small plastic containers
+- large containers of water
+- paper towels
+- scoopulas or other utensils that may be useful, such as spoons, palette knives, etc.
+- to paint the azurite out:
+     - concentrated gum arabic solution (1g gum arabic in 5ml water), e.g., Kremer #63330
+     - paintbrushes
+     - mixed media paper
+
+### Process
+
+The process is open to your experimentation! To get started, however, here are some useful illustrations:
+- The dedicated slides towards the middle of [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
+- [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](su17_rosenkranz_azurite-preparation-cambridge.md)
+- “Experiments with Azurite on the History of Design MA Course” by students of the V&A/RCA History of Design MA 
+     - [Part 1](https://www.vam.ac.uk/blog/news/experiments-with-azurite-on-the-history-of-design-ma-course) 
+     - [Part 2](https://www.vam.ac.uk/blog/projects/thinking-and-experiencing-techne-making-azurite-part-2)
+- For painting out, refer to [Assignment: Making Paints from Pigments and Painting Them Out](painting-assignment.md)
+
+### Questions for Consideration
+- Observation:
+     - What does the stone look and feel like?
+     - Other than the blue parts of the stone, what other inclusions (different types of stone) can you see?
+     - When the stone is ground, what does the powder look like?
+     - How does it behave in water?
+     - What do the particles look like?
+- Embodied experience: 
+     - What kind of movements do you use in each step of the process (grinding, adding water, pouring, painting out)?
+     - How does it feel to grind the azurite stone?
+     - How does it change when you add water?
+     - Can you manipulate the separation of the particles? How? (time, amount, ratio of water, speed of pouring)
+     - How many different “grades” can you get?
+     - When painting the different grades out, is there a difference between the paler and darker colors?
+     - Is there a difference in the way each paint wants to be handled or flows off the brush?
+- Artisanal knowledge: 
+     - What kind of knowledge would you need in order to prepare, apply, handle, appreciate these materials? 
+     - How might you acquire that knowledge today and historically?
+- Asking new questions: 
+     - What new questions does this experience cause you to ask about paintings or other works of art in general?
+
+## Other Renaissance Recipes on the Preparation of Azurite
+
+It is often extremely helpful to consult other recipe books from similar time periods that discuss the same process or materials. Here are some excerpts for your consideration.
+
+### Cennini — Preparation & Application
+
+Cennino Cennini, *The Craftsman's Handbook: The Italian "Il Libro Dell'arte"*, ed. Daniel V. Thompson (New York: Dover Publications, 2018).
+
+- Azzurro della Magna, translated as “azurite” rather than former “German blue”
+- “the azurite stone, which looks very lovely to the eye, and resembles an enamel.” (37)
+- ”When you have to lay it in, you must work up some of this blue with water, very moderately and lightly, because it is very scornful of the stone. If you want it for working on draperies, or for making greens with it as I have told you above, it ought to be worked up more. This is good on the wall in secco, and on panel. It is compatible with a tempera of egg yolk, and of size, and of whatever you wish.” (35-36)
+- For painting the blue drapery of the Virgin: Lay down a coat of sinoper and black in a fresco. “Then, in secco, take some azurite, well washed either with lye or with clear water, and worked over a little bit on the grinding slab. Then, if the blue is good and deep in color, put into it a little size, tempered neither too strong nor too weak. Likewise, put an egg yolk into the blue; and if the blue is pale, the yolk should come from one of these country eggs, for they are quite red. Mix it up well. Apply three or four coats to the drapery with a soft bristle brush.” (54-55).
+
+### Merrifield — Preparation & Application
+
+Jean Le Begue, “Experimenta de Coloribus (1431),” and The Bolognese Manuscript (15th century), in *Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations*, ed. Mary P. Merrifield (New York: Dover, 2003).
+
+- “How azure is prepared and purified. —But I shall not conceal how I purify it when it comes to my hands. I first pour it into a bason, and put a little water along with it, and rub it with my finger until it is thoroughly moistened, and then I pour in more water and stir it well, and let it rest. When it has settled, I pour off the water, turbid from the impurities, into another vase, keeping the precious colour which remains at the bottom of the vase, for its nature is such that the finer and purer the colour is the heavier it is, and therefore the sooner it reaches the bottom; and the impurities, or the whitish or yellowish parts, which are lighter, float or remain above it in the water. And, if necessary, I repeat this process several times, pouring water out and in until it is purified” (Manuscript of Jehan Le Begue, 134)
+- “Take the azure, and put it into a glazed pan; then add some very clean honey and incorporate them well together then grind the honey with the blue upon marble or porphyry until it becomes an almost impalpable powder. When it is ground fine put it back into the pan and wash it several times with warm water, and when it is well washed with warm water, wash it with cold water, and after each time let the azure sink to the bottom. Continue this until it is well washed, cleaned, and purified ; then take the azure and put it to soften in clear and clean ley in a glass vase, such as a tumbler, and let it stand for the space of seven days; change the ley every two or three days, and then wash it well with fresh and clear water, and let it dry in the shade in a place where no dust will get to it” (Bolognese Manuscript, 408)
+
+
+## Further Resources
+- [The Making and Knowing Project](https://www.makingandknowing.org/) 
+- [*Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,](https://edition640.makingandknowing.org) Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds. (New York: Making and Knowing Project, 2020) 
+- Other recipe books:
+     - Cennino Cennini, *The Craftsman's Handbook: The Italian "Il Libro Dell'arte"*, ed. Daniel V. Thompson (New York: Dover Publications, 2018)
+     - Mary P. Merrifield, *Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations* (New York: Dover, 2003)
+- [Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/) 
+     - [Ink and Pigment Sampler](https://travelingscriptorium.com/2012/03/20/an-online-version-of-the-ink-pigment-sampler-set/) 
+- [CAMEO Characteristics of Common Blue Pigments](http://cameo.mfa.org/images/e/ea/Download_file_506.pdf) - very helpful overview: Table with all blue pigments, their composition, usage, characteristics, etc.
+- CAMEO links:
+     - <http://cameo.mfa.org/wiki/Lapis_lazuli>; <http://cameo.mfa.org/wiki/Ultramarine_blue,_natural> 
+     - <http://cameo.mfa.org/wiki/Smalt> 
+     - <http://cameo.mfa.org/wiki/Azurite> 
+     - <http://cameo.mfa.org/wiki/Verditer>; <https://cameo.mfa.org/wiki/Bice> 
+- [Pigments Through the Ages](https://www.webexhibits.org/pigments/intro/blues.html) 
+     - <https://www.webexhibits.org/pigments/indiv/recipe/ultramarine.html> 
+     - <https://www.webexhibits.org/pigments/indiv/recipe/smalt.html> 
+- [The Color of Art: Pigment Blue, PB (Blues)](http://old.artiscreation.com/blue.html#azurite) - Artist's Paint and Pigments Reference: Color Index Names, Color index Number and Pigment Chemical Composition; Table with info, characteristics, and manufacturers, including references
+- Dunkerton - The Materials of a Group of Late Fifteenth-century Florentine Panel Paintings, <https://www.nationalgallery.org.uk/media/15629/dunkerton_roy1996.pdf> 
+- Dunkerton - Titian's painting technique to c. 1540, <https://www.nationalgallery.org.uk/media/16259/vol-34-essay-1-2013.pdf>
+- De Keyser - de Heem 1606-1684 - a technical examination of fruit and flower still lifes combining MA-XRF scanning, cross-section analysis and technical historical sources, <https://heritagesciencejournal.springeropen.com/counter/pdf/10.1186/s40494-017-0151-4.pdf> 
+- Spring, Higgitt, Saunders - Investigation of Pigment-Medium Interaction Processes in Oil Paint containing Degraded Smalt, <http://www.nationalgallery.org.uk/technical-bulletin/spring_higgitt_saunders2005> 
+- Spring, Keith - Aelbert Cuyp's Large Dort - Colour Change and Conservation, <https://www.nationalgallery.org.uk/upload/pdf/spring_keith2009.pdf> - Discussion of vivianite, azurite
+- Hagadorn - An Investigation into the Use of Blue Copper Pigments in European Early Printed Books, <http://cool.conservation-us.org/coolaic/sg/bpg/annual/v23/bp23-07.pdf> 
+- Kirby, Saunders - Fading and Colour Change of Prussian Blue: Methods of Manufacture and the Influence of Extenders, <https://www.nationalgallery.org.uk/media/15510/kirby_saunders2004.pdf> 
+- Marissa Bartz, Gabriela Rosas, Jerome Paquet, and Grace McLean - Non-invasive Technical Analysis of Illuminated Manuscript Leaves from the W.D. Jordan Rare Book and Special Collections, Queen’s University: A Collaborative Project, <https://www.culturalheritage.org/docs/default-source/publications/annualmeeting/2022-posters/32-non-invasive-technical-analysis-of-illuminated-manuscript-leaves-from-the-w.d.-jordan-rare-book-and-special-collections-queen's-university-a-collaborative-project---bartz.pdf?sfvrsn=e1af1720_3> 
+- Video of azurite preparation: <https://www.youtube.com/watch?v=Q9thSoVGfEk> 
+- Video of lapis lazuli preparation: <https://www.youtube.com/watch?v=JBzEAt_ynvc> 
+
