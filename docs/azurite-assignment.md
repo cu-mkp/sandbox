@@ -38,7 +38,7 @@ Azurite is a basic copper carbonate pigment \[2CuCO3-Cu(OH)2\], a common blue co
  
 ### Other Blue Pigments
 
-Azurite is only one of the most common blue pigments in the Renassaince palette. Other pigments include the very costly lapis lazuli (also known as ultramarine), the cobalt blue glass smalt, and the organic indigo. A "synthetic" blue copper carbonate blue, known both as bice and verditer, has the same chemical makeup as azurite but is made by an artisan rather than sourced as a natural ore (for example, by combining copper nitrate and calcium carbonate). For more information:
+Azurite is only one of the most common blue pigments in the Renaissance palette. Other pigments include the very costly lapis lazuli (also known as ultramarine), the cobalt blue glass smalt, and the organic indigo. A "synthetic" blue copper carbonate blue, known both as bice and verditer, has the same chemical makeup as azurite but is made by an artisan rather than sourced as a natural ore (for example, by combining copper nitrate and calcium carbonate). For more information:
 - [The Traveling Scriptorium Pigment Sampler](https://travelingscriptorium.com/2012/03/20/an-online-version-of-the-ink-pigment-sampler-set/)
 - [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
 
@@ -46,7 +46,7 @@ Azurite is only one of the most common blue pigments in the Renassaince palette.
  
  ## Blue Pigments in BnF Ms. Fr. 640
  
-There are a few notes on various blue pigments in BnF Ms. Fr. 640 (the sixteenth-century artisanal/technical manual studied by the Making and Knowing Project). It is not always clear which blue pigment the author-practitioner is referring to in the processes he describes. Many of the instructions or observations can be interpretated in more than one way. We encourage you to explore the instances of "blue" in the manuscript by:
+There are a few notes on various blue pigments in BnF Ms. Fr. 640 (the sixteenth-century artisanal/technical manual studied by the Making and Knowing Project). It is not always clear which blue pigment the author-practitioner is referring to in the processes he describes. Many of the instructions or observations can be interpreted in more than one way. We encourage you to explore the instances of "blue" in the manuscript by:
 - Searching the digital critical edition of Fr. 640, [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org/), for "azur" - try a wildcard search by entering "\*azur\*" to catch all variations of the word (enter asterisks on either side of the word as shown here).
      - > Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), https://edition640.makingandknowing.org/, https://doi.org/10.7916/78yt-2v41.
 - Reading the essays:
@@ -69,7 +69,7 @@ If we consider the way that azurite is prepared by separating out the different 
 
 ## Reconstruction: Preparing Azurite 
 
-To prepare azurite from the mineral ore, one uses water to remove impuritites and to separate the different sizes of particles and obtain different grades of pigment. Any small containers that would allow successive pouring off of water can be used, but one historical tool - that is incredibly effective! - is a mussell shell. During the Renaissance, shells were also used to mix and store small amounts of paint similar to wells in an artist's paint palette.
+To prepare azurite from the mineral ore, one uses water to remove impurities and to separate the different sizes of particles and obtain different grades of pigment. Any small containers that would allow successive pouring off of water can be used, but one historical tool - that is incredibly effective! - is a mussel shell. During the Renaissance, shells were also used to mix and store small amounts of paint similar to wells in an artist's paint palette.
 
 ### Materials
 
@@ -77,7 +77,7 @@ To prepare azurite from the mineral ore, one uses water to remove impuritites an
 - mortar and pestle (or another way to crush the stone, such as a hammer and plastic bags to contain the pieces)
 - glass plates & mullers
 - on the side (optional): ceramic plates and plastic palettes
-- for pouring/separatin: mussell shells or small plastic containers
+- for pouring/separating: mussel shells or small plastic containers
 - large containers of water
 - paper towels
 - scoopulas or other utensils that may be useful, such as spoons, palette knives, etc.
