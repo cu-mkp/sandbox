@@ -8,15 +8,20 @@ A downloadable version of this assignment: [[PDF](azurite_assignment_downloadabl
 
 ![azurite in shells](../images/azurite-shells.jpg?raw=true)
 
-## Introduction
+## Azurite
 
-Refer to [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf) for full information. See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf) 
+Refer to [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf) for full information. See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf). 
 <a href="(fa22_skillbuilding-azurite-presentation-full.pdf"><img src="../images/preparing-painting-blue.png?raw=true" alt="Preparing and Painting Blue Pigment in the Renaissance" style="width:500px"></a>
 
 Azurite is a basic copper carbonate pigment \[2CuCO3-Cu(OH)2\], a common blue colorant found in paintings, drawings, and illuminated manuscripts of the Renaissance. It is found as a natural ore, often co-occuring with the green mineral malachite which is also a copper carbonate pigment. To prepare the pigment, the mineral is ground to a powder, removing any malachite or other impurities. Larger particles of azurite are a deeper blue and as the particles are more finely ground, it becomes paler in color. The different hues can be separated into different "grades": larger particles (dark blue) are a higher grade of pigment than smaller particles (pale blue). These different grades can be obtained through a process known as levigation, where water is used to separate the smaller, duller particles from the larger ones which sink to the bottom. The smaller (and thus less heavy) particles float closer to the top of the water, which is poured off successively until only heaviest, deepest blue particles remain.
 
- <img src="../images/lippi-virgin-child-st-john.png?raw=true" alt="lippi-virgin-child-st-john" style="width:500px"></a>
+ <img src="../images/lippi-virgin-child-st-john.png?raw=true" alt="lippi-virgin-child-st-john" style="width:500px"></a><br/>
+> *The Virgin and Child with Saint John* (~1480), Filippino Lippi, The National Gallery. Azurite has been found in this painting. See Dunkerton, *The Materials of a Group of Late Fifteenth-century Florentine Panel Paintings*.
 
+ <img src="../images/tres-riches-heures-folio-2r-february.png?raw=true" alt="tres-riches-heures-folio-2r-february" style="width:500px"></a><br/>
+ > *Très Riches Heures du duc de Berry* (1412-1416), Folio 2 verso: February.
+ 
+ 
 
 ![painting-pigment+binding-media](../images/painting-pigment+binding-media.png?raw=true)
 
