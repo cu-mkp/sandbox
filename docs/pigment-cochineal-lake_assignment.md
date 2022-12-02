@@ -16,8 +16,7 @@ See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-pa
 [![Presentation: Cochineal Lake: History, Chemistry, and Preparation](../images/cochineal-presentation.png?raw=true)](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
 
 
-Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed
-directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
+Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
 
 **Lake pigments:** in general, pigments prepared from soluble natural colorants, formed by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate.
 
