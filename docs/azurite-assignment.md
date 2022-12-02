@@ -8,6 +8,13 @@ A downloadable version of this assignment: [[PDF](azurite_assignment_downloadabl
 
 ![azurite in shells](../images/azurite-shells.jpg?raw=true)
 
+## Pigments and Paints
+ 
+It is important to remember that there is a difference between pigments and paints. A pigment is an insoluble colored particle; in other words, it is usually a dry powder of a certain color that will not dissolve when added to a desired medium or liquid. To create paint, one combines the pigment with a binding medium to create a paste that can be applied to a surface. A binding medium will help the pigment adhere to the surface on which it is applied. Common binding media include linseed and walnut oils (for oil painting), gum arabic (watercolor and ink), egg yolk (tempera), egg white (glair), and animal glues (distemper). For more information:
+- [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
+
+ <img src="../images/painting-pigment+binding-media.png?raw=true" alt="pigment and binding media equals paint" style="width:500px"></a>
+
 ## Azurite
 
 Refer to [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf) for full information. See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf). 
@@ -29,12 +36,6 @@ Azurite is only one of the most common blue pigments in the Renassaince palette.
 
  <img src="../images/blue-pigments.png?raw=true" alt="blue-pigments" style="width:500px"></a><br/>
  
-## Pigments and Paints
- 
- See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
- 
 
-
-![painting-pigment+binding-media](../images/painting-pigment+binding-media.png?raw=true)
 
 [Fieldnotes by Naomi Rosenkranz, SU17 Azurite](su17_rosenkranz_azurite-preparation-cambridge.md)
