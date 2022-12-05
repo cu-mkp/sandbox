@@ -7,10 +7,11 @@ A downloadable version of this assignment: [[PDF](azurite_assignment_downloadabl
 
 ![azurite in shells](../images/azurite-shells.jpg?raw=true)
 
-## Presentations
+## Presentations & Handouts
 
 - [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
-- See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf) 
+- See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf)
+- [Student Handout](azurite_assignment_handout_2022.pdf) (to have while doing the hands-on reconstruction) 
 
 <a href="(fa22_skillbuilding-azurite-presentation-full.pdf"><img src="../images/preparing-painting-blue.png?raw=true" alt="Preparing and Painting Blue Pigment in the Renaissance" style="width:500px"></a>
 
