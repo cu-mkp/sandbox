@@ -1,12 +1,39 @@
-# Annika Onion Dyeing
+# Dyeing with Onion Skins
+> Annika Cunningham, summer and fall 2021
 
-## (NJR introductory section here!)
+## Introduction
+My name is Annika Cunningham, and I am a high schooler in Boston. I have
+been weaving, knitting, and crocheting for over a decade, and also enjoy
+exploring the scientific methods behind these crafts. I wanted to
+experiment with dye-making techniques using more affordable and
+accessible materials, like onion skins!
+
+Onions originated in Asia and the Middle East, but the exact period and
+geographic origin are uncertain. Turkish artisans in the mid-1400s
+started using onion skins to dye carpets and rugs. Additionally, many
+artisans still use these methods to create authentic rugs today. Natural
+Dyes were also used by early Navajo artisans, who are known for their
+woven rugs and blankets. Many started using natural dyes in the 1700s
+and, in Navajo weaver Mable Burnside-Myer’s Dye chart, she shows the use
+of onion skins in her work.
+
+Due to their high level of tannins, onion skins do not require a mordant
+to create vibrant color and adhere to natural fibers, making them
+effective and adaptive dyestuffs. Additionally, by adjusting the potency
+of the dye bath, and adding iron, or copper, the color of the fibers can
+change dramatically, allowing a large range of colors to be created.
+While onion skins do not appear in the manuscript, the dyeing process is
+almost identical to that of cochineal and other dyes used at the time.
+Using onion skins, more people can experiment with dye-making without
+having to find rare and expensive ingredients.
 
 ## Notes and pictures - raw data
 - Template and notes used during dyeing processes for calculations and record keeping: [[XLSX](../data/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx)] [[PDF](../data/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
-- [Flickr Ablum](https://www.flickr.com/photos/128418753@N06/albums/72177720300558025) with all photos
+- [Flickr Album](https://www.flickr.com/photos/128418753@N06/albums/72177720300558025) with all photos
 
-## First round - 07/07/22 - prepping the onion skins and using alum as a mordant
+## Summer 2022 First Dye Experiments
+
+### First round - 07/07/22 - prepping the onion skins and using alum as a mordant
 - Based off the recipes I found, there was no consistent ratio between onion skins to amount of textile to water
   - Websites I looked at: 
     - [https://crafternoontreats.com/2018/06/12/natural-dyeing-with-onion-skins/](https://crafternoontreats.com/2018/06/12/natural-dyeing-with-onion-skins/)
@@ -36,7 +63,7 @@
 - In total I had about 150 mL of the onion skin dye bath, even with a small amount, it dyes the textiles well
 - Overall this was a very successful attempt at dying, there are definitely things I want to keep exploring, but all things considered it worked very well. One thing that's great about the onions is that there is a lot of forgiveness throughout the process. The vague and very different ratios and processes I was reading about were a little confusing at first, but I think ultimately show precision is not a necessary component for this process, which makes it a perfect starting point for people who want to try natural dyes
 
-## Second round - 07/12/22 - adding iron and copper
+### Second round - 07/12/22 - adding iron and copper
 - Unfortunately, I did not have enough onions to make a new dye bath, so I created a mordant bath for the iron and copper and put the textiles I had already dyed in them
 - I used the ratios from the [DYE AND MORDANT RECIPES](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)  document for ratios
 - I had two baths, iron and copper, but four different bundles - iron, iron + alum, copper, copper + alum
@@ -52,3 +79,46 @@
 - The copper sulfate made the textiles without alum and the textiles with alum basically the same color, I wonder if this is because they were in the same beaker or if copper had the same effect on the onion dye regardless of the alum
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52223776962/in/album-72177720300558025/" title="20220715_cunningham_onion-skin-dyeing_001"><img src="https://live.staticflickr.com/65535/52223776962_87d264bf1c.jpg" width="500" height="376" alt="Bundles of yarn dyed different colors, each bundle labeled with material of yarn and material of dye"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Fall 2022 Second Dye Experiments
+
+-   Wanted to create a greener color, I liked the yarn that had been dyes with onions and iron last time. Additionally, because of the tannins in the onions, I did not notice a huge difference between using alum or not and so I decided not to put any of my samples in an alum bath.
+
+-   I decided to start by experimenting with the level of iron included used to alter the dye and I wanted to see what happened when the iron and copper were both used on the same fiber
+
+-   I started by extracting the color from the onion skins – simmering skins in a pot with water for 30 min – 1 hour
+
+-   This round, I had a lot more onion skins and was able to create a much more potent dye bath, last time I used the onion skins from about 3-4 onions and this time I used the skin from 6-7 onions
+
+-   After letting the skins simmer for 20 min, it was apparent that this dyebath was much darker than my last one. It was much more orange, almost red and opaquer than my last dyebath which was yellow and translucent
+
+-   Additionally, instead of removing the onion skins, I just put in my wool fibers into the simmering pot and let it absorb the color for about 30 min
+
+    -   I believe this also played a part in the darker colors I was getting
+
+-   My wool was much more orange this time and much darker - I did not expect it to be so dramatically different
+
+-   I put the three samples of wool in to their respective baths, (0.2g:50ml iron to water, 0.05g:50ml iron to water, 0.05g:0.05g:50ml iron to copper to water)
+
+-   The two pure iron samples changed to a much darker brown color almost immediately upon entering their iron baths
+
+-   All the samples ended up being pretty dark brown. The one with copper was warmer shade of brown whereas the purely iron samples were cooler tones. Also, the two iron samples are almost indistinguishable
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52546102497/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_001"><img src="https://live.staticflickr.com/65535/52546102497_5073eda186_z.jpg" width="480" height="640" alt="20221122_cunningham_onion-skin-dyeing_001"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52547113548/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_002"><img src="https://live.staticflickr.com/65535/52547113548_209e7224e0_z.jpg" width="640" height="481" alt="20221122_cunningham_onion-skin-dyeing_002"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52547043400/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_003"><img src="https://live.staticflickr.com/65535/52547043400_dc9921d487_z.jpg" width="480" height="640" alt="20221122_cunningham_onion-skin-dyeing_003"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52546862704/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_004"><img src="https://live.staticflickr.com/65535/52546862704_d645d75982_z.jpg" width="640" height="436" alt="20221122_cunningham_onion-skin-dyeing_004"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Final thoughts
+
+-   I think my goals were hindered by the initial onion skin dye bath, so I definitely want to do another round of dyeing with a less concentrated dyebath
+
+-   Onion skins are hard to measure precisely and I want to find a way to standardize my methods – maybe counting how many onions used more carefully or getting a more sensitive scale
+
+-   I also want to repeat this experiment with a less potent onion skin dyebath to get lighter colors
+
+-   I am also curious to see how dark I can make wool with onion skins. The cool toned fibers were really interesting as onions skins dyes start out very warm toned
+
