@@ -106,13 +106,13 @@ having to find rare and expensive ingredients.
 
 -   All the samples ended up being pretty dark brown. The one with copper was warmer shade of brown whereas the purely iron samples were cooler tones. Also, the two iron samples are almost indistinguishable
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52546102497/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_001"><img src="https://live.staticflickr.com/65535/52546102497_5073eda186_z.jpg" width="480" height="640" alt="20221122_cunningham_onion-skin-dyeing_001"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52546102497/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_001"><img src="https://live.staticflickr.com/65535/52546102497_5073eda186_z.jpg" width="480" height="640" alt="pot on stove with orange onion skins dye"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52547113548/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_002"><img src="https://live.staticflickr.com/65535/52547113548_209e7224e0_z.jpg" width="640" height="481" alt="20221122_cunningham_onion-skin-dyeing_002"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52547113548/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_002"><img src="https://live.staticflickr.com/65535/52547113548_209e7224e0_z.jpg" width="640" height="481" alt="bundle of orange yarn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52547043400/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_003"><img src="https://live.staticflickr.com/65535/52547043400_dc9921d487_z.jpg" width="480" height="640" alt="20221122_cunningham_onion-skin-dyeing_003"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52547043400/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_003"><img src="https://live.staticflickr.com/65535/52547043400_dc9921d487_z.jpg" width="480" height="640" alt="jars with dark liquid inside a pot of water"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52546862704/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_004"><img src="https://live.staticflickr.com/65535/52546862704_d645d75982_z.jpg" width="640" height="436" alt="20221122_cunningham_onion-skin-dyeing_004"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52546862704/in/dateposted-public/" title="20221122_cunningham_onion-skin-dyeing_004"><img src="https://live.staticflickr.com/65535/52546862704_d645d75982_z.jpg" width="640" height="436" alt="three bundles of brown yarn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Final thoughts
 
