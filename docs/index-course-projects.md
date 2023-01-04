@@ -45,7 +45,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
      - Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
 ### Spring 2022 Final Student Projects (2022-08-15) 
-[Syllabus to come]
+[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 - [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner](sp22_arocho_alejandra_herodotus-workshop.md) by Alejandra Quintana Arocho
 - [Discarded Cartographies: Orienting Process Through Waste](sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 - [Counterproofing: Reproduction and Theft in Early Modern Print Culture](sp22_lang_theodora_counterproofing.md) by Theodora Bocanegra Lang
