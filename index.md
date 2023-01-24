@@ -42,8 +42,8 @@ Materials from courses taught by Project collaborators, some using resources fro
 ### [Presentations and Reference Materials](docs/index-presentations-reference.md)
 Presentations, handouts, and other reference materials for teaching or research.
 
-### [Activity Sheets, Skillbuilding Assignments, and Reconstruction Protocols](docs/index-activity-assignments.md)
-Assignment sheets and resources for hands-on reconstruction in the classroom, laboratory, studio, or kitchen.
+### [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](docs/index-activity-assignments.md)
+Lesson plans for hands-on assignments and resources for reconstruction in the classroom, laboratory, studio, or kitchen.
 
 ### [Assessment and Evaluation Tools](docs/index-assessment-tools.md)
 Tools for assessing digital literacy, developed in collaboration with Columbia's Center for Teaching and Learning.
