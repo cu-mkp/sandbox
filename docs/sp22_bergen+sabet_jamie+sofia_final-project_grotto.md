@@ -9,10 +9,7 @@ usually contain fountains, sculpture, and imitation flora and fauna.
 
 <img src="./media-bergen+sabet/image23.jpg" style="width:5.00362in;height:3.68123in" />
 
-Engraving of a grotto in the gardens of Hortus Palatinus, Heidelberg,
-from Salomon de Caus’ Hortus Palatinus. Engraving done by Matthieu
-Marian’s (1620),
-[<u>https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs</u>](https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs)
+> Engraving of a grotto in the gardens of Hortus Palatinus, Heidelberg, from Salomon de Caus’ Hortus Palatinus. Engraving done by Matthieu Marian’s (1620), [<u>https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs</u>](https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs)
 
 In *L'Idea della Architettura Universale* (*The Idea of a Universal
 Architecture*), published in 1615, Italian architect Vincenzo Scamozzi
@@ -56,9 +53,9 @@ as laser engraving and 3D printing.
 The first step in creating the miniature grotto was prototyping and
 planning.
 
-<img src="./media-bergen+sabet/image33.png" style="width:2.7in;height:3.08571in" />
+<img src="./media-bergen+sabet/image33.png" />
 
-Drawing/schematic of grotto design.
+> Drawing/schematic of grotto design.
 
 For a more modern component of the grotto, we decided to make the
 base/frame for it out of laser cut acrylic. We also decided to ornament
@@ -68,13 +65,13 @@ of Ms Fr. 640 (which also serves as the Making and Knowing Project’s
 logo) as a playful touch. Before cutting the acrylic, we tested out our
 measurements by cutting a chipboard model first.
 
-<img src="./media-bergen+sabet/image31.jpg" style="width:4.41481in;height:1.98808in" />
+<img src="./media-bergen+sabet/image31.jpg" />
 
-Designs for the cardboard model of the frame.
+> Designs for the cardboard model of the frame.
 
-<img src="./media-bergen+sabet/image12.jpg" style="width:2.04437in;height:2.77604in" />
+<img src="./media-bergen+sabet/image12.jpg" />
 
-Adding the lizard sketch to our design.
+> Adding the lizard sketch to our design.
 
 On the first attempt fabricating it from the digital files, we realized
 that the right side wall was backwards so that the lizard faced the
@@ -84,14 +81,14 @@ perfectly, so we cut another cardboard one to scale. We then taped the
 cardboard pieces together for the mini and full-sized model. We then
 used this model to draw on and plan the other components.
 
-<img src="./media-bergen+sabet/image38.jpg" style="width:2.05358in;height:2.76563in" />
+<img src="./media-bergen+sabet/image38.jpg" />
 
-Preparation of the cardboard model in advance of the laser-cut acrylic
+> Preparation of the cardboard model in advance of the laser-cut acrylic
 version of the frame.
 
-<img src="./media-bergen+sabet/image17.png" style="width:2.49479in;height:2.65547in" />
+<img src="./media-bergen+sabet/image17.png" />
 
-Planning the rest of the grotto elements on the assembled, full-size
+> Planning the rest of the grotto elements on the assembled, full-size
 cardboard model.
 
 ### Shell Mosaic
@@ -114,26 +111,26 @@ others. Once crushed they were ready to be arranged. However it turned
 out that getting the shells to behave similarly to ceramic or tile in a
 mosaic would be a challenge.
 
-<img src="./media-bergen+sabet/image26.jpg" style="width:2.39063in;height:3.1875in" />
+<img src="./media-bergen+sabet/image26.jpg" />
 
-Collecting shells and rocks from the New Jersey shore.
+> Collecting shells and rocks from the New Jersey shore.
 
-<img src="./media-bergen+sabet/image1.png" style="width:4.07292in;height:3.17708in" />
+<img src="./media-bergen+sabet/image1.png" />
 
-Shells and rocks collected from the New Jersey shore.
+> Shells and rocks collected from the New Jersey shore.
 
-<img src="./media-bergen+sabet/image37.jpg" style="width:3.15625in;height:3.96875in" />
+<img src="./media-bergen+sabet/image37.jpg" />
 
-Mussel shell in a mortar, ready to be pestled.
+> Mussel shell in a mortar, ready to be pestled.
 
-<img src="./media-bergen+sabet/image11.jpg" style="width:1.79358in;height:3.99479in" />
+<img src="./media-bergen+sabet/image11.jpg" />
 
-Crushing the shells in a mortar and pestle, attempting to prevent the
+> Crushing the shells in a mortar and pestle, attempting to prevent the
 pieces from flying out of the mortar.
 
-<img src="./media-bergen+sabet/image36.jpg" style="width:2.5709in;height:3.98997in" />
+<img src="./media-bergen+sabet/image36.jpg" />
 
-Crushed mussel shells.
+> Crushed mussel shells.
 
 #### **Trial** **One**
 
@@ -145,9 +142,9 @@ were then pressed into the clay, with the shiny side facing up.
 While the shells did manage to remain attached to the clay, the final
 product didn’t achieve the look we were going for.
 
-<img src="./media-bergen+sabet/image24.jpg" style="width:2.79688in;height:3.1032in" />
+<img src="./media-bergen+sabet/image24.jpg" />
 
-Trial 1: Shells pressed into white air-dry clay.
+> Trial 1: Shells pressed into white air-dry clay.
 
 #### Trial Two
 
@@ -159,9 +156,9 @@ it was poured onto the inside of a shallow wooden box lid. The lid was
 eleven inches long and four inches high. The cement was then spread
 evenly with a spatula.
 
-<img src="./media-bergen+sabet/image30.jpg" style="width:6.5in;height:4.875in" />
+<img src="./media-bergen+sabet/image30.jpg" />
 
-Mosaic cement spread across shallow wooden box lid.
+> Mosaic cement spread across shallow wooden box lid.
 
 To put the shell fragments into the cement, we used a pair of tweezers.
 The shells were placed one by one with the shiny side facing up. After
@@ -171,13 +168,13 @@ that were placed earliest had come loose. The shards of shell, being
 lighter than the cement, had floated to the top completely detaching
 themselves. It was as if they had never been placed into the cement.
 
-<img src="./media-bergen+sabet/image4.png" style="width:4.18229in;height:3.53152in" />
+<img src="./media-bergen+sabet/image4.png" />
 
-Trial 2: Shells with commercially popular mosaic cement.
+> Trial 2: Shells with commercially popular mosaic cement.
 
-<img src="./media-bergen+sabet/image32.jpg" style="width:6.5in;height:2.93056in" />
+<img src="./media-bergen+sabet/image32.jpg" />
 
-Closeup of the shell pieces lifting up out of the mosaic cement and
+> Closeup of the shell pieces lifting up out of the mosaic cement and
 falling off.
 
 Instead of starting over, we decided to try and salvage what we had. To
@@ -497,50 +494,19 @@ The final grotto with a few added elements.
 
 [^1]: Vincenzo Scamozzi, *L' Idea Dell'architettura Universale*, 1615.
 
-[^2]: Sebastiano Serlio, *Reigles generales de l’architecture, sur le cinq
-manieres d’edifices* (Paris: 1545), 66–67; and Miller, *Heavenly Caves*,
-52, quoted in Reut Ullman, “Artificial Grottos,” in *Secrets of Craft
-and Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano \*New York: Making and Knowing
-Project, 2020),
-<https://edition640.makingandknowing.org/#/essays/ann_063_fa_17>. DOI:
+[^2]: Sebastiano Serlio, *Reigles generales de l’architecture, sur le cinq manieres d’edifices* (Paris: 1545), 66–67; and Miller, *Heavenly Caves*, 52, quoted in Reut Ullman, “Artificial Grottos,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano \*New York: Making and Knowing Project, 2020), <https://edition640.makingandknowing.org/#/essays/ann_063_fa_17>. DOI:
 <https://www.doi.org/10.7916/26md-x363>.
 
-[^3]: Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
-Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
-Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A
-Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-(New York: Making and Knowing Project, 2020),
-[<u>https://edition640.makingandknowing.org/#/folios/118r/tl</u>](https://edition640.makingandknowing.org/#/folios/118r/tl).
+[^3]: Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/folios/118r/tl</u>](https://edition640.makingandknowing.org/#/folios/118r/tl).
 
-[^4]: Flaminia Bardati, “La Grotte des Pins a Fontainebleau”, in *Artifici
-d’acque e giardini: la cultura delle grotte e dei ninfei in Italia e in
-Europa*, ed. Isabella Lapi Ballerini and Litta Medri (Florence: Centro
-Di, 1999).
+[^4]: Flaminia Bardati, “La Grotte des Pins a Fontainebleau”, in *Artifici d’acque e giardini: la cultura delle grotte e dei ninfei in Italia e in Europa*, ed. Isabella Lapi Ballerini and Litta Medri (Florence: Centro Di, 1999).
 
-[^5]: For all images of our process, see the Flickr Album
-[<u>https://www.flickr.com/photos/128418753@N06/albums/72177720299168770</u>](https://www.flickr.com/photos/128418753@N06/albums/72177720299168770).
+[^5]: For all images of our process, see the Flickr Album [<u>https://www.flickr.com/photos/128418753@N06/albums/72177720299168770</u>](https://www.flickr.com/photos/128418753@N06/albums/72177720299168770).
 
-[^6]: Ms. Fr. 640, fol. 130r,
-<https://edition640.makingandknowing.org/#/folios/130r/f/130r/tl>.
+[^6]: Ms. Fr. 640, fol. 130r, <https://edition640.makingandknowing.org/#/folios/130r/f/130r/tl>.
 
-[^7]: Divya Anantharaman and Pamela H. Smith, “Animals Dried in an Oven.”
-In *Secrets of Craft and Nature in Renaissance France. A Digital
-Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
-Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New
-York: Making and Knowing Project, 2020.
-<https://edition640.makingandknowing.org/#/essays/ann_502_ad_20>.
+[^7]: Divya Anantharaman and Pamela H. Smith, “Animals Dried in an Oven.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_502_ad_20>.
 
-[^8]: For this process, we referred to Ms. Fr. 640, fol. 29r
-([<u>https://edition640.makingandknowing.org/#/folios/29r/f/29r/tl</u>](https://edition640.makingandknowing.org/#/folios/29r/f/29r/tl)),
-and the assignment sheet based on it:
-<https://cu-mkp.github.io/sandbox/docs/stucco-assignment.html>.
+[^8]: For this process, we referred to Ms. Fr. 640, fol. 29r ([<u>https://edition640.makingandknowing.org/#/folios/29r/f/29r/tl</u>](https://edition640.makingandknowing.org/#/folios/29r/f/29r/tl)), and the assignment sheet based on it: <https://cu-mkp.github.io/sandbox/docs/stucco-assignment.html>.
 
-[^9]: Ullman, “Artificial Grottos,”
-[<u>https://edition640.makingandknowing.org/#/essays/ann_063_fa_17</u>](https://edition640.makingandknowing.org/#/essays/ann_063_fa_17).
+[^9]: Ullman, “Artificial Grottos,” [<u>https://edition640.makingandknowing.org/#/essays/ann_063_fa_17</u>](https://edition640.makingandknowing.org/#/essays/ann_063_fa_17).
