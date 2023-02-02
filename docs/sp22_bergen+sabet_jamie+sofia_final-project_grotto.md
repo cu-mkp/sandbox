@@ -190,18 +190,17 @@ pipette to extract the liquid and carefully spread it over the shells.
 While there wasn’t enough glue to cover the entire piece, we were able
 to cover about 80% of it.
 
-<img src="./media-bergen+sabet/image18.jpg" style="width:2.01563in;height:3.1465in" />
+<img src="./media-bergen+sabet/image18.jpg" />
 
-The rabbit skin glue mixture.
+> The rabbit skin glue mixture.
 
-<img src="./media-bergen+sabet/image9.jpg" style="width:2.43229in;height:3.13391in" />
+<img src="./media-bergen+sabet/image9.jpg" />
 
-Rabbit skin glue heated inside a beaker of water on a hotplate.
+> Rabbit skin glue heated inside a beaker of water on a hotplate.
 
-<img src="./media-bergen+sabet/image14.jpg" style="width:2.93229in;height:5.50699in" />
+<img src="./media-bergen+sabet/image14.jpg" />
 
-Rabbit skin glue, still hot and in liquid form, spread across the top of
-the shells detaching from the mosaic cement.
+> Rabbit skin glue, still hot and in liquid form, spread across the top of the shells detaching from the mosaic cement.
 
 #### Trial Three
 
@@ -218,17 +217,13 @@ out that mixing the rabbit skin glue with the cement gave the best
 results as the resulting texture of the mixture before it dried was a
 bit tacky, and therefore held on to the shell bits as it dried.
 
-<img src="./media-bergen+sabet/image20.jpg" style="width:3.08333in;height:4.51042in" />
+<img src="./media-bergen+sabet/image20.jpg" />
 
-Testing the tackiness of the mosaic cement on a piece of acrylic. The
-test piece of acrylic was split into sections to test whether sanding it
-would help the cement mixture adhere and to test different applications
-of the cement with additions of rabbit skin glue.
+> Testing the tackiness of the mosaic cement on a piece of acrylic. The test piece of acrylic was split into sections to test whether sanding it would help the cement mixture adhere and to test different applications of the cement with additions of rabbit skin glue.
 
-<img src="./media-bergen+sabet/image22.jpg" style="width:3.10472in;height:6.90104in" />
+<img src="./media-bergen+sabet/image22.jpg" />
 
-The test piece of acrylic with different combinations of cement and
-rabbit skin glue and varying degrees of sanding.
+> The test piece of acrylic with different combinations of cement and rabbit skin glue and varying degrees of sanding.
 
 #### Final Mosaic
 
@@ -244,10 +239,9 @@ for durability. Then the walls and base of the grotto were glued
 together using acrylic cement in preparation for the addition of more
 components.
 
-<img src="./media-bergen+sabet/image8.png" style="width:3.9105in;height:2.75113in" />
+<img src="./media-bergen+sabet/image8.png" />
 
-The final design of the shells mosaic, adhered to the back of the grotto
-with mosaic cement and rabbit skin glue.
+> The final design of the shells mosaic, adhered to the back of the grotto with mosaic cement and rabbit skin glue.
 
 ### Shell Feet/Sculptures
 
@@ -262,10 +256,9 @@ glues. The same arrangement of gluing shells was also done to create two
 miniature shell statues which were placed on either side of the center
 archway.
 
-<img src="./media-bergen+sabet/image15.jpg" style="width:6.5in;height:2.93056in" />
+<img src="./media-bergen+sabet/image15.jpg" />
 
-Gluing together whole mussel shells to create feet for the frame as well
-as additional sculptures.
+> Gluing together whole mussel shells to create feet for the frame as well as additional sculptures.
 
 ## Features in Our Miniature Grotto
 
@@ -282,29 +275,27 @@ thoroughly inspected the final product. We liked how there was a
 cobblestone like texture on the bridge and appreciated the detailing on
 the base.
 
-<img src="./media-bergen+sabet/image29.jpg" style="width:3.07292in;height:3.61458in" />
+<img src="./media-bergen+sabet/image29.jpg" />
 
-3D printer in the Barnard College Makerspace, printing the bridge in
+> 3D printer in the Barnard College Makerspace, printing the bridge in
 white plastic.
 
-<img src="./media-bergen+sabet/image35.jpg" style="width:2.70313in;height:3.61396in" />
+<img src="./media-bergen+sabet/image35.jpg" />
 
-Top view of 3D printer in the Barnard College Makerspace, printing the
-bridge in white plastic.
+> Top view of 3D printer in the Barnard College Makerspace, printing the bridge in white plastic.
 
-<img src="./media-bergen+sabet/image28.jpg" style="width:6.5in;height:3.5625in" />
+<img src="./media-bergen+sabet/image28.jpg" />
 
-The first, miniaturized version of the 3D-printed bridge.
+> The first, miniaturized version of the 3D-printed bridge.
 
 Since the mini bridge was a success, we increased the size to five
 inches. The estimated print time for the bridge was eight hours, so we
 let it print overnight. The next morning when we came to pick up the
 bridge, we were met with a jumble of plastic strands.
 
-<img src="./media-bergen+sabet/image27.jpg" style="width:2.31771in;height:3.10959in" />
+<img src="./media-bergen+sabet/image27.jpg" />
 
-The jumble of plastic strands from the failed 3D printing of the larger
-bridge.
+> The jumble of plastic strands from the failed 3D printing of the larger bridge.
 
 Hoping it was a fluke, we tried reprinting the bridge. Within minutes,
 the print showed signs of failure. To figure out why the print was
@@ -317,9 +308,9 @@ member discovered that someone had turned off a key printer setting,
 which was why our bridge kept failing. We turned the setting back on and
 eight and a half hours later, we picked up a perfectly printed bridge.
 
-<img src="./media-bergen+sabet/image6.jpg" style="width:2.31354in;height:3.08907in" />
+<img src="./media-bergen+sabet/image6.jpg" />
 
-The 3D printer printing the bridge.
+> The 3D printer printing the bridge.
 
 ### Rat with Wings
 
@@ -338,13 +329,13 @@ the bird model and placed them on the rat model to create a new, hybrid
 digital model. This was then 3D printed in the same fashion as the
 bridge.
 
-<img src="./media-bergen+sabet/image2.jpg" style="width:3.46178in;height:3.11292in" />
+<img src="./media-bergen+sabet/image2.jpg" />
 
-The hybrid digital model of a rat with wings.
+> The hybrid digital model of a rat with wings.
 
-<img src="./media-bergen+sabet/image19.jpg" style="width:3.28125in;height:5.3125in" />
+<img src="./media-bergen+sabet/image19.jpg" />
 
-3D printing the rat with wings in green plastic.
+> 3D printing the rat with wings in green plastic.
 
 ### Cuttlefish Bone Turtle 
 
@@ -368,13 +359,13 @@ the face/limbs, yellow ochre for the underside of the shell, and
 Bavarian green earth for the top of the shell. Once dry the turtle was
 positioned on the bridge.
 
-<img src="./media-bergen+sabet/image13.jpg" style="width:2.57608in;height:5.73438in" />
+<img src="./media-bergen+sabet/image13.jpg" />
 
-Setup for mulling and painting objects for the grotto in linseed oil.
+> Setup for mulling and painting objects for the grotto in linseed oil.
 
-<img src="./media-bergen+sabet/image15.jpg" style="width:3.67188in;height:2.67522in" />
+<img src="./media-bergen+sabet/image15.jpg" />
 
-The turtle carved from cuttlefish bone and painted.
+> The turtle carved from cuttlefish bone and painted.
 
 ### Stucco Shells
 
@@ -384,9 +375,9 @@ combined tragacanth gum to water at a ratio of 1:14. Once combined, we
 stirred the liquid to ensure the gum gets fully incorporated. Then the
 mixture was put aside and we waited ten minutes for it to gel.
 
-<img src="./media-bergen+sabet/image34.jpg" style="width:3.3125in;height:3.64583in" />
+<img src="./media-bergen+sabet/image34.jpg" />
 
-Tragacanth gum in water, waiting for it to gel fully.
+> Tragacanth gum in water, waiting for it to gel fully.
 
 When the mixture gelled, chalk powder was added at approximately a 2:5
 ratio of gum/water to chalk. To mix the chalk into the mixture, we used
@@ -396,9 +387,9 @@ prevent sticking. The stucco was then pressed into the two seashell
 molds. When it was dry, the shells were painted with oil paint made by
 mulling linseed oil with lapis lazuli pigment.
 
-<img src="./media-bergen+sabet/image3.png" style="width:3.08854in;height:2.35942in" />
+<img src="./media-bergen+sabet/image3.png" />
 
-The stucco shells drying in the plastic mold.
+> The stucco shells drying in the plastic mold.
 
 ### Sand
 
@@ -410,9 +401,9 @@ base panel of the grotto and spread it with a palette knife. This did
 the job for keeping the sand mostly in place while maintaining the
 beach/garden effect we were going for.
 
-<img src="./media-bergen+sabet/image5.jpg" style="width:2.29688in;height:2.97318in" />
+<img src="./media-bergen+sabet/image5.jpg" />
 
-Sand applied to the bottom of the grotto frame.
+> Sand applied to the bottom of the grotto frame.
 
 ### Water Feature/Fake Rock
 
@@ -420,9 +411,9 @@ One of the key features of a large scale grotto is a water feature.
 Thanks to modern technology a small one can be bought for 5 dollars at
 Five Below for our miniature grotto.
 
-<img src="./media-bergen+sabet/image16.jpg" style="width:3.13542in;height:3.83333in" />
+<img src="./media-bergen+sabet/image16.jpg" />
 
-Electric water fountain purchased at Five Below.
+> Electric water fountain purchased at Five Below.
 
 However, this fountain didn’t meet the aesthetic standards for our
 grotto, which opened the door to a creative solution using a historical
@@ -430,10 +421,7 @@ recreation. The entry entitled “Grottos” in Ms. Fr. 640, fol.
 [<u>40r</u>](https://edition640.makingandknowing.org/#/folios/40r/f/40r/tl)
 reads:
 
-> To fill some empty place that cannot be laden with some sort of
-> hanging rocks, one puts a piece of thick parchment close to the fire,
-> which shrinks & crumples. Then one paints it with distemper, then in
-> oil. Next one affixes it.
+> To fill some empty place that cannot be laden with some sort of hanging rocks, one puts a piece of thick parchment close to the fire, which shrinks & crumples. Then one paints it with distemper, then in oil. Next one affixes it.
 
 We decided to follow this process of creating artificial rock undertaken
 by another student in a previous semester,[^9] and use it to cover the
@@ -458,13 +446,13 @@ turtle directly on it. Finally, small stones, sourced from Sunny Isles
 beach, were placed to create a path from the bridge to the fountain and
 back.
 
-<img src="./media-bergen+sabet/image7.jpg" style="width:2.60938in;height:1.96816in" />
+<img src="./media-bergen+sabet/image7.jpg" />
 
-Arranging the elements of the grotto.
+> Arranging the elements of the grotto.
 
-<img src="./media-bergen+sabet/image10.jpg" style="width:2.65625in;height:2.10187in" />
+<img src="./media-bergen+sabet/image10.jpg" />
 
-Further arranging of the grotto elements.
+> Further arranging of the grotto elements.
 
 The project turned out to be much more labor intensive than either of us
 anticipated but we also saw much more success with the historical
@@ -484,18 +472,17 @@ carving experience.
 All in all this recreation was rewarding to create and we learned a lot
 along the way.
 
-<img src="./media-bergen+sabet/image21.jpg" style="width:4.11979in;height:4.61496in" />
+<img src="./media-bergen+sabet/image21.jpg" />
 
-The final grotto.
+> The final grotto.
 
-<img src="./media-bergen+sabet/image25.png" style="width:6.5in;height:6.30556in" />
+<img src="./media-bergen+sabet/image25.png" />
 
-The final grotto with a few added elements.
+> The final grotto with a few added elements.
 
 [^1]: Vincenzo Scamozzi, *L' Idea Dell'architettura Universale*, 1615.
 
-[^2]: Sebastiano Serlio, *Reigles generales de l’architecture, sur le cinq manieres d’edifices* (Paris: 1545), 66–67; and Miller, *Heavenly Caves*, 52, quoted in Reut Ullman, “Artificial Grottos,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano \*New York: Making and Knowing Project, 2020), <https://edition640.makingandknowing.org/#/essays/ann_063_fa_17>. DOI:
-<https://www.doi.org/10.7916/26md-x363>.
+[^2]: Sebastiano Serlio, *Reigles generales de l’architecture, sur le cinq manieres d’edifices* (Paris: 1545), 66–67; and Miller, *Heavenly Caves*, 52, quoted in Reut Ullman, “Artificial Grottos,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano \*New York: Making and Knowing Project, 2020), <https://edition640.makingandknowing.org/#/essays/ann_063_fa_17>. DOI:<https://www.doi.org/10.7916/26md-x363>.
 
 [^3]: Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/folios/118r/tl</u>](https://edition640.makingandknowing.org/#/folios/118r/tl).
 
