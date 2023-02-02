@@ -52,6 +52,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Making and Knowing Pop-up Book](sp22_wei+yang_jianing+luxi_popup.md) by Luxi Yang and Jianing Wei
 - [Animal Rationality in Ms. Fr. 640](sp22_nebolsin_victoria_final-project_animal-rationality.md) by Victoria Nebolsin
 - [Cuttlefish in and around Ms. Fr. 640](sp22_donald_maia_final-project_cuttlebone.md) by Maia Donald
+- [Creating a “Modern” Reconstruction of a Miniature Grotto](sp22_bergen+sabet_jamie+sofia_final-project_grotto.md) by Jamie Bergen and Sofia Sabet
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
