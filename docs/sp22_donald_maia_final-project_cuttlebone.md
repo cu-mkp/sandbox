@@ -182,54 +182,23 @@ Brown-Gray Inks on Paper Support.” *Heritage Science* 3, no. 1 (December
 2015): 8.
 [<u>https://doi.org/10.1186/s40494-015-0039-0</u>](https://doi.org/10.1186/s40494-015-0039-0).
 
-[^1]: Mia I. Gerhardt, “Knowledge in Decline: Ancient and Medieval
-Information on ‘Ink-Fishes’ and Their Habits,” *Vivarium* 4 (1966):
-146-158.
+[^1]: Mia I. Gerhardt, “Knowledge in Decline: Ancient and Medieval Information on ‘Ink-Fishes’ and Their Habits,” *Vivarium* 4 (1966): 146-158.
 [<u>http://www.jstor.org/stable/41963484</u>](http://www.jstor.org/stable/41963484).
 
-[^2]: Emily Boyd, Jef Palframan, and Pamela H. Smith, “Molding with
-Cuttlefish Bone,” in *Secrets of Craft and Nature in Renaissance France.
-A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
-edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
-Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
-Catapano (New York: Making and Knowing Project, 2020),
-<https://edition640.makingandknowing.org/#/essays/ann_506_ad_20>.
+[^2]: Emily Boyd, Jef Palframan, and Pamela H. Smith, “Molding with Cuttlefish Bone,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), <https://edition640.makingandknowing.org/#/essays/ann_506_ad_20>.
 
-[^3]: AquaMaps (October 2019). Computer generated distribution maps for
-*Sepia officinalis* (common cuttlefish), with modeled year 2050 native
-range map based on IPCC RCP8.5 emissions scenario, however the one
-pictured here is modeled for 2019, according to AquaMaps. Retrieved from
-[<u>https://www.aquamaps.org</u>](https://www.aquamaps.org).
+[^3]: AquaMaps (October 2019). Computer generated distribution maps for *Sepia officinalis* (common cuttlefish), with modeled year 2050 native range map based on IPCC RCP8.5 emissions scenario, however the one pictured here is modeled for 2019, according to AquaMaps. Retrieved from [<u>https://www.aquamaps.org</u>](https://www.aquamaps.org).
 
-[^4]: A. R Michell,“The European Fisheries in Early Modern History,” in
-*The Cambridge Economic History of Europe*, ed. E. E. Rich, C. H.
-Wilson, D. C. Coleman, P. Mathias, and M. M. Postan (Cambridge:
-Cambridge University Press, 1977), 140-2.
-[<u>https://doi.org/10.1017/CHOL9780521087100.004</u>](https://doi.org/10.1017/CHOL9780521087100.004).
+[^4]: A. R Michell,“The European Fisheries in Early Modern History,” in *The Cambridge Economic History of Europe*, ed. E. E. Rich, C. H. Wilson, D. C. Coleman, P. Mathias, and M. M. Postan (Cambridge: Cambridge University Press, 1977), 140-2. [<u>https://doi.org/10.1017/CHOL9780521087100.004</u>](https://doi.org/10.1017/CHOL9780521087100.004).
 
-[^5]: BBC News, “Cuttlefish Bones Wash up on Cornwall Beaches,” May 19,
-2011, sec. Cornwall,
-[<u>https://www.bbc.com/news/uk-england-cornwall-13451208</u>](https://www.bbc.com/news/uk-england-cornwall-13451208).
+[^5]: BBC News, “Cuttlefish Bones Wash up on Cornwall Beaches,” May 19, 2011, sec. Cornwall, [<u>https://www.bbc.com/news/uk-england-cornwall-13451208</u>](https://www.bbc.com/news/uk-england-cornwall-13451208).
 
-[^6]: Rutherford John Gettens and George Leslie Stout, *Painting
-Materials: A Short Encyclopaedia* (New York: Dover Publications, 1942;
-reis. 1966), 155-6.
+[^6]: Rutherford John Gettens and George Leslie Stout, *Painting Materials: A Short Encyclopaedia* (New York: Dover Publications, 1942; reis. 1966), 155-6.
 
 [^7]: Ibid.
 
-[^8]: Milena Rehákova, Michal Čeppan, Katarína Vizárová, András Peller,
-Danica Stojkovičová, and Monika Hricková, “Study of Stability of
-Brown-Gray Inks on Paper Support.” *Heritage Science* 3, no. 1 (December
-2015): 3-4,
-[<u>https://doi.org/10.1186/s40494-015-0039-0</u>](https://doi.org/10.1186/s40494-015-0039-0).
+[^8]: Milena Rehákova, Michal Čeppan, Katarína Vizárová, András Peller, Danica Stojkovičová, and Monika Hricková, “Study of Stability of Brown-Gray Inks on Paper Support.” *Heritage Science* 3, no. 1 (December 2015): 3-4, [<u>https://doi.org/10.1186/s40494-015-0039-0</u>](https://doi.org/10.1186/s40494-015-0039-0).
 
-[^9]: British Sea Fishing, “Commercial Fishing for Squid and Cuttlefish,”
-July 14, 2014,
-[<u>https://britishseafishing.co.uk/commercial-fishing-for-squid-and-cuttlefish/</u>](https://britishseafishing.co.uk/commercial-fishing-for-squid-and-cuttlefish/);
-Cornwall Good Seafood Guide, “Cuttlefish,” accessed May 13, 2022,
-[<u>https://www.cornwallgoodseafoodguide.org.uk/fish-guide/cuttlefish.php</u>](https://www.cornwallgoodseafoodguide.org.uk/fish-guide/cuttlefish.php).
+[^9]: British Sea Fishing, “Commercial Fishing for Squid and Cuttlefish,” July 14, 2014, [<u>https://britishseafishing.co.uk/commercial-fishing-for-squid-and-cuttlefish/</u>](https://britishseafishing.co.uk/commercial-fishing-for-squid-and-cuttlefish/); Cornwall Good Seafood Guide, “Cuttlefish,” accessed May 13, 2022, [<u>https://www.cornwallgoodseafoodguide.org.uk/fish-guide/cuttlefish.php</u>](https://www.cornwallgoodseafoodguide.org.uk/fish-guide/cuttlefish.php).
 
-[^10]: Further research into this question might examine the records of
-eighteenth- and nineteenth-century casting workshops in order to
-understand sourcing and trade of cuttlebones.
+[^10]: Further research into this question might examine the records of eighteenth- and nineteenth-century casting workshops in order to understand sourcing and trade of cuttlebones.
