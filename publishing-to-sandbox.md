@@ -15,7 +15,7 @@ The publicly-available [M&K Sandbox Site](https://cu-mkp.github.io/sandbox/) is 
 | `.pdf`                             | `.pdf`                                                    | usually `/docs/`              |
 | Images                             | `.jpg` or `.png`                                          | usually `/docs/` or `images/` |
 
-
+## Formatting in Google Drive
 
 Tutorial and Policies for Converting Projects Created in the Google Drive to files for the Sandbox Site in Github
 
