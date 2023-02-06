@@ -14,6 +14,9 @@ Related repositories:
 
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools (e.g., Jupyter Notebooks), where others can add and create their own tools, case studies, and resources presented here. Projects include visualizations and analysis of Fr. 640 through NLP, explorations of M&K's encoding oteaching resources such as assignment sheets
 
+## Adding content to the site
+Those with sufficient permissions should follow these [protocols/instructions](publishing-to-sandbox.md) to add pages to the site
+
 ## Want to Contribute?
 
 The Sandbox is an ever-growing place for continued exploration and an invitation for others to experiment with us. 
