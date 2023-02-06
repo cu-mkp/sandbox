@@ -1,7 +1,5 @@
 > Last updated 2023-02-03 by NJR
 
-IN PROGRESS
-
 # Publishing to the Sandbox Site
 The publicly-available [M&K Sandbox Site](https://cu-mkp.github.io/sandbox/) is powered through Github Pages. Input for site content is in Github-flavored Markdown. Whenever possible and appropriate, resources and pages for the Sandbox site should be in Markdown.
 
