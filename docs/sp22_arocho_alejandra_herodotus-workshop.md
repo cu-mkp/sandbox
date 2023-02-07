@@ -5,7 +5,7 @@ Professor Pamela Smith \| Naomi Rosenkranz \| Caroline Surman<br/>
 Making and Knowing in Early Modern Europe: Hands-on History<br/>
 10 May 2022
 
-This project is directed toward Columbia College students who have taken the course "Literature Humanities" ([Lit Hum](https://www.college.columbia.edu/core/lithum)) as part of [Columbia's Core Curriculum](https://www.college.columbia.edu/core/core) and want to see how an author/artisan from Renaissance Toulouse participates in their ongoing literary/scholarly conversations.
+This project is directed toward Columbia College and General Studies students who have taken the course "Literature Humanities" ([Lit Hum](https://www.college.columbia.edu/core/lithum)) as part of [Columbia's Core Curriculum](https://www.college.columbia.edu/core/core) and want to see how an author/artisan from Renaissance Toulouse participates in their ongoing literary/scholarly conversations.
 
 <img src="./media-arocho/image1.jpg" style="width:3.03646in;height:4.14387in" />
 
