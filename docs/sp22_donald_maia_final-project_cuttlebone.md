@@ -8,8 +8,7 @@ Cuttlebone, the hard interior shell of the cuttlefish, has a long
 history of human use. While today it is primarily consumed as a calcium
 supplement by pet birds and reptiles, cuttlebone was long ago used as a
 polishing powder, casting material, and carving medium. Both Aristotle
-and Pliny offer detailed examinations of cuttlefish in their more
-general overview of cephalopods.[^1] Its near continuous use in the arts,
+and Pliny offer detailed examinations of cuttlefish in their more general overview of cephalopods.[^1] Its near continuous use in the arts,
 especially in casting, indicates that cuttlebone has historically been
 an abundant material. Paradoxically, for such a widely used material,
 there is little reference to its procurement and trade either in
