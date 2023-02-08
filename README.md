@@ -15,7 +15,9 @@ Related repositories:
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools (e.g., Jupyter Notebooks), where others can add and create their own tools, case studies, and resources presented here. Projects include visualizations and analysis of Fr. 640 through NLP, explorations of M&K's encoding oteaching resources such as assignment sheets
 
 ## Adding content to the site
-Those with sufficient permissions should follow these [protocols/instructions](publishing-to-sandbox.md) to add pages to the site
+Those with sufficient permissions should follow these [protocols/instructions](publishing-to-sandbox.md) to add pages to the site.
+
+See also our [Introduction to Github](https://github.com/cu-mkp/editioncrafter-data/blob/main/how-tos/intro-to-github.md) that also includes information about Markdown, the markup language used to create pages in Github Pages.
 
 ## Want to Contribute?
 
