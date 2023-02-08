@@ -2,7 +2,7 @@
 
 # The Making and Knowing Project *Sandbox*
 
-https://cu-mkp.github.io/sandbox/
+[https://cu-mkp.github.io/sandbox/](https://cu-mkp.github.io/sandbox/)
 
 The “Sandbox” space makes available a number of resources that utilize and explore the data underlying [_Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/) created by the [Making and Knowing Project](https://www.makingandknowing.org/) (M&K) at Columbia University.
 
