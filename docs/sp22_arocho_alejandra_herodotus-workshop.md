@@ -23,10 +23,10 @@ he sometimes doubts but nevertheless believes is relevant or worth sharing.
 You may recall the following excerpt from Book 2, in which Herodotus
 comments on his struggles carrying out this investigation:
 
-> I was unable to get any information from anyone else. However, *I
-> myself* travelled as far as Elephantine and saw things *with my very
-> own eyes*, and subsequently made *enquiries* of others; as a result of
-> these two *methods*, the very most I could find out was as follows.
+> I was unable to get any information from anyone else. However, **I
+> myself** travelled as far as Elephantine and saw things **with my very
+> own eyes**, and subsequently made **enquiries** of others; as a result of
+> these two **methods**, the very most I could find out was as follows.
 >
 > Herodotus 2.29, emphasis added.
 
