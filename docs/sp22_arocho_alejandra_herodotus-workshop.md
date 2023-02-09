@@ -50,7 +50,7 @@ In her introduction to our
 of the *Histories*, Carolyn Dewald writes that “by paying attention to
 Herodotus’ first-person comments we can read his text as an ongoing
 *workshop* on how to think historically about logoi \[or stories\]”
-(xxx, emphasis added). Herodotus’ approach then, though impossible to
+(Dewald, xxx, emphasis added). Herodotus’ approach then, though impossible to
 completely piece together, can be described as a workshop of sorts—a
 site of experimentation, a trove of trial and error, and a springboard
 for innovation. Having reframed Herodotus’ *Histories* as a “workshop”,
