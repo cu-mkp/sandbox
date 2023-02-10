@@ -472,13 +472,42 @@ carving experience.
 All in all this recreation was rewarding to create and we learned a lot
 along the way.
 
-<img src="./media-bergen+sabet/image21.jpg" />
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_002.jpg" />
 
 > The final grotto.
 
-<img src="./media-bergen+sabet/image25.png" />
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_003.jpg" />
 
-> The final grotto with a few added elements.
+> Side view of the grotto.
+
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_008.jpg" />
+
+> Side view of the grotto.
+
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_004.jpg" />
+
+> Close-up of the bridge and rat with wings.
+
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_005.jpg" />
+
+> Close-up of the bridge, rat with wings, and blue painted stucco shells.
+
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_006.jpg" />
+
+> Close-up of water fountain, covered with "rocks" made of parchment.
+
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_007.jpg" />
+
+> Turtle carved from cuttlefish.
+
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_009.jpg" />
+
+> Side view of the grotto.
+
+<img src="./media-bergen+sabet/20230210_rosenkranz_finished-grotto_010.jpg" />
+
+> Top view of the grotto.
+
 
 [^1]: Vincenzo Scamozzi, *L' Idea Dell'architettura Universale*, 1615.
 
