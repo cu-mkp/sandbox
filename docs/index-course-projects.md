@@ -53,6 +53,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Animal Rationality in Ms. Fr. 640](sp22_nebolsin_victoria_final-project_animal-rationality.md) by Victoria Nebolsin
 - [Cuttlefish in and around Ms. Fr. 640](sp22_donald_maia_final-project_cuttlebone.md) by Maia Donald
 - [Creating a “Modern” Reconstruction of a Miniature Grotto](sp22_bergen+sabet_jamie+sofia_final-project_grotto.md) by Jamie Bergen and Sofia Sabet
+- [Sieves in Ms. Fr. 640](sp22_gardner_schuyler_final-project-sieves.md) by Schuyler Gardner
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
