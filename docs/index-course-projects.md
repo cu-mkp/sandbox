@@ -57,4 +57,5 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
-- [Making Pigment from Madder: a Trio of Recipes](sp22_fld_rosenkranz_naomi_madder-lake-trio.md) by Naomi Rosenkranz and Charlotte Atkins (2022-07-19) (WIP)
+- [Making Pigment from Madder: a Trio of Recipes](sp22_fld_rosenkranz_naomi_madder-lake-trio.md) by Naomi Rosenkranz and Charlotte Atkins (2022-07-19)
+- [Materials Used for Making Renaissance Dyes and Pigments](materials.md) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
