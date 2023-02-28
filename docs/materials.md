@@ -1,6 +1,8 @@
-# Materials of the Sixteenth-century Lab
+# Materials used in making Renaissance dyes and pigments
 
-## Annatto | Azurite | Dragon's Blood | Verdigris
+Download [[PPTX](2023_dyes-pigments_samples.pptx)] | [[PDF](2023_dyes-pigments_samples.pdf)]
+
+## Annatto (*achiote*)| Azurite | Dragon's Blood | Verdigris
 ![materials-aadv-collection-2](../images/materials-aadv-collection-2.png?raw=true)
 
 ## Cochineal | Brazilwood | Weld | Green (Unripe) Buckthorn Berries
