@@ -15,9 +15,9 @@ This project is directed toward Columbia College and General Studies students wh
 
 In his account of the Greco-Persian wars,[^1] Herodotus doesn’t string
 together a series of events into a narrative like we would expect a
-historian to do nowadays (Dewald xxx). Rather, as you readers of the
+historian to do nowadays (Dewald, xxx). Rather, as you readers of the
 *Histories*, might already know, Herodotus acts as a modern-day
-investigator or reporter—he even calls his work an “enquiry” (Herodotus
+investigator or reporter—he even calls his work an “enquiry” (Herodotus,
 3)—collecting both hearsay and eyewitness testimony whose veracity
 he sometimes doubts but nevertheless believes is relevant or worth sharing.
 You may recall the following excerpt from Book 2, in which Herodotus
@@ -33,7 +33,7 @@ comments on his struggles carrying out this investigation:
 It seems that in this passage Herodotus is attempting to invest his 
 “methods” of investigating with more authority and perhaps secure the
 reader’s trust. Since it was “he himself” who “saw things with \[his\]
-very own eyes”, his firsthand experience might seem more credible, and
+very own eyes,” his firsthand experience might seem more credible, and
 his “enquiries” of others likely yielded what for him might have been
 valid, even if not completely accurate, versions of events. And yet his
 “methods” also function as a way to make his writing appear more factual
@@ -43,7 +43,7 @@ fantastical or mythological (like the story of Arion and the dolphin,
 sources actually makes his tales seem truer to life. Herodotus, though,
 never really comments on his “theory” of history. There is no mention of
 any approach or epistemology—in other words, how he views the making of
-knowledge—that encapsulates his “methods”.
+knowledge—that encapsulates his “methods.”
 
 In her introduction to our
 [<u>edition</u>](https://global.oup.com/ukhe/product/the-histories-9780199535668?cc=us&lang=en&)
@@ -53,7 +53,7 @@ Herodotus’ first-person comments we can read his text as an ongoing
 (Dewald, xxx, emphasis added). Herodotus’ approach then, though impossible to
 completely piece together, can be described as a workshop of sorts—a
 site of experimentation, a trove of trial and error, and a springboard
-for innovation. Having reframed Herodotus’ *Histories* as a “workshop”,
+for innovation. Having reframed Herodotus’ *Histories* as a “workshop,"
 it is perhaps not that surprising to find his work featured in the
 recipe book of a late-sixteenth-century artisan from Toulouse, France.
 Hard to categorize—much like the *Histories*—this manuscript, BnF Ms.
@@ -65,9 +65,9 @@ lineage of ancient texts. The author-practitioner—the anonymous person
 who is credited with composing Ms. Fr. 640—is mainly concerned with
 recipes that have to do with metal casting and painting. The manuscript folio
 in which Herodotus is mentioned, 162r, under the fittingly titled entry 
-“For the workshop”, is remarkable for being one of the only folios
+“For the workshop,” is remarkable for being one of the only folios
 in which the voice of the author-practitioner—in which his
-role as an “author”, one endowed with his own opinions and theories on
+role as an “author,” one endowed with his own opinions and theories on
 writing and understanding the world as a maker not just of things
 but of knowledge, too—shines through.
 
@@ -92,7 +92,7 @@ perhaps was just as fit to contribute to academic/scholarly
 conversations as students of Lit Hum are.
 
 I therefore extend the definition of “experimental essay” beyond the
-author-practitioner’s renowned contemporary, Montaigne, whom you’ve also
+author-practitioner’s renowned contemporary, Montaigne, who you’ve also
 read and know spearheaded early modern conceptions of the “self” in
 writing, to encapsulate Herodotus’ workshop, given how it prioritizes
 the accumulation of firsthand experiences for any and all claims to
@@ -124,12 +124,12 @@ Under the subheading, “Navigation, trade,” the author-practitioner
 presents his own takeaway from the opening passage of Book I of
 Herodotus’ *Histories*, in which Herodotus writes about the Phoenicians’
 travels across the Red Sea to the “coast of Greece” to deliver their
-“merchandise from Egypt & from Assyria”, perhaps making a claim about
+“merchandise from Egypt & from Assyria,” perhaps making a claim about
 travels to the New World by the Portuguese having an ancient precedent
 (162r). The author-practitioner’s framing of this reference to the
 *Histories* already resembles Herodotus’ approach towards asserting his
 authority as a historian; the phrase “\[i\]t can be gathered” is akin to
-“\[a\]s far as I have been able to gather from my enquiries” (Herodotus
+“\[a\]s far as I have been able to gather from my enquiries” (Herodotus,
 1.171) and “\[a\]s far as I can gather from our elders” (7.8). By
 establishing a sort of hypothesis—“it *can* be gathered” doesn’t sound
 too conclusive—about this passage from the *Histories*, the
@@ -137,11 +137,11 @@ author-practitioner cements what we might call in Lit Hum “close
 reading” or “interpretation” as a way of experimenting with a text and
 the knowledge contained therein, as a process of trial and error that he
 might be at the center of, just as much as Herodotus is in his
-“workshop”, or enquiries.
+“workshop,” or enquiries.
 
 Throughout this entry, the author-practitioner frames his repeated
-mentions of Herodotus using more subheadings, “Galleys”, “Gold vases”,
-and “Iron vase joined and soldered”, that seem to offer insight into the
+mentions of Herodotus using more subheadings, “Galleys,” “Gold vases,”
+and “Iron vase joined and soldered,” that seem to offer insight into the
 kinds of knowledge he was most interested in or identified as worthy of
 reproducing or storing in his manuscript (162r). It is interesting that
 the subheadings[^2] refer to specific objects but the main text
@@ -223,15 +223,15 @@ Making and Knowing Project, 2020),
 [<u>https://edition640.makingandknowing.org/#/folios/166r/f/166r/tc</u>](https://edition640.makingandknowing.org/#/folios/166r/f/166r/tc).
 
 It is no wonder that the author-practitioner goes on to say that “the
-workshop represents all things active”, as his text functions not just
+workshop represents all things active,” as his text functions not just
 as a space for him to actively explore knowledge worth sharing but also
 as a repository of actions past and present. It is through repeated
 actions, multiple attempts, that his recipes arise, and particularly by
 actively “rediscover\[ing\]” experiments “picked up & taken from others”
 (166r). He writes in Latin that “\[n\]othing is said now that has not
-been said or done before,[^3]” implying that what we might think of as
+been said or done before,"[^3] implying that what we might think of as
 copying texts “from those who preceded you” coukd actually 
-imbue the texts with new meanings for “those who come after”, just as
+imbue the texts with new meanings for “those who come after,” just as
 his references to Herodotus in the manuscript might be doing (166r). And
 amassing that which was “done before”—presumably, recipes from other
 collections or processes from other craftspeople—is part and parcel of
@@ -311,7 +311,7 @@ author-practitioner and the so-called father of history, someone whose
 work isn’t that vastly different from an artisan from Toulouse’s when we
 consider their approaches towards collecting experiences together. Just
 as Herodotus frames his observations and chronicles with his “certain
-knowledge”, the author-practitioner writes within the realm of what he
+knowledge,” the author-practitioner writes within the realm of what he
 knows to be tried and true, and we still have much to rediscover about
 his trials, failures, and successes (Herodotus 1.5).
 
