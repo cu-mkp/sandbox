@@ -1,0 +1,9 @@
+# oxygen xpr files
+*.xpr
+
+# emacs tilde files
+**~
+
+# Mac hidden files
+
+**.DS_Store
