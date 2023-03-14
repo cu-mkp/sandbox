@@ -9,7 +9,7 @@ surrounding marginal text on plaster; its placement suggests that it may
 accompany the folio’s “Scimitars” entry. Combined with an auxiliary “a,”
 this phrase is somewhat more enigmatic than the straightforward English
 infinitive “to know,” as translated in the [<u>Digital Critical
-Edition</u>](http://640.makingandknowing.org/#/) of the Making & Knowing
+Edition</u>](https://edition640.makingandknowing.org/#/) of the Making & Knowing
 Project. Rather, we might take it as a gerund or part of a verbal phrase
 – something closer to the procedural sense of “for knowing” than “to
 know.” Did this note in fact refer to the scimitar recipe? If so, what
