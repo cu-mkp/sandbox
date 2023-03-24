@@ -8,7 +8,7 @@ Organized by Tianna Uchacz with Donna Janes and Naomi Rosenkranz
 
 ## Cochineal Dye: History, Chemistry, and Preparation
 
-<img src="../images/azurite-shells.jpg?raw=true" style="width:2.89743in;height:3.92188in" />
+<img src="../images/sp23_tamu-dyes-coverpage.jpg?raw=true" style="width:2.89743in;height:3.92188in" />
 
 [Presentation: Cochineal Dye: History, Chemistry, and Preparation](2023_dyes_cochineal-history-chem-prep_TAMU_compressed.pdf)
 
