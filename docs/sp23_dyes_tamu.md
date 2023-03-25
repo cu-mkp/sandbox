@@ -30,7 +30,7 @@ Organized by Tianna Uchacz with Donna Janes and Naomi Rosenkranz
 |  IC  |  Iron sulphate  |      Cochineal     |
 |  CC  | Copper sulphate |      Cochineal     |
 
-<img src="../images/sp23_tamu-dyes-textiles.jpg?raw=true" />
+<img src="../images/sp23_tamu-dyes_textiles.jpg?raw=true" />
 
 Textiles
 - Linen canvas, 100% linen Utrecht unprimed Belgian linen canvas [Type 185 (Blick Art Supplies)](http://www.dickblick.com/items/07394-2501/)
