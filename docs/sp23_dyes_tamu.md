@@ -41,4 +41,26 @@ Textiles
 - Woven wool, 100% wool, undyed, [Ortega’s Weaving Shop, Chimayo, New Mexico](https://ortegasweaving.com/)
 - Wool yarn, 100% wool, undyed, [Lion Brand Fishermen's Wool® Yarn](https://www.lionbrand.com/products/fishermens-wool-yarn?variant=32420913184861)
 
-See also the Making and Knowing Project's [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments.md)
+Mordants and Additives
+- Alum (aluminum potassium sulfate)
+     - Kremer Pigments, <http://shop.kremerpigments.com/en/>
+     - TALAS Bookbinding, Archival & Conservation Supplies, <http://www.talasonline.com/>
+     - Loudwolf, <https://www.loudwolf.com/> (available through amazon.com)
+- Potash (potassium sulfate)
+     - Kremer Pigments, <http://shop.kremerpigments.com/en/>
+     - Loudwolf, <https://www.loudwolf.com/> (available through amazon.com)
+- Iron sulfate
+     - Kremer Pigments, <http://shop.kremerpigments.com/en/>
+     - Alpha Chemicals, <https://alphachemicals.com/> (available through amazon.com)
+- Copper sulfate
+     - Alpha Chemicals, <https://alphachemicals.com/> (available through amazon.com)
+
+Dyestuffs
+- Kremer Pigments, <http://shop.kremerpigments.com/en/>. Order online or visit the New York storefront
+- Natural Pigments, <https://www.naturalpigments.com/>. Order online
+- Maiwa <https://maiwa.com/>. Order online or visit retail locations in Vancouver, Canada
+
+## See also
+The Making and Knowing Project's [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments.md)
+
+
