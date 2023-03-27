@@ -10,7 +10,7 @@ Organized by Tianna Uchacz with Donna Janes and Naomi Rosenkranz
 
 <img src="../images/sp23_tamu-dyes-coverpage.jpg?raw=true" />
 
-[Presentation: Cochineal Dye: History, Chemistry, and Preparation](2023_dyes_cochineal-history-chem-prep_TAMU_compressed.pdf)
+[Presentation: Cochineal Dye: History, Chemistry, and Preparation](2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf)
 
 
 ## Handouts
