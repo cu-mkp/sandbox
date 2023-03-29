@@ -60,6 +60,14 @@ Dyestuffs
 - Natural Pigments, <https://www.naturalpigments.com/>. Order online
 - Maiwa <https://maiwa.com/>. Order online or visit retail locations in Vancouver, Canada
 
+## The resulting sample sheets
+
+<img src="../images/sp23_tamu-dyes_textiles-final-01.jpg?raw=true" /> 
+
+<img src="../images/sp23_tamu-dyes_textiles-final-03.jpg?raw=true" /> 
+
+<img src="../images/sp23_tamu-dyes_textiles-final-02.jpg?raw=true" /> 
+
 ## See also
 The Making and Knowing Project's [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments.md)
 
