@@ -3,12 +3,12 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-09-29 by NJR_
 
-A downloadable version of this assignment: [[PDF](pigment-cochineal-lake_assignment_downloadable_2021.pdf?raw=true)]
+A downloadable version of this assignment: [[PDF](pigment-cochineal-lake_assignment_downloadable_2023.pdf?raw=true)]
 
 ![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
 
 ## Lake pigments and natural colorants
-If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
+If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](./rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
 
 See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
@@ -23,8 +23,8 @@ Lake pigments are a type of pigment prepared from organic natural colorants: pla
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 ## Cochineal
-![cochineal-plant](../images/cochineal-plant.jpg?raw=true)
-Photo credit: MARK WILLIAMSON/SCIENCE PHOTO LIBRARY [https://www.bbc.com/news/business-43786055](https://www.bbc.com/news/business-43786055)
+![cochineal-plant](../images/2023-01-08_rosenkranz_cochineal-pad.jpg?raw=true)
+> Cochineal, covered in a white excretion that acts as a protective layer, on a nopal pad (Naomi Rosenkranz, Altadena, CA, 2023)
 
 Cochineal is a scale insect found on prickly pear or Barbary fig cactus (Opuntia ficusindica (L.)).
 
