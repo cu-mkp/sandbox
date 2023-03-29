@@ -125,7 +125,7 @@ There are two modernized versions of this recipe:
 - Using a small utensil, add cochineal to the drawstring bag. Close the bag tightly
 - Add alum and bag of cochineal to 300ml water in the 1000ml beaker
 - Bring to a boil and boil for 15-20 min
-- Using heat, dissolve 10g potash in 50 ml water in the 100ml beaker
+- Using heat, dissolve 4g potash in 50 ml water in the 100ml beaker
 - Remove the drawstring bag containing the cochineal from the beaker. It can now be discarded
 - Add the potash solution very gradually, stirring constantly to the cochineal+alum solution
      - Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
