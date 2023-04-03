@@ -11,5 +11,6 @@
      - [Making Lake Pigment from Cochineal](pigment-cochineal-lake_assignment.md) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
      - [Making Lake Pigment from Madder](pigment-madder-lake_assignment.md) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment (2022-01-29)
      - [Making Pigment from Madder: a Trio of Recipes](sp22_fld_rosenkranz_naomi_madder-lake-trio.md) - helpful step-by-step fieldnotes  (2022-07-19) (WIP)
-- [Lesson Plans, Activities, and Resources: Dyeing with Natural Colorants](dyes-assignment.md) - resources for dyeing textiles with natural colorants (including cochineal, madder, weld, and redwoods) following historical dye recipes (2022-06-17)
+- [Dyeing with Cochineal](dyes-cochineal_assignment.md) - hands-on lesson plan and assignment for dyeing textiles with cochineal insects (2023-04-03)
+     - See also, [Lesson Plans, Activities, and Resources: Dyeing with Natural Colorants](dyes-assignment.md) - resources for dyeing textiles with natural colorants (including cochineal, madder, weld, and redwoods) following historical dye recipes (2022-06-17)
 - [Preparing and Painting with Azurite](azurite-assignment.md) - resources for grinding, levigating, and painting the blue copper pigment, azurite.
