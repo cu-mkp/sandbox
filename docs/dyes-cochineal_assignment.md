@@ -25,7 +25,7 @@ Natural dyes can be categorized into one of three processes used to extracted th
 2. Mordant dyes
 3. Vat dyes
 
-## Mordant Dyes
+## Mordant dyes
 The largest class of natural dyes is mordant dyes. In this process, textiles must first be treated with a mordant (typically a metal salt or coordination metal) in order to bind the dye more permanently to the textile. The textile binds to the mordant which in turn binds to the colorant. The mordant thus acts as a bridge between the textile and colorant.
 
 The most common mordant is aluminum, typically in the form of alum (aluminum potassium sulfate). Other mordants include iron sulfate, copper sulfate, and tannins.
@@ -85,7 +85,7 @@ You can also use:
 
 **Mordant: Alum**
 | Material | Amount /1g (g) |
-|:--------:|:--------------:|
+|----------|----------------|
 |  textile |      1.00      |
 |   alum   |      0.20      |
 |   water  |      50.00     |
@@ -93,14 +93,14 @@ You can also use:
 
 **Cochineal**
 |      Material     | Amount /1g (g) |
-|:-----------------:|:--------------:|
+|-------------------|----------------|
 |      textile      |      1.00      |
 |     cochineal     |      0.125     |
 | potash (optional) |     0.0625     |
 |       water       |      62.50     |
 
 
-### Materials and Equipment (Mordant bath)
+### Materials and equipment (mordant bath)
 - Mordant (such as alum, iron sulfate, etc.)
 - Water
 - Textiles
@@ -112,7 +112,7 @@ You can also use:
 - Plate
 - Strainer
 
-### Procedure (Mordant bath)
+### Procedure (mordant bath)
 
 - Measure out water into glass beaker
 - Add mordant and stir
@@ -127,7 +127,7 @@ You can also use:
 - Wring out excess water
 
 
-### Materials and Equipment (Dye bath)
+### Materials and equipment (dye bath)
 - Dyestuffs
 - Optional: potash
 - Mortar and pestle
@@ -142,7 +142,7 @@ You can also use:
 - Plate
 - Strainer
 
-### Procedure (Dye bath)
+### procedure (dye bath)
 - Using mortar and pestle, crush dyestuffs to a fine powder or into small pieces
 - Measure out water into glass beaker
 - To add dyestuffs to water:
@@ -164,16 +164,16 @@ You can also use:
 
 ![dye-samples](../images/dye-samples.JPG?raw=true)
 
-## An Alternative Method To Using Hotplates and Beakers
+## An alternative method to using hotplates and beakers
 If you do not have access to hotplates and heat-safe glass beakers, there are other options.
 
-### Dedicated Pots
+### Dedicated pots
 One alternative method is to use dedicated stainless steel or ceramic pots. While most natural colorants are not actively harmful, it is still best practice to avoid consuming them. Some mordants can react with and degrade the surface of cookware, so it is especially important to use pots you will not also use to cook with. To avoid very serious reactions, use stainless steel or ceramic cookware.
 
 ![dye-pots](../images/dye-pots.JPG?raw=true)
 
 
-### Bain-Marie
+### Bain-marie
 Another method is to use a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries).
 
 - On your stove at home, prepare your solutions in mason jars (or other glass jars that can withstand prolonged heating such as pickling or jam jars).
@@ -183,7 +183,7 @@ Another method is to use a water bath or bain-marie (see this [cooking blog](htt
 - Fill the pot with enough water to come up past the solutions in your mason jars, being careful not to contaminate the solutions inside your jars
 - Heat the pot on your stove and follow the procedure for preparing lake pigments
 
-**Advantages and Notes**
+**Advantages and notes**
 
 - This is one way to prepare pigments at home without beakers or other shock-resistant containers
 - Beakers, Pyrex, and other borosilicate glass is specially formulated to withstand direct high heat (like when placed directly on a hot plate) as well as shocks or sudden changes in temperature (like placing a hot glass vessel with your bath onto a cold surface like a counter)
@@ -196,7 +196,7 @@ Another method is to use a water bath or bain-marie (see this [cooking blog](htt
 
 ![dyes-bain-marie](../images/dyes-bain-marie.JPG?raw=true)
 
-## Sourcing Materials
+## Sourcing materials
 
 Mordants and Additives
 - Alum (aluminum potassium sulfate)
@@ -217,7 +217,7 @@ Dyestuffs
 - Natural Pigments, <https://www.naturalpigments.com/>. Order online
 - Maiwa <https://maiwa.com/>. Order online or visit retail locations in Vancouver, Canada
 
-## Additional Resources
+## Additional resources
 
 See the Making and Knowing Project’s [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments.html)
 
@@ -227,7 +227,7 @@ See the Making and Knowing Project’s [Hands-on Lesson Plans, Activities, Assig
 - Recipe books and collections, instruction manuals
 - Work orders, inventories, accounts, orders for materials, import records, and guild regulations
 
-## References and Links
+## References and links
 - Kirby, Jo, Maartin van Bommel, André Verhecken, and Marika Spring. *Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and Their Historical Sources*. London: Archetype Publications, 2014.
 - Phipps, Elena. *Cochineal Red: the Art History of a Color*. New York (N.Y.: The Metropolitan Museum of Art, 2010. Print.) Full pdf available for free download here: <https://www.metmuseum.org/art/metpublications/cochineal_red_the_art_history_of_a_color>.
 - Achim, Miruna. “Cochineal.” In *New World Objects of Knowledge: A Cabinet of Curiosities*, edited by Mark Thurner, Juan Pimentel, and University of London, 177–82. London: Institute of Latin American Studies, School of Advanced Study, University of London, 2021. <https://doi.org/10.14296/2104.9781908857835>. 
