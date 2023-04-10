@@ -220,3 +220,25 @@ Dyestuffs
 ## Additional Resources
 
 See the Making and Knowing Project’s [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments.html)
+
+## Sources of historical evidence 
+- Analysis of existing objects, such as surviving textiles and paintings in museum collections
+      - However, it must be kept in mind that these represent only a small part of history. They are items that have been selectively collected by museums or upper class. Many were made for or bought by the elite, were luxury or just generally expensive items
+- Recipe books and collections, instruction manuals
+- Work orders, inventories, accounts, orders for materials, import records, and guild regulations
+
+## References and Links
+- Kirby, Jo, Maartin van Bommel, André Verhecken, and Marika Spring. *Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and Their Historical Sources*. London: Archetype Publications, 2014.
+- Phipps, Elena. *Cochineal Red: the Art History of a Color*. New York (N.Y.: The Metropolitan Museum of Art, 2010. Print.) Full pdf available for free download here: <https://www.metmuseum.org/art/metpublications/cochineal_red_the_art_history_of_a_color>.
+- Achim, Miruna. “Cochineal.” In *New World Objects of Knowledge: A Cabinet of Curiosities*, edited by Mark Thurner, Juan Pimentel, and University of London, 177–82. London: Institute of Latin American Studies, School of Advanced Study, University of London, 2021. <https://doi.org/10.14296/2104.9781908857835>. 
+- Merrifield, Mary P. *Original Treatises, Dating from the XIIth to XVIIIth Centuries, on the Arts of Painting in Oil, Miniature, Mosaic, and on Glass of Gilding, Dyeing, and the Preparation of Colours and Artificial Gems; Preceded by a General Introd., with Translations, Prefaces, and Notes. J. Murray*, 1849.
+- CAMEO: Conservation & Art Materials Encyclopedia Online: <http://cameo.mfa.org/wiki/Main_Page>.
+     - CAMEO is a searchable information resource developed by the Museum of Fine Arts, Boston. The MATERIALS database contains chemical, physical, visual, and analytical information on historic and contemporary materials used in the production and conservation of artistic, architectural, archaeological, and anthropological materials.
+- Greenfield, Amy Butler. *A Perfect Red Empire, Espionage, and the Quest for the Color of Desire*. Harper Perennial, 2006.
+- Padilla, Carmella. *Red like No Other - How Cochineal Colored the World*. Rizzoli International Publicat, 2015.
+- Cardon, Dominique. *Natural Dyes: Sources, Tradition, Technology and Science*. Archetype, 2007.
+- Gettens, Rutherford J., and George L. Stout. *Painting Materials: a Short Encyclopedia*. Dover Publications, 1966.
+- Vejar, Kristine. *The Modern Natural Dyer a Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*. Abrams, 2015.
+- Short History of Cochineal Red: <https://artechne.wp.hum.uu.nl/short-history-of-the-cochineal-red/>.
+- Putting the Red in Redcoats: <http://www.history.org/foundation/journal/Summer12_newformat/dye.cfm>.
+- A short introduction (about cochineal): <https://medium.com/@zip_lehnus/paint-it-red-cochineal-the-wonder-bug-51d280c41d56>
