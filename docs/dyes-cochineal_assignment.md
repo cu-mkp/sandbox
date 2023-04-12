@@ -84,6 +84,7 @@ You can also use:
 - [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
 
 **Mordant: Alum**
+
 | Material | Amount /1g (g) |
 | -------- | -------------- |
 |  textile |      1.00      |
@@ -92,6 +93,7 @@ You can also use:
 
 
 **Cochineal**
+
 |      Material     | Amount /1g (g) |
 | ----------------- | -------------- |
 |      textile      |      1.00      |
