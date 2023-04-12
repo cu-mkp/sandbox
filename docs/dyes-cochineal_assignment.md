@@ -85,7 +85,7 @@ You can also use:
 
 **Mordant: Alum**
 | Material | Amount /1g (g) |
-|----------|----------------|
+| -------- | -------------- |
 |  textile |      1.00      |
 |   alum   |      0.20      |
 |   water  |      50.00     |
@@ -93,7 +93,7 @@ You can also use:
 
 **Cochineal**
 |      Material     | Amount /1g (g) |
-|-------------------|----------------|
+| ----------------- | -------------- |
 |      textile      |      1.00      |
 |     cochineal     |      0.125     |
 | potash (optional) |     0.0625     |
