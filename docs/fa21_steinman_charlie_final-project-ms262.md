@@ -186,8 +186,6 @@ for its rough state. Please see the [<u>github
 repository</u>](https://github.com/cu-mkp/ms-262-data) for my project to
 look at the markup.
 
-[^1]: Ernst Róth and Leo Prijs, *Hebräische Handschriften*, (Stuttgart:
-Steiner, 1982) 1A:185-187.
+[^1]: Ernst Róth and Leo Prijs, *Hebräische Handschriften*, (Stuttgart: Steiner, 1982) 1A:185-187.
 
-[^2]: Raphael Nata Rabbinowicz, *Ohel Avraham: Reshimat Ha-Sefarim Asher
-Asaf ve-Kibez* (Munich: E. Hover, 1888), 6.
+[^2]: Raphael Nata Rabbinowicz, *Ohel Avraham: Reshimat Ha-Sefarim Asher Asaf ve-Kibez* (Munich: E. Hover, 1888), 6.
