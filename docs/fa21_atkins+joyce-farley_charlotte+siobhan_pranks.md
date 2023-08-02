@@ -2,8 +2,8 @@
 
 Charlotte Atkins and Siobhan Joyce-Farley, Fall 2021
 
-[<u>VIDEO: Funniest Pranks of the 16th
-Century</u>](https://youtu.be/BFK71x0bvuE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFK71x0bvuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 When we decided to recreate and record riddles from Ms. Fr. 640 for our
 final project, our major interests were exploring accessible entry
