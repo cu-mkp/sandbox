@@ -4,7 +4,8 @@
 Spring 2022<br/>
 HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History<br/>
 
-[Making and Knowing Pop-up Book](https://player.vimeo.com/video/710444936?h=b9508dad89)
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=b9508dad89" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 
 [A Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf)
 
