@@ -63,6 +63,11 @@ _Note: your experience with the Historical Recipe Reconstruction will be useful 
 - Mineral spirits (to clean the brush)
 - Optional: a way to repair flaws or leaks in your molds, such as masking tape or modeling clay like plasticine
 
+## Example fieldnotes
+- Naomi Rosenkranz, Summer 2021, [Breadmaking and Molding Fieldnotes](https://fieldnotes.makingandknowing.org/pre-2018-Fall/su21_rosenkranz_naomi_bread-making-and-molding/su21_fld_rosenkranz_naomi_breadmaking-molding.html)
+- Min Lim, Fall 2018, [Breadmolding Annotation](https://fieldnotes.makingandknowing.org/2018-Fall/Lim-Annotation_Field_Notes_FA18-Breadmolding-/Lim-Annotation_Field_Notes_FA18-Breadmolding-.html&sa=D&source=editors&ust=1694017522973175&usg=AOvVaw1CqsH_fK-YHLevFkE08OBJ)
+- Olivia Branscum, Fall 2018, [Breadmolding Skillbuilding](https://fieldnotes.makingandknowing.org/2018-Fall/Branscum-Breadmolding_Field_Notes_FA18/Branscum-Breadmolding_Field_Notes_FA18.html&sa=D&source=editors&ust=1694017522973618&usg=AOvVaw1HBFoeQHFohQvLshR06WUW) 
+
 ## Helpful sources on making sixteenth-century bread:
 
 - [John Evelyn&#39;s bread recipes](breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
