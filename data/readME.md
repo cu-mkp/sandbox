@@ -1,5 +1,7 @@
 # Data Directory of the Sandbox
 
+INCOMPLETE AS OF 2024-01-08
+
 This directory contains any raw data associated with projects found in the Sandbox.
 
 ## Used in [su21_branscum_elizabeth_final-project-medicinal.md](../docs/su21_branscum_elizabeth_final-project-medicinal.md)
