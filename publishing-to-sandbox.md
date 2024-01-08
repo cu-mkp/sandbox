@@ -46,7 +46,7 @@ In the command line, navigate to the directory where the file is downloaded. Use
 ```
 pandoc --extract-media=. -o [file-name].md -f docx -t gfm [file-name].docx
 example:
-pandoc --extract-media=. -o sp22_nebolsin_victoria_final-project_animal-rationality.md.md -f docx -t gfm sp22_nebolsin_victoria_final-project_animal-rationality.md.docx
+pandoc --extract-media=. -o sp22_nebolsin_victoria_final-project_animal-rationality.md -f docx -t gfm sp22_nebolsin_victoria_final-project_animal-rationality.docx
 ```
 
 After executing this command, you should now have a `.md` file and a `media/` directory in the same directory as the original `.docx` file.
