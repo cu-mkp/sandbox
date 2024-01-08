@@ -568,7 +568,7 @@ Waquet, Françoise. *Latin, or, The Empire of the Sign: From the Sixteenth to th
 
 [^3]: Pierre Bourdieu, *Language and Symbolic Power*, trans. John B. Thompson (Cambridge, Mass: Harvard University Press, 1991).
 
-[^4]: [Peter Burke and Roy Porter, eds., *The Social History of Language*, Cambridge Studies in Oral and Literate Culture 12 (Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1987).](https://www.zotero.org/google-docs/?HxHLnm)
+[^4]: Peter Burke and Roy Porter, eds., *The Social History of Language*, Cambridge Studies in Oral and Literate Culture 12 (Cambridge \[Cambridgeshire\]; New York: Cambridge University Press, 1987).
 
 [^5]: Roger Chartier, Pietro Corsi, and Centre Alexandre Koyré, eds., *Sciences et Langues En Europe* (Paris: Ecole des hautes études en sciences sociales, 1996).
 
