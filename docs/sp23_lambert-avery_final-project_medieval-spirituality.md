@@ -113,7 +113,7 @@ afterwards that they found the experience edifying and enjoyable.
 Holding onto my gallon of holy water in the week between its blessing
 and my reconstruction served as a very physically present reminder of
 both the spiritual process of its blessing and of my own baptism and
-<img src="./media/image2.jpg"
+<img src="./media-lambert/image2.jpg"
 style="width:2.21354in;height:3.13422in" />
 
 Fig. 1. The holy water, which I stored at my desk before use, brought a
@@ -133,8 +133,8 @@ described. Below are two images comparing my congealing wax-oil mixture
 and my final salve.
 
 Fig. 2 and 3. The wax and oil transformed as I washed and mixed them,
-from a semi-solid, <img src="./media/image1.jpg"
-style="width:3.80606in;height:2.85938in" /><img src="./media/image3.jpg" style="width:2.8474in;height:3.79974in" />
+from a semi-solid, <img src="./media-lambert/image1.jpg"
+style="width:3.80606in;height:2.85938in" /><img src="./media-lambert/image3.jpg" style="width:2.8474in;height:3.79974in" />
 
 deep orange mixture to a voluminous, near-white salve.
 
