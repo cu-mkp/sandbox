@@ -1,9 +1,7 @@
 # “Flesh Color” and Race Making in Early Modern Painters’ Manuals
 
 > Ruilin Fan<br/>
-
 > Spring 2023<br/>
-
 > HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History<br/>
 
 BnF Ms. Fr. 640 contains a number of recipes for making pigments and
