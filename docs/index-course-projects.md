@@ -58,6 +58,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 ### Spring 2023 Final Student Projects (2024-01-08) 
 [[Syllabus]([https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub](https://docs.google.com/document/d/e/2PACX-1vTuc7uOI1kX3p9tYEax8tKYGX1BGSeqCw_FpRb_xA-h9Xjyop0AGxu2gXy6UGoU55hZuGx-GECnj8V1/pub))]
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](sp23_fan_ruilin_final-project_flesh-color.md) by Ruilin Fan
+- [Languages and Linguistic Agency in Ms. Fr. 640](sp23_narcy_gilles_final-project_languages.md) by Gilles Narcy
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
