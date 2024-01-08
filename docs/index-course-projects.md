@@ -55,6 +55,10 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Creating a “Modern” Reconstruction of a Miniature Grotto](sp22_bergen+sabet_jamie+sofia_final-project_grotto.md) by Jamie Bergen and Sofia Sabet
 - [Sieves in Ms. Fr. 640](sp22_gardner_schuyler_final-project-sieves.md) by Schuyler Gardner
 
+### Spring 2023 Final Student Projects (2024-01-08) 
+[[Syllabus]([https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub](https://docs.google.com/document/d/e/2PACX-1vTuc7uOI1kX3p9tYEax8tKYGX1BGSeqCw_FpRb_xA-h9Xjyop0AGxu2gXy6UGoU55hZuGx-GECnj8V1/pub))]
+- [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](sp23_fan_ruilin_final-project_flesh-color.md) by Ruilin Fan
+
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
 - [Making Pigment from Madder: a Trio of Recipes](sp22_fld_rosenkranz_naomi_madder-lake-trio.md) by Naomi Rosenkranz and Charlotte Atkins (2022-07-19)
