@@ -23,7 +23,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Was Ms. Fr. 640 Intentionally Disorganized?](su21_fox_mackenzie_final-project-disorganization.md) by Mackenzie Fox
 - [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640](su21_macomber_sophie_final-project-figures.md) by Sophie Macomber
 - [Understanding Natural Things in the World and the Workshop](su21_christensen_anna_final-project-natural-things.md) by Anna Christensen
-- [Foraging for Pigments: A Making and Knowing Project](su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder (PDF), [[PPTX](su21_snyder_mellon_final-project-pigments.pptx)]
+- [Foraging for Pigments: A Making and Knowing Project](su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder [[PDF](su21_snyder_mellon_final-project-pigments.pdf)], [[PPTX](su21_snyder_mellon_final-project-pigments.pptx)]
 
 ### Fall 2021 Final Student Projects (2022-01-27) 
 [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
@@ -60,6 +60,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](sp23_fan_ruilin_final-project_flesh-color.md) by Ruilin Fan
 - [Languages and Linguistic Agency in Ms. Fr. 640](sp23_narcy_gilles_final-project_languages.md) by Gilles Narcy
 - [Medieval Spirituality and Materiality in Ms. Fr. 640](sp23_lambert-avery_final-project_medieval-spirituality.md) by Avery Lambert
+- [Kunstkamer: Women at Work](sp23_gorup_sophie_final-project_women-at-work.pdf) by Sophie Gorup [[PDF](sp23_gorup_sophie_final-project_women-at-work.pdf)], [[PPTX](sp23_gorup_sophie_final-project_women-at-work.pptx)] 
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
