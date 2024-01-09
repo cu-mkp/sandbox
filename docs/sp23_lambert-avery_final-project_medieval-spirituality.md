@@ -134,6 +134,7 @@ and my final salve.
 
 <img src="./media-lambert/image1.jpg"
 style="width:3.80606in;height:2.85938in" /><img src="./media-lambert/image3.jpg" style="width:2.8474in;height:3.79974in" />
+
 Fig. 2 and 3. The wax and oil transformed as I washed and mixed them, from a semi-solid, deep orange mixture to a voluminous, near-white salve.
 
 Reciting the paternosters was, for me, a deeply meditative experience,
@@ -390,8 +391,7 @@ Kumler, Aden. “The Multiplication of the Species: Eucharistic Morphology in th
 
 Liu, Xiaomeng. “An Excellent Salve for Burns.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_080_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_080_sp_17).
 
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds.. *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. New York: Making and Knowing Project, 2020. [**https://edition640.makingandknowing.org**](https://edition640.makingandknowing.org/). DOI: [<u>https://doi.org/10.7916/78yt-2v41</u>](https://doi.org/10.7916/78yt-2v41).
-
+Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds.. *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/). DOI: [<u>https://doi.org/10.7916/78yt-2v41</u>](https://doi.org/10.7916/78yt-2v41).
 
 Muir, Edward, *Ritual in Early Modern Europe*. New York: Cambridge University Press, 2005.
 
