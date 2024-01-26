@@ -131,11 +131,10 @@ privilege.
 
 ## Carnation, Liveliness, and Fairness
 
-[<u>https://jstor.org/stable/community.15656006</u>](https://jstor.org/stable/community.15656006).
 <img src="./media-fan/image1.jpg" style="width:3.87077in;height:3.52604in" />
 
 Fig. 1. Titian’s *Diana and Actaeon* (1556-1559). Oil on canvas, 184.5 x
-202.2 cm. The National Gallery, London.
+202.2 cm. The National Gallery, London. [<u>https://jstor.org/stable/community.15656006</u>](https://jstor.org/stable/community.15656006).
 
 Red pigments are essential when making the flesh color for beautiful and
 youthful bodies. In both BnF Ms. Fr. 640 and Cennino Cennini’s
