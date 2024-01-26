@@ -1,10 +1,8 @@
-#  Candles Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual
+#  Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual
 
-Nesya Nelkin
-
-Spring 2023
-
-HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
+>Nesya Nelkin<br/>
+>Spring 2023<br/>
+>HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 Candles and their materials are ubiquitous in BnF Ms. Fr. 640. The author-practitioner suggests their use in activities as far-ranging as melting and cutting glass, smoking molds, to burning off small hairs from animals to be life-cast, to catching birds.[^1] Beeswax and tallow (made by rendering suet, the organ fat of beef, lamb, or mutton), both very versatile substances and common candle materials, appear even more frequently, for purposes including molding, healing, food preservation, and portraiture.[^2] The author-practitioner hints only obliquely at sacramental uses of wax,[^3] and makes no mention of the ritual functions of tallow or candles themselves. However, his concern for the material properties and artisanal uses of wax, tallow, and candles cannot be read outside of a broader context in which these materials and objects were associated with a complex range of theological and symbolic meanings. This paper discusses the ritual uses of wax and tallow candles among Jews and Christians in early modern Europe, focusing specifically on the ways that candles served to establish, mediate, and break down boundaries between spaces, times, and religious communities, and on the particular significance of candles in the ritual lives of women.
 
@@ -169,15 +167,15 @@ Isaac Tyrnau. *Sefer Haminhagim Lerabenu Isaac Tyrnau*. Edited by Shlomo J Spitz
 
 Isserlein, Yisrael ben Petachiah. *Terumat Hadeshen Hashalem*. Edited by Shmuel Avitan. Shmuel Avitan, 1991.
 
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [**<u>https://edition640.makingandknowing.org</u>**](https://edition640.makingandknowing.org/).
+Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
+
+Ms. Add. 196. Folger Shakespeare Library, Washington, DC. Viewed in LUNA: [<u>http://luna.folger.edu/luna/servlet/s/xtpjz5</u>](http://luna.folger.edu/luna/servlet/s/xtpjz5).
 
 Mirk, John. *Instructions for Parish Priests*. Edited by Edward Peacock. Paul, Trench, Trubner, 1902.
 
 Spira, Eliyahu. *Eliyahu Rabbah*. Jerusalem: Zichron Aharon, 2004.
 
 *Universal magazine of knowledge and pleasure*. “A Dissertation on the Instruments That Communicate Light.” London: Published ... according to Act of Parliament, for John Hinton, 1749.
-
-Washington, District of Columbia, Folger Shakespeare Library, Ms. Add. 196. Viewed in LUNA: [<u>http://luna.folger.edu/luna/servlet/s/xtpjz5</u>](http://luna.folger.edu/luna/servlet/s/xtpjz5).
 
 Wahrmann, Avraham David. *Eshel Avraham*. Jerusalem: Hotsaot Even Yisrael, 1965.
 
