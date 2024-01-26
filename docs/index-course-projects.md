@@ -60,7 +60,8 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](sp23_fan_ruilin_final-project_flesh-color.md) by Ruilin Fan
 - [Languages and Linguistic Agency in Ms. Fr. 640](sp23_narcy_gilles_final-project_languages.md) by Gilles Narcy
 - [Medieval Spirituality and Materiality in Ms. Fr. 640](sp23_lambert-avery_final-project_medieval-spirituality.md) by Avery Lambert
-- [Kunstkamer: Women at Work](sp23_gorup_sophie_final-project_women-at-work.pdf) by Sophie Gorup [[PDF](sp23_gorup_sophie_final-project_women-at-work.pdf)], [[PPTX](sp23_gorup_sophie_final-project_women-at-work.pptx)] 
+- [Kunstkamer: Women at Work](sp23_gorup_sophie_final-project_women-at-work.pdf) by Sophie Gorup [[PDF](sp23_gorup_sophie_final-project_women-at-work.pdf)], [[PPTX](sp23_gorup_sophie_final-project_women-at-work.pptx)]
+- [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual](sp23_nelkin-nesya_final-project_candles.md) by Nesya Nelkin
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
