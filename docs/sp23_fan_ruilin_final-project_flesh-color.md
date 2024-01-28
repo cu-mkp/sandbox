@@ -25,7 +25,7 @@ state began to systematically implement social control over people of
 African descent. The lack of official data, however, does not imply that
 an African diaspora did not exist before this date.[^1] Scholars such as
 Imitiaz Habib have done tremendous work to comb through the English
-archives and unearth traces of black life on the British isles.[^2]
+archives and unearth traces of Black life on the British isles.[^2]
 Though no comparable work has been done on materials in French, France,
 like England, also maintained connections with Spain and Portugal, two
 early slave-trading nations that cemented the practice of race-based
@@ -54,13 +54,13 @@ evolution in art. Art historian Joaneath Spicer provides a general
 timeline for the depiction of Africans in European art in early
 modernity. European artists in the 1500s produced a number of realistic,
 sympathetic, and humanistic depictions of African subjects, but in the
-1600s dark skinned figures were increasingly portrayed? as savage,
+1600s dark skinned figures were increasingly portrayed as savage,
 servile, and objectified, in tandem with the growth of the slave
 trade.[^8] Literary scholar Kim F. Hall observes that the “‘black skin’
 of both male and female attendants” in the fine arts became “a key
 signifier… associated with wealth and luxury” in the seventeenth
 century.[^9] Earlier images of African kings, diplomats, and religious
-figures thus gave way to objectifying representations of black African
+figures thus gave way to objectifying representations of Black African
 servants, likened to other exotic commodities obtained through overseas
 ventures. The fine arts actively contributed to the development of
 color-based racial prejudice in early modernity.
