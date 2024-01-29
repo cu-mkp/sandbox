@@ -294,14 +294,11 @@ the exchange and recording of work.
 
 ## Bibliography
 
-Anttonen, Pertti, Cecilia af Forselles, and Kirsti Salmi-Niklander, eds.
-*Oral Tradition and Book Culture*. Studia Fennica, Folkloristica 24. Helsinki: FinnishLiterature Society (SKS), 2018.
+Anttonen, Pertti, Cecilia af Forselles, and Kirsti Salmi-Niklander, eds. *Oral Tradition and Book Culture*. Studia Fennica, Folkloristica 24. Helsinki: FinnishLiterature Society (SKS), 2018.
 
-Beik William. *A Social and Cultural History of Early Modern France*.
-Cambridge: Cambridge University Press, 2009.
+Beik, William. *A Social and Cultural History of Early Modern France*. Cambridge: Cambridge University Press, 2009.
 
-Camps, Celine and Margot Lyautey. “Ma\<r>king and Knowing: Encoding BnF
-Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_335_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_335_ie_19).DOI: [<u>https://www.doi.org/10.7916/cjhd-wh90</u>](https://www.doi.org/10.7916/cjhd-wh90)
+Camps, Celine and Margot Lyautey. “Ma\<r>king and Knowing: Encoding BnF Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_335_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_335_ie_19).DOI: [<u>https://www.doi.org/10.7916/cjhd-wh90</u>](https://www.doi.org/10.7916/cjhd-wh90)
 
 DeVinney, Joslyn. “Smoke as Medicine.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_048_fa_16</u>](https://edition640.makingandknowing.org/#/essays/ann_048_fa_16). DOI: [<u>https://www.doi.org/10.7916/kfja-0v86</u>](https://www.doi.org/10.7916/kfja-0v86)
 
@@ -670,48 +667,29 @@ Vansina, Jan. *Oral Tradition as History*. Madison: University of Wisconsin Pres
 | \<ab>In \<pl>Spain\</pl>, one lays them bare at the roots \<ms>\<tmp>during                                                                                              | 162v      | Spain                  | Spain        |
 | others from \<pl>Tyana\</pl> learned by their travels the disciplines of which they called themselves \<pro>inventors\</pro>                                             | 166r      | tyana                  | Turkey       |
 
-[^1]: “BnF Ms. Fr. 640 – Making and Knowing Project,” Accessed December
-20, 2021,
-[<u>https://www.makingandknowing.org/bnf-ms-fr-640/</u>](https://www.makingandknowing.org/bnf-ms-fr-640/).
 
-[^2]: Jan Vansina, *Oral Tradition as History* (Madison: University of
-Wisconsin Press, 1985), 3.
+[^1]: “BnF Ms. Fr. 640 – Making and Knowing Project,” Accessed December 20, 2021, [<u>https://www.makingandknowing.org/bnf-ms-fr-640/</u>](https://www.makingandknowing.org/bnf-ms-fr-640/).
+
+[^2]: Jan Vansina, *Oral Tradition as History* (Madison: University of Wisconsin Press, 1985), 3.
 
 [^3]: Vansina, *Oral Tradition as History*, 3.
 
-[^4]: U Kalpagam, “Oral History: Reconstructing Women’s Role.” *Economic
-and Political Weekly* 21, no. 38/39 (1986): 1683.
+[^4]: U. Kalpagam, “Oral History: Reconstructing Women’s Role.” *Economic and Political Weekly* 21, no. 38/39 (1986): 1683.
 
-[^5]: Pertti Anttonen, Cecilia af Forselles, and Kirsti Salmi-Niklander,
-eds. *Oral Tradition and Book Culture*. Studia Fennica, Folkloristica
-24. (Helsinki: Finnish Literature Society), 2018), 7-8.
+[^5]: Pertti Anttonen, Cecilia af Forselles, and Kirsti Salmi-Niklander, eds. *Oral Tradition and Book Culture*. Studia Fennica, Folkloristica 24. (Helsinki: Finnish Literature Society), 2018), 7-8.
 
-[^6]: Celine Camps and Margot Lyautey, “Ma\<r>king and Knowing: Encoding
-BnF Ms. Fr. 640,” 2020,
-[<u>https://doi.org/10.7916/CJHD-WH90</u>](https://doi.org/10.7916/CJHD-WH90).
+[^6]: Celine Camps and Margot Lyautey, “Ma\<r>king and Knowing: Encoding BnF Ms. Fr. 640,” 2020, [<u>https://doi.org/10.7916/CJHD-WH90</u>](https://doi.org/10.7916/CJHD-WH90).
 
-[^7]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
-Practical Therapeutics and Disease in Ms. Fr. 640,” 2020,
-[<u>https://doi.org/10.7916/WQ5P-P848</u>](https://doi.org/10.7916/WQ5P-P848).
+[^7]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640,” 2020, [<u>https://doi.org/10.7916/WQ5P-P848</u>](https://doi.org/10.7916/WQ5P-P848).
 
-[^8] Aaron J Gurevich and Ann Shukman. “Oral and Written Culture of the
-Middle Ages: Two ‘Peasant Visions’ of the Late Twelfth-Early Thirteenth
-Centuries.” *New Literary History* 16, no. 1 (1984): 51–66.
-[<u>https://doi.org/10.2307/468775</u>](https://doi.org/10.2307/468775).
+[^8] Aaron J. Gurevich and Ann Shukman. “Oral and Written Culture of the Middle Ages: Two ‘Peasant Visions’ of the Late Twelfth-Early Thirteenth Centuries.” *New Literary History* 16, no. 1 (1984): 51–66. [<u>https://doi.org/10.2307/468775</u>](https://doi.org/10.2307/468775).
 
-[^9]: William Beik, *A Social and Cultural History of Early Modern France*
-(Cambridge: Cambridge University Press, 2009), 21.
+[^9]: William Beik, *A Social and Cultural History of Early Modern France* (Cambridge: Cambridge University Press, 2009), 21.
 
-[^10]: “The Food of Shakespeare’s World,” Folger Shakespeare Library, last
-modified July 26, 2016.
-[<u>https://www.folger.edu/shakespeare-unlimited/food-wendy-wall</u>](https://www.folger.edu/shakespeare-unlimited/food-wendy-wall).
+[^10]: “The Food of Shakespeare’s World,” Folger Shakespeare Library, last modified July 26, 2016. [<u>https://www.folger.edu/shakespeare-unlimited/food-wendy-wall</u>](https://www.folger.edu/shakespeare-unlimited/food-wendy-wall).
 
-[^11]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:
-Practical Therapeutics and Disease in Ms. Fr. 640,” 2020,
-[<u>https://doi.org/10.7916/WQ5P-P848</u>](https://doi.org/10.7916/WQ5P-P848).
+[^11]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript:Practical Therapeutics and Disease in Ms. Fr. 640,” 2020, [<u>https://doi.org/10.7916/WQ5P-P848</u>](https://doi.org/10.7916/WQ5P-P848).
 
-[^12]: Joslyn DeVinney, “Smoke as Medicine,” 2016,
-[<u>https://www.doi.org/10.7916/kfja-0v86</u>](https://www.doi.org/10.7916/kfja-0v86).
+[^12]: Joslyn DeVinney, “Smoke as Medicine,” 2016, [<u>https://www.doi.org/10.7916/kfja-0v86</u>](https://www.doi.org/10.7916/kfja-0v86).
 
-[^13]: Sofia Gans, “Circulation of Knowledge in Europe,” 2015,
-[<u>https://doi.org/10.7916/6ZZW-S813</u>](https://doi.org/10.7916/6ZZW-S813).
+[^13]: Sofia Gans, “Circulation of Knowledge in Europe,” 2015, [<u>https://doi.org/10.7916/6ZZW-S813</u>](https://doi.org/10.7916/6ZZW-S813).
