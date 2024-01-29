@@ -445,78 +445,26 @@ bucket are least meaningful.
 
 ## Bibliography
 
-Barwich, Ann-Sophie. “Sleight of Hand Tricks.” In *Secrets of Craft and
-Nature in Renaissance France. A Digital Critical Edition and English
-Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project,
-Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
-Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
-Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing
-Project, 2020.
-<https://edition640.makingandknowing.org/#/essays/ann_043_sp_16>. DOI:
-<https://www.doi.org/10.7916/rfq6-0k88>.
+Barwich, Ann-Sophie. “Sleight of Hand Tricks.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_043_sp_16>. DOI: <https://www.doi.org/10.7916/rfq6-0k88>.
 
-Rosenkranz, Naomi. “Understanding and Analyzing the Categories of the
-Entries in BnF Ms. Fr. 640,” *Making and Knowing Sandbox*, 2021.
-[<u>https://cu-mkp.github.io/sandbox/docs/categories.html</u>](https://cu-mkp.github.io/sandbox/docs/categories.html)
+Rosenkranz, Naomi. “Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640,” *Making and Knowing Sandbox*, 2021. [<u>https://cu-mkp.github.io/sandbox/docs/categories.html</u>](https://cu-mkp.github.io/sandbox/docs/categories.html)
 
-Keller, Vera. “'Everything Depends Upon the Trial (*Le tout gist à
-l’essay*)': Four Manuscripts Between the Recipe and the Experimental
-Essay.” In *Secrets of Craft and Nature in Renaissance France. A Digital
-Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
-Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New
-York: Making and Knowing Project, 2020.
-<https://edition640.makingandknowing.org/#/essays/ann_320_ie_19>. DOI:
-<https://www.doi.org/10.7916/vj69-8h20>
+Keller, Vera. “'Everything Depends Upon the Trial (*Le tout gist à l’essay*)': Four Manuscripts Between the Recipe and the Experimental Essay.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_320_ie_19>. DOI: <https://www.doi.org/10.7916/vj69-8h20>
 
-Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
-Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
-Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano,
-eds., *Secrets of Craft and Nature in Renaissance France. A Digital
-Critical Edition and English Translation of BnF Ms. Fr. 640* (New York:
-Making and Knowing Project, 2020),
-[https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/)
+Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/)
 
-Smith, Pamela H. “An Introduction to Ms. Fr. 640 and its
-Author-Practitioner.” In *Secrets of Craft and Nature in Renaissance
-France. A Digital Critical Edition and English Translation of BnF Ms.
-Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi
-Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge,
-Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith,
-and Terry Catapano. New York: Making and Knowing Project, 2020.
-<https://edition640.makingandknowing.org/#/essays/ann_300_ie_19>. DOI:
-<https://www.doi.org/10.7916/ny3t-qg71>
+Smith, Pamela H. “An Introduction to Ms. Fr. 640 and its Author-Practitioner.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_300_ie_19>. DOI: <https://www.doi.org/10.7916/ny3t-qg71>
 
-Taape, Tillmann. “'Experience Will Teach You': Recording, Testing,
-Knowing, and the Language of Experience in Ms. Fr. 640.” In *Secrets of
-Craft and Nature in Renaissance France. A Digital Critical Edition and
-English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing
-Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz,
-Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel
-Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and
-Knowing Project, 2020.
-<https://edition640.makingandknowing.org/#/essays/ann_303_ie_19>. DOI:
-<https://www.doi.org/10.7916/njnq-6q58>.
+Taape, Tillmann. “'Experience Will Teach You': Recording, Testing, Knowing, and the Language of Experience in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_303_ie_19>. DOI: <https://www.doi.org/10.7916/njnq-6q58>.
 
-[^1]: Making and Knowing Project, *Secrets of Craft and Nature in
-Renaissance France. A Digital Critical Edition and English Translation
-of BnF Ms. Fr. 640*,
-[<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
+[^1]: Making and Knowing Project, *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
 
 [^2]: Keller (2020).
 
-[^3]: See, for instance, Taape (2020) for an excellent breakdown of the
-manuscript’s terms *experience*, *experimenter*, *essayer*, *esprouver*,
-and *cognoistre.*
+[^3]: See, for instance, Taape (2020) for an excellent breakdown of the manuscript’s terms *experience*, *experimenter*, *essayer*, *esprouver*, and *cognoistre.*
 
-[^4]: Data for recipe tag frequency across the manuscript as a whole are
-found in the [<u>M&K
-Sandbox</u>](https://cu-mkp.github.io/sandbox/docs/categories.html).
+[^4]: Data for recipe tag frequency across the manuscript as a whole are found in the [<u>M&K Sandbox</u>](https://cu-mkp.github.io/sandbox/docs/categories.html).
 
-[^5]: For frequency and tag distribution throughout the manuscript, see
-“Understanding and Analyzing the Categories of the Entries in BnF Ms.
-Fr. 640” in the [<u>Making and Knowing
-Sandbox</u>](https://cu-mkp.github.io/sandbox/docs/categories.html).
+[^5]: For frequency and tag distribution throughout the manuscript, see “Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640” in the [<u>Making and Knowing Sandbox</u>](https://cu-mkp.github.io/sandbox/docs/categories.html).
 
 [^6]: For more on tricks and sleight of hand, see Barwich (2020).
