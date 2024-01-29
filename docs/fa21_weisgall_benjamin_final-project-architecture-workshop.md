@@ -184,128 +184,28 @@ Week 6 / Between reproduction and innovation
 <!-- -->
 
 -   Assignment: technical writing, or, the genre of how-to
+  
 
-[^1]: For a statement about the pedagogical possibilities that exist
-alongside this type of historical research, see Pamela H. Smith, “Making
-the Edition of Ms. Fr. 640.” In *Secrets of Craft and Nature in
-Renaissance France. A Digital Critical Edition and English Translation
-of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H.
-Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément
-Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc
-Smith, and Terry Catapano. Making and Knowing Project, 2020.
-[<u>https://edition640.makingandknowing.org/#/essays/ann_329_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19).
-As a subdiscipline, the history of techniques can be traced to the work
-of French historians of technology, such as Bertrand Gille, whose
-monumental *Histoire des techniques* (1977) placed technology squarely
-within the Aristotelian category of nature (*physis*), or, that which
-changes. The ambiguity of meaning of French word *la technique*, which
-can connote both machine activity and manual skill, is exploited heavily
-within this historiographical tradition. For an early expression, see
-the collection of essays by Lucien Febvre, Marc Bloch, Maurice Halbwachs
-and others, under the title “Techniques et machinisme,” *Annales
-d’histoire économique et sociale* 6 (1934): 606-630. One must include
-the work of paleo-anthropologist André Leroi-Gourhan in this
-bibliography, for instance his *Milieu et Techniques* (1945).
+[^1]: For a statement about the pedagogical possibilities that exist alongside this type of historical research, see Pamela H. Smith, “Making the Edition of Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_329_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). As a subdiscipline, the history of techniques can be traced to the work of French historians of technology, such as Bertrand Gille, whose monumental *Histoire des techniques* (1977) placed technology squarely within the Aristotelian category of nature (*physis*), or, that which changes. The ambiguity of meaning of French word *la technique*, which can connote both machine activity and manual skill, is exploited heavily within this historiographical tradition. For an early expression, see the collection of essays by Lucien Febvre, Marc Bloch, Maurice Halbwachs and others, under the title “Techniques et machinisme,” *Annales d’histoire économique et sociale* 6 (1934): 606-630. One must include the work of paleo-anthropologist André Leroi-Gourhan in this bibliography, for instance his *Milieu et Techniques* (1945).
 
-[^2]: Without making too rigid of a distinction, it would be useful here
-to distinguish between an intermediate object and an unfinished, or *non
-finito*, artwork. Whereas the latter simply needs more work or at least
-is made to look like it needs more work, an intermediary object, such as
-a mold, is, in an important sense, complete. On the *non finito* work in
-the Renaissance, see Andrea Bayer, “Renaissance Views of the
-Unfinished.” In *Unfinished: Thoughts Left Visible*, edited by Kelly
-Baum, Andrea Bayer, and Sheena Wagstaff. New York: The Metropolitan
-Museum of Art, 2016.
+[^2]: Without making too rigid of a distinction, it would be useful here to distinguish between an intermediate object and an unfinished, or *non finito*, artwork. Whereas the latter simply needs more work or at least is made to look like it needs more work, an intermediary object, such as a mold, is, in an important sense, complete. On the *non finito* work in the Renaissance, see Andrea Bayer, “Renaissance Views of the Unfinished.” In *Unfinished: Thoughts Left Visible*, edited by Kelly Baum, Andrea Bayer, and Sheena Wagstaff. New York: The Metropolitan Museum of Art, 2016. 
 
-[^3]: For an analysis of this perspective in the recipe for “counterfeit
-jasper” in Ms. Fr. 640, see Isabella Lores-Chavez, “Imitating Raw
-Nature.” In *Secrets of Craft and Nature in Renaissance France. A
-Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
-edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
-Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
-Catapano. New York: Making and Knowing Project, 2020.
-[<u>https://edition640.makingandknowing.org/#/essays/ann_045_fa_16</u>](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16).
-For a broader argument about how the histories of craft and science
-comprise a single research agenda, see Pamela H. Smith, “Making as
-Knowing: Craft as Natural Philosophy.” In *Ways of Making and Knowing:
-The Material Culture of Empirical Knowledge*, edited by Pamela H. Smith,
-Amy R. W. Meyers, and Harold J. Cook. Ann Arbor: University of Michigan
-Press, 2014.
+[^3]: For an analysis of this perspective in the recipe for “counterfeit jasper” in Ms. Fr. 640, see Isabella Lores-Chavez, “Imitating Raw Nature.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_045_fa_16</u>](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16). For a broader argument about how the histories of craft and science comprise a single research agenda, see Pamela H. Smith, “Making as Knowing: Craft as Natural Philosophy.” In *Ways of Making and Knowing: The Material Culture of Empirical Knowledge*, edited by Pamela H. Smith, Amy R. W. Meyers, and Harold J. Cook. Ann Arbor: University of Michigan Press, 2014.
 
-[^4]: See Pamela H. Smith, *The Body of the Artisan: Art and Experience in
-the Scientific Revolution*. Chicago: University of Chicago Press, 2004;
-and Pamela Long, *Artisan Practitioners and the Rise of the New
-Sciences, 1400-1600*. Corvallis: Oregon State University Press, 2011.
+[^4]: See Pamela H. Smith, *The Body of the Artisan: Art and Experience in the Scientific Revolution*. Chicago: University of Chicago Press, 2004; and Pamela Long, *Artisan Practitioners and the Rise of the New Sciences, 1400-1600*. Corvallis: Oregon State University Press, 2011.
 
-[^5]: On technical essence, or “technicity,” see the work of another
-French philosopher of techniques, Gilbert Simondon, especially chapter 2
-of his *On the Mode of Existence of Technical Objects*. Translated by
-Cecile Malaspina and John Rogove. University of Minnesota Press, 2017.
+[^5]: On technical essence, or “technicity,” see the work of another French philosopher of techniques, Gilbert Simondon, especially chapter 2 of his *On the Mode of Existence of Technical Objects*. Translated by Cecile Malaspina and John Rogove. University of Minnesota Press, 2017. 
 
-[^6]: Again, without drawing too stark of a contrast, intermediates can be
-distinguished from work which might be called [<u>ephemeral
-art</u>](https://www.doi.org/10.7916/vgj0-yh50). This category includes
-objects for theater, banquets, and ceremonies. Unlike intermediary
-objects, ephemeral works, despite their short life, were intended as
-final products.
+[^6]: Again, without drawing too stark of a contrast, intermediates can be distinguished from work which might be called [<u>ephemeral art</u>](https://www.doi.org/10.7916/vgj0-yh50). This category includes objects for theater, banquets, and ceremonies. Unlike intermediary objects, ephemeral works, despite their short life, were intended as final products.
 
-[^7]: Another important difference was size, but for the purposes of this
-unit, size is an issue that correlates strongly with material via the
-question of weight. For the most important contemporary discourse on the
-relation between size and material, which in fact takes as its starting
-point the question of a model’s relation to nature, see the First Day of
-Galileo Galilei, *Dialogues Concerning Two New Sciences*. Translated by
-Alfonso de Salvio and Henry Crew. New York: Dover Publications, 1914.
+[^7]: Another important difference was size, but for the purposes of this unit, size is an issue that correlates strongly with material via the question of weight. For the most important contemporary discourse on the relation between size and material, which in fact takes as its starting point the question of a model’s relation to nature, see the First Day of Galileo Galilei, *Dialogues Concerning Two New Sciences*. Translated by Alfonso de Salvio and Henry Crew. New York: Dover Publications, 1914.
 
-[^8]: There were at least two broad categories of plaster in the
-Renaissance: *gesso*, or plaster made of gypsum and used primarily by
-painters; and *calcina*, or plaster made of lime and used by sculptors
-and builders. This latter category is sometimes referred to as *stucco*
-but inconsistently so. Although material distinctions are certainly an
-important issue for this unit, this short essay uses the English term
-plaster rather indiscriminately.
+[^8]: There were at least two broad categories of plaster in the Renaissance: *gesso*, or plaster made of gypsum and used primarily by painters; and *calcina*, or plaster made of lime and used by sculptors and builders. This latter category is sometimes referred to as *stucco* but inconsistently so. Although material distinctions are certainly an important issue for this unit, this short essay uses the English term plaster rather indiscriminately. 
 
-[^9]: On early modern plaster casting as a practice that grew out of
-medieval traditions and was adapted by the new humanistic concerns of
-the Renaissance, see Eckart Marchand’s chapter on “Plaster and Plaster
-Casts in Renaissance Italy,” in *Plaster casts: making, collecting, and
-displaying from classical antiquity to the present*, edited by Rune
-Frederiksen and Eckard Marchand. New York: De Gruyter, 2010. Marchand
-notes how plaster casts of human bodies and body parts were used as
-intermediate objects by painters and sculptors alike as substitutes for
-live models. See Mari Lending, *Plaster Monuments* (Princeton, 2017) for
-a wide-ranging look at nineteenth-century plaster casts as mass media
-before photography. For an example of this, see the [<u>cast courts at
-the V&A
-Museum</u>](https://collections.vam.ac.uk/search/?id_gallery=THES49798).
+[^9]: On early modern plaster casting as a practice that grew out of medieval traditions and was adapted by the new humanistic concerns of the Renaissance, see Eckart Marchand’s chapter on “Plaster and Plaster Casts in Renaissance Italy,” in *Plaster casts: making, collecting, and displaying from classical antiquity to the present*, edited by Rune Frederiksen and Eckard Marchand. New York: De Gruyter, 2010. Marchand notes how plaster casts of human bodies and body parts were used as intermediate objects by painters and sculptors alike as substitutes for live models. See Mari Lending, *Plaster Monuments* (Princeton, 2017) for a wide-ranging look at nineteenth-century plaster casts as mass media before photography. For an example of this, see the [<u>cast courts at the V&A Museum</u>](https://collections.vam.ac.uk/search/?id_gallery=THES49798).
 
-[^10]: Unlike lost wax casting, an indirect casting method preserves the
-original model by breaking the mold into pieces which can be removed
-from the pattern without destroying it. For an example of a plaster mold
-being made for a plaster cast, see the [<u>how-to video on plaster
-casting</u>](https://youtu.be/PHgEcPmCPUA) from the V&A Museum.
+[^10]: Unlike lost wax casting, an indirect casting method preserves the original model by breaking the mold into pieces which can be removed from the pattern without destroying it. For an example of a plaster mold being made for a plaster cast, see the [<u>how-to video on plaster casting</u>](https://youtu.be/PHgEcPmCPUA) from the V&A Museum.
 
-[^11]: For a succinct discussion of intermediary materials, see Eckert
-Marchand, “Material distinctions: Plaster, Terracotta, and Wax in the
-Renaissance Artist’s Workshop,” in *The Matter of Art: Materials,
-Practices, Cultural Logics, c. 1250-1750*, ed. Christy Anderson, Anne
-Dunlop and Pamela Smith (Manchester University Press, 2015). Marchand
-calls this ability to point to other materials the “indexicality” of
-plaster. He also suggests that plaster, as opposed to clay or wax, was
-understood “as the lowliest in the hierarchy of materials” (173).
-Plaster with polychromy, which was usually reserved for final objects
-and is therefore peripheral to this essay, represents an extreme example
-of this indexicality, insofar as the plaster object is made to imitate a
-real object in toto. At another extreme, this self-negating quality of
-plaster can produce highly abstract models that seem to be immaterial,
-such as the mathematical models developed in the nineteenth century to
-describe complex geometry. For a collection of photographs of these
-models, see Gerd Fischer, *Mathematical Models: from the collections of
-Universities and Museums* (Wiesbaden: Springer, 2017).
+[^11]: For a succinct discussion of intermediary materials, see Eckert Marchand, “Material distinctions: Plaster, Terracotta, and Wax in the Renaissance Artist’s Workshop,” in *The Matter of Art: Materials, Practices, Cultural Logics, c. 1250-1750*, ed. Christy Anderson, Anne Dunlop and Pamela Smith (Manchester University Press, 2015). Marchand calls this ability to point to other materials the “indexicality” of plaster. He also suggests that plaster, as opposed to clay or wax, was understood “as the lowliest in the hierarchy of materials” (173). Plaster with polychromy, which was usually reserved for final objects and is therefore peripheral to this essay, represents an extreme example of this indexicality, insofar as the plaster object is made to imitate a real object in toto. At another extreme, this self-negating quality of plaster can produce highly abstract models that seem to be immaterial, such as the mathematical models developed in the nineteenth century to describe complex geometry. For a collection of photographs of these models, see Gerd Fischer, *Mathematical Models: from the collections of Universities and Museums* (Wiesbaden: Springer, 2017).
 
-[^12]: This essay discusses the history of historical studies within
-schools of architecture and argues that a critical mode of
-historiography is needed alongside the productions of art, architecture,
-and history. He adds that “it is possible to envision an art or
-architectural practice as historiography!” (201)
+[^12]: This essay discusses the history of historical studies within schools of architecture and argues that a critical mode of historiography is needed alongside the productions of art, architecture, and history. He adds that “it is possible to envision an art or architectural practice as historiography!” (201)
