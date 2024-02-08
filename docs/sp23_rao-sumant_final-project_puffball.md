@@ -1,7 +1,7 @@
 # Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640
 
-> Sumant Rao
-> Spring 2023
+> Sumant Rao<lb/>
+> Spring 2023<lb/>
 > HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Introduction
@@ -29,8 +29,7 @@ References to puffballs can even be found in classical texts, though they appear
 
 Herbals are especially useful for uncovering what early modern European observers thought about puffballs since herbals often not only comment on the utility of vegetal materials for humans but also detail where they can be found and what they look like. For example, John Gerard in his *The herball or, Generall historie of plantes*, first published in 1597 and reprinted several times thereafter, includes a lengthy description about puffballs in his chapter on mushrooms:
 
-*Fungus orbicularis,* or *Lupi crepitus*…in English, Fusse balls, Pucke Fusse, and Bulfists,
-
+> *Fungus orbicularis,* or *Lupi crepitus*…in English, Fusse balls, Pucke Fusse, and Bulfists,
 > with which in some places of England they vse to kill or smolder their
 > Bees, when they would driue the Hiues, and bereaue the poore Bees of
 > their meat, houses, and liues: these are also vsed in some places
