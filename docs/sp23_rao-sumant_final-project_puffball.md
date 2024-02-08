@@ -1,7 +1,7 @@
 # Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640
 
-> Sumant Rao<lb/>
-> Spring 2023<lb/>
+> Sumant Rao<br/>
+> Spring 2023<br/>
 > HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Introduction
