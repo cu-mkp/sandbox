@@ -62,6 +62,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Medieval Spirituality and Materiality in Ms. Fr. 640](sp23_lambert-avery_final-project_medieval-spirituality.md) by Avery Lambert
 - [Kunstkamer: Women at Work](sp23_gorup_sophie_final-project_women-at-work.pdf) by Sophie Gorup [[PDF](sp23_gorup_sophie_final-project_women-at-work.pdf)], [[PPTX](sp23_gorup_sophie_final-project_women-at-work.pptx)]
 - [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual](sp23_nelkin-nesya_final-project_candles.md) by Nesya Nelkin
+- [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640](sp23_rao-sumant_final-project_puffball.md) by Sumant Rao
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
