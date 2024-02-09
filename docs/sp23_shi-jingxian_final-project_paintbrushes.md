@@ -76,7 +76,7 @@ Cai, Yong. “Ode to the brush.” In *Chu xue ji*初學記. Edition: Qing Guang
 
 Carr, Danielle. “Paintbrushes in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_026_fa_15>. DOI: <https://www.doi.org/10.7916/m26t-hn31>.
 
-Cennini, Cennino. *The Craftsman’s Handbook, ‘Il Libro dell’Arte’*, translated by Daniel Thompson. New York: Dover, 1960.
+Cennini, Cennino. *The Craftsman’s Handbook,‘Il Libro dell’Arte’*, translated by Daniel Thompson. New York: Dover, 1960.
 
 Chen, Yaotian. *Shu shi*書勢. Edition: Mei shu cong shu edition美術叢書.
 
@@ -121,12 +121,11 @@ Varney, Captain. *Report on Brush Material and the Manufacture of Brushes*. Wash
 Xu, Yiyi. “ The Knowledge System of the Traditional Chinese Craftsman.” Trans. by Dorothy Ko. *West 86th.* 20:2. Fall-Winter 2013.
 
 
-[^1]: Cennini, Cennino, *The Craftsman’s Handbook, ‘Il Libro dell’Arte,* trans. by Daniel Thompson (New York: Dover, 1960.) See the entry “Paintbrushes” on fol. 66v in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project et al. (New York: Making and Knowing Project, 2020),[https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/). 
+[^1]: Cennini, Cennino, *The Craftsman’s Handbook, ‘Il Libro dell’Arte,* trans. by Daniel Thompson (New York: Dover, 1960.) See the entry “Paintbrushes” on fol. 66v in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project et al. (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
 
 [^2]: Pamela Smith, *The Body of the Artisan: Art and Experience in the Scientific Revolution.* Chicago: University of Chicago Press, 2004), 8.
 
-[^3]: John Pickstone, *Ways of Knowing: A New History of Science, Technology and Medicine* (Chicago: University of Chicago Press,
-2001), 11.
+[^3]: John Pickstone, *Ways of Knowing: A New History of Science, Technology and Medicine* (Chicago: University of Chicago Press, 2001), 11.
 
 [^4]: Pickstone, *Ways of Knowing*, 11.
 
