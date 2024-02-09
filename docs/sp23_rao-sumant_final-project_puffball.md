@@ -171,7 +171,7 @@ Culpeper, Nicholas. *The English Physician, or, An Astrologo-Physical Discourse 
 
 Digby, Kenelm. *A Choice Collection of Rare Secrets and Experiments in Philosophy as Also Rare and Unheard-of Medicines, Menstruums and Alkahests : With the True Secret of Volatilizing the Fixt Salt of Tartar / Collected and Experimented by the Honourable and Truly Learned Sir Kenelm Digby, Kt., Chancellour to Her Majesty the Queen-Mother ; Hitherto Kept Secret since His Decease, but Now Published for the Good and Benefit of the Publick by George Hartman*. Edited by George Hartman. London: Printed for the author, and are to be sold by William Cooper..., and Henry Faithorns and John Kersey..., 1682.
 
-———. *Nouveaux Secrets Expérimentéz, Pour Conserver La Beauté Des Dames, et Pour Guérir Plusieurs Sortes de Maladies. Tome 1 / . Tirez Des Mémoires de M. Le Chevalier Digby,... Avec Son Discours Touchant La Guérison Des Plaies Par La Poudre Sympathique... 6e Édition, Revûe, Corrigée & Augmentée d’un Volume*. Vol. 1. 2 vols. La Haye, Manche, France: A La Haye, Chez Etienne Foulque, Marchand Libraire, dans le Potte, 1700. [<u>https://gallica.bnf.fr/ark:/12148/bpt6k97822765/103.image.r=Autre%20Remede%20pour%20arreter%20le%20sang%20du%20nez%20ou%20playe%20%20quoi%20qu</u>] (https://gallica.bnf.fr/ark:/12148/bpt6k97822765/103.image.r=Autre%20Remede%20pour%20arreter%20le%20sang%20du%20nez%20ou%20playe%20%20quoi%20qu).
+———. *Nouveaux Secrets Expérimentéz, Pour Conserver La Beauté Des Dames, et Pour Guérir Plusieurs Sortes de Maladies. Tome 1 / . Tirez Des Mémoires de M. Le Chevalier Digby,... Avec Son Discours Touchant La Guérison Des Plaies Par La Poudre Sympathique... 6e Édition, Revûe, Corrigée & Augmentée d’un Volume*. Vol. 1. 2 vols. La Haye, Manche, France: A La Haye, Chez Etienne Foulque, Marchand Libraire, dans le Potte, 1700. [<u>https://gallica.bnf.fr/ark:/12148/bpt6k97822765/103.image.r=Autre%20Remede%20pour%20arreter%20le%20sang%20du%20nez%20ou%20playe%20%20quoi%20qu</u>](https://gallica.bnf.fr/ark:/12148/bpt6k97822765/103.image.r=Autre%20Remede%20pour%20arreter%20le%20sang%20du%20nez%20ou%20playe%20%20quoi%20qu).
 
 Dijksterhuis, Fokko Jan. “Understandings of Colors: Varieties of Theories in the Color Worlds of the Early Seventeenth Century.” In *Early Modern Color Worlds*, edited by Sven Dupré, Tawrin Baker, Sachiko Kusukawa, and Karin Leonhard, 227–47. Leiden: Brill, 2015.
 
@@ -181,7 +181,7 @@ Drew-Bear, Annette. *Painted Faces on the Renaissance Stage : The Moral Signif
 
 Firenzuola, Agnolo. *On the Beauty of Women*, trans. Konrad Eisenbichler and Jacqueline Murray. Philadelphia: University of Pennsylvania Press, 1992.
 
-French, John. *The Art of Distillation, or, A Treatise of the Choicest Spagiricall Preparations Performed by Way of Distillation Together with the Description of the Chiefest Furnaces & Vessels Used by Ancient and Moderne Chymists : Also, A Discourse of Divers Spagiricall Experiments and Curiosities, and the Anatomy of Gold and Silver with the Chiefest Preparations and Curiosities Thereof, Together with Their Vertues : All Which Are Contained in VI Bookes / Composed by John French...* 2nd ed. London: Printed by E. Cotes, for Thomas Williams..., 1653.  [<u>http://name.umdl.umich.edu/A40448.0001.001</u>](http://name.umdl.umich.edu/A40448.0001.001).
+French, John. *The Art of Distillation, or, A Treatise of the Choicest Spagiricall Preparations Performed by Way of Distillation Together with the Description of the Chiefest Furnaces & Vessels Used by Ancient and Moderne Chymists : Also, A Discourse of Divers Spagiricall Experiments and Curiosities, and the Anatomy of Gold and Silver with the Chiefest Preparations and Curiosities Thereof, Together with Their Vertues : All Which Are Contained in VI Bookes / Composed by John French...* 2nd ed. London: Printed by E. Cotes, for Thomas Williams..., 1653. [<u>http://name.umdl.umich.edu/A40448.0001.001</u>](http://name.umdl.umich.edu/A40448.0001.001).
 
 Gerard, John. “Chap. 167. Of Mushrumes, or Toadstooles.” In *The Herball or Generall Historie of Plantes. Gathered by Iohn Gerarde of London Master in Chirurgerie Very Much Enlarged and Amended by Thomas Iohnson Citizen and Apothecarye of London*, edited by Thomas Johnson, 2nd ed., 1384–88. London: Printed by Adam Islip Ioice Norton and Richard Whitakers, 1633.
 
@@ -217,7 +217,7 @@ Langham, William. *The Garden of Health Conteyning the Sundry Rare and Hidden Ve
 
 Liébault, Jean, and Charles Estienne. *Maison Rustique, or the Covntrey Farme. Compyled in the French Tongue by Charles Stevens, and Iohn Liebavlt...And Translated into English, by Richard Surflet...Now Newly Reuiewed, Corrected, and Augmented, with Diuers Large Additions...By Gervase Markham*. Translated by Gervase Markham and Richard Surflet. 2nd ed. London: Printed by Adam Islip for John Bill, 1616.
 
-Lin, Danli, and Anusha Sundar. “Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe.” In *The Making and Knowing Project Sandbox*, edited by Making and Knowing Project, et al. [<u>https://cu-mkp.github.io/sandbox/docs/fa21_lin+sundar_danli+anusha_final-project_regimens-remedies.html</u>](https://cu-mkp.github.io/sandbox/docs/fa21_lin+sundar_danli+anusha_final-project_regimens-remedies.html).
+Lin, Danli, and Anusha Sundar. “Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe.” In *The Making and Knowing Project Sandbox*, edited by Making and Knowing Project, et al. [<u>https://cu-mkp.github.io/sandbox/docs/fa21_lin+sundar_danli+anusha_final-project_regimens-remedies.html</u>] (https://cu-mkp.github.io/sandbox/docs/fa21_lin+sundar_danli+anusha_final-project_regimens-remedies.html).
 
 Marshall, Nina L. “Chapter XI: Puffballs.” In *Mushroom Book. A Popular Guide to the Identification and Study of Our Commoner Fungi, with Special Emphasis on the Edible Varieties*, 2nd ed. The New Nature Library 2. Garden City: Doubleday, 1923. [<u>https://doi.org/10.5962/bhl.title.18041</u>](https://doi.org/10.5962/bhl.title.18041).
 
@@ -239,7 +239,7 @@ Phillippy, Patricia Berrahou. *Painting Women: Cosmetics, Canvases, and Early Mo
 
 Platt, Hugh. *Delightes for Ladies to Adorne Their Persons, Tables, Closets, and Distillatories with Beauties, Banquets, Perfumes and Waters*. 1st ed. London: Printed by Peter Short, 1602.
 
-Pliny the Elder. *Caii Plinii Secundi Naturalis Historiae Libri XXXVII. III. \[Libri XII-XIX.\] / . Interpretatione et Notis Illustravit Joannes Harduinus,... in Usum Serenissimi Delphini*. Edited by Jean Hardouin. Vol. 3. 5 vols. Paris: apud F. Muguet, 1685.
+Pliny the Elder. *Caii Plinii Secundi Naturalis Historiae Libri XXXVII. III. \[Libri XII-XIX.\] /. Interpretatione et Notis Illustravit Joannes Harduinus,... in Usum Serenissimi Delphini*. Edited by Jean Hardouin. Vol. 3. 5 vols. Paris: apud F. Muguet, 1685.
 
 ———. *The Natural History of Pliny*. Translated by John Bostock and H. T. Riley. Vol. 4. 6 vols. London: H. G. Bohn, 1856.
 
