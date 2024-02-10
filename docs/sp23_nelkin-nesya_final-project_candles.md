@@ -123,7 +123,7 @@ Prior to burning the candles, I trimmed their wicks to ¼ to ½ an inch each. Bo
 
 <img src="./media-nelkin/image15.png" style="width:5.88192in;height:3.30858in" alt="A picture containing candle, indoor, cookware and bakeware, ground Description automatically generated" />
 
-*Figure 10. Tallow candle (left) flickers and goes out while wax candle remains comparatively steady ([<u>video</u>](https://vimeo.com/user101162788)).*
+*Figure 10. Tallow candle (left) flickers and goes out while wax candle remains comparatively steady ([<u>video</u>](https://vimeo.com/903376219)).*
 
 At home, I burned the tallow and wax mold candles for three hours. Both of these candles were cracked, and fissures were visible in the candles below the cracks; this issue, which seems to have resulted from the wax and tallow adhering to the sides of their molds as they cooled and shrunk, was far worse in the wax tallow than the tallow candle. Campbell’s instructions explain that once a molded candle “is perfectly congealed and cold… the candle is drawn out;” such candles were not burned in their molds. However, the cracks in my candles and the fact that they were firmly stuck to their molds made me worry that attempting to remove the candles would badly damage them, so I left them in the molds. Doing so may have allowed them to burn longer than they would have outside of their molds, as the tallow and wax remained on top of the candles as they melted, rather than dripping down their sides. 
 
@@ -151,7 +151,7 @@ Both poured candles burned far more brightly and consistently than the dipped ca
 
 <img src="./media-nelkin/image16.png" style="width:2.59436in;height:4.6122in" alt="A candle in a glass Description automatically generated with medium confidence" />
 
-*Figure 16. Tallow candle sputters ([<u>video</u>](https://vimeo.com/user101162788)).*
+*Figure 16. Tallow candle sputters ([<u>video</u>](https://vimeo.com/903367588)).*
 
 The greasy smell of the tallow as it burned was strong enough to smell from a distance of around five feet, over the various smells coming from the street through the window next to my desk. Throughout the first forty-five minutes or so that the tallow candle burned, it bubbled, and sputtered; when it sputtered particularly loudly, it sparked and let off tiny puffs of smoke. After that, the bubbling and sputtering became far less frequent. Overall, my experience burning tallow candles was far less unpleasant than early modern complaints of strong unpleasant odors, clouds of smoke, and candles that constantly had to be relit led me to believe it might be; all of these issues occurred, but only to a very mild degree. The severity of these problems was likely reduced by the fact that the tallow I was using was very pure; the scent and smokiness of tallow candles both result from the impurities that are still present after rendering. These issues would also have been multiplied and therefore much more bothersome if I had been trying to light my entire home by tallow, or to eat and pray by its light, rather than lighting a single candle at a time in an experimental setting.
 
