@@ -88,7 +88,7 @@ Harley, R. D. "Brush." Grove Art Online. 2003; Accessed 3 Apr. 2023. [<u>https:/
 
 Hay, Jonathan. “Culture, Ethnicity and Empire in the Work of Two Eighteenth Century ‘Eccentric Artists.’” *RES: Anthropology and Aesthetics* 35 (Spring 1999): 201–223.
 
-He, Shijin. Gong bu chang ku xu zhi工部廠庫須知. Edition: Ming Wanli Lin Ruch uke ben 明萬曆林如楚刻本.
+He, Shijin. *Gong bu chang ku xu zhi工部廠庫須知*. Edition: Ming Wanli Lin Ruch uke ben 明萬曆林如楚刻本.
 
 Ingold, Tim. “Telling by Hand.” In *Making: Anthropology, Archaeology, Art and Architecture.* London and New York: Routledge, 2013.
 
@@ -108,7 +108,7 @@ Qi, Gong. “The Relationships between Poetry, Calligraphy, and Painting.” In 
 
 *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_050_fa_16>. DOI: <https://www.doi.org/10.7916/51fz-0r94>.
 
-Smith, Pamela. “Nodes of Convergence, Material Complexes, and Entangled Itineraries.” In *Materials, Practices, and Knowledge across Eurasia*. University of Pittsburgh Press, 2019.
+Smith, Pamela H. “Nodes of Convergence, Material Complexes, and Entangled Itineraries.” In *Materials, Practices, and Knowledge across Eurasia*, edited by Pamela H. Smith. Pittsburgh: University of Pittsburgh Press, 2019.
 
 Smith, Pamela. *The Body of the Artisan: Art and Experience in the Scientific Revolution.* Chicago: University of Chicago Press, 2004
 
@@ -119,6 +119,7 @@ Sun, Zuo. “Zeng bi sheng Zhang Meng xu贈筆生張蒙序.” In *Jiangying cou
 Varney, Captain. *Report on Brush Material and the Manufacture of Brushes*. Washington: Government Printing Office, 1883.
 
 Xu, Yiyi. “The Knowledge System of the Traditional Chinese Craftsman.” Trans. by Dorothy Ko. *West 86th.* 20:2. Fall-Winter 2013.
+
 
 [^1]: Cennini, Cennino, *The Craftsman’s Handbook, ‘Il Libro dell’Arte,* trans. by Daniel Thompson (New York: Dover, 1960.) See the entry “Paintbrushes” on fol. 66v in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project et al. (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
 
@@ -150,7 +151,7 @@ Xu, Yiyi. “The Knowledge System of the Traditional Chinese Craftsman.” Trans
 
 [^15]: “Local Produces (wu chan物產),” in *Guian xian zhi* 歸安縣志, juan 13 (Edition: Qing Guangxu ba nian kan ben 清光緒八年刊本).
 
-[^16]: He Shijin recorded that “each year, Zhejiang Chief Secretary needs to pay for twenty thousand bamboo tubes, three-hundred sheets of rabbit furs, two-hundred sheets of weasel furs, sixty *jin* (around 1.3 pounds) of wool, and fifty *jin* of bristles,” in Gong bu chang ku xu zhi 工部廠庫須知, juan 9 (Edition: Ming Wanli Lin Ruch uke ben 明萬曆林如楚刻本).
+[^16]: He Shijin recorded that “each year, Zhejiang Chief Secretary needs to pay for twenty thousand bamboo tubes, three-hundred sheets of rabbit furs, two-hundred sheets of weasel furs, sixty *jin* (around 1.3 pounds) of wool, and fifty *jin* of bristles,” in *Gong bu chang ku xu zhi 工部廠庫須知*, juan 9 (Edition: Ming Wanli Lin Ruch uke ben 明萬曆林如楚刻本).
 
 [^17]: Jingxian Shi, “Travelling Path of the Chinese Ink Brush,” M.A. Thesis (Columbia University, 2023).
 
@@ -166,7 +167,7 @@ Xu, Yiyi. “The Knowledge System of the Traditional Chinese Craftsman.” Trans
 
 [^23]: Pickstone, *Ways of Knowing*, 19.
 
-[^24]: Pamela H. Smith, “Nodes of Convergence, Material Complexes, and Entangled Itineraries”, In *Materials, Practices, and Knowledge across Eurasia* (University of Pittsburgh Press, 2019), 8.
+[^24]: Pamela H. Smith, “Nodes of Convergence, Material Complexes, and Entangled Itineraries,” in *Materials, Practices, and Knowledges across Eurasia*, edited by Pamela H. Smith (Pittsburgh: University of Pittsburgh Press, 2019), 8.
 
 [^25]: Cennini, *The Craftsman’s Handbook*, 41.
 
@@ -182,7 +183,7 @@ Xu, Yiyi. “The Knowledge System of the Traditional Chinese Craftsman.” Trans
 
 [^31]: Xizhi, “*Brush Classic*,” 109.
 
-[^32]: Sun Zuo, Zeng bi sheng Zhang Meng xu贈筆生張蒙序.
+[^32]: Sun Zuo, "Zeng bi sheng Zhang Meng xu贈筆生張蒙序."
 
 [^33]: Emma Le Pouésard, “Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France*, ed. Making and Knowing et al., [<u>https://edition640.makingandknowing.org/#/essays/ann_050_fa_16</u>](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16).
 
@@ -196,7 +197,7 @@ Xu, Yiyi. “The Knowledge System of the Traditional Chinese Craftsman.” Trans
 
 [^38]: Carr, “Paintbrushes in Ms. Fr. 640,” [<u>https://edition640.makingandknowing.org/#/essays/ann_026_fa_15</u>](https://edition640.makingandknowing.org/#/essays/ann_026_fa_15).
 
-[^39]: Qi Gong, “The Relationships between Poetry, Calligraphy, and Painting,” in Alfreda Murck and Wen C. Fong ed., *Words and Images: Chinese Poetry, Calligraphy, and Painting* (The Metropolitan Museum of Art and Princeton University Press, 1991), 13.
+[^39]: Qi Gong, “The Relationships between Poetry, Calligraphy, and Painting,” in *Words and Images: Chinese Poetry, Calligraphy, and Painting*, edited by Alfreda Murck and Wen C. Fong (The Metropolitan Museum of Art and Princeton University Press, 1991), 13.
 
 [^40]: Carr, “Paintbrushes in Ms. Fr. 640,” [<u>https://edition640.makingandknowing.org/#/essays/ann_026_fa_15</u>](https://edition640.makingandknowing.org/#/essays/ann_026_fa_15).
 
