@@ -118,8 +118,7 @@ Sun, Zuo. “Zeng bi sheng Zhang Meng xu贈筆生張蒙序.” In *Jiangying cou
 
 Varney, Captain. *Report on Brush Material and the Manufacture of Brushes*. Washington: Government Printing Office, 1883.
 
-Xu, Yiyi. “ The Knowledge System of the Traditional Chinese Craftsman.” Trans. by Dorothy Ko. *West 86th.* 20:2. Fall-Winter 2013.
-
+Xu, Yiyi. “The Knowledge System of the Traditional Chinese Craftsman.” Trans. by Dorothy Ko. *West 86th.* 20:2. Fall-Winter 2013.
 
 [^1]: Cennini, Cennino, *The Craftsman’s Handbook, ‘Il Libro dell’Arte,* trans. by Daniel Thompson (New York: Dover, 1960.) See the entry “Paintbrushes” on fol. 66v in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project et al. (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
 
