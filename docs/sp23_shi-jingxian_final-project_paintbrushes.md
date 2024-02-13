@@ -106,7 +106,7 @@ Pickstone, John. *Ways of Knowing: A New History of Science, Technology and Medi
 
 Qi, Gong. “The Relationships between Poetry, Calligraphy, and Painting.” In Alfreda Murck and Wen C. Fong ed., *Words and Images: Chinese Poetry, Calligraphy, and Painting*. The Metropolitan Museum of Art and Princeton University Press, 1991.
 
-*Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_050_fa_16>. DOI: <https://www.doi.org/10.7916/51fz-0r94>.
+*Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org/#/essays/ann_050_fa_16](https://edition640.makingandknowing.org/#/).
 
 Smith, Pamela H. “Nodes of Convergence, Material Complexes, and Entangled Itineraries.” In *Materials, Practices, and Knowledge across Eurasia*, edited by Pamela H. Smith. Pittsburgh: University of Pittsburgh Press, 2019.
 
