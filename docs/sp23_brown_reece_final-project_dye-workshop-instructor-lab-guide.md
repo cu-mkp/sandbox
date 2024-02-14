@@ -48,8 +48,7 @@ to scholarly analysis of global commodities and their exchanges.
 
 -   Cochineal Biology
 
-    -   Crush cochineal, watch it metamorphose from an insect into a
-        > dyestuff
+    -   Crush cochineal, watch it metamorphose from an insect into a dyestuff
 
     -   Discussion of life cycle/metamorphosis
 
@@ -123,8 +122,7 @@ Textile : cochineal : water
 
 -   Add textiles when alum solution reaches 70º C
 
--   Heat the textiles for 30 minutes at 80-90º C, stirring occasionally
-    > to ensure homogenous absorption
+-   Heat the textiles for 30 minutes at 80-90º C, stirring occasionally to ensure homogenous absorption
 
 -   Remove textiles, rinsing them thoroughly in cold water
 
@@ -173,7 +171,7 @@ Natural dyes are sourced from the environment. They can be made from organic mat
 
 ### Discussion questions
 
-> *Look around and observe a piece of clothing. Do you know how it got its color?*
+*Look around and observe a piece of clothing. Do you know how it got its color?*
 
 *What does it mean for something to be “natural”? Artificial? Are these antonyms or opposites?*
 
