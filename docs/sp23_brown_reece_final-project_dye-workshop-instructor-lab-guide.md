@@ -525,8 +525,7 @@ style="width:4.48297in;height:2.00356in" />
 
 -   Jaramillo, Veronica and Cheung, Kit. “Activity: Bugs to Dye For.” American Chemical Society. Accessed 05 May 2023, [https://www.acs.org/education/outreach/celebrating-chemistry-editions/2022-ccew/bugs-to-dye-for.html#:\~:text=Cochineal%20dye%20is%20great%20because,an%20example%20of%20an%20indicator](https://www.acs.org/education/outreach/celebrating-chemistry-editions/2022-ccew/bugs-to-dye-for.html#:~:text=Cochineal%20dye%20is%20great%20because,an%20example%20of%20an%20indicator).
 
--   Jesús Méndez-Gallegos, S. de, T. Panzavolta, and R. Tiberi. “Carmine Cochineal Dactylopius Coccus Costa (Rhynchota: Dactylopiidae): Significance, Production and Use.” *Advances in Horticultural
-    > Science* 17, no. 3 (2003): 165–71. [<u>http://www.jstor.org/stable/42882246</u>](http://www.jstor.org/stable/42882246).
+-   Jesús Méndez-Gallegos, S. de, T. Panzavolta, and R. Tiberi. “Carmine Cochineal Dactylopius Coccus Costa (Rhynchota: Dactylopiidae): Significance, Production and Use.” *Advances in Horticultural Science* 17, no. 3 (2003): 165–71. [<u>http://www.jstor.org/stable/42882246</u>](http://www.jstor.org/stable/42882246).
 
 -   Knoxville Botanical Garden, “Herbal Bath Teas.” Accessed 10 May 2023, [<u>https://www.knoxgarden.org/events-all/herbal-bath-teas</u>](https://www.knoxgarden.org/events-all/herbal-bath-teas).
 
