@@ -13,6 +13,6 @@ In August 2023, I led the workshop in a high school environmental science class.
 
 ## Teaching Materials
 - Presentation on Cochineal [[PDF](sp23_brown_reece_final-project_dye-workshop-presentation.pdf)] [[PPTX](sp23_brown_reece_final-project_dye-workshop-presentation.pptx)]
-- [Student Lab Guide](sp23_brown-reece_final-project_dye-workshop-student-lab-guide.md) (also available as [PDF](sp23_brown-reece_final-project_dye-workshop-student-lab-guide.pdf))
-- [Instructor Lab Guide](sp23_brown-reece_final-project_dye-workshop-instructor-lab-guide.md) (also available as [PDF](sp23_brown-reece_final-project_dye-workshop-instructor-lab-guide.pdf))
+- [Student Lab Guide](sp23_brown_reece_final-project_dye-workshop-student-lab-guide.md) (also available as [PDF](sp23_brown_reece_final-project_dye-workshop-student-lab-guide.pdf))
+- [Instructor Lab Guide](sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide.md) (also available as [PDF](sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide.pdf))
 - [Pictures from the workshop held in August 2023](https://photos.google.com/share/AF1QipPQ-ckzEr4N6hcVK2boj-QeGYtMzrFdKhrt0fgxMf7iBe-v1HOC3bSXoPVSoiF-IQ?key=akFJYk94VHdoRmxCeUphaGJzY3pxRnRWYW9NRVdn)
