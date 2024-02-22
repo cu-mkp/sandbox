@@ -175,9 +175,7 @@ Fig. 2. Varnishes and their function found in Ms Fr. 640, Jehan LeBègue and De 
 
 ## *Vernis, Vernisseur*, *Vernissure* 
 
-Some entries in dictionaries show us what I already concluded above. A
-dictionary from 1771 (somewhat later than my cases) describes that
-varnish is used for various functions and various materials, among them
+Some entries in dictionaries show us what I already concluded above. A dictionary from 1771 (somewhat later than my cases) describes that varnish is used for various functions and various materials, among them
 iron, paintings, and carriages. The function can be *decoration* or
 *preservation*: “du fer, du bois, des tableaux, des carrosses, etc. foit
 pour les orner & les embellir, foit pour les conserver & faire qu'ils ne
