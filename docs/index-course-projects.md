@@ -64,7 +64,8 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual](sp23_nelkin-nesya_final-project_candles.md) by Nesya Nelkin
 - [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640](sp23_rao-sumant_final-project_puffball.md) by Sumant Rao
 - [European Paintbrushes and Chinese Ink Brushes in the Early Modern World](sp23_shi-jingxian_final-project_paintbrushes.md) by Jingxian Shi
-- [Dyeing Textiles with Cochineal](sp23_brown-reece_final-project_dye-workshop.md) by Reece Brown
+- [Dyeing Textiles with Cochineal - A Workshop](sp23_brown-reece_final-project_dye-workshop.md) by Reece Brown
+- [Varnishing, a Craft of Closure](sp23_oberem-lukas_final-project_varnish.md) by Lukas Oberem
 
 ### Making Colors!
 - [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing.md) by Annika Cunningham (2022-07-18)
