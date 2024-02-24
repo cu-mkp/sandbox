@@ -312,9 +312,9 @@ Woolley, Hannah. *The Gentlewomans Companion; or, A Guide to the Female Sex Cont
 
 [^2]: Laura Seymour, “The Feasting Table as the Gateway to Hell on the Early Modern Stage and Page,” *Renaissance Studies* 34, no. 3 (2020): 400, [<u>https://doi.org/10.1111/rest.12618</u>](https://doi.org/10.1111/rest.12618).
 
-[^3]: Shakespeare William, *The Tempest*, in *Comedies, Histories, & Tragedies (First Folio)*, 1st ed. (London: Edward  Blount & Isaac Jaggard, 1623), 16, 5.1.33, 38-40.
+[^3]: William Shakespeare, *The Tempest*, in *Comedies, Histories, & Tragedies (First Folio)*, 1st ed. (London: Edward  Blount & Isaac Jaggard, 1623), 16, 5.1.33, 38-40.
 
-[^4]: Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/folios/20v</u>](https://edition640.makingandknowing.org/#/folios/20v). The untranslated French recipe is the following: “Blanchir la face: Pille de la vesse en eau de cisterne & non aultre & de ceste eau blanchie lave Cella est estime fort singulier Et croy quen fayre de lamydon & en user seroict encores mieulx” (f. 20v).
+[^4]: Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/folios/20v</u>](https://edition640.makingandknowing.org/#/folios/20v). The original French recipe is the following: “Blanchir la face: Pille de la vesse en eau de cisterne & non aultre & de ceste eau blanchie lave Cella est estime fort singulier Et croy quen fayre de lamydon & en user seroict encores mieulx” (f. 20v).
 
 [^5]: "puffball, n.,” OED Online, March 2023, Oxford University Press, [<u>https://www.oed.com/view/Entry/154185?redirectedFrom=puffball</u>](https://www.oed.com/view/Entry/154185?redirectedFrom=puffball) (accessed April 16, 2023).
 
@@ -402,13 +402,13 @@ Woolley, Hannah. *The Gentlewomans Companion; or, A Guide to the Female Sex Cont
 
 [^47]: Hieronymus Brunschwig, *The Vertuose Boke of Distyllacyon of the Waters of All Maner of Herbes with the Fygures of the Styllatoryes, Fyrst Made and Compyled by the Thyrte Yeres Study and Labour of the Moste Connynge and Famous Mayster of Phisyke, Master Iherom Bruynswyke. And Now Newly Translated out of Duyche into Englysshe Nat Only to the Synguler Helpe and Profyte of the Surgyens, Phisycyens, and Pothecaryes, but Also of All Maner of People, Parfytely and in Dewe Tyme and Ordre to Lerne to Dystyll All Maner of Herbes, to the Profyte, Cure, and Remedy of All Maner Dysseases and Infirmytees Apparant and Nat Apparant. And Ye Shall Vnderstande That the Waters Be Better than the Herbes, as Auicenna Testefyeth in His Fourthe Conon Saynge That All Maner Medicynes Vsed with Theyr Substance, Febleth and Maketh Aged, and Weke. Cum Gratia et Preuilegio Regali*, 2nd ed. (London: In the flete strete by me Laurens Andrewe, in the sygne of the golden Crosse, 1528), ca. cc viii, 103-4.
 
-[^48]: Snook, Women, Beauty, and Power, 23; John Bulwer, *Anthropometamorphosis: Man Transform’d: Or, The Artificiall Changling, Historically Presented, in the Mad and Cruel Gallantry, Foolish Bravery, Ridiculous Beauty, Filthy Finenesse, and Loathsome Loveliness of Most Nations, Fashioning and Altering Their Bodies from the Mould Intended by Nature; with Figures of Those Transformations. To Which Artificial and Affected Deformations Are Added, All the Native and National Monstrosities That Have Appeared to Disfigure the Humane Fabrick. With a Vindication of the Regular Beauty and Honesty of Nature*, 2nd ed. (London: Printed by William Hunt, 1653), 25.
+[^48]: Snook, *Women, Beauty, and Power*, 23; John Bulwer, *Anthropometamorphosis: Man Transform’d: Or, The Artificiall Changling, Historically Presented, in the Mad and Cruel Gallantry, Foolish Bravery, Ridiculous Beauty, Filthy Finenesse, and Loathsome Loveliness of Most Nations, Fashioning and Altering Their Bodies from the Mould Intended by Nature; with Figures of Those Transformations. To Which Artificial and Affected Deformations Are Added, All the Native and National Monstrosities That Have Appeared to Disfigure the Humane Fabrick. With a Vindication of the Regular Beauty and Honesty of Nature*, 2nd ed. (London: Printed by William Hunt, 1653), 25.
 
 [^49]: Agnolo Firenzuola, *On the Beauty of Women*, trans. Konrad Eisenbichler and Jacqueline Murray (Philadelphia: University of Pennsylvania Press, 1992), 15
 
 [^50]: Romana Sammern, “Red, White and Black: Colors of Beauty, Tints of Health and Cosmetic Materials in Early Modern English Art Writing,” in *Early Modern Color Worlds*, ed. Sven Dupré et al. (Leiden: Brill, 2015), 114.
 
-[^51]: Ibid., 126; *Snook, Women, Beauty, and Power*, 28; Farah Karim-Cooper, *Cosmetics in Shakespearean and Renaissance Drama*, electronic resource (Edinburgh: Edinburgh University Press, 2006), 7-10, [<u>http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001</u>](http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001).
+[^51]: Ibid., 126; Snook, *Women, Beauty and Power*, 28; Farah Karim-Cooper, *Cosmetics in Shakespearean and Renaissance Drama*, electronic resource (Edinburgh: Edinburgh University Press, 2006), 7-10, [<u>http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001</u>](http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001).
 
 [^52]: Erin Griffey, “‘The Rose and Lily Queen’: Henrietta Maria’s Fair Face and the Power of Beauty at the Stuart Court,” *Renaissance Studies* 35, no. 5 (2021): 812, [<u>https://doi.org/10.1111/rest.12724</u>](https://doi.org/10.1111/rest.12724).
 
@@ -418,13 +418,13 @@ Woolley, Hannah. *The Gentlewomans Companion; or, A Guide to the Female Sex Cont
 
 [^55]: Ibid., 183.
 
-[^56]: Snook, *Women, Beauty, and Power*, 21; Patricia Berrahou Phillippy, *Painting Women: Cosmetics, Canvases, and Early Modern Culture* (Baltimore: Johns Hopkins University Press, 2006), 5-12; Thomas Tuke, *A Discourse against Painting and Tincturing of Women Wherein the Abominable Sinnes of Murther and Poysoning, Pride and Ambition, Adultery and Witchcraft Are Set Foorth & Discouered. Whereunto Is Added The Picture of a Picture, or, the Character of a Painted Woman*, 1st ed. (London: Imprinted \[by Thomas Creede and Bernard Alsop\] for Edward Marchant, 1616).
+[^56]: Snook, *Women, Beauty and Power*, 21; Patricia Berrahou Phillippy, *Painting Women: Cosmetics, Canvases, and Early Modern Culture* (Baltimore: Johns Hopkins University Press, 2006), 5-12; Thomas Tuke, *A Discourse against Painting and Tincturing of Women Wherein the Abominable Sinnes of Murther and Poysoning, Pride and Ambition, Adultery and Witchcraft Are Set Foorth & Discouered. Whereunto Is Added The Picture of a Picture, or, the Character of a Painted Woman*, 1st ed. (London: Imprinted \[by Thomas Creede and Bernard Alsop\] for Edward Marchant, 1616).
 
 [^57]: Dosia Reichardt, “‘Their Faces Are Not Their Own:’ Powders, Patches and Paint in Seventeenth-Century Poetry,” *Dalhousie Review* 84, no. 2 (2004): 213.
 
 [^58]: Snook, *Women, Beauty, and Power*, 21-2; Phillippy, *Painting Women*, 13.
 
-[^59]: Texts I haven’t mentioned in this are include the following: Annette Drew-Bear, *Painted Faces on the Renaissance Stage : The Moral Significance of Face-Painting Conventions* (Lewisburg, PA: Bucknell University Press, 1994); Farah Karim-Cooper, “Early Modern Cosmetic Culture,” in *Cosmetics in Shakespearean and Renaissance Drama*, ed. Farah Karim-Cooper (Edinburgh: Edinburgh Universit Press, 2006), 34–66, [<u>https://doi.org/10.3366/edinburgh/9780748619931.003.0002</u>](https://doi.org/10.3366/edinburgh/9780748619931.003.0002); Andrea Ria Stevens, *Inventions of the Skin : The Painted Body in Early English Drama, 1400-1642*, Edinburgh Critical Studies in Renaissance Culture (Edinburgh: Edinburgh University Press, 2013).
+[^59]: Texts I haven’t mentioned in this include the following: Annette Drew-Bear, *Painted Faces on the Renaissance Stage : The Moral Significance of Face-Painting Conventions* (Lewisburg, PA: Bucknell University Press, 1994); Farah Karim-Cooper, “Early Modern Cosmetic Culture,” in *Cosmetics in Shakespearean and Renaissance Drama*, ed. Farah Karim-Cooper (Edinburgh: Edinburgh Universit Press, 2006), 34–66, [<u>https://doi.org/10.3366/edinburgh/9780748619931.003.0002</u>](https://doi.org/10.3366/edinburgh/9780748619931.003.0002); Andrea Ria Stevens, *Inventions of the Skin : The Painted Body in Early English Drama, 1400-1642*, Edinburgh Critical Studies in Renaissance Culture (Edinburgh: Edinburgh University Press, 2013).
 
 [^60]: Kim F. Hall, *Things of Darkness: Economies of Race and Gender in Early Modern England* (Ithaca, NY: Cornell University Press, 1995), 6.
 
@@ -434,7 +434,7 @@ Woolley, Hannah. *The Gentlewomans Companion; or, A Guide to the Female Sex Cont
 
 [^63]: Sujata Iyengar, *Shades of Difference: Mythologies of Skin Color in Early Modern England* (Philadelphia: University of Pennsylvania Press, 2005), 133.
 
-[^64]: Kim F. Hall, *Things of Darkness*, 4.
+[^64]: Hall, *Things of Darkness*, 4.
 
 [^65]: Royal College of London, *A physicall directory, or, A translation of the London dispensatory*, 276-7.
 
