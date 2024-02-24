@@ -33,137 +33,15 @@ Marjolin Bol has argued that the difference between embellishment and preservati
 
 ## Universal Remedy
 
-As mentioned above, I have taken a closer look at three manuscripts, Ms
-Fr. 640, Jehan LeBègue’s and De Mayerne’s, to reflect on the concept
-“varnish.”[^15] First, a few notes on the authors' backgrounds: Jehan
-LeBègue was a notary and compiled his manuscript in 1431. We know that
-he traveled from Paris through Italy. On his journey, he collected
-manuscripts on painting and returned in 1411 to Paris, where he composed
-the manuscript we will examine. Théodore De Mayerne, on the other hand,
-was educated in different fields and worked as a doctor with a
-significant interest in alchemy. As a Protestant he left France after
-the death of Henri IV and the resulting political conflicts. De Mayerne
-gathered and wrote down recipes for many crafts. About the
-author-practitioner of Ms Fr. 640, we do not know as much as about the
-other two. As far as we know, the manuscript may have originated in
-Paris, but the author-practitioner also lived and worked in Toulouse or
-the Languedoc region, where he benefited from an environment of rich
-practical skills and broad intellectual ambitions.[^16] The number of
-recipes for varnish in all three manuscripts shows the demand for the
-product and the constant search for the best formula. The outstanding
-importance of varnish for the early modern period has not been given
-enough attention in scholarship. Besides the above-mentioned authors and
-manuscripts, Vasari’s *Vite* and Theophilus’ *De diversis artibus* also
-offer large *corpora* of recipes.[^17] For these, however, I rendered
-only a first overview, which needs further verification.
+As mentioned above, I have taken a closer look at three manuscripts, Ms. Fr. 640, Jehan LeBègue’s and De Mayerne’s, to reflect on the concept “varnish.”[^15] First, a few notes on the authors' backgrounds: Jehan LeBègue was a notary and compiled his manuscript in 1431. We know that he traveled from Paris through Italy. On his journey, he collected manuscripts on painting and returned in 1411 to Paris, where he composed the manuscript we will examine. Théodore De Mayerne, on the other hand, was educated in different fields and worked as a doctor with a significant interest in alchemy. As a Protestant he left France after the death of Henri IV and the resulting political conflicts. De Mayerne gathered and wrote down recipes for many crafts. About the author-practitioner of Ms Fr. 640, we do not know as much as about the other two. As far as we know, the manuscript may have originated in Paris, but the author-practitioner also lived and worked in Toulouse or the Languedoc region, where he benefited from an environment of rich practical skills and broad intellectual ambitions.[^16] The number of recipes for varnish in all three manuscripts shows the demand for the product and the constant search for the best formula. The outstanding importance of varnish for the early modern period has not been given enough attention in scholarship. Besides the above-mentioned authors and manuscripts, Vasari’s *Vite* and Theophilus’ *De diversis artibus* also offer large *corpora* of recipes.[^17] For these, however, I rendered only a first overview, which needs further verification.
 
-The categories I used to create the tables are based on a closer reading
-of the different recipes. What I understand in detail under the
-different categories will be represented exemplarily on the basis of
-some more specific quotes in the following. Some of the entries,
-however, cannot be covered by the schema I have sketched out. One
-difficulty, for example, is that the recipes for varnish often mention
-neither a material of application nor a function, but merely specify the
-ingredients. These cases have not been considered for the table. In many
-cases, it seems that the use of the respective varnish is taken for
-granted. Unsurprisingly, many recipes have the goal of preserving the
-painting. In Ms. Fr. 640, I found in total eight recipes that are
-occupied with *preserving* a product. Two of these are supposed to
-preserve paintings, another two are made to preserve woodworks, and a
-total of three is used to preserve works in metal. One additional case
-talks about the preservation of plaster. The author-practitioner
-mentions the plaster’s durability in rain and adds that this is
-especially the case when they \[plaster casts\] are varnished
-“(mesmem{en}t si elles sont vernies” (especially if they are varnished)
-(fol.
-[<u>125r</u>](https://edition640.makingandknowing.org/#/folios/125r/f/125r/tl)).
-Here, the property of the varnish to preserve something seems natural
-and does not need further explanation. With regards to paintings, the
-author-practitioner recommends varnishing paintings after they are dry
-so that they remain in their original state: “Aussi tost que les
-couleurs des tableaulx sont bien seiches, les Flamans les vernissent
-pource que elles ne se meurent point plus qu’elles sont & demeurent en
-cet estat” (As soon as the colors of panels are well dried, the Flemish
-varnish them so they do not die any more than they already have & remain
-in that state) (fol.
-[<u>32r</u>](https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl)).
-On the other hand, we find a reference in Theophilus in the twelfth
-century, where varnish is considered to make both the work more
-beautiful and durable forever. The author-practitioner, as well as Jehan
-LeBègue, De Mayerne, and Theophilus mention varnishes with which to
-treat metal. Evidently these varnishes are made to protect the product
-but often have a significant aesthetic effect on the material as well.
-In one example, the author of Ms. Fr. 640 speaks about a yellow varnish
-to coat sword guards (fol.
-[<u>96v</u>](https://edition640.makingandknowing.org/#/folios/96v/f/96v/tl)).
-Here, as in many other recipes, he does not explicitly state what the
-varnish is used for, but he seems to imply that it is used for
-protection. The fact that the preservation is often implied but not
-explicitly stated gives reason to believe that this was the most
-important function of a varnish in most cases.
+The categories I used to create the tables are based on a closer reading of the different recipes. What I understand in detail under the different categories will be represented exemplarily on the basis of some more specific quotes in the following. Some of the entries, however, cannot be covered by the schema I have sketched out. One difficulty, for example, is that the recipes for varnish often mention neither a material of application nor a function, but merely specify the ingredients. These cases have not been considered for the table. In many cases, it seems that the use of the respective varnish is taken for granted. Unsurprisingly, many recipes have the goal of preserving the painting. In Ms. Fr. 640, I found in total eight recipes that are occupied with *preserving* a product. Two of these are supposed to preserve paintings, another two are made to preserve woodworks, and a total of three is used to preserve works in metal. One additional case talks about the preservation of plaster. The author-practitioner mentions the plaster’s durability in rain and adds that this is especially the case when they \[plaster casts\] are varnished “(mesmem{en}t si elles sont vernies” (especially if they are varnished) (fol. [<u>125r</u>](https://edition640.makingandknowing.org/#/folios/125r/f/125r/tl)). Here, the property of the varnish to preserve something seems natural and does not need further explanation. With regards to paintings, the author-practitioner recommends varnishing paintings after they are dry so that they remain in their original state: “Aussi tost que les couleurs des tableaulx sont bien seiches, les Flamans les vernissent pource que elles ne se meurent point plus qu’elles sont & demeurent en cet estat” (As soon as the colors of panels are well dried, the Flemish varnish them so they do not die any more than they already have & remain in that state) (fol. [<u>32r</u>](https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl)). On the other hand, we find a reference in Theophilus in the twelfth century, where varnish is considered to make both the work more beautiful and durable forever. The author-practitioner, as well as Jehan LeBègue, De Mayerne, and Theophilus mention varnishes with which to treat metal. Evidently these varnishes are made to protect the product but often have a significant aesthetic effect on the material as well. In one example, the author of Ms. Fr. 640 speaks about a yellow varnish to coat sword guards (fol. [<u>96v</u>](https://edition640.makingandknowing.org/#/folios/96v/f/96v/tl)). Here, as in many other recipes, he does not explicitly state what the varnish is used for, but he seems to imply that it is used for protection. The fact that the preservation is often implied but not explicitly stated gives reason to believe that this was the most important function of a varnish in most cases.
 
-In metalworking varnish is also significantly used to *prepare* the
-material for a subsequent step.[^18] In Ms. Fr. 640, we find a total of
-five cases for this use. The varnish is, for instance, used to prepare
-plates for engraving (fol.
-[<u>4v</u>](https://edition640.makingandknowing.org/#/folios/4v/f/4v/tl)).
-And in LeBègue, we find another example, where medals in copper are
-prepared with varnish to be colored and heated over fire.[^19]
-Furthermore, we encounter examples where varnish is used to *imitate*
-another material, e.g., gold; as a yellowish layer on silver it can
-imitate gold.
+In metalworking varnish is also significantly used to *prepare* the material for a subsequent step.[^18] In Ms. Fr. 640, we find a total of five cases for this use. The varnish is, for instance, used to prepare plates for engraving (fol. [<u>4v</u>](https://edition640.makingandknowing.org/#/folios/4v/f/4v/tl)). And in LeBègue, we find another example, where medals in copper are prepared with varnish to be colored and heated over fire.[^19] Furthermore, we encounter examples where varnish is used to *imitate* another material, e.g., gold; as a yellowish layer on silver it can imitate gold.
 
-Moreover, varnish seems to partake in creative processes. In painting as
-well as in woodwork, colored varnishes were in use. Ms. Fr. 640 mentions
-a red and yellow varnish for lutes and even a blue varnish (fol.
-[<u>73r</u>](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl)).
-The aesthetic effect varnish is supposed to have on painting is more
-complicated. Varnish on paintings is often described as making the
-artwork more beautiful or highlighting the colors. In other words, it
-has a *creative* function. On fol.
-[<u>3r</u>](https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl)
-in Ms Fr. 640, varnish is mentioned as making colors more vivid, but in
-other cases the author-practitioner warns not to use thick varnish and
-emphasizes that it does *not* make the painting shine, but, as mentioned
-above, rather “takes the light out of them” (fols.
-[<u>93v</u>](https://edition640.makingandknowing.org/#/folios/93v/f/93v/tl)
-and
-[<u>3r</u>](https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl)).
-When illumination or other metaphors of light are mentioned, the
-question arises as to whether it is an aesthetic intervention, or
-whether there is an underlying preservative intent. De Mayerne, for
-example, speaks of illumination. And, in older texts such in the
-collection of recipes known as the *compositiones variae* we find this
-interest of brightening too: “brighten every painting or carving” (et
-qualibet opera picta aut scappilata inluciddare super debas).[^20]
-Despite this ambiguity, the cases where illumination is expressed as an
-aim I have added to the category of *Creation*. I will later expand on
-this problem. I added a category of *Undecided* functions for one recipe
-in Ms. Fr. 640 for woodwork. Here, the author-practitioner mentions the
-material the varnish is used for but does not specify its function (fol.
-[<u>73v</u>](https://edition640.makingandknowing.org/#/folios/73v/f/73v/tl)).
-De Mayerne mentions a couple of varnishes used for furniture and musical
-instruments without specifying the function.[^21] Two varnishes for
-metalwork are also unclear as to function.[^22] Under the category
-*Other*, which refers to materials, I grouped recipes for paper, plaster
-and wax. One case in De Mayerne’s manuscript describes the making of
-colors by adding varnish, which I added with one case from Ms. Fr. 640
-to the category of *Other* referring to function in addition to material
-(fol.
-[<u>85r</u>](https://edition640.makingandknowing.org/#/folios/85r/f/85r/tl)).[^23]
-The case of color making appears to me as a special case that has less
-in common with instructions where and how to apply a varnish.
+Moreover, varnish seems to partake in creative processes. In painting as well as in woodwork, colored varnishes were in use. Ms. Fr. 640 mentions a red and yellow varnish for lutes and even a blue varnish (fol. [<u>73r</u>](https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl)). The aesthetic effect varnish is supposed to have on painting is more complicated. Varnish on paintings is often described as making the artwork more beautiful or highlighting the colors. In other words, it has a *creative* function. On fol. [<u>3r</u>](https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl) in Ms Fr. 640, varnish is mentioned as making colors more vivid, but in other cases the author-practitioner warns not to use thick varnish and emphasizes that it does *not* make the painting shine, but, as mentioned above, rather “takes the light out of them” (fols. [<u>93v</u>](https://edition640.makingandknowing.org/#/folios/93v/f/93v/tl) and [<u>3r</u>](https:// edition640.makingandknowing.org/#/folios/3r/f/3r/tl)). When illumination or other metaphors of light are mentioned, the question arises as to whether it is an aesthetic intervention, or whether there is an underlying preservative intent. De Mayerne, for example, speaks of illumination. And, in older texts such in the collection of recipes known as the *compositiones variae* we find this interest of brightening too: “brighten every painting or carving” (et qualibet opera picta aut scappilata inluciddare super debas).[^20] Despite this ambiguity, the cases where illumination is expressed as an aim I have added to the category of *Creation*. I will later expand on this problem. I added a category of *Undecided* functions for one recipe in Ms. Fr. 640 for woodwork. Here, the author-practitioner mentions the material the varnish is used for but does not specify its function (fol. [<u>73v</u>](https://edition640.makingandknowing.org/#/folios/73v/f/73v/tl)). De Mayerne mentions a couple of varnishes used for furniture and musical instruments without specifying the function.[^21] Two varnishes for metalwork are also unclear as to function.[^22] Under the category *Other*, which refers to materials, I grouped recipes for paper, plaster and wax. One case in De Mayerne’s manuscript describes the making of colors by adding varnish, which I added with one case from Ms. Fr. 640 to the category of *Other* referring to function in addition to material (fol. [<u>85r</u>](https://edition640.makingandknowing.org/#/folios/85r/f/85r/tl)).[^23] The case of color making appears to me as a special case that has less in common with instructions where and how to apply a varnish.
 
-The recipes and recommendations mentioned here are only a few,
-considering the variety and plenitude of manuscripts that discuss
-varnish. But even based on this limited information, we may conclude two
-main aspects: on the one hand, varnish seems to be in use for many
-different functions. It can prepare certain steps in a process, it is
-used to imitate other materials, and it can influence the process of
-creation aesthetically. On the other hand, a recurring focus lies on
-preservation that can even accompany the other functions. But all
-recipes seem to uphold a certain tension between addition and
-preservation with the aim to close either a part or the entire work.
+The recipes and recommendations mentioned here are only a few, considering the variety and plenitude of manuscripts that discuss varnish. But even based on this limited information, we may conclude two main aspects: on the one hand, varnish seems to be in use for many different functions. It can prepare certain steps in a process, it is used to imitate other materials, and it can influence the process of creation aesthetically. On the other hand, a recurring focus lies on preservation that can even accompany the other functions. But all recipes seem to uphold a certain tension between addition and preservation with the aim to close either a part or the entire work.
 
 <img src="./media-oberem/image2.png" style="width:4.0941in;height:1.89031in" />
 
@@ -175,75 +53,17 @@ Fig. 2. Varnishes and their function found in Ms Fr. 640, Jehan LeBègue and De 
 
 ## *Vernis, Vernisseur*, *Vernissure* 
 
-Some entries in dictionaries show us what I already concluded above. A dictionary from 1771 (somewhat later than my cases) describes that varnish is used for various functions and various materials, among them
-iron, paintings, and carriages. The function can be *decoration* or
-*preservation*: “du fer, du bois, des tableaux, des carrosses, etc. foit
-pour les orner & les embellir, foit pour les conserver & faire qu'ils ne
-se gatent pas a l'air” (iron, wood, paintings, carriages, etc. to
-decorate and embellish them, to preserve them and prevent them from
-deteriorating in the air.)[^24] So again, reference is made to the wide
-use of varnish. The entry, moreover, clarifies the functions of varnish:
-“orner, embellir, conserver” (ornament, embellish, conserve). We find
-here the ambiguity of meaning in the word for such a broad variety of
-things and functions. The entry "vernisseur" in an earlier dictionary
-for Italian and French of 1677 raises questions about the profession
-that is connected to the procedure of varnishing. Apparently, the
-“vernisseur” is a person who makes and applies the varnish. “Artisan qui
-fait des vernis, ou qui les emploie. Quegli che fa o dà la vernice”
-(Craftsman who makes or uses varnish).[^25] This raises the question of
-what the role of the "vernisseur" was, and even whether he represented a
-distinct profession. However, in my research, I found no evidence to
-assume an independent profession based on guild regulation or other
-sources. In Hans Sachs and Jost Amman's series of engravings, for
-example, we do not encounter a vernisseur, despite the otherwise very
-detailed description of various crafts.[^26] In the case of the lute
-maker, explicit reference is made to the use of varnish (fig. 3).
+Some entries in dictionaries show us what I already concluded above. A dictionary from 1771 (somewhat later than my cases) describes that varnish is used for various functions and various materials, among them iron, paintings, and carriages. The function can be *decoration* or *preservation*: “du fer, du bois, des tableaux, des carrosses, etc. foit pour les orner & les embellir, foit pour les conserver & faire qu'ils ne se gatent pas a l'air” (iron, wood, paintings, carriages, etc. to decorate and embellish them, to preserve them and prevent them from deteriorating in the air.)[^24] So again, reference is made to the wide use of varnish. The entry, moreover, clarifies the functions of varnish: “orner, embellir, conserver” (ornament, embellish, conserve). We find here the ambiguity of meaning in the word for such a broad variety of things and functions. The entry "vernisseur" in an earlier dictionary for Italian and French of 1677 raises questions about the profession that is connected to the procedure of varnishing. Apparently, the “vernisseur” is a person who makes and applies the varnish. “Artisan qui fait des vernis, ou qui les emploie. Quegli che fa o dà la vernice” (Craftsman who makes or uses varnish).[^25] This raises the question of what the role of the "vernisseur" was, and even whether he represented a distinct profession. However, in my research, I found no evidence to assume an independent profession based on guild regulation or other sources. In Hans Sachs and Jost Amman's series of engravings, for example, we do not encounter a vernisseur, despite the otherwise very detailed description of various crafts.[^26] In the case of the lute maker, explicit reference is made to the use of varnish (fig. 3).
 
 <img src="./media-oberem/image3.jpg" style="width:3.07326in;height:4.44663in" />
 
 Fig. 3. Hans Sachs and Jost Amman, Der Lautenmacher, 1568
 
-We read here “Gefürnist Kragen / Bodn und Stern” (Then I varnish
-everything: The body, neck, and bridge shine well),[^27] which indicates
-that the different parts of the instrument had been varnished by the
-lute maker. Eventually, the step of varnishing is a necessary and
-important step in the craft of the lute maker. However, the formation of
-a noun, "vernisseur," to denote the activity shows the importance of the
-process. Usually, a *nomen agentis* is formed and used only for
-prominent activities, such as “baker” or “painter.” “Vernisseur”
-provides not only the denotation of a person's work but can offer from
-the person's perspective their identification with a particular
-operation. This gives credit to the fact that varnishing an object was
-an important and well-thought out step in most work processes. From
-Dürer’s correspondence, we know that he paid great attention to
-varnishing his paintings himself, not wanting anyone else to varnish
-them for his patrons.[^28] Given the fact that in primary sources the
-individual, even the personal varnish of an artist or school is often
-put forward, one may assume that varnishing was often done by the master
-themself. In *the Lexique de l'ancien francaise* we find another
-designation of the word "vernisseur" here it denotes "Vernisseur, s. m.,
-objet servir a vernir” (object for varnishing).[^29] Hence, it refers to
-an object that is used for the work, and not to the person who carries
-out the operation. Strikingly, different objects can and actually are
-used for the process of varnishing. Even the finger is used to
-distribute varnish over a work. It accounts for the sensory nature of
-the artisan’s giving their last touch to the piece.[^30]
+We read here “Gefürnist Kragen / Bodn und Stern” (Then I varnish everything: The body, neck, and bridge shine well),[^27] which indicates that the different parts of the instrument had been varnished by the lute maker. Eventually, the step of varnishing is a necessary and important step in the craft of the lute maker. However, the formation of a noun, "vernisseur," to denote the activity shows the importance of the process. Usually, a *nomen agentis* is formed and used only for prominent activities, such as “baker” or “painter.” “Vernisseur” provides not only the denotation of a person's work but can offer from the person's perspective their identification with a particular operation. This gives credit to the fact that varnishing an object was an important and well-thought out step in most work processes. From Dürer’s correspondence, we know that he paid great attention to varnishing his paintings himself, not wanting anyone else to varnish them for his patrons.[^28] Given the fact that in primary sources the individual, even the personal varnish of an artist or school is often put forward, one may assume that varnishing was often done by the master themself. In *the Lexique de l'ancien francaise* we find another designation of the word "vernisseur" here it denotes "Vernisseur, s. m., objet servir a vernir” (object for varnishing).[^29] Hence, it refers to an object that is used for the work, and not to the person who carries out the operation. Strikingly, different objects can and actually are used for the process of varnishing. Even the finger is used to distribute varnish over a work. It accounts for the sensory nature of the artisan’s giving their last touch to the piece.[^30]
 
-A completely different use of the term “vernis,” allegedly common from
-the ninth to the fifteenth century, raises other, though not completely
-unrelated, questions. The different meaning is evident from the
-synonyms: “Vernis, s. m., syn. de castiche, chaussée, digue, barrage,
-écluse” (mound, causeway, dike, dam, lock).[^31] One source given in the
-dictionary refers to a text on the making of a barrage from 1497. Thus,
-in this use, the interest in protection from an external danger is
-evident. Varnish seems so striking and important for the artisanal trade
-that a metaphor is eventually formed. Varnish must serve as a barrier
-against the impact of something to be kept outside, which gives sense to
-the *tertium comparationis* of preservation and protection.
+A completely different use of the term “vernis,” allegedly common from the ninth to the fifteenth century, raises other, though not completely unrelated, questions. The different meaning is evident from the synonyms: “Vernis, s. m., syn. de castiche, chaussée, digue, barrage, écluse” (mound, causeway, dike, dam, lock).[^31] One source given in the dictionary refers to a text on the making of a barrage from 1497. Thus, in this use, the interest in protection from an external danger is evident. Varnish seems so striking and important for the artisanal trade that a metaphor is eventually formed. Varnish must serve as a barrier against the impact of something to be kept outside, which gives sense to the *tertium comparationis* of preservation and protection.
 
-So far, I was able to find only very little about “varnish’s” usage in
-poetic language, which would broaden our understanding. In Shakespeare’s
-Othello we find the following famous line:
+So far, I was able to find only very little about “varnish’s” usage in poetic language, which would broaden our understanding. In Shakespeare’s Othello we find the following famous line:
 
 > **Othello:**
 >
@@ -290,14 +110,13 @@ In this quote by Cennini, the want to conclude can be connected to the want to p
 
 Semiotically, the term “varnish,” as shown, always comes back to the tension between decoration and preservation. This tension between adding and preserving, between embellishing by preserving and conserving by embellishing makes varnish both a practical and semantically inflected tool that seeks to enable the crucial act of completing a work process and concluding an experience of craft.
 
-# ** **Bibliography
+# Bibliography
 
 Bol, Marjolijn. *The Varnish and The Glaze, Painting Splendor with Oil, 1100-1500*. Chicago: University of Chicago Press, 2023.
 
 Brachert, Thomas. *Patina.* *Vom Nutzen und Nachteil der Restaurierung*. Munich: Callwey, 1985.
 
-Camps, Celine. “Black Varnish for Armor.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_071_fa_18>. DOI:
-<https://www.doi.org/10.7916/5qhq-ky36>.
+Camps, Celine. “Black Varnish for Armor.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_071_fa_18>. DOI: <https://www.doi.org/10.7916/5qhq-ky36>.
 
 Cennini, Cennino. *Il Libro dell’Arte*. Edited by Lara Broecke. London: Archetype Publications, 2015.
 
@@ -368,8 +187,7 @@ Widerhold, Johann Hermann, ed. *Nouveau dictionaire francois-italien et italien-
 
 [^5]: Teresa Soley, “Imitation Marble.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020). [<u>https://edition640.makingandknowing.org/#/essays/ann_040_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_040_sp_16).DOI: [<u>https://www.doi.org/10.7916/tpgj-d438</u>](https://www.doi.org/10.7916/tpgj-d438).
 
-[^6]: Caroline Marris and Stephanie Pope, “Varnish for Lutes.” In *Secrets of Craft and Nature in Renaissance France. A Digital
-    Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_019_sp_15</u>](https://edition640.makingandknowing.org/#/essays/ann_019_sp_15). DOI: [<u>https://www.doi.org/10.7916/zd0f-yv91</u>](https://www.doi.org/10.7916/zd0f-yv91).
+[^6]: Caroline Marris and Stephanie Pope, “Varnish for Lutes.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_019_sp_15</u>](https://edition640.makingandknowing.org/#/essays/ann_019_sp_15). DOI: [<u>https://www.doi.org/10.7916/zd0f-yv91</u>](https://www.doi.org/10.7916/zd0f-yv91).
 
 [^7]: See Noemie Etienne, *The Restoration of Paintings in Paris, 1750-1815* (Los Angeles: Getty Publications, 2017).
 
@@ -387,28 +205,13 @@ Widerhold, Johann Hermann, ed. *Nouveau dictionaire francois-italien et italien-
 
 [^14]: For example, Michael Baxandall, in his 1972 study *Painting and Experience in fifteenth-century Italy*, showed that for the application of specific materials like gold or lapis higher prices are paid.
 
-[^15]: Jehan DeBègue in *Original Treatises dating from the XIIth to XVIIIth Centuries on the Arts of Painting*, 2 vols, Mary
-    Philadelphia Merrifield, ed. (London: John Murray, 1849); Berger, *De Mayerne*.
+[^15]: Jehan DeBègue in *Original Treatises dating from the XIIth to XVIIIth Centuries on the Arts of Painting*, 2 vols, Mary Philadelphia Merrifield, ed. (London: John Murray, 1849); Berger, *De Mayerne*.
 
-[^16]: Pamela H. Smith, “An Introduction to Ms. Fr. 640 and its Author-Practitioner,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith,
-    Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément
-    Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak,
-    Marc Smith, and Terry Catapano (New York: Making and Knowing
-    Project, 2020).
-    [<u>https://edition640.makingandknowing.org/#/essays/ann_300_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19).
-    DOI:
-    [<u>https://www.doi.org/10.7916/ny3t-qg71</u>](https://www.doi.org/10.7916/ny3t-qg71).
+[^16]: Pamela H. Smith, “An Introduction to Ms. Fr. 640 and its Author-Practitioner,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020). [<u>https://edition640.makingandknowing.org/#/essays/ann_300_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19). DOI: [<u>https://www.doi.org/10.7916/ny3t-qg71</u>](https://www.doi.org/10.7916/ny3t-qg71).
 
-[^17]: Vasari, *Vasari on Technique*, ed. Baldwin Brown (London: Dent &
-    Company, 1907); Theophilus, *De Diversis Artibus* (London: Johannes
-    Murray, 1847).
+[^17]: Vasari, *Vasari on Technique*, ed. Baldwin Brown (London: Dent & Company, 1907); Theophilus, *De Diversis Artibus* (London: Johannes Murray, 1847).
 
-[^18]: See Camps for more insights on this; she grapples as well with
-    the contradictory meaning of varnish; Celine Camps, “Black Varnish
-    for Armor,”
-    [<u>https://edition640.makingandknowing.org/#/essays/ann_071_fa_18</u>](https://edition640.makingandknowing.org/#/essays/ann_071_fa_18).
-    DOI:
-    [<u>https://www.doi.org/10.7916/5qhq-ky36</u>](https://www.doi.org/10.7916/5qhq-ky36).
+[^18]: See Camps for more insights on this; she grapples as well with the contradictory meaning of varnish; Celine Camps, “Black Varnish for Armor,” [<u>https://edition640.makingandknowing.org/#/essays/ann_071_fa_18</u>](https://edition640.makingandknowing.org/#/essays/ann_071_fa_18). DOI: [<u>https://www.doi.org/10.7916/5qhq-ky36</u>](https://www.doi.org/10.7916/5qhq-ky36).
 
 [^19]: Merryfield, Jehan LeBègue, 106.
 
@@ -420,36 +223,19 @@ Widerhold, Johann Hermann, ed. *Nouveau dictionaire francois-italien et italien-
 
 [^23]: Berger, *De Mayerne*, 363.
 
-[^24]: *Nouveau dictionnaire francois-italien (italiano-francese),
-    compose sur les dictionnaires de l’Académie de France et de la
-    Crusca*, vol. 1, ed. Francesco de Alberti di Villanova ed. (Mossy
-    1771), 914.
+[^24]: *Nouveau dictionnaire francois-italien (italiano-francese), compose sur les dictionnaires de l’Académie de France et de la Crusca*, vol. 1, ed. Francesco de Alberti di Villanova ed. (Mossy 1771), 914.
 
-[^25]: *Nouveau dictionaire francois-italien et italien-francois. Suivi
-    d’un autre dictionaire latin-francois-italien…*, ed. Johann Hermann
-    Widerhold (Geneva, 1677).
+[^25]: *Nouveau dictionaire francois-italien et italien-francois. Suivi d’un autre dictionaire latin-francois-italien…*, ed. Johann Hermann Widerhold (Geneva, 1677).
 
-[^26]: Hans Sachs, *Eygentliche Beschreibung Aller Stände auff Erden
-    ..*. (Frankfurt am Main, 1568).
+[^26]: Hans Sachs, *Eygentliche Beschreibung Aller Stände auff Erden..*. (Frankfurt am Main, 1568).
 
-[^27]: Sachs, *Eygentliche Beschreibung*, following the translation of
-    Hans Sachs, *A sixteenth-century book of trades. Das Ständebuch*,
-    trans. Theodore K. Rabb (Palo Alto: The Society of Promotion of
-    Science and Scholarship, 2009), 207.
+[^27]: Sachs, *Eygentliche Beschreibung*, following the translation of Hans Sachs, *A sixteenth-century book of trades. Das Ständebuch*, trans. Theodore K. Rabb (Palo Alto: The Society of Promotion of Science and Scholarship, 2009), 207.
 
-[^28]: Albrecht Dürer, *Schriftlicher Nachlass*, 3 vols., ed. Hans
-    Rupprich (Berlin: Deutscher Verlag für Kunstwissenschaft, 1956-69),
-    1:72-73 (no. 19).
+[^28]: Albrecht Dürer, *Schriftlicher Nachlass*, 3 vols., ed. Hans Rupprich (Berlin: Deutscher Verlag für Kunstwissenschaft, 1956-69), 1:72-73 (no. 19).
 
-[^29]: *Lexique de l’ancien francaise*, vol. 8, ed. Frédéric Godefroy
-    (Paris: Librairie Honoré Champion, 1982/1902), 199.
+[^29]: *Lexique de l’ancien francaise*, vol. 8, ed. Frédéric Godefroy (Paris: Librairie Honoré Champion, 1982/1902), 199.
 
-[^30]: Soley, “Imitation Marble,” who references fols.
-    [<u>3r</u>](https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl)
-    and
-    [<u>97v</u>](https://edition640.makingandknowing.org/#/folios/97v/f/97v/tl),
-    where, in both entries, the finger is used as the tool for
-    varnishing.
+[^30]: Soley, “Imitation Marble,” who references fols. [<u>3r</u>](https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl)  and [<u>97v</u>](https://edition640.makingandknowing.org/#/folios/97v/f/97v/tl), where, in both entries, the finger is used as the tool for varnishing.
 
 [^31]: *Lexique de l’ancien francaise*, vol. 8, 199.
 
@@ -463,55 +249,29 @@ Widerhold, Johann Hermann, ed. *Nouveau dictionaire francois-italien et italien-
 
 [^36]: Berger, *De Mayerne*, e.g. 331.
 
-[^37]: In fact, the modeling of light by varnishes has been the main
-    aspect of conservatory investigations. See John K. Delaney et al.,
-    “The Role of Varnishes in Modifying Light Reflection from Rough
-    Surfaces. A study of changes in light scattering caused by
-    variations in varnish topography and development of a drying model,
-    *Studies in Conservation*, no. 53, (2008): 170-186.
+[^37]: In fact, the modeling of light by varnishes has been the main aspect of conservatory investigations. See John K. Delaney et al., “The Role of Varnishes in Modifying Light Reflection from Rough Surfaces. A study of changes in light scattering caused by variations in varnish topography and development of a drying model, *Studies in Conservation*, no. 53, (2008): 170-186.
 
-[^38]: Quoted after Bol, *Varnish and Glaze*, 95; *The Strasbourg
-    Manuscript: A Medieval Tradition of Artists’ Recipe Collections*,
-    ed. Sylvie Neven (London: Archetype, 2016), 134-35 no. 92.
+[^38]: Quoted after Bol, *Varnish and Glaze*, 95; *The Strasbourg Manuscript: A Medieval Tradition of Artists’ Recipe Collections*, ed. Sylvie Neven (London: Archetype, 2016), 134-35 no. 92.
 
-[^39]: *Dictionarium Teutsch-Frantzösisch-Italiänisch-Lateinisch:
-    Frantzösisch-Teutsch-Italiänisch-Lateinisch:
-    Italiänisch-Frantzösisch-Teutsch-Lateinisch:
-    Lateinisch-Teutsch-Frantzösisch-Italiänisch*, ed. Levinus Hulsius,
-    1627, 421.
+[^39]: *Dictionarium Teutsch-Frantzösisch-Italiänisch-Lateinisch: Frantzösisch-Teutsch-Italiänisch-Lateinisch: Italiänisch-Frantzösisch-Teutsch-Lateinisch: Lateinisch-Teutsch-Frantzösisch-Italiänisch*, ed. Levinus Hulsius, 1627, 421.
 
 [^40]: Bol, *Varnish and Glaze*, 60.
 
-[^41]: Otto Kurz, “Varnishes, Tinted Varnishes, and Patina,” in: *The
-    Burlington Magazine*, 104, 707, 1962, 56-59, 56.
+[^41]: Otto Kurz, “Varnishes, Tinted Varnishes, and Patina,” in: *The Burlington Magazine*, 104, 707, 1962, 56-59, 56.
 
-[^42]: Ibid.; Kurz quotes Charles Johnson, *The language of painting*
-    (Cambridge: Cambridge University Press, 1949), 143: „A varnish is an
-    addition to the painting, not part of it.“
+[^42]: Ibid.; Kurz quotes Charles Johnson, *The language of painting* (Cambridge: Cambridge University Press, 1949), 143: "A varnish is an addition to the painting, not part of it."
 
-[^43]: The structure of supplement has been developed in depth by
-    Jacques Derrida, e.g., in Jacques Derrida, *Of Grammatology*
-    (Baltimore: John Hopkins University Press, 1974), 145, where he
-    notes that the supplement is “compensation for (*sous l’espèce de la
-    suppléance*) what ought to lack nothing at all in itself.” See as
-    well Jacques Derrida, *The Truth in Painting* (Chicago: University
-    Press of Chicago, 1987), esp. Chap. 2.
+[^43]: The structure of supplement has been developed in depth by Jacques Derrida, e.g., in Jacques Derrida, *Of Grammatology* (Baltimore: John Hopkins University Press, 1974), 145, where he notes that the supplement is “compensation for (*sous l’espèce de la suppléance*) what ought to lack nothing at all in itself.” See as well Jacques Derrida, *The Truth in Painting* (Chicago: University Press of Chicago, 1987), esp. Chap. 2.
 
 [^44]: Berger, *De Mayerne*, 335.
 
-[^45]: I am referencing here Barbara Herrnstein Smith, *Poetic Closure.
-    A Study of How Poems End* (Chicago: University of Chicago Press,
-    1968).
+[^45]: I am referencing here Barbara Herrnstein Smith, *Poetic Closure. A Study of How Poems End* (Chicago: University of Chicago Press, 1968).
 
-[^46]: Renewals of the varnish were often done, with which a following
-    opening and closing of the work would be implied.
+[^46]: Renewals of the varnish were often done, with which a following opening and closing of the work would be implied.
 
-[^47]: Albrecht Dürer, *Schriftlicher Nachlass*, 3 vols, ed. Hans
-    Rupprich (Berlin: Deutscher Verlag für Kunstwissenschaft), 1956-69,
-    1:72-73 (no. 19).
+[^47]: Albrecht Dürer, *Schriftlicher Nachlass*, 3 vols, ed. Hans Rupprich (Berlin: Deutscher Verlag für Kunstwissenschaft), 1956-69, 1:72-73 (no. 19).
 
-[^48]: Cennino Cennini, *Il Libro dell’Arte*, Lara Broecke ed. (London:
-    Archetype Publications, 2015), 199-200, no. 168.
+[^48]: Cennino Cennini, *Il Libro dell’Arte*, Lara Broecke ed. (London: Archetype Publications, 2015), 199-200, no. 168.
 
 [^49]: Berger, *De Mayerne*, 201.
 
