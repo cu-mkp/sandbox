@@ -81,7 +81,7 @@ Campbell provided instructions for making tallow candles in two ways: by dipping
 Campbell’s next instruction was that “the Candle-Makers takes one of these Sticks by both Ends, plunges it into the Fat and takes it out again.” My initial attempts to do so were unsuccessful. First of all, the wicks curved significantly when plunged into the tallow; second of all, almost none of the hot liquid tallow was adhering to the wicks, which were getting wet from the water remaining at the bottom of the vat. I separated the tallow from the water and set it aside. Later, by consulting additional sources on eighteenth-century candle making, I learned that I was correct to read Campbell’s instructions to place the
 tallow in boiling water in part as a purification method (though I had not boiled the tallow in the water nearly long enough to effect any purification), and that it was, in fact, necessary to separate the tallow from the water before dipping the wicks into the it.[^59] As I waited for the tallow to cool slightly, I tied small knots at the end of each wick in order to weight them, in an attempt to keep them from curving when dipped; Naomi Rosenkranz suggested this as a way that she had dealt this issue when making dipped candles herself.
 
-<p><img src="./media-nelkin/image9.jpg" style="transform:rotate(90deg);" alt="A hand holding a string Description automatically generated with medium confidence" /></p>
+<div><img src="./media-nelkin/image9.jpg" style="transform:rotate(90deg);" alt="A hand holding a string Description automatically generated with medium confidence" /></div>
 
 *Figure 4. Adding knots to the bottom of the wicks.*
 
