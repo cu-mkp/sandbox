@@ -112,8 +112,7 @@ cuttlebone</u>](https://www.petsmart.com/bird/grooming/nail-and-beak-trimmers/fe
 for $4.99, and [<u>mango/banana flavored
 cuttlebone</u>](https://www.petsmart.com/bird/grooming/nail-and-beak-trimmers/featherland-paradise-cuttlebones-mango-and-banana---2-pack-54800.html)
 at $3.94 for two at the time of writing. If you’re interested in buying
-in bulk, that’s also an option: a seller on Ebay offers a
-[<u>70-pack</u>](https://www.ebay.com/itm/284763454250?chn=ps&var=586430398240&_trkparms=ispr%3D1&amdata=enc%3A1YWZWW00UQR6MHFPcTeVZww27&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=586430398240_284763454250&targetid=1599090335937&device=c&mktype=&googleloc=1018516&poi=&campaignid=15275224983&mkgroupid=131097072938&rlsatarget=pla-1599090335937&abcId=9300697&merchantid=262573143&gclid=Cj0KCQjwg_iTBhDrARIsAD3Ib5hKuBrNkJd2MZmjAy87lApL4ey6p1xT0G0PKMtz5hq00b-F-xbnOacaAurqEALw_wcB)
+in bulk, that’s also an option: a seller on Ebay offered a 70-pack
 for the low, low price of $10.25. As in the case of cuttlebone in early
 modern Europe, there are not many details about its sourcing. Most are
 caught by commercial fisheries, using a method called trawling that
