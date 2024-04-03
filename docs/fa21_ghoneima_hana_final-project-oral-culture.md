@@ -302,11 +302,11 @@ Camps, Celine and Margot Lyautey. “Ma\<r>king and Knowing: Encoding BnF Ms. Fr
 
 DeVinney, Joslyn. “Smoke as Medicine.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_048_fa_16</u>](https://edition640.makingandknowing.org/#/essays/ann_048_fa_16). DOI: [<u>https://www.doi.org/10.7916/kfja-0v86</u>](https://www.doi.org/10.7916/kfja-0v86)
 
-Folger Shakespeare Library. “The Food of Shakespeare’s World.” Last modified July 26, 2016. [<u>https://www.folger.edu/shakespeare-unlimited/food-wendy-wall</u>](https://www.folger.edu/shakespeare-unlimited/food-wendy-wall).
+Folger Shakespeare Library. “The Food of Shakespeare’s World.” Last modified July 26, 2016. [<u>[https://www.folger.edu/shakespeare-unlimited/food-wendy-wall](https://www.folger.edu/blogs/folger-spotlight/encores-recipes-for-thought-lecture-by-wendy-wall-2011/)</u>].
 
 Gans, Sofia. “Circulation of Knowledge in Europe.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_018_sp_15</u>](https://edition640.makingandknowing.org/#/essays/ann_018_sp_15). DOI: [<u>https://www.doi.org/10.7916/6zzw-s813</u>](https://www.doi.org/10.7916/6zzw-s813)
 
-Gurevich, Aaron J. and Ann Shukman. “Oral and Written Culture of the Middle Ages: Two ‘Peasant Visions’ of the Late Twelfth-Early Thirteenth Centuries.” *New Literary History* 16, no. 1 (1984): 51–66. [<u>https://doi.org/10.2307/468775.</u>](https://doi.org/10.2307/468775.)
+Gurevich, Aaron J. and Ann Shukman. “Oral and Written Culture of the Middle Ages: Two ‘Peasant Visions’ of the Late Twelfth-Early Thirteenth Centuries.” *New Literary History* 16, no. 1 (1984): 51–66. 
 
 Kalpagam, U. “Oral History: Reconstructing Women’s Role.” *Economic and Political Weekly* 21, no. 38/39 (1986): 1683–87.
 
