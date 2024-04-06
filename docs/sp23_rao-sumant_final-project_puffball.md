@@ -209,7 +209,7 @@ Jackson, Jane. *A very shorte and compendious Methode of Phisicke and Chirurgery
 
 Jeamson, Thomas. *Artificiall Embellishments, or Arts Best Directions How to Preserve Beauty or Procure It*. 1st ed. Oxford: Printed by William Hall, 1665.
 
-Karim-Cooper, Farah. *Cosmetics in Shakespearean and Renaissance Drama*. Electronic resource. Edinburgh: Edinburgh University Press, 2006. [<u>http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001</u>](http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001).
+Karim-Cooper, Farah. *Cosmetics in Shakespearean and Renaissance Drama*. Electronic resource. Edinburgh: Edinburgh University Press, 2006. 
 
 ———. “Early Modern Cosmetic Culture.” In *Cosmetics in Shakespearean and Renaissance Drama*, edited by Farah Karim-Cooper, 34–66. Edinburgh: Edinburgh University Press, 2006. [<u>https://doi.org/10.3366/edinburgh/9780748619931.003.0002</u>](https://doi.org/10.3366/edinburgh/9780748619931.003.0002).
 
