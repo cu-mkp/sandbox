@@ -249,7 +249,7 @@ Porta, Giambattista della. *Natural Magick by John Baptista Porta, a Neapolitane
 
 Predrag, Petrović, Ivanović Katarina, Jovanović Aleksandra, Simović Milica, Milutinović Violeta, Kozarski Maja, Petković Miloš, Cvetković Anka, Klaus Anita, and Bugarski Branko. “The Impact of Puffball Autolysis on Selected Chemical and Biological Properties: Puffball Extracts as Potential Ingredients of Skin-Care Products.” *Archives of Biological Sciences* 71, no. 4 (January 1, 2019): 721–33. [<u>https://doi.org/10.2298/ABS190725055P</u>](https://doi.org/10.2298/ABS190725055P).
 
-“puffball, n.” OED Online. March 2023. Oxford University Press. [<u>https://www-oed-</u>](about:blank) [<u>com.ezproxy.cul.columbia.edu/view/Entry/154185?redirectedFrom=puffball</u>](about:blank) (accessed May 12, 2023).
+“puffball, n.” OED Online. March 2023. Oxford University Press. 
 
 Read, Sophie. “Ambergris and Early Modern Languages of Scent.” *The Seventeenth Century* 28, no. 2 (2013): 221–37.
 
