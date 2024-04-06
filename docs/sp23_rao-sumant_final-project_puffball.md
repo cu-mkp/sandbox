@@ -301,7 +301,7 @@ Wecker, Johann Jacob. *A Compendious Chyrurgerie: Gathered, & Translated (Especi
 
 ———. *Cosmeticks: Or, the Beautifying Part of Physick. By Which All Deformities of Nature in Men and Women Are Corrected, Age Renewed, Youth Prolonged, and the Least Impediment, from a Hair to a Tooth, Fairly Amended. With the Most Absolute Physical Rarities for All Ages. Being Familiar Remedies, for Which Every One May Be His Own Apothecary. / All Extracted out of That Eminent Physician John Jeams Wecker, Never yet Extant in the English Tongue before, but Was Promised to the World by Mr. Nic. Culpeper*. Translated by Nicholas Culpeper. London: Printed by Tho. Johnson, at the White Cock in Rood-lane, 1660.
 
-———. *Eighteen Books of the Secrets of Art & Nature: Being the Summe and Substance of Naturall Philosophy, Methodically Digested / First Designed by John Wecker Dr in Physick, and Now Much Augmented and Inlarged by Dr R. Read, a like Work Never before in the English Tongue*. Electronic resource. Edited by R. Read. Translated by Nicholas Culpeper (?). London: Printed for Simon Miller, 1660. [<u>http://www.columbia.edu/cgi-bin/cul/resolve?clio5729916</u>](http://www.columbia.edu/cgi-bin/cul/resolve?clio5729916).
+———. *Eighteen Books of the Secrets of Art & Nature: Being the Summe and Substance of Naturall Philosophy, Methodically Digested / First Designed by John Wecker Dr in Physick, and Now Much Augmented and Inlarged by Dr R. Read, a like Work Never before in the English Tongue*. Electronic resource. Edited by R. Read. Translated by Nicholas Culpeper (?). London: Printed for Simon Miller, 1660. 
 
 Williams, Neville. *Powder and Paint: A History of the Englishwoman’s Toilet, Elizabeth I-Elizabeth II*. London: Longmans, 1957.
 
@@ -408,7 +408,7 @@ Woolley, Hannah. *The Gentlewomans Companion; or, A Guide to the Female Sex Cont
 
 [^50]: Romana Sammern, “Red, White and Black: Colors of Beauty, Tints of Health and Cosmetic Materials in Early Modern English Art Writing,” in *Early Modern Color Worlds*, ed. Sven Dupré et al. (Leiden: Brill, 2015), 114.
 
-[^51]: Ibid., 126; Snook, *Women, Beauty and Power*, 28; Farah Karim-Cooper, *Cosmetics in Shakespearean and Renaissance Drama*, electronic resource (Edinburgh: Edinburgh University Press, 2006), 7-10, [<u>http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001</u>](http://www.columbia.edu/cgi-bin/cul/resolve?clio9580362.001).
+[^51]: Ibid., 126; Snook, *Women, Beauty and Power*, 28; Farah Karim-Cooper, *Cosmetics in Shakespearean and Renaissance Drama*, electronic resource (Edinburgh: Edinburgh University Press, 2006), 7-10.
 
 [^52]: Erin Griffey, “‘The Rose and Lily Queen’: Henrietta Maria’s Fair Face and the Power of Beauty at the Stuart Court,” *Renaissance Studies* 35, no. 5 (2021): 812, [<u>https://doi.org/10.1111/rest.12724</u>](https://doi.org/10.1111/rest.12724).
 
