@@ -487,43 +487,43 @@ themselves to the active ingredients in them.
 
 Bol, Marjolijn. “Medieval Makeup 'Artists'. Painting Wood and Skin.” The Recipes Project, February 18, 2014. [<u>https://recipes.hypotheses.org/3344</u>](https://recipes.hypotheses.org/3344).
 
-Cabré, Montserrat. “Keeping Beauty Secrets in Early Modern Iberia.” In *Secrets and Knowledge in Medicine and Science, 1500-1800*, edited by Elaine Leong and Alisha Rankin. Burlington: Ashgate, 2016, 179–202. [<u>https://doi.org/10.4324/9781315608006-16</u>](https://doi.org/10.4324/9781315608006-16).
+Cabré, Montserrat. “Keeping Beauty Secrets in Early Modern Iberia.” In *Secrets and Knowledge in Medicine and Science, 1500-1800*, edited by Elaine Leong and Alisha Rankin. Burlington: Ashgate, 2016, 179–202. 
 
-Fissell, Mary E. “Introduction: Women, Health, and Healing in Early Modern Europe.” *Bulletin of the History of Medicine* 82, no. 1 (2008): 1–17. [<u>https://doi.org/10.1353/bhm.2008.0024</u>](https://doi.org/10.1353/bhm.2008.0024).
+Fissell, Mary E. “Introduction: Women, Health, and Healing in Early Modern Europe.” *Bulletin of the History of Medicine* 82, no. 1 (2008): 1–17. 
 
 Gentilcore, David. Essay. In *Medical Charlatanism in Early Modern Italy*, 190–91. Oxford: Oxford Univ. Press, 2006.
 
 Lindemann, Mary. *Medicine and Society in Early Modern Europe*. Cambridge: Cambridge University Press, 2013.
 
-Liu, Xiaomeng, “Acid as Dental Cleanser and Tooth-Whitening Practices.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_058_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_058_sp_17). DOI: [<u>https://www.doi.org/10.7916/6ccz-7c74</u>](https://www.doi.org/10.7916/6ccz-7c74).
+Liu, Xiaomeng, “Acid as Dental Cleanser and Tooth-Whitening Practices.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_058_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_058_sp_17). 
 
-Liu, Xiaomeng. “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17). DOI: [<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848).
+Liu, Xiaomeng. “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17). DOI: 
 
-Nisse, Cleo. “Shadows Beneath the Skin: How to Paint Faces in Distemper.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_042_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16). DOI: [<u>https://www.doi.org/10.7916/a6bs-0765</u>](https://www.doi.org/10.7916/a6bs-0765).
+Nisse, Cleo. “Shadows Beneath the Skin: How to Paint Faces in Distemper.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_042_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16). 
 
 Piemontese, Alexis \[pseud.\]. *The secretes of the reverende Maister Alexis of Piemount: containing excellent remedies agaynste divers diseases, woundes, and other accidents, with the manner to make distillations, parfumes, confitures, dyings, colors, fusions, and meltings*. Trans. William Warde. London, 1568.
 
-Poitevin, Kimberly. “Inventing Whiteness: Cosmetics, Race, and Women in Early Modern England.” *Journal for Early Modern Cultural Studies* 11, no. 1 (2011): 59–89. [<u>https://doi.org/10.1353/jem.2011.0009</u>](https://doi.org/10.1353/jem.2011.0009).
+Poitevin, Kimberly. “Inventing Whiteness: Cosmetics, Race, and Women in Early Modern England.” *Journal for Early Modern Cultural Studies* 11, no. 1 (2011): 59–89. 
 
 Stamets, Paul and Heather Zwickey. “Medicinal Mushrooms: Ancient Remedies Meet Modern Science.” *Integrative medicine* (Encinitas, Calif.) vol. 13, no. 1 (2014): 46–7. PMC4684114.
 
 Strangeremains. “Beauty to Die for: How Vanity Killed an 18th Century Celebutante.” Strange Remains, January 31, 2017. [<u>https://strangeremains.com/2017/01/31/beauty-to-die-for-how-vanity-killed-an-18th-century-celebutante/</u>](https://strangeremains.com/2017/01/31/beauty-to-die-for-how-vanity-killed-an-18th-century-celebutante/).
 
-Tapsoba, Issa, Stéphane Arbault, Philippe Walter, and Christian Amatore. “Finding out Egyptian Gods’ Secret Using Analytical Chemistry: Biomedical Properties of Egyptian Black Makeup Revealed by Amperometry at Single Cells.” *Analytical Chemistry* 82, no. 2 (2009): 457–60. [<u>https://doi.org/10.1021/ac902348g</u>](https://doi.org/10.1021/ac902348g).
+Tapsoba, Issa, Stéphane Arbault, Philippe Walter, and Christian Amatore. “Finding out Egyptian Gods’ Secret Using Analytical Chemistry: Biomedical Properties of Egyptian Black Makeup Revealed by Amperometry at Single Cells.” *Analytical Chemistry* 82, no. 2 (2009): 457–60. 
 
 Wecker, Johann Jacob, and Nicholas Culpeper. *Arts Master-Piece, or, the Beautifying Part of Physick.* London: Printed for Nath. Brook at the Angel in Cornhil, 1660. [<u>http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226</u>](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226).
 
-[^1]: Mary E. Fissell, “Introduction: Women, Health, and Healing in Early Modern Europe,” *Bulletin of the History of Medicine* 82, no. 1 (2008): [<u>https://doi.org/10.1353/bhm.2008.0024</u>](https://doi.org/10.1353/bhm.2008.0024), 9.
+[^1]: Mary E. Fissell, “Introduction: Women, Health, and Healing in Early Modern Europe,” *Bulletin of the History of Medicine* 82, no. 1 (2008): 9.
 
-[^2]: Montserrat Cabré, “Keeping Beauty Secrets in Early Modern Iberia,” in *Secrets and Knowledge in Medicine and Science, 1500-1800*, ed. Elaine Leong and Alisha Rankin (Burlington: Ashgate, 2016): 179–202. [<u>https://doi.org/10.4324/9781315608006-16</u>](https://doi.org/10.4324/9781315608006-16).
+[^2]: Montserrat Cabré, “Keeping Beauty Secrets in Early Modern Iberia,” in *Secrets and Knowledge in Medicine and Science, 1500-1800*, ed. Elaine Leong and Alisha Rankin (Burlington: Ashgate, 2016): 179–202.
 
 [^3]: Paul Stamets and Heather Zwickey, “Medicinal Mushrooms: Ancient Remedies Meet Modern Science,” *Integrative medicine* (Encinitas, Calif.) vol. 13, no. 1 (2014): 46–7. PMC4684114.
 
 [^4]: Ibid.
 
-[^5]: Issa Tapsoba et al., “Finding out Egyptian Gods’ Secret Using Analytical Chemistry: Biomedical Properties of Egyptian Black Makeup Revealed by Amperometry at Single Cells,” *Analytical Chemistry* 82, no. 2 (2009): pp. 457–460, [<u>https://doi.org/10.1021/ac902348g</u>](https://doi.org/10.1021/ac902348g).
+[^5]: Issa Tapsoba et al., “Finding out Egyptian Gods’ Secret Using Analytical Chemistry: Biomedical Properties of Egyptian Black Makeup Revealed by Amperometry at Single Cells,” *Analytical Chemistry* 82, no. 2 (2009): pp. 457–460, 
 
-[^6]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17). DOI: [<u>https://www.doi.org/10.7916/wq5p-p848</u>](https://www.doi.org/10.7916/wq5p-p848).
+[^6]: Xiaomeng Liu, “Collecting Cures in an Artisanal Manuscript: Practical Therapeutics and Disease in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_057_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_057_sp_17). 
 
 [^7]: Ibid.
 
@@ -531,13 +531,12 @@ Wecker, Johann Jacob, and Nicholas Culpeper. *Arts Master-Piece, or, the Beautif
 
 [^9]: Marjolijn Bol, “Medieval Makeup 'Artists'. Painting Wood and Skin,” The Recipes Project, February 18, 2014, [<u>https://recipes.hypotheses.org/3344</u>](https://recipes.hypotheses.org/3344).
 
-[^10]: Cleo Nisse, “Shadows Beneath the Skin: How to Paint Faces in Distemper,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_042_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16). DOI: [<u>https://www.doi.org/10.7916/a6bs-0765</u>](https://www.doi.org/10.7916/a6bs-0765).
+[^10]: Cleo Nisse, “Shadows Beneath the Skin: How to Paint Faces in Distemper,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_042_sp_16</u>](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16). 
 
-[^11]: Kimberly Poitevin, “Inventing Whiteness: Cosmetics, Race, and Women in Early Modern England,” *Journal for Early Modern Cultural Studies* 11, no. 1 (2011): pp. 59-89, [<u>https://doi.org/10.1353/jem.2011.0009</u>](https://doi.org/10.1353/jem.2011.0009).
-
+[^11]: Kimberly Poitevin, “Inventing Whiteness: Cosmetics, Race, and Women in Early Modern England,” *Journal for Early Modern Cultural Studies* 11, no. 1 (2011): pp. 59-89, 
 [^12]: Mary Lindemann, *Medicine and Society in Early Modern Europe* (Cambridge: Cambridge University Press, 2013).
 
-[^13]: Xiaomeng Liu, “Acid as Dental Cleanser and Tooth-Whitening Practices,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_058_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_058_sp_17). DOI: [<u>https://www.doi.org/10.7916/6ccz-7c74</u>](https://www.doi.org/10.7916/6ccz-7c74).
+[^13]: Xiaomeng Liu, “Acid as Dental Cleanser and Tooth-Whitening Practices,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_058_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_058_sp_17).
 
 [^14]: Johann Jacob Wecker and Nicholas Culpeper, *Arts Master-Piece, or, the Beautifying Part of Physick* (London: Printed for Nath. Brook at the Angel in Cornhil, 1660). [<u>http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226</u>](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226).
 
