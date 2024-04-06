@@ -165,7 +165,7 @@ Caplan, Jane, ed. *Written on the Body: The Tattoo in European and American Hist
 
 Catchmay, Frances. *A booke of medicens*, c. 1625. Manuscript on vellum, 32 x 21 cm. From Wellcome Collection, London, MS.184a.
 
-Cotgrave, Randle, Robert Sherwood, and James Howell. *A French and English Dictionary*. Electronic resource. 3rd ed. London: Printed by William Hunt, 1660. [<u>http://www.columbia.edu/cgi-bin/cul/resolve?clio5714015</u>](http://www.columbia.edu/cgi-bin/cul/resolve?clio5714015).
+Cotgrave, Randle, Robert Sherwood, and James Howell. *A French and English Dictionary*. Electronic resource. 3rd ed. London: Printed by William Hunt, 1660. 
 
 Culpeper, Nicholas. *The English Physician, or, An Astrologo-Physical Discourse of the Vulgar Herbs of This Nation Being a Compleat Method of Physick, Whereby a Man May Preserve His Body in Health, or Cure Himself, Being Sick, for Three Pence Charge, with Such Things Onely as Grow in England, They Being Most Fit for English Bodies*. 1st ed. London: Printed for the benefit of the Commonwealth of England, 1652.
 
