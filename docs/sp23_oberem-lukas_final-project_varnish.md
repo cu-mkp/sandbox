@@ -67,12 +67,12 @@ So far, I was able to find only very little about “varnish’s” usage in poe
 
 > **Othello:**
 >
-> Yet (by your gracious patience)>
-> I will a round unvarnish'd tale deliver>
-> Of my whole course of love—what drugs, what charms,>
-> What conjuration, and what mighty magic>
-> (For such proceeding I am charg'd withal)>
-> I won his daughter, [^32]
+> Yet (by your gracious patience)<br>
+> I will a round unvarnish'd tale deliver<br>
+> Of my whole course of love—what drugs, what charms,<br>
+> What conjuration, and what mighty magic<br>
+> (For such proceeding I am charg'd withal)<br>
+> I won his daughter. [^32]
 
 In addition to those less common usages, in which we find the recurring opposition of embellishment and preservation, it is also instructive to examine the verbs in syntactical conjunction with “varnish.” “Varnish,” as has been shown in the literature, was often used with verbs that signify an illumination. In other words, a rendering of something in brighter light quality. In Dutch we encounter the word “verlichten,”[^33] in latin “illumino.”[^34] Another derivation of the term “vernis” goes along the same lines: "Vernissure, s. f., éclat de ce qui est verni” (shine of what is varnished) – the term indicates the qualities of an object that has been varnished. The entry in the dictionary shows that varnish can often be related to the interest of lightening an object and making it shine more intensively.[^35] Theodore de Mayerne extensively refers to light and metaphors related to light when he talks about varnish. Even a quality like "clarity" indicates visual change. However, the intention may be the opposite.[^36] It is remarkable that varnish is semantically connected to light. Light has ambiguous material properties that resonate with the ambivalent quality varnish can have. Light becomes visible on a surface as reflection. It is not part of the surface proper, but it is important for the surface’s appearance. Especially in painting, where visual appearance is most important, light is the membrane that manages the connection between the inner and outer world of the painting. Light is also a factor that is part of the painting’s environment and thus not necessarily of the object itself, though even the lighting of a room will change the qualities of an image drastically. Light and varnish can both be considered as external to the actual object and at the same time impact the internal form.[^37] In the Strasbourg manuscript, we find descriptions of varnish managing qualities of light as well: “guten virnis machen der luter und glantz ist als ein cristalle” (good varnish that is clear and bright like a crystal).[^38] The intent is to say that a good varnish does not show itself prominently. But contradictory, this absence is positively expressed by the quality of light. This problem goes along the same lines as the structural conflict between embellishment and preservation. In Ms. Fr. 640, the author-practitioner seems averse to the effects of light. His aversion shows, however, the importance of the discourse of light and varnish: “On ne vernist pas pour faire luire les tableaux car cela ne faict quoster leur jour” (One does not varnish to make paintings shine, for it just takes the light out of them). But he says that varnish “rehaulser les couleurs qui sont imbeues” (heightens some colors which have soaked in) (fol. [<u>3r</u>](https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl)). This discourse about light shows the intent of closure under managing the tension between embellishment and preservation.
 
@@ -164,7 +164,7 @@ Sachs, Hans. *A sixteenth-century book of trades. Das Ständebuch*. Translated b
 
 Shakespeare, Othello Act 1, scene 3, 89–94.
 
-Smith, Pamela H. “An Introduction to Ms. Fr. 640 and its Author-Practitioner.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. https://edition640.makingandknowing.org/#/essays/ann_300_ie_19. DOI: https://www.doi.org/10.7916/ny3t-qg71.
+Smith, Pamela H. “An Introduction to Ms. Fr. 640 and its Author-Practitioner.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_300_ie_19>. DOI: <https://www.doi.org/10.7916/ny3t-qg71>.
 
 Soley, Teresa. “Imitation Marble.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_040_sp_16>. DOI: <https://www.doi.org/10.7916/tpgj-d438>.
 
