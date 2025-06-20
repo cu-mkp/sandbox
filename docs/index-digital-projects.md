@@ -4,7 +4,7 @@
 - École Polytechnique summer interns' manuscript visualization projects (2021-03-23)
    - [Applying Machine Learning to the Manuscript: Semantic Trees, Word Clouds, and Sentence Embedding](Chaillard_final-report.md) (Dana Chaillard, Final Report)
    - [Visualizing the Semantic Tagging in _Secrets of Craft and Nature_](Kaufman_final-report.md) (Roni Kaufman, Final Report)
-- Use Voyant for Interactive Text Analysis and Visualizations (using [manuscript data v1.2.0](https://github.com/cu-mkp/m-k-manuscript-data/releases/tag/v1.2.0)) (2020-10-29)
+- NO LONGER AVAILABLE: Use Voyant for Interactive Text Analysis and Visualizations (using [manuscript data v1.2.0](https://github.com/cu-mkp/m-k-manuscript-data/releases/tag/v1.2.0)) (2020-10-29)
    - [Normalized French](http://voyant-test.makingandknowing.org:8888/?corpus=6b5b78554b426ede98671e5fdcad294d)
    - [English Translation](http://voyant-test.makingandknowing.org:8888/?corpus=b560f05582db17b6eb34356d684e565f)
 - [ms-text-analysis: Files and tools for performing textual analysis of BnF Ms Fr 640](https://cu-mkp.github.io/ms-text-analysis/guide_to_searching) (2020-02-04)
