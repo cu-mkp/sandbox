@@ -1,11 +1,20 @@
 # The Making and Knowing Project *Sandbox*
-**Site and Projects Under Development**
+
+## Looking for the latest resources?
+The Sandbox remains available as an archive of materials created during the Making and Knowing Project. For updated resources, expanded teaching materials, and new research content, we encourage you to explore:
+1. [The Research and Teaching Companion](https://teaching640.makingandknowing.org/)
+2. [Making and Knowing Project Website](https://www.makingandknowing.org/)
+
+See also the critical digital edition that started it all, [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/), and our most recent project [EditionCrafter](https://editioncrafter.org/) to make your own digital edition!
+
+## The Sandbox [Archived]
 
 The “Sandbox” makes available a number of resources that utilize and explore the data underlying [_Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/) created by the [Making and Knowing Project](https://www.makingandknowing.org/) at Columbia University.
 
 The Sandbox presents experimental, provisional, and in-progress work that expands upon the engagement and analyses with the data, topics, and content of _Secrets of Craft and Nature_, with the manuscript, BnF Ms. Fr. 640, and the larger themes explored by the Making and Knowing Project.
 
 The Making and Knowing Project hopes to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools, where others can add and create their own tools, case studies, and resources presented here. This is also a space for sharing teaching resources, exploring methods and processes across disciplines and levels of expertise, and engaging in knowledge exchange wherever possible.
+**Site and Projects Under Development**
 
 **Editors:** [Naomi Rosenkranz](https://github.com/njr2128), [Terry Catapano](https://github.com/tcatapano), [Pamela Smith](https://github.com/ps2270), [Caroline Surman](https://github.com/caro27), [Gregory Schare](https://github.com/gschare), and [Sophia Qureshi](https://github.com/swq2101).
 
