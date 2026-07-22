@@ -1,7 +1,7 @@
 # The Making and Knowing Project *Sandbox*
 
 ## Looking for the latest resources?
-The Sandbox remains available as an archive of materials created during the Making and Knowing Project. For updated resources, expanded teaching materials, and new research content, we encourage you to explore:
+The Sandbox remains available as an archive of materials created by the Making and Knowing Project. For updated resources, expanded teaching materials, and new research content, we encourage you to explore:
 1. [The Research and Teaching Companion](https://teaching640.makingandknowing.org/)
 2. [Making and Knowing Project Website](https://www.makingandknowing.org/)
 
