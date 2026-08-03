@@ -27,7 +27,7 @@ never comes out very neat” (fol.
 [<u>145r</u>](https://edition640.makingandknowing.org/#/folios/145r/f/145r/tl)).
 For more detail and a replication of these recipes, see Boyd, Palframan,
 and Smith, [<u>Molding with Cuttlefish
-Bone</u>](https://doi.org/10.7916/1dc2-rn58).[^2]
+Bone</u>](https://doi.org/10.7916/1dc2-rn58) (**Fig 1**).[^2]
 
 | <img src="./media-donald/image2.png" style="width:3.46875in;height:3.63542in" />                                                                                                                                                                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
